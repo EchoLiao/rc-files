@@ -82696,3 +82696,179 @@ su
 ii
 #1318430087
 cd
+#1318666855
+ln -s .rt/vercol/git/rc-files/rt/home/scr/.bash_history 
+#1318666858
+lla
+#1318666863
+lla .b*
+#1318666872
+vi .bash_history 
+#1318666880
+git status -v
+#1318666897
+lla
+#1318666926
+cd..
+#1318666929
+cdb
+#1318666939
+g rc-lns.sh
+#1318666950
+lla
+#1318666956
+git log 
+#1318666959
+git log -v
+#1318667026
+git log --stats
+#1318667030
+git log --stat
+#1318667311
+lla .b*
+#1318667348
+svn st
+#1318667351
+lla
+#1318667523
+ll /tmp/ll
+#1318667526
+,y
+#1318667651
+chx rc-lns.sh 
+#1318667665
+rm .bash_logout 
+#1318667675
+rm .bash_profile 
+#1318667683
+rm .inputrc 
+#1318667694
+cat .mailcap 
+#1318667768
+ll rt/home/scr/.mailcap 
+#1318667771
+cat rt/home/scr/.mailcap 
+#1318667786
+rm .mailcap 
+#1318667820
+gvimdiff .rt/vercol/git/rc-files/rt/home/scr/.screenrc     /home/scr/.screenrc
+#1318667837
+rm .screenrc 
+#1318667892
+gvimdiff .rt/vercol/git/rc-files/rt/home/scr/.muttrc       /home/scr/.muttrc       
+#1318667941
+rm .muttrc 
+#1318667958
+rc-lns.sh 
+#1318667962
+lla
+#1318667974
+lla | grep git
+#1318667982
+rm .gitignore 
+#1318667984
+lla | grep git
+#1318667990
+vbs
+#1318667993
+lla
+#1318667996
+lla | grep git
+#1318668027
+m ln
+#1318668087
+rc-lns.sh 
+#1318668089
+lla
+#1318668096
+vbs
+#1318668139
+lla
+#1318668180
+git status -v
+#1318668187
+git status 
+#1318668195
+cdbot
+#1318668207
+cd devel/cmd/
+#1318668209
+,y
+#1318668210
+vbs
+#1318668237
+fg
+#1318668240
+9j
+#1318668188
+vbs
+#1318651798
+svnl
+#1318668273
+nj
+#1318668318
+.s
+#1318668319
+vbs
+#1318668322
+gvlc
+#1318668332
+git status 
+#1318668406
+la .config/
+#1318668415
+la .fcitx/
+#1318668436
+la .fvwm/
+#1318668444
+la .getmail/
+#1318668454
+cat .getmail/getmailrc.lcy3636.126 
+#1318668482
+la .getmail/
+#1318668499
+la .local/
+#1318668507
+ll .Mail/
+#1318668517
+la .mplayer/
+#1318668523
+vi .mplayer/config 
+#1318668565
+cat .msmtprc 
+#1318668613
+whomai
+#1318668616
+whoami
+#1318668677
+rc-lns.sh 
+#1318668699
+ll /etc/host
+#1318668700
+ll /etc/hosts
+#1318668710
+cd /etc/
+#1318668723
+ln -s /home/scr/.rt .rt
+#1318668725
+ll /etc/hosts
+#1318668730
+cat hosts
+#1318668737
+cd -
+#1318668689
+su
+#1318668740
+lla
+#1318668745
+la .mutt
+#1318668758
+mv .mutt bk
+#1318668775
+rm .procmaillog 
+#1318668789
+ll .ssh
+#1318668834
+mv .subversion/ .rt/vercol/git/rc-files/rt/home/scr/
+#1318668852
+ln -s .rt/vercol/git/rc-files/rt/home/scr/.subversion/ .subversion
