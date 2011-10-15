@@ -1,0 +1,590 @@
+#=========================================================================
+# http://dreamland.blog.51cto.com/417830/87510
+
+macro generic ,sm ":source $HOME/.muttrc\r"
+macro generic ,vm "!xterm -bg wheat -e gvim $HOME/.muttrc\r"
+
+# user
+set realname = "LiaoCaiYuan"
+
+# folder & spool
+set spoolfile = ~/.Mail/inbox/nuoerlz.gmail/
+set folder    = ~/.Mail
+set tmpdir    = ~/.mutt/tmp
+
+set mbox_type = Maildir
+set mbox      = +inbox
+set record    = +sent
+set postponed = +postponed
+
+mailboxes \
+$MAIL \
+=inbox \
+=junkmail \
+=favorites \
+=archive
+
+# 退出时不在提示把信件从spool移动到的mbox文件
+set move = no
+
+# 当你按q退出时, 是否提示你(ask-yes,ask-no)
+set quit=ask-yes
+
+# locale
+set charset = UTF-8
+set locale  = zh_CN.UTF-8
+
+# hook charset
+charset-hook big5 big5
+charset-hook !UTF-8 gbk
+charset-hook "^us-ascii$" "utf-8"
+
+# send charset
+set send_charset="us-ascii:iso-8859-1:utf-8:gbk"
+set rfc2047_parameters=yes
+
+#Flag
+# " "(空): 表示这封邮件不是给你的, 也就是说 To: 和 Cc: Bcc: 都没有你的地址,
+#          很多转发的邮件, 未确认的邮件列表邮件, 垃圾邮件都有这个特征.
+# +: 表示你是收件人(To: 是你的地址之一), 而且是唯一的收件人.
+# T: 表示你是收件人(To: 包括了你的地址之一), 但是你不是唯一的收件人. 这是一封群体信件.
+# C: 表示你的地址出现在 CC:, 但是你不是唯一的被抄送的人.
+# F: 表示这封邮件是你发出去的.
+# L: 表示这是一封你已经加入的邮件列表寄来的.
+set to_chars=" +TCFL"
+
+# 增加垃圾箱, 虽然不是很完善
+folder-hook . 'macro index d "s$folder/trash\r"'
+folder-hook $folder/trash 'bind index d delete-message'
+
+# Set header
+ignore headers *
+unignore headers from: to: cc: subject date reply-to:
+
+# 回信引文不用包含原文的信头
+set header=no
+
+# set index
+set index_format="%4C %Z %{%y年%b%d}   %-20.20L (%?l?%4l&%4c?) %s"
+
+#score
+#score "~N" +4    #新信件
+#score "~D" -5    #有删除标记
+#score "~O" +1    #上次没有读
+#score "~f huiqin" +2    #来自 xxxx
+#score "~s xxxx" + 3    #主题上有 xxxx
+
+#sort
+set sort = 'threads'
+
+# 当用 thread 排序方式时, 我们对各个 thread 的相对排序顺序.
+set sort_aux = 'reverse-last-date-received'
+
+# don't confirm when appending messages to a mailbox
+set confirmappend = no
+
+# 禁止PAGE键切换到下一封信件
+set pager_stop = yes
+
+set smart_wrap = yes
+
+# 当你在用 pager 看信件时, 在 index 留出多少行显示邮件列表?
+set pager_index_lines = 5
+
+# message editor
+set editor = "vim"
+
+# 快速回复, 不用确认回复地址和主题
+set fast_reply = yes
+
+# 是否把邮件头也放在编辑器里可以修改?
+set edit_headers = no
+
+# ext app to view attachment
+set mailcap_path="~/.mailcap"
+
+# 当外部程序退出时, 是否要求用户按一个键才返回
+set wait_key=yes
+
+# alias
+set alias_file = ~/.mutt/.mutt.alias
+source ~/.mutt/.mutt.alias
+
+# Attachment
+set attach_format = "%u%D%I %t%4n %T%.40d%> [%.7m/%.10M, %.6e%?C?, %C?, %s] "
+set attach_sep = "\n"
+set attach_split = yes
+
+# Colors
+#color  obj         front           back
+#----- ------------ --------------- ---------
+#color hdrdefault   black           cyan     # 邮件头颜色
+#color quoted       blue            white    # 引文颜色
+#color signature    brightblack     white
+ color indicator    brightwhite     magenta
+ color attachment   black           green
+#color error        red             white
+#color message      blue            white
+ color search       black           brightyellow
+ color status       brightyellow    blue
+ color tree         red             white
+#color normal       blue            white
+ color tilde        green           white
+#color bold         brightyellow    white
+#color markers      red             white
+ color index        brightwhite     red ~N
+ color index        red             default ~O
+ color index        brightblack     default ~D
+ mono  bold         bold
+ mono  underline    underline
+ mono  indicator    reverse
+
+# 让mutt可以更好的阅读html邮件
+auto_view text/html
+
+#view word
+auto_view application/msword
+
+# include original content when reply
+set include = yes
+
+# from
+set envelope_from = yes
+set encode_from = yes
+
+# send hook
+##所有我可能会用到的邮箱 
+send-hook  . 'set sendmail="/usr/local/msmtp/bin/msmtp"'
+alternates "nuoerlz@gmail.com|tge3636@126.com|lcy3636@126.com"
+set from="nuoerlz@gmail.com"    #默认的发信人 
+set use_from=yes                #mutt自动生成from地址 
+set use_from=yes                #mutt自动生成from地址 
+set reply_to=yes                #尽量使用原信中的reply-to, 对邮件列表尤其适用 
+set reverse_name=yes            #用哪个邮箱收的信, 就用哪个邮箱回信
+#send-hook  . 'set sendmail="/usr/local/msmtp/bin/msmtp"'
+### for tge3636@126.com
+#reply-hook '~t .*@126\.com$' 'my_hdr from:tge3636@126.com'
+#reply-hook '~t .*@126\.com$' 'my_hdr reply-to:tge3636@126.com'
+#send-hook  '~t .*@126\.com$' 'set sendmail="/usr/local/msmtp/bin/msmtp -a tge3636"'
+#send-hook  '~t .*@126\.com$' 'my_hdr from:tge3636@126.com'
+#send-hook  '~t .*@126\.com$' 'my_hdr reply-to:tge3636@126.com'
+### default
+#reply-hook . 'my_hdr from:nuoerlz@gmail.com'
+#reply-hook . 'my_hdr reply-to:nuoerlz@gmail.com'
+#send-hook  . 'set sendmail="/usr/local/msmtp/bin/msmtp"'
+#send-hook  . 'my_hdr from:nuoerlz@gmail.com'
+#send-hook  . 'my_hdr reply-to:nuoerlz@gmail.com'
+
+# key binding
+macro index  ,G   "!~/.getmail/getmail\n"   "Invoke getmail"
+macro pager  ,G   "!~/.getmail/getmail\n"   "Invoke getmail"
+macro index  ,gp      "c=postponed\r"
+macro index  ,gp      "c=postponed\r"
+macro index  ,gs      "c=sent\r"
+macro index  ,gs      "c=sent\r"
+macro index  ,gr      "c=trash\r"
+macro index  ,gr      "c=trash\r"
+macro index  ,gi      "c!\n" "Go to Inbox"
+macro pager  ,gi      "c!\n" "Go to Inbox"
+macro index  ,gl      "c=inbox/lcy3636.126\r"
+macro pager  ,gl      "c=inbox/lcy3636.126\r"
+macro index  ,gt      "c=inbox/tge3636.126\r"
+macro pager  ,gt      "c=inbox/tge3636.126\r"
+
+## 告诉 Mutt 你已经订阅了那些邮件列表(mailing-list).
+subscribe websites@lists.fedoraproject.org|chinese@lists.fedoraproject.org|linux-kernel@vger.kernel.org
+
+#End of muttrc, but it could be more and more and more:)
+#=========================================================================
+
+#macro generic ,sm ":source $HOME/.muttrc\r"
+#set tmpdir = ~/.mutt/tmp/
+#set signature = "~/.Mail/signature|"
+#set editor = "vim"
+#set folder = "~/.Mail/"
+#set mbox = "~/.Mail/inbox/lcy3636.126/"
+#set mbox_type = maildir
+#set spoolfile = "~/.Mail/inbox/tge3636.126/"
+#set postponed = "~/.Mail/postponed"
+#set record = "~/.Mail/sent"
+## 增加垃圾箱, 虽然不是很完善
+#folder-hook . 'macro index d "s$folder/trash\r"'
+#folder-hook $folder/trash 'bind index d delete-message'
+### 我自己的邮箱
+#mailboxes "+incoming"
+#mailboxes "+outgoing"
+#mailboxes "+company"
+#mailboxes "+personal"
+#mailboxes "+debian"
+## 终端的编码
+#set charset="UTF-8"
+## 外发邮件使用的编码
+#set send_charset="UTF-8"
+## 用中文格式显示日期
+#set locale=`echo "${LC_ALL:-${LC_TIME:-${LANG}}}"`
+## 解决没有设置字符编码的信件显示为乱码的问题
+#charset-hook ^us-ascii$ GB2312
+## 解决主题为UTF-8的信件标题显示为乱码的问题
+#charset-hook !UTF-8 GB2312
+## 解决未经过MIME编码的信件显示为乱码的问题
+##set strict_mime=no
+#set assumed_charset="GB2312"
+## 解决中文附件名为乱码的问题
+#set rfc2047_parameters=yes
+
+## 回信时自动包含原文
+#set include
+## 回信引文之前的符号
+#set indent_str="> "
+## 回信引文不用包含原文的信头
+#set header=no
+
+## 让mutt可以更好的阅读html邮件
+#auto_view text/html
+##view word
+#auto_view application/msword
+
+## 让mutt识别不同的邮件特征
+## " "(空): 表示这封邮件的 To: 和 Cc: Bcc: 都没有你的地址, 很多垃圾邮件都有这个特征.
+## +: 表示你是收件人(To: 是你的地址之一), 而且是唯一的收件人.
+## T: 表示你是收件人(To: 包括了你的地址之一), 但是你不是唯一的收件人. 这是一封群体信件.
+## C: 表示你的地址出现在 CC:, 但是你不是唯一的被抄送的人.
+## F: 表示这封邮件是你发出去的.
+## L: 表示这是一封你已经加入的邮件列表寄来的.
+
+#set sort = 'threads'
+#set sort_aux = 'reverse-last-date-received'
+
+## mutt用纯ascii表示树状列表
+#set ascii_chars=yes
+## 禁止PAGE键切换到下一封信件
+#set pager_stop
+## 快速回复, 不用确认回复地址和主题
+#set fast_reply
+## 退出时不在提示把信件从spool移动到的mbox文件
+#set move=no
+## 避免整页整页的翻, 我们要一行一行的翻
+#set menu_scroll
+## 设置要显示的邮件头及其显示顺序
+#ignore *
+#unignore From:
+#unignore To:
+#unignore Reply-To:
+#unignore Date:
+#unignore CC:
+#unignore BCC:
+##unignore X-Label:
+##unignore Organization:
+##hdr_order Subject: To: CC: BCC: From: Date: Reply-To: X-Label: Organization:
+#hdr_order Subject: To: CC: BCC: From: Date: Reply-To:
+
+## 在mutt提示To:时, 按tab显示通讯录
+##source ~/.abc.alias
+## 在mutt按a, 把发件人添加到通讯录
+##set alias_file=~/.abc.alias
+
+#set index_format="%Z %?M?%-22.22n (%M)&%-26.26n? %?y?[%Y] %s&%s? %> %?X?/& ? %{%b%d}"
+
+## 实现从多个账户发送信件
+#set use_from=yes
+## 此选项确保从真正的邮送域发送信件
+#set envelope_from=yes
+## 默认使用的的邮送域
+#my_hdr From: pp
+#my_hdr Reply-To: pp
+
+##show index of messages while in pager
+#set pager_index_lines=6
+##put status bar on top instead of bottom
+#set status_on_top
+##treat all unread messages as new
+#set mark_old=no
+##default subject when forwarding
+#set forward_format="Fwd: %s"
+##don't confirm when appending messages to a mailbox
+#set confirmappend=no
+##don't collapse threads w/ unread messages
+#set collapse_unread=no
+
+## 将邮件正文解码再搜索
+#set thorough_search=yes
+##快捷键,
+##key binding getmail
+#macro index g "!~/.getmail/getmail\n" "Invoke getmail"
+#macro pager g "!~/.getmail/getmail\n" "Invoke getmail"
+##enter mailbox
+##macro index A "c=archive\r"
+##macro pager A "c=archive\r"
+##macro index I "c!\n" "Go to Inbox"
+##macro pager I "c!\n" "Go to Inbox"
+##macro index F "c=favorites\r"
+##macro pager F "c=favorites\r"
+##macro index J "c=junkmail\r"
+##macro pager J "c=junkmail\r"
+## 采用msmtp发送邮件
+#set sendmail="/usr/local/msmtp/bin/msmtp"
+
+
+#=========================================================================
+## http://www.guao.hk/posts/httplifehacker-com5574557how-to-use-the-fast-and-powerful-mutt-email-client-with-gmail.html
+
+## A basic .muttrc for use with Gmail
+
+## 按照自己账户的实际情况修改如下部分
+
+#set imap_user = "nuoerlz@gmail.com"
+#set imap_pass = "liaocai,,.."
+#set smtp_url = "smtp://nuoerlz@smtp.gmail.com:587/"
+#set smtp_pass = "liaocai,,.."
+#set from = "nuoerlz@gmail.com"
+#set realname = "nuo erlz"
+
+## 选择你喜欢的文本编辑器, nano, emacs 之类都可以
+#set editor = "vim"
+
+## Basic config, you can leave this as is
+#set folder = "imaps://imap.gmail.com:993"
+#set spoolfile = "+INBOX"
+#set imap_check_subscribed
+#set hostname = gmail.com
+#set mail_check = 120
+#set timeout = 300
+#set imap_keepalive = 300
+#set postponed = "+[GMail]/Drafts"
+#set record = "+[GMail]/Sent Mail"
+#set header_cache=~/.mutt/cache/headers
+#set message_cachedir=~/.mutt/cache/bodies
+#set certificate_file=~/.mutt/certificates
+#set move = no
+#set sort = 'threads'
+#set sort_aux = 'reverse-last-date-received'
+#set auto_tag = yes
+#ignore "Authentication-Results:"
+#ignore "DomainKey-Signature:"
+#ignore "DKIM-Signature:"
+#hdr_order Date From To Cc
+#alternative_order text/plain text/html *
+#bind editor <Tab> complete-query
+#bind editor ^T complete
+#bind editor <space> noop
+
+## Gmail-style keyboard shortcuts 键盘快捷键设置, 这个配置是和 gmail web 一样的
+#macro index,pager y "<enter-command>unset trash\n <delete-message>" "Gmail archive message"
+#macro index,pager d "<enter-command>set trash=\"imaps://imap.googlemail.com/[GMail]/Bin\"\n <delete-message>" "Gmail delete message"
+#macro index,pager gi "<change-folder>=INBOX<enter>" "Go to inbox"
+#macro index,pager ga "<change-folder>=[Gmail]/All Mail<enter>" "Go to all mail"
+#macro index,pager gs "<change-folder>=[Gmail]/Starred<enter>" "Go to starred messages"
+#macro index,pager gd "<change-folder>=[Gmail]/Drafts<enter>" "Go to drafts"
+
+##=========================================================================
+## wangyin
+## http://www.kreny.com/docs/mutt.htm
+
+#macro generic ,sm ":source $HOME/.muttrc\r"
+
+##set alternates = "nuoerlz@gmail.com|lcy3636@126.com"
+
+##* " "(空): 表示这封邮件不是给你的, 也就是说 To: 和 Cc: Bcc: 都没有你的地址
+##* +: 表示你是收件人(To: 是你的地址之一), 而且是唯一的收件人.
+##* T: 表示你是收件人(To: 包括了你的地址之一), 但是你不是唯一的收件人. 这是一封群体信件.
+##* C: 表示你的地址出现在 CC:, 但是你不是唯一的被抄送的人.
+##* F: 表示这封邮件是你发出去的.
+##* L: 表示这是一封你已经加入的邮件列表寄来的.
+#set to_chars=" +TCFL"
+
+## 控制index的列表显示
+#set index_format="%4C %Z [%{%b %d}] %-20.20L (%4l) %s"
+
+#mailboxes Mailbox sent-mail
+
+## 在回信时引用原文是否加入原文的邮件头.
+#set header=no
+
+## 当你按q退出时, 是否提示你(ask-yes,ask-no)
+#set quit=ask-yes
+
+## 那些类型的附件是允许直接通过 .mailcap 浏览的?
+#auto_view text/html
+
+## 这也是一个提示性变量. 它是确定当你退出时, 是否提示你把信件从 spool 移动到的 mbox 文件.
+#set move=no
+
+## 当 Mutt 用 thread 方式显示时, 是否用纯 ascii 表示树状列表.
+#set ascii_chars=yes
+
+## 回信时是否包含原文.
+#set include
+
+## 回信的引文之前插入那个符号?
+#set indent_str="> "
+
+## 设置你自己的邮件头
+#my_hdr From: nuoerlz@gmail.com
+
+## 打分
+##新信件+4分, 爸爸(w2r007)发来的 +2, 主题包含"通知"的+2, 主题包含 "
+##Circulation" +3, 已经标记删除的 -5, 上次没有读的 +1, 包含 "believe"的 -10(
+##垃圾广告!).
+##score "~N" +4
+##score "~f w2r007" +2
+##score "~s 通知" +2
+##score "~s Circulation" +3
+##score "~D" -5
+##score "~O" +1
+##score "~s believe" -10
+
+## 排序方式
+##set sort=reverse-date
+
+## 当用 thread 排序方式时, 我们对各个 thread 的相对排序顺序.
+##set sort_aux=subject
+
+## 如果设置, 那么你在pager(就是你看信的内容的窗口里)翻页时, 如果翻到最后, 再按
+## 往下翻也不会翻到下一封信件. 如果不设置就会自动翻到下一封信.
+#set pager_stop
+
+## 如果设置, 当你按 "r" 回信时, 就不会再提示你输入回信地址和主题, 直接进入编辑模式.
+#set fast_reply
+
+## 当你按 "t" 或者 "D" 之类的标记操作时, 是否自动把光标移动到下一封信件.
+#set resolve=no
+
+## 当你在 index 里按 "a" 为来信者取别名时, 使用哪一个别名文件保存这个别名.
+#set alias_file=~/.mutt/.mutt.alias
+
+## 你发出的邮件保存到那个信箱文件?比如可以像我这样每个月发出的信件放在不同的文件里.
+#set record="~/.mutt/Mail/sent-mail-`date +%Y-%m`"
+
+## 你的终端支持哪一种编码的显示?这个必须和你的终端编码一样.
+#set charset="utf-8"
+
+## 发信时可以使用的字符集. 只有当前面的字符集不能正确表示信件内容时才会使用后面的
+#set send_charset="us-ascii:iso-8859-1:gb2312:utf-8"
+
+## 当外部程序退出时, 是否要求用户按一个键才返回. 这在察看某些shell命令输出时是
+## 比要的, 否则它们一下就消失了.
+#set wait_key=yes
+
+## 当你要把信件存到另一个信箱, 而这个信箱已经存在时, 是否提示附加?
+#set noconfirmappend
+
+## 是否把邮件头也放在编辑器里可以修改?
+#set edit_headers=no
+
+## 当你在用 pager 看信件时, 在 index 留出多少行显示邮件列表?
+#set pager_index_lines=5
+
+## 让 Mutt 显示日期等为中文
+##set locale="zh_CN"
+
+##charset-hook .* utf-8
+
+## 使用地址簿
+#set alias_file=~/.mutt/.mutt.alias
+
+## 把删掉的信件都移到一个"垃圾箱"呢
+##folder-hook . 'macro index d "~/.mutt/Mail/Trash\r"'
+##folder-hook ~/.mutt/Mail/Trash 'bind index d delete-message'
+
+
+## 告诉 Mutt 你已经订阅了那些邮件列表(mailing-list).
+#subscribe websites@lists.fedoraproject.org|Chinese@lists.fedoraproject.org
+
+
+
+
+#=========================================================================
+
+
+
+
+#set sendmail="/usr/local/msmtp/bin/msmtp"
+#set use_from=yes
+#set realname="lcy3636@126.com"
+#set editor="vim"
+
+
+#=========================================================================
+
+#set sendmail="/usr/bin/nbsmtp -d 126.com -h smtp.126.com -f lcy3636@126.com"
+
+#set pager_context=1
+#set pager_index_lines=6                 #在页中显示小型索引
+#set menu_scroll
+#set pgp_verify_sig=no                   #在页中不显示 pgp
+#set status_on_top                       #在顶部显示状态行
+#set sort=threads                        #在索引中将消息按线程排列
+#set status_format=" %r %b %f %n      Del %d      Msgs %m %l %> (%P)"
+#set pager_format="%-10.10i %[!%a %b %d %R]"
+#set date_format="!%H:%M %a %d %b     "
+#set folder_format="%2C %t %8s %d %N %f"
+##set sendmail="/usr/bin/nbsmtp -d isp.net -h smtp.isp.net -f yourname@isp.net"
+##set from="default-mailaddress"         #设置您的发送邮箱地址
+##set realname="myname"
+#set delete=yes                          #删除时不提示
+#set beep=no                             #无声
+#set markers=no                          #自动换行时不显示 +
+#set confirmappend=no                    #save to 时不提示, =keep
+#set folder = $HOME/MuttMail
+#mailboxes =gentoo-user
+#mailboxes =gentoo-dev
+#mailboxes =gentoo-announce
+#mailboxes =gentoo
+#mailboxes =freshmeat
+#mailboxes =duplicates
+#mailboxes =default
+#mailboxes =sent
+#mailboxes =friends
+#mailboxes =junk
+#mailboxes =spam
+#mailboxes =keep
+#save-hook .* =keep                      #默认保存(s)邮件的 mbox 为 =keep
+#subscribe gentoo-user gentoo-dev        #订购这些列表
+#bind pager h display-toggle-weed        #使用 h 键切换邮件头信息显示
+## 模拟旧式网址菜单
+#macro index \cb |urlview\n 'call urlview to extract URLs out of a message'
+#macro pager \cb |urlview\n 'call urlview to extract URLs out of a message'
+##使用 G 键运行 fetchmail
+#macro index G "!fetchmail -a -k -m 'procmail -d %T'\r"
+#macro pager G "!fetchmail -a -k -m 'procmail -d %T'\r"
+##用于编辑 .muttrc 文件并载入...不必重新运行
+#macro generic ,sm ":source $HOME/.muttrc\r"
+#macro generic \cj "!xterm -bg wheat -e gvim $HOME/.muttrc\r"
+## 显示邮件时, 除去默认邮件头列表中的域
+## 忽略所有域然后反选您想看到的
+#ignore *
+#unignore  Date To From: Subject X-Mailer Organization User-Agent
+#hdr_order Date From To Subject X-Mailer User-Agent Organization
+###您的 Mutt 一定需要一些颜色
+###这里提供了四级的引用文本
+###这些设置覆盖了/etc/mutt/Muttrc 中的系统设置
+##color quoted green  default
+#color quoted1 magenta blue
+##color quoted2 yellow default
+##color quoted3 red default
+##color signature cyan cyan
+##这个色彩设置拷贝自 /etc/mutt/Muttrc.color
+##如果希望看到 /etc/mutt/Muttrc 中的默认色彩, 可将它注释掉
+## Je vois la vie en rose :-)
+#color    hdrdefault    brightcyan    blue
+#color    header        brightwhite    blue "^from:"
+#color   header          brightwhite        blue   "^subject:"
+#color   quoted          brightgreen     blue
+#color   signature       brightwhite    blue
+#color   indicator       blue            green
+#color   error           red             black
+#mono    error           bold
+#color   status          black cyan
+#mono    status        bold
+#color   tree            yellow       blue
+#color   tilde           brightmagenta   blue
+#color    body    brightwhite        blue    "[-a-z_0-9.]+@[-a-z_0-9.]+"
+#mono    body    bold                    "[-a-z_0-9.]+@[-a-z_0-9.]+"
+#color   body            brightyellow    black   "^Good signature"
+#mono    body            bold                    "^Good signature"
+#color   body            brightwhite     red     "^Bad signature from.*"
+#mono    body            bold                    "^Bad signature from.*"
+#color   normal          white        blue
+#color    message        green    black
+#color    attachment    brightgreen    blue
+## 文件结束...但它可以继续再继续......: )
