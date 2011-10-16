@@ -191,6 +191,8 @@ macro pager  ,gl      "c=inbox/lcy3636.126\r"
 macro index  ,gt      "c=inbox/tge3636.126\r"
 macro pager  ,gt      "c=inbox/tge3636.126\r"
 
+macro index,pager ,ebl  ":set from=tge3636@126.com\r:set edit_headers=yes\r:set realname=NuoErlz\r"
+
 ## 告诉 Mutt 你已经订阅了那些邮件列表(mailing-list).
 subscribe websites@lists.fedoraproject.org|chinese@lists.fedoraproject.org|linux-kernel@vger.kernel.org
 
