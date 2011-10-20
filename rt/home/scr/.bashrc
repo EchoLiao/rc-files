@@ -12,7 +12,7 @@ fi
 #export CLASSPATH=$CLASSPATH:/media/N/l2this/.rt/book/lang/java/JSP/JSP_wlkfrmysj/src/chap07/mysql/mysql_gjt.jar
 
 ## 对所有用户都有效的环境变量保存在 /etc/profile 中.
-export PATH=$HOME/bin:$PATH
+export PATH=$HOME/bin/rox-filer/ROX-Filer:$HOME/bin:$PATH
 export CATALINA_HOME=/usr/share/tomcat6/
 export EDITOR=vim #set for svn
 export SVN_EDITOR=vim #set for svn
@@ -114,6 +114,7 @@ alias cdv='cd /usr/local/share/vim'
 alias cdvf='cd /usr/local/share/vim/vimfiles/'
 alias cdvmn='cd /media/N/l2this/.rt/book/tools/vm/note/'
 alias cdvp='cd /usr/local/share/vim/vimfiles/plugin/'
+alias cdvrf='cd /home/scr/.rt/vercol/git/rc-files'
 alias cdvt='cd /media/F/notes/blog/vim/01tutorial'
 alias cdx='cd /home/scr/xiazai'
 alias chklg='chkconfig --list | grep --color=always'
@@ -132,7 +133,7 @@ alias e='e.sh'
 alias ex='nautilus'
 alias exv='nautilus trash:'
 alias fd='fdisk -l'
-alias ffbs='firefox /media/N/l2this/.rt/notes/note/linux/note/cmd/shell/abs-guide/HTML/index.html'
+alias ffbs='firefox /home/scr/.rt/linux/computor/lang/shell/bash/abs-guide/abs-guide/HTML/index.html'
 alias ff='firefox 2>/dev/null'
 alias fflatex='firefox /media/N/l2this/.rt/book/tools/latex/edt1023.sayya.org/tex/latex123/index.html'
 alias ffsvn='firefox /media/N/l2this/.rt/notes/note/develop/svn/svn-book-html/svn-book.html'
@@ -145,6 +146,8 @@ alias fl='fdisk -l'
 alias gedit='gedit 2>/dev/null'
 alias ge='gedit 2>/dev/null'
 alias g='gvim 2>/dev/null'
+alias gt='gnome-terminal --hide-menubar --geometry=100x32 --working-directory=~'
+alias gto='gnome-terminal --hide-menubar --geometry=100x32 --working-directory=~ --title=GTW'
 alias gvbkf='gvim /home/scr/bin/bk/app_new_filelists.txt'
 alias gvbs='gvim ~/.bashrc'
 alias gvfi='gvim /media/N/l2this/.rt/notes/note/linux/note/note/02files_introduce.txt'

@@ -82872,3 +82872,2377 @@ ll .ssh
 mv .subversion/ .rt/vercol/git/rc-files/rt/home/scr/
 #1318668852
 ln -s .rt/vercol/git/rc-files/rt/home/scr/.subversion/ .subversion
+#1318668931
+git add rt/home/scr/
+#1318668934
+git status 
+#1318668966
+git rm rt/home/scr/.subversion/auth/
+#1318668971
+git rm rt/home/scr/.subversion/auth/ -r
+#1318668981
+git rm rt/home/scr/.subversion/auth/ -r -f
+#1318668985
+git status 
+#1318668995
+ll rt/home/scr/.subversion/
+#1318668999
+ll rt/home/scr/.subversion/auth/
+#1318669052
+lla
+#1318669055
+git status 
+#1318669078
+git commit -m "bashrc subversion"
+#1318669083
+git log
+#1318669093
+git log --stat
+#1318669108
+s
+#1318669112
+lla
+#1318669158
+svn st
+#1318669166
+svn add rc-lns.sh 
+#1318669197
+gvnt
+#1318669180
+svn commit -m 'for rc-files'
+#1318669258
+svn st
+#1318669269
+cdbo
+#1318669301
+ll ascii/
+#1318669307
+ll ascii/ACSII/
+#1318669311
+ll erp
+#1318669324
+ll erp/tmp/
+#1318669328
+lla
+#1318669330
+ll OS
+#1318669333
+ll libs/
+#1318669337
+ll linux
+#1318669342
+ll lang
+#1318669350
+ll tools/
+#1318669379
+cd tools/
+#1318669382
+cd vercol/
+#1318669384
+cd git
+#1318669388
+ll git-test/
+#1318669401
+rm -rf git-test/
+#1318669403
+ll books/
+#1318669447
+find . | egrep -v 'bz2$|zip$'
+#1318669454
+cdbo
+#1318669457
+find . | egrep -v 'bz2$|zip$'
+#1318669486
+find . | egrep -v 'bz2$|zip$|jar$|iso$|exe$'
+#1318669497
+find . | egrep -v 'bz2$|zip$|jar$|iso$|exe$' | du -sh
+#1318669519
+find . | egrep -v 'bz2$|zip$|jar$|iso$|exe$|pdf$' | du -sh
+#1318669541
+find . | egrep -v 'bz2' | du -sh
+#1318669554
+find . | egrep -v 'bz2' | grep -v 'zip' | du -sh
+#1318669558
+lla
+#1318669566
+find . > out
+#1318669568
+g out 
+#1318669632
+find . | egrep -v 'bz2' | grep -v 'zip' 
+#1318669663
+find . | egrep -v 'bz2' | grep -v 'zip' | es
+#1318669666
+find . | egrep -v 'bz2' | grep -v 'zip' | ds
+#1318669683
+gvlc
+#1318669686
+.s
+#1318669687
+gvlc
+#1318669712
+find . | egrep -v 'bz2' | grep -v 'zip' | xargs du -sh 
+#1318669944
+echo *
+#1318669956
+echo * |du 
+#1318669991
+m du
+#1318670036
+g exclude.list
+#1318670091
+ds -x ./exclude.list 
+#1318670099
+ds -X ./exclude.list 
+#1318670462
+e ds -X ./exclude.list 
+#1318670474
+gvlc
+#1318670708
+ds -X ./exclude.list 
+#1318680125
+g ~/.subversion/servers 
+#1318680202
+ds -X ./exclude.list 
+#1318680446
+ln -s exclude.list .gitignore
+#1318680450
+git init
+#1318680454
+lla
+#1318680601
+cdbot
+#1318680606
+cdbo
+#1318680608
+lla
+#1318680690
+mkdir .mutt
+#1318680701
+touch .mutt/.mutt.alias
+#1318680462
+git add .
+#1318680866
+li
+#1318680964
+lla
+#1318680984
+cat out 
+#1318680994
+git status
+#1318681020
+git commit -m "init"
+#1318681198
+git log
+#1318681206
+gvlc
+#1318681222
+git status
+#1318681229
+git diff
+#1318680704
+mutt
+#1318681352
+mkdir .mutt/tmp
+#1318682065
+ex ~
+#1318682139
+cd
+#1318682140
+cd tmp/
+#1318682145
+cd wget/
+#1318682155
+wget -c  http://hotfile.com/dl/129239c3a0b11/zukas_espanha.rar.html
+#1318682199
+ff  http://hotfile.com/dl/129239c3a0b11/zukas_espanha.rar.html
+#1318682727
+wget -c  http://hotfile.com/dl/131777766/f321b09/Adrianna_casting.part1.rar.h
+#1318682729
+   tml
+#1318682734
+wget -c  http://hotfile.com/dl/131777766/f321b09/Adrianna_casting.part1.rar.html
+#1318682779
+ff Adrianna_casting.part1.rar.html 
+#1318683343
+cd
+#1318683350
+rm *.jpg
+#1318683355
+rm *.png
+#1318683842
+git status
+#1318683852
+rm out
+#1318683855
+git status
+#1318683892
+git checkout out
+#1318683895
+git status
+#1318683912
+git rm out
+#1318683916
+git status
+#1318683923
+git add .
+#1318683925
+git status
+#1318683935
+lla
+#1318684071
+git checkout 
+#1318684086
+git status
+#1318685277
+ll ascii/
+#1318685280
+ll ascii/ACSII/
+#1318685285
+cd tools/
+#1318685293
+cd sysconf/
+#1318685302
+ll nautilus-open-terminal/
+#1318685316
+git status
+#1318685322
+lla
+#1318685341
+git status
+#1318685356
+cd computor/
+#1318685358
+lla
+#1318685360
+git status
+#1318685394
+ii
+#1318685462
+find . -type f -name "*.txt"
+#1318685467
+find . -type f -name "*.txt" > out
+#1318685470
+git status
+#1318685476
+g out 
+#1318685749
+cd tools/
+#1318685755
+ll video/
+#1318685766
+ll audio/
+#1318685769
+ll browser/
+#1318685773
+ll browser/google-chrome/
+#1318685799
+find . -type f -name "*.txt" -o -name "readme" > out
+#1318685804
+g out
+#1318685858
+ii
+#1318685860
+iii
+#1318685861
+ii
+#1318685867
+lla
+#1318685881
+llx
+#1318685883
+lls
+#1318685888
+lli
+#1318685890
+lla
+#1318685928
+git status
+#1318686040
+git clone git@github.com:nuoerlz/rc-files.git  rc2
+#1318686142
+cd /var/
+#1318686148
+mkdir git
+#1318686155
+chown scr:scr git
+#1318686134
+su
+#1318686168
+lla
+#1318686195
+git remote add origin /var/git/rt-books.git
+#1318686207
+ll /var/git/
+#1318686212
+git remote
+#1318686216
+git remote -v
+#1318686225
+git push
+#1318686730
+git clone --bare my_project my_project.git
+#1318686744
+git clone --bare computor/ rt-books.git
+#1318686758
+ds rt-books.git/
+#1318686764
+ds my_project.git/
+#1318686768
+rm -rf my_project.git/
+#1318686770
+ds computor/
+#1318686799
+mv rt-books.git/ /var/git/
+#1318686810
+ds rt-books.git/
+#1318686857
+mkdir ~/.rt/vercol-hub
+#1318686866
+mv rt-books.git/ ~/.rt/vercol-hub/
+#1318686910
+git clone ~/.rt/vercol-hub/rt-books.git  t.t
+#1318687093
+ds t.t/
+#1318687107
+cd t.t/
+#1318687108
+lla
+#1318687357
+,y
+#1318687374
+s computor
+#1318687550
+e git clone --bare computor/ rt-books.git
+#1318687576
+e mv rt-books.git/ ~/.rt/vercol-hub/
+#1318687601
+e git clone ~/.rt/vercol-hub/rt-books.git  t.t
+#1318687638
+cd t.t/
+#1318687640
+git status
+#1318687662
+mv t.t/ computor.git2
+#1318687665
+cd computor
+#1318687722
+git status
+#1318687825
+elinks 
+#1318687906
+gvlc
+#1318687920
+git status
+#1318687944
+git  add tools/devel/cmd/cmd.txt 
+#1318687946
+git status
+#1318687957
+vi tools/out 
+#1318687962
+rm tools/out 
+#1318687964
+git status
+#1318687984
+git diff tools/devel/cmd/cmd.txt vi_gcc_makefile_gdb教程.pdf 
+#1318687989
+git diff tools/devel/cmd/cmd.txt 
+#1318687997
+git status
+#1318688025
+git diff --cached tools/devel/cmd/cmd.txt 
+#1318688035
+git status
+#1318688046
+git remote -v
+#1318688094
+git remote rm orgin
+#1318688099
+git remote rm origin
+#1318688103
+git remote -v
+#1318688128
+git remote add /home/scr/.rt/vercol-hub/rt-books.git/
+#1318688151
+git remote add origin /home/scr/.rt/vercol-hub/rt-books.git/
+#1318688156
+s origin
+#1318688163
+git remote -v
+#1318688172
+git pull
+#1318688179
+git pull origin
+#1318688187
+git pull origin master
+#1318688196
+git push
+#1318688209
+git status
+#1318688239
+git push origin master
+#1318688272
+git commit -m "modify cmd.txt"
+#1318688277
+git status
+#1318688483
+ds /home/scr/.rt/vercol-hub/
+#1318688283
+git push origin master
+#1318688563
+cd computor.git2/
+#1318688572
+git remote -v
+#1318688577
+git pull
+#1318688647
+git status 
+#1318688552
+fg
+#1318689092
+git status
+#1318689123
+git log --stat
+#1318689225
+git help status
+#1318689265
+git help log
+#1318689284
+git log -1 --status
+#1318689289
+git log -1 --stat
+#1318689786
+git branch
+#1318689821
+git checkout -b btest
+#1318689830
+git branch
+#1318689834
+git status
+#1318689966
+rm out 
+#1318689967
+git status
+#1318689976
+git branch
+#1318689991
+git checkout master
+#1318689997
+git branch
+#1318690004
+git status
+#1318690016
+git checkout btest
+#1318688360
+t
+#1318690940
+ii
+#1318690986
+lla
+#1318691015
+git status
+#1318691037
+git log -1 --stat
+#1318691055
+git help diff
+#1318691620
+git remote -v
+#1318691634
+touch README
+#1318691637
+git status 
+#1318691649
+git add README 
+#1318691652
+git status 
+#1318691670
+git commit -m "add README"
+#1318691677
+git push
+#1318691855
+cd rt
+#1318691860
+cdrt
+#1318691878
+find . -typd d
+#1318691880
+find . -type d
+#1318691888
+find . -type d | wc -l
+#1318691928
+cd linux/
+#1318691932
+cd computor
+#1318691937
+find . -type d | wc -l
+#1318691947
+find . -type d | grep -v ".git" | wc -l
+#1318691956
+ll .git
+#1318691960
+ll .git/objects/
+#1318691966
+ll .git/objects/e3
+#1318691984
+find . -type d | grep -v ".git" | grep -v ".svn" | wc -l
+#1318691991
+find . -type d | grep -v ".git" | wc -l
+#1318692004
+find . -type d | grep svn
+#1318692015
+find . -type d | grep '.svn'
+#1318692020
+find . -type d | grep '\.svn'
+#1318692029
+find . -type d | grep '\.svn' | wc 
+#1318692058
+find . -type d | grep -v "\.git" | wc -l
+#1318692067
+find . -type d | grep -v "\.git" | grep -v "\.svn" | wc -l
+#1318692076
+find . -type d | grep -v "\.git" | grep -v "\.svn" | wc -l > out
+#1318692086
+find . -type d | grep -v "\.git" | grep -v "\.svn"  > out
+#1318692090
+g out 
+#1318692179
+find . -type f -name "*.txt"
+#1318692185
+find . -type f -name "*.txt" | wc
+#1318692191
+find . -type f -name "*.txt" | > out2
+#1318692206
+find . -type f -name "*.txt" > out2
+#1318692242
+find . -type f -name "*.txt" | grep '/rfc'
+#1318692246
+find . -type f -name "*.txt" | grep '/rfc/'
+#1318692258
+find . -type f -name "*.txt" | grep -v '/rfc/' > out2
+#1318692294
+find . -type f -name "*.txt" | grep -v '/rfc/' | grep -v 'softEngineering' > out2
+#1318692523
+cd
+#1318692526
+cdbo
+#1318692550
+cdrt
+#1318692572
+mkdir .rt-note
+#1318692577
+cdb
+#1318692598
+g rt2rtnote.sh
+#1318692711
+chx rt2rtnote.sh 
+#1318692720
+rt2rtnote.sh out2
+#1318692762
+rt2rtnote.sh out2 | less
+#1318692818
+rt2rtnote.sh out2 | wc
+#1318692875
+vbs
+#1318692910
+locate abs-guide
+#1318692934
+ff /home/scr/.rt/linux/computor/lang/shell/bash/abs-guide/abs-guide/HTML
+#1318692959
+e /home/scr/.rt/linux/computor/lang/shell/bash/abs-guide/abs-guide/HTML
+#1318692961
+vbs
+#1318692965
+fg
+#1318692981
+e /home/scr/.rt/linux/computor/lang/shell/bash/abs-guide/abs-guide/HTML
+#1318692983
+fg
+#1318692993
+.s
+#1318692994
+ffbs
+#1318693201
+rt2rtnote.sh out2 | wc
+#1318693256
+find . -type f | xargs egrep '${.*%'
+#1318693261
+find . -type f | xargs egrep '\${.*%'
+#1318693268
+find . -type f | xargs grep '\${.*%'
+#1318693282
+find . -type f | xargs egrep --color=ALWAYS '\${.*%'
+#1318693307
+find . -type f | xargs egrep --color=ALWAYS '\${.*/%'
+#1318693913
+base_change.sh 
+#1318694080
+rt2rtnote.sh out2 | wc
+#1318694743
+git status 
+#1318694950
+rt2rtnote.sh out2 | wc
+#1318695066
+rt2rtnote.sh out2 
+#1318695076
+rt2rtnote.sh out2 | wc
+#1318695093
+rt2rtnote.sh out2 
+#1318695103
+rt2rtnote.sh out2  | grep -v KKKK
+#1318695107
+rt2rtnote.sh out2 
+#1318695190
+rt2rtnote.sh out2  | grep -v KKKK
+#1318695197
+rt2rtnote.sh out2 | wc
+#1318695213
+rt2rtnote.sh out2 
+#1318695225
+rt2rtnote.sh out2 | wc 
+#1318695365
+rt2rtnote.sh out2 
+#1318695390
+rt2rtnote.sh out2 | wc 
+#1318695410
+time rt2rtnote.sh out2 | wc 
+#1318695625
+cdrt
+#1318695631
+cd .rt-note/
+#1318695641
+find -type f
+#1318695642
+find -type d
+#1318695649
+ll bookmark/
+#1318695667
+ll tools/mail/
+#1318695709
+find . -type f -name "*.txt" | grep -v '/rfc/' | grep -v 'softEngineering' > out2
+#1318695712
+vi
+#1318695749
+,y
+#1318695881
+time rt2rtnote.sh out2 
+#1318696008
+find -type f
+#1318696130
+git status 
+#1318696232
+cd computor.git2/
+#1318696240
+cd computor
+#1318696252
+find . -type l
+#1318696277
+rm *.txt
+#1318696281
+git status 
+#1318696335
+cat out2
+#1318696366
+rm out2 
+#1318696367
+git status 
+#1318696376
+rm out*
+#1318696377
+git status 
+#1318696383
+cdrt
+#1318696387
+find . -type f -name "*.txt" | grep -v '/rfc/' | grep -v 'softEngineering' > out2
+#1318696395
+wc out2 
+#1318696400
+g out2 
+#1318696438
+ll out2 
+#1318696445
+head out2 
+#1318696475
+rt2rtnote.sh out2 
+#1318696542
+find -type f
+#1318696616
+ll vercol/git/rc-files/rt/home/scr/.subversion/README.txt 
+#1318696637
+ll vercol/git/rc-files/rt/home/scr/.subversion/*
+#1318696644
+ll vercol/git/rc-files/rt/home/scr/.subversion/README.txt 
+#1318696726
+cd linux/
+#1318696741
+computor.git2/ ~
+#1318696747
+mv computor.git2/ ~
+#1318696749
+ll ~
+#1318696757
+ll computor/
+#1318696762
+find . -type f -name "*.txt" | grep -v '/rfc/' | grep -v 'softEngineering' > out2
+#1318696767
+rt2rtnote.sh out2 
+#1318696861
+wc out2 
+#1318696942
+find -type f
+#1318696970
+rm * -rf
+#1318696986
+rt2rtnote.sh out2 
+#1318697143
+find -type f
+#1318697153
+find -type f | ls -l
+#1318697158
+find -type f | xargs ls -l
+#1318697333
+ll lang/shell/ip_mac.txt 
+#1318697393
+rt2rtnote.sh out2 
+#1318697402
+echo $?
+#1318697427
+rt2rtnote.sh out2 
+#1318697644
+find . -type f -name "*.txt" | grep -v '/rfc/' | grep -v 'softEngineering' 
+#1318697666
+find . -type l -name "*.txt" | grep -v '/rfc/' | grep -v 'softEngineering' 
+#1318697674
+find . -type l -name "*.txt" | grep -v '/rfc/' | grep -v 'softEngineering' | xargs ls -l
+#1318697696
+find . -type l -name "*.txt" | grep -v '/rfc/' | grep -v 'softEngineering' | xargs ls -l --color=ALWAYS
+#1318697711
+find . -type l -name "*.txt" | grep -v '/rfc/' | grep -v 'softEngineering' | xargs ls -l --color=always
+#1318697768
+cdl
+#1318697793
+cdb
+#1318697795
+svn st
+#1318697825
+ll keyword.txt 
+#1318697838
+svn help st
+#1318697865
+svn st
+#1318697868
+svn up
+#1318697876
+svn st
+#1318697881
+cdl
+#1318697883
+svn st
+#1318697931
+svn st | grep '^~'
+#1318697971
+svn st | grep '^~' | sed 's/~//'
+#1318697977
+svn st | grep '^~' | sed 's/~//' | xargs rm
+#1318697987
+svn st
+#1318697989
+svn up
+#1318698011
+svn st
+#1318698067
+rm sql/ms/6索引\ 默认值\ 数据完整性/综合应用训练/题目要求.txt sql/ms/5T-SQL语言/系统内置函数/系统函数/coalesce\(expression\ \[\,......n\]\)返回参数表中第一个非空表达式的值.txt 
+#1318698069
+svn st
+#1318698095
+rm books/c/cguo-e3/ch5/5.50-camera\ demo/case_studies.txt books/c/cguo-e3/ch6/Terrain\ Engine/readme.txt 
+#1318698106
+rm books/c/cguo-e3/ch6/docahedron\ 3vn/ReadMe.txt 
+#1318698107
+svn st
+#1318698114
+svn up
+#1318698122
+svn st
+#1318698149
+cd lang/
+#1318698152
+find -type f | xargs ls -l
+#1318698170
+rm * -rf
+#1318698178
+ll system-install-notes/
+#1318698182
+ll system-install-notes/intall-CentOS-from-harddisk/
+#1318699867
+ex .
+#1318730257
+import ~/size.jpg
+#1318730271
+ex ~
+#1318731673
+cd
+#1318731679
+g size.txt
+#1318681353
+fg
+#1318735057
+mutt
+#1318745725
+g order.txt
+#1318745884
+s order
+#1318747717
+g order.txt
+#1318748056
+ii
+#1318748058
+kk
+#1318748080
+cd
+#1318748085
+cd .rt-note/
+#1318748097
+ll linux/
+#1318748107
+gvlc
+#1318748456
+git ll
+#1318748472
+cp -r .rt-note/ tmp/rt
+#1318748476
+cd tmp/
+#1318748486
+mkdir rt-notes
+#1318748493
+la ..
+#1318748559
+cd rt
+#1318748668
+s can't
+#1318748671
+s can\'t
+#1318749014
+rt2rtnote.sh 
+#1318749019
+rt2rtnote.sh txt
+#1318749034
+fg
+#1318749045
+cd rt-notes/
+#1318749047
+lla
+#1318749057
+find . -type txt
+#1318749061
+find . -type f
+#1318749066
+cd ../rt
+#1318749069
+find . -type f
+#1318749070
+find . -type l
+#1318749074
+ll gs/ls/zzb.txt 
+#1318749081
+cd-
+#1318749084
+rm -rf *
+#1318749086
+cd -
+#1318749120
+rt2rtnote.sh txt
+#1318749145
+rm -rf rt/*
+#1318749158
+cp ../.rt-note/* rt/ -rf
+#1318749161
+ds rt
+#1318749165
+cd rt
+#1318749171
+rt2rtnote.sh txt
+#1318749181
+ll gs/ls/zzb.txt 
+#1318749184
+cd -
+#1318749188
+cd rt-notes/
+#1318749191
+find . -type l
+#1318749193
+find . -type f
+#1318749215
+cd rt
+#1318749221
+rt2rtnote.sh txt
+#1318749242
+echo $?
+#1318749307
+cd
+#1318749310
+cd .rt-note/
+#1318749443
+mv .rt-note/ .rt-notes
+#1318749445
+cd .rt-notes/
+#1318749866
+m wc
+#1318749876
+ddc
+#1318749880
+gvlc
+#1318749896
+cd engs/
+#1318749912
+ln -s THE jj
+#1318749925
+xxd
+#1318749930
+m xxd
+#1318749959
+xxd -l jj
+#1318749963
+xxd -l 1 jj
+#1318749968
+echo $?
+#1318749976
+xxd -l 1 e-new-words.txt 
+#1318749979
+echo $?
+#1318750056
+xxd -l 1 jj > /dev/null
+#1318750060
+echo $?
+#1318750066
+xxd -l 1 jj > /dev/null
+#1318750068
+echo $?
+#1318750072
+xxd -l 1 jj > /dev/null
+#1318750073
+echo $?
+#1318750078
+xxd -l 1 e-new-words.txt > /dev/null
+#1318750081
+echo $?
+#1318750514
+cdb
+#1318750517
+chx rtnote2rt.sh 
+#1318750526
+rtnote2rt.sh 
+#1318750541
+rtnote2rt.sh txt
+#1318750907
+g
+#1318750910
+fg
+#1318750920
+rm jj
+#1318750958
+rtnote2rt.sh txt
+#1318750978
+gvlc
+#1318750982
+gvnt
+#1318750987
+gvlc
+#1318751001
+cd .rt-notes/
+#1318751036
+cat > README
+#1318751045
+git init
+#1318751047
+lla
+#1318751056
+git add .
+#1318751065
+git commit
+#1318751096
+  git remote add origin git@github.com:nuoerlz/rt-notes.git
+#1318751110
+git remote -v
+#1318751123
+git branch
+#1318751126
+ git push -u origin master
+#1318751480
+yes | git push -u origin master
+#1318751516
+echo "google" > git push -u origin master 
+#1318751522
+rm git
+#1318751523
+echo "google" > git push -u origin master 
+#1318751526
+rm git
+#1318751543
+su
+#1318751596
+echo "google" | git push -u origin master 
+#1318751630
+vi ~/.ssh/id_rsa
+#1318759972
+git status
+#1318759973
+g
+#1318759977
+gvlc
+#1318759985
+git status
+#1318760015
+gvnt
+#1318760022
+git status
+#1318760093
+cdrt
+#1318760098
+git status
+#1318760103
+cdbot
+#1318760106
+lla
+#1318760111
+git status
+#1318760178
+git commit -a -m "Move notes file to ~/.rt-notes"
+#1318760194
+git status
+#1318760213
+git status
+#1318760241
+cd git/
+#1318760247
+cd rt
+#1318760256
+cd rc-files
+#1318760266
+git remote show origin
+#1318760272
+git remote -v
+#1318760285
+rm rc-files.bak/
+#1318760288
+rm rc-files.bak/ -rf
+#1318760291
+ll rc2
+#1318760298
+ll rc2/rt/
+#1318760307
+rm -rf rc2
+#1318760312
+lla
+#1318760318
+cat .netrc 
+#1318760335
+lla
+#1318760338
+rm .netrc 
+#1318760341
+ll rt
+#1318760343
+lla rt
+#1318760347
+ll simplegit-progit/
+#1318760849
+jj
+#1318760870
+git status
+#1318760884
+git remote -v
+#1318760889
+jj
+#1318760909
+mv computor.git2/ bk
+#1318760928
+git remote -v
+#1318760988
+cd vercol-hub/
+#1318761006
+cd vercol
+#1318761009
+cd git/
+#1318761013
+cd simplegit-progit/
+#1318761022
+rm -rf simplegit-progit/
+#1318761024
+ll rt
+#1318761032
+rm out2 
+#1318761053
+g order.txt 
+#1318766700
+ii
+#1318766713
+ff ~/ch3-3.html ii
+#1318767117
+fg
+#1318430083
+screen
+#1318430835
+screen
+#1318692528
+screen
+#1318251268
+screen
+#1318767166
+reboot
+#1318767723
+ff&
+#1318776577
+i
+#1318776581
+ii
+#1318776590
+i
+#1318776594
+qqq
+#1318776598
+i
+#1318776612
+vi
+#1318776615
+fg
+#1318776617
+jj
+#1318777322
+mutt
+#1318777916
+mutt
+#1318778947
+vi .msmtprc 
+#1318779032
+cdrt
+#1318779034
+cd vercol
+#1318779036
+cd git/
+#1318779038
+cd rc-files/
+#1318779041
+git status
+#1318778981
+fg
+#1318779221
+mutt
+#1318780225
+/usr/local/msmtp/bin/msmtp tge3636@126.com
+#1318780940
+git status
+#1318780945
+fg
+#1318781038
+mutt
+#1318782547
+git status
+#1318782568
+git diff --catch rt/home/scr/.muttrc
+#1318782610
+git diff --cached rt/home/scr/.muttrc
+#1318782620
+git status
+#1318782627
+git diff  rt/home/scr/.muttrc
+#1318782641
+git status
+#1318782661
+git add rt/home/scr/.muttrc
+#1318782663
+git status
+#1318782672
+git diff --cached rt/home/scr/.muttrc
+#1318782677
+git diff  rt/home/scr/.muttrc
+#1318782712
+git commit -m "使能通过tge3636@126.com写博客"
+#1318782717
+git status
+#1318857397
+cdbo
+#1318857415
+g exclude.list 
+#1318857428
+cd tools/
+#1318857431
+cd devel/
+#1318857434
+cd cmd
+#1318857440
+g note 
+#1318857450
+g bash_history.txt 
+#1318857846
+cdl
+#1318857848
+cd viki
+#1318857851
+cd hello/
+#1318857859
+./viki_make.sh 
+#1318857862
+ma
+#1318857866
+make
+#1318857872
+vi M
+#1318857875
+vi Makefile 
+#1318857883
+mc
+#1318857884
+ma
+#1318857888
+cd public_html/
+#1318857921
+cp -r public_html/ ~ -r
+#1318858936
+g public_html/
+#1318857220
+mutt
+#1318861434
+zip -r public_html.zip public_html/*
+#1318861584
+ff ' https://groups.google.com/forum/#!topic/vim_dev/LZGIREwdHfE'
+#1318863439
+ff http://kado.im/verifycode.html?code=4e9c3de69e42f
+#1318863771
+g ~/yum_list.txt 
+#1318779065
+mutt
+#1318863826
+s
+#1318863834
+yum -y install wordpress.noarch
+#1318864830
+ll /var/www/html/
+#1318864953
+mutt
+#1318863828
+su
+#1318861438
+mutt
+#1318865076
+ff http://www.amazon.com/Handbook-Source-Tools-Sandeep-Koranne/dp/144197718X/ref=sr_1_1?ie=UTF8&qid=1318812839&sr=8-1
+#1318864960
+mutt
+#1318939120
+cd
+#1318939129
+ex .
+#1318939142
+cdm
+#1318939143
+cd TOOLS/
+#1318939148
+cd 1music/
+#1318939269
+LL
+#1318939159
+mpg123 --title -C -Z *
+#1318939379
+cd mp3
+#1318939391
+cd MP3_2/
+#1318939400
+ll mp3
+#1318939408
+cd mp3_2/
+#1318939408
+LS
+#1318939444
+m mpg123
+#1318939514
+m sox
+#1318938922
+mutt
+#1318941707
+ff https://bugzilla.gnome.org/show_bug.cgi?id=650405
+#1318943262
+m mutt
+#1318939277
+mutt
+#1318943813
+ff https://github.com/apenwarr/bup
+#1318945816
+ex .
+#1318943368
+m muttrc
+#1318946043
+cd tmp/wget/
+#1318946053
+wget -c -p -r http://mirrors.163.com/rpmfusion/free/fedora/releases/14/Everything/x86_64/os/repodata/repomd.xml
+#1318946057
+m wget
+#1318946082
+wget -c -p -r http://home.ustc.edu.cn/~lixuebai/Default/WelcomePage.html
+#1318946668
+ll home.ustc.edu.cn/~lixuebai/
+#1318946797
+vi /etc/gtk/gtkrc.utf-8
+#1318946809
+xmms
+#1318946821
+yum -y install xmms
+#1318946961
+fg
+#1318946988
+g yum_list.txt 
+#1318947259
+cdbo
+#1318947261
+git status
+#1318947269
+lla
+#1318947273
+git status
+#1318947277
+cd -
+#1318947281
+cdbot
+#1318947286
+ ll
+#1318947278
+git status
+#1318947302
+cdx
+#1318947342
+rpm -ivh rox-2.1.3-1.i386.rpm 
+#1318947357
+g ~/yum_list.txt 
+#1318947672
+tar xvjf rox-filer-linux-x86_64-2.11.tar.bz2 
+#1318947677
+cd rox-filer-linux-x86_64-2.11
+#1318947685
+vi README
+#1318947730
+./ROX-Filer/AppRun 
+#1318948040
+fg
+#1318948050
+rm rox-filer-linux-x86_64-2.11 -rf
+#1318947334
+su
+#1318948074
+cdx
+#1318948076
+tar xvjf rox-filer-linux-x86_64-2.11.tar.bz2 
+#1318948079
+cd rox-
+#1318948082
+cd rox-filer-linux-x86_64-2.11
+#1318948086
+cd ROX-Filer/
+#1318948089
+./AppRun 
+#1318948157
+ll Help/
+#1318948169
+ff Help/Manual.html 
+#1318948448
+cd tools/
+#1318948457
+mkdir file-manager
+#1318948458
+cd file-manager/
+#1318948466
+mkdir rox-filer
+#1318948468
+cd rox-filer/
+#1318948479
+mv ~/xiazai/rox-filer-linux-x86_64-2.11.tar.bz2 .
+#1318948485
+vi README 
+#1318948546
+tar xjvf rox-filer-linux-x86_64-2.11.tar.bz2 
+#1318948549
+fg
+#1318948574
+./rox-filer-linux-x86_64-2.11/ROX-Filer/AppRun 
+#1318948598
+vi install.sh
+#1318948605
+fg
+#1318948744
+vbs
+#1318948754
+fg
+#1318948806
+chx install.sh 
+#1318948808
+./install.sh 
+#1318948833
+. install.sh 
+#1318948850
+cd tools/
+#1318948852
+git status
+#1318948859
+cd file-manager/
+#1318948860
+git status
+#1318948865
+cd rox-filer/
+#1318948868
+git status
+#1318948882
+mv install.sh install.env
+#1318948888
+chxx install.env 
+#1318948891
+vi install.env 
+#1318948904
+. install.env 
+#1318948908
+AppRun 
+#1318948911
+fg
+#1318948915
+vi install.env 
+#1318948957
+rox
+#1318948958
+fg
+#1318948967
+. install.env 
+#1318948971
+vi README 
+#1318948994
+. install.env 
+#1318948998
+rox
+#1318949013
+ll /home/scr/bin/rox
+#1318949024
+rox
+#1318949028
+AppRun 
+#1318949030
+fg
+#1318949036
+vi install.env 
+#1318949124
+cdb
+#1318949128
+rm rox
+#1318949133
+cdbot
+#1318949135
+rox
+#1318949140
+cd devel/
+#1318949145
+cd file-manager/
+#1318949147
+cd rox-filer/
+#1318949150
+. install.env 
+#1318949152
+rox
+#1318949159
+wh rox
+#1318949171
+whl
+#1318949191
+rox README 
+#1318949198
+rox .
+#1318949202
+rox ~
+#1318949207
+rox ../..
+#1318949241
+rox -h
+#1318949251
+rox -b
+#1318949261
+rox -b d
+#1318949302
+rox -b df
+#1318949317
+rox -h
+#1318949340
+rox -B l
+#1318949348
+pg rox
+#1318949350
+rox
+#1318949352
+pg rox
+#1318949373
+vi install.env 
+#1318949400
+path
+#1318949410
+vbs
+#1318949415
+vi install.env 
+#1318949426
+fg 1
+#1318949456
+rox ..
+#1318949522
+rox -h
+#1318949530
+rox -c l
+#1318949571
+rox -s l
+#1318949577
+rox -h
+#1318949591
+rox -D ..
+#1318949643
+rox --pinboard=MyPinboard
+#1318949696
+pg rox
+#1318949701
+kill 18626
+#1318949703
+pg rox
+#1318949738
+rox --pinboard=
+#1318949741
+pg rox
+#1318949765
+rox -l oo
+#1318950540
+rox
+#1318950910
+ex .
+#1318950978
+ex ~
+#1318951003
+cd conversion/
+#1318951023
+ll terminal/
+#1318951031
+ll wm
+#1318951033
+ll wm/fwvm/
+#1318951037
+ll audio/
+#1318951039
+ll browser/
+#1318951042
+ll chat/
+#1318951052
+ll sysconf/
+#1318951062
+cd file-manager/
+#1318951069
+mkdir nautilus
+#1318951080
+rmdir nautilus/
+#1318951081
+.
+#1318951083
+git status
+#1318951090
+git add .
+#1318951093
+git status
+#1318951102
+cd rox-filer/
+#1318951112
+git add rox-filer-linux-x86_64-2.11.tar.bz2 
+#1318951127
+git add -f rox-filer-linux-x86_64-2.11.tar.bz2 
+#1318951130
+git status
+#1318951148
+mkdir nautilus
+#1318951171
+git mv sysconf/nautilus-open-terminal/ file-manager/nautilus/
+#1318951174
+git status
+#1318951209
+git reset HEAD file-manager/rox-filer/
+#1318951211
+git status
+#1318951232
+git commit 
+#1318951286
+git status
+#1318951293
+git add file-manager/
+#1318951295
+git status
+#1318951297
+cd file-manager/
+#1318951300
+cd rox-filer/
+#1318951304
+git add -f rox-filer-linux-x86_64-2.11.tar.bz2 
+#1318951306
+git status
+#1318951318
+git log
+#1318951366
+su
+#1318951376
+yum -y install nautilus-image-converter
+#1318951576
+ex .
+#1318951953
+tar xzvf Sunflower-0.1a-27.tgz 
+#1318951956
+cd Sunflower
+#1318951983
+cd
+#1318952004
+ 09:57 size.jpg
+#1318952009
+-rw-rw-r--. 1 scr scr  302 10月 1
+#1318951961
+./Sunflower.py 
+#1318952260
+ex .
+#1318952272
+e
+#1318952279
+cdx
+#1318952296
+ex ~
+#1318952299
+ex ~
+#1318952332
+git status
+#1318952364
+git commit -m "轻量级文件管理器: rox-filer"
+#1318952367
+git status
+#1318952375
+mkdir sunflower
+#1318952377
+cd sunflower/
+#1318952385
+mv ~/xiazai/Sunflower-0.1a-27.tgz .
+#1318952387
+git status
+#1318952400
+cd sunflower/
+#1318952402
+vi README 
+#1318952428
+git status
+#1318952439
+git add sunflower/
+#1318952440
+git status
+#1318952449
+git add -f sunflower/Sunflower-0.1a-27.tgz 
+#1318952452
+git status
+#1318952478
+git commit -m "轻量级文件管理器: sunflower"
+#1318952486
+cd rox-
+#1318952493
+cd file-manager/rox-filer/
+#1318952496
+cat README 
+#1318952498
+cat install.env 
+#1318952844
+git commit -m "轻量级文件管理器: sunflower"
+#1318952851
+git status
+#1318952856
+git log
+#1318953441
+yum -y install clex
+#1318953550
+clex
+#1318953572
+cfg-clex 
+#1318953606
+clex
+#1318953635
+s
+#1318953640
+cfg-clex 
+#1318953644
+clex
+#1318939417
+mpg123 --title -C -Z *
+#1319028394
+pg mpg
+#1319028401
+kill -9 12785
+#1319028418
+pg mpg
+#1319028424
+kill -9 19711
+#1319028443
+pg mpg
+#1319028449
+kill -9 6888
+#1319028453
+cd
+#1319028459
+smplayer 
+#1319028465
+smplayer &
+#1319028616
+reboot
+#1318771168
+screen
+#1318946038
+screen
+#1318946779
+su
+#1318945879
+mutt
+#1319028840
+ff&
+#1319028736
+smplayer 
+#1319028934
+ex .
+#1319028959
+cd
+#1319028967
+mkdir .aMule
+#1319028973
+ex .aMule/
+#1319029115
+cd
+#1319030992
+ff http://v.youku.com/v_show/id_XMzEzNDIyNDYw.html
+#1319031245
+ex .
+#1319031322
+ff http://hotfile.com/dl/132404464/f564ae9/Amadora_bebada.part1.rar.html
+#1319031560
+ff http://blog.youxu.info/2011/10/14/notes-on-the-unix-haters-handbook/
+#1319033082
+g
+#1319033977
+cdx
+#1319029575
+mutt
+#1319033985
+cd .Mail/
+#1319034005
+tar xvzf keynav-0.20101014.3067.tar.gz 
+#1319034009
+cd keynav-0.20101014.3067
+#1319034051
+make keynav
+#1319034084
+g ~/yum_list.txt 
+#1319034105
+su
+#1319034156
+s semicolon
+#1319034115
+yum -y install libxdo
+#1319034270
+make keynav
+#1319034296
+yum -y install libxdo-devel
+#1319034356
+vi Makefile 
+#1319034425
+make keynav
+#1319034450
+ln -s /usr/lib64/libXext.so.6  /usr/lib64/libXext.so
+#1319034461
+ ll  /usr/lib64/libXext.so
+#1319034467
+fg
+#1319034488
+ma
+#1319034493
+./keynav 
+#1319034499
+./version.sh 
+#1319034504
+cat version.sh 
+#1319034520
+./keynav 
+#1319034526
+make keynav
+#1319034555
+./keynav 
+#1319034826
+./keynav &
+#1319034894
+ll ~/.kde/*
+#1319034902
+vi keynavrc 
+#1319034990
+cdbot
+#1319034993
+cd wm
+#1319035003
+mkdir keynav
+#1319035007
+cd keynav/
+#1319035514
+llll
+#1319035525
+mv ~/xiazai/keynav-0.20101014.3067* .
+#1319035530
+vi README 
+#1319035637
+fg
+#1319035804
+rox
+#1319036154
+pg key
+#1319036170
+kill 4859
+#1319036173
+cd keynav-0.20101014.3067
+#1319036180
+touch *
+#1319036184
+vi keynavrc 
+#1319036200
+cp keynavrc ~/.keynavrc
+#1319036204
+vi ~/.keynavrc 
+#1319036353
+mv keynav ~/bin/
+#1319036357
+keynav 
+#1319036394
+fg
+#1319036403
+g ~/.keynavrc 
+#1319036499
+vi keynav.c
+#1319036775
+fg
+#1319036856
+vi doc.txt
+#1319036860
+g doc.txt 
+#1319037415
+g ~/yum_list.txt 
+#1319037434
+yum -y install xdotool
+#1319037515
+xdotool 
+#1319037521
+xdotool | less
+#1319037628
+pg key
+#1319037633
+kill 4980
+#1319037635
+pg key
+#1319037646
+keynav 
+#1319037785
+pg key
+#1319037788
+kill 5221
+#1319037789
+pg key
+#1319037791
+keynav 
+#1319037799
+cdv
+#1319037801
+svn st
+#1319037805
+svndl
+#1319037913
+gvnt
+#1319037901
+svn commit -m ',y ==> ,yy , 排版txt文件时,不进行自动缩进(,q ==> ,qn)' _vimrc 
+#1319037946
+svn st
+#1319037996
+svn commit -m '把firefox的标题名改为: Mozilla Firefox' _vimperatorrc 
+#1319038311
+pg key
+#1319038331
+kill 5482
+#1319038336
+keynav 
+#1319038365
+pg key
+#1319038436
+kill 5618
+#1319038438
+keynav 
+#1319038475
+pg key
+#1319038480
+kill 5623
+#1319038481
+keynav 
+#1319038605
+pg key
+#1319038609
+kill 5623
+#1319038615
+kill 5643
+#1319038617
+keynav 
+#1319038654
+kill 5623
+#1319038657
+pg key
+#1319038660
+kill 5654
+#1319038663
+keynav 
+#1319038721
+g
+#1319038742
+pg key
+#1319038745
+kill 5674
+#1319038747
+keynav 
+#1319038930
+m gvim
+#1319039080
+xdotool 
+#1319039403
+pg key
+#1319039406
+kill 5693
+#1319039408
+keynav 
+#1319039445
+pg key
+#1319039448
+kill 5740
+#1319039449
+keynav 
+#1319039478
+ss
+#1319039514
+pg key
+#1319039516
+kill 5772
+#1319039517
+keynav 
+#1319039658
+pg key
+#1319039661
+kill 5822
+#1319039664
+keynav 
+#1319039753
+kill 5822
+#1319039755
+pg key
+#1319039761
+kill 5854
+#1319039762
+keynav 
+#1319039844
+pg key
+#1319039848
+kill 5860
+#1319039849
+keynav 
+#1319039891
+pg key
+#1319039894
+kill 5877
+#1319039896
+keynav 
+#1319039914
+pg key
+#1319039917
+kill 5882
+#1319039918
+keynav 
+#1319039973
+pg key
+#1319039976
+kill 5887
+#1319039984
+keynav 
+#1319039991
+pg key
+#1319039993
+kill 5892
+#1319039997
+keynav 
+#1319040154
+pg key
+#1319040159
+kill 5897
+#1319040160
+keynav 
+#1319040217
+pg key
+#1319040221
+kill 5941
+#1319040223
+keynav 
+#1319040448
+pg key
+#1319040452
+kill 5946
+#1319040471
+keynav 
+#1319040569
+ex .
+#1319037427
+su
+#1319033986
+mutt
+#1319112957
+ii
+#1319112963
+pg key
+#1319112978
+kill ;
+#1319112983
+kill 5953
+#1319112985
+pg key
+#1319029566
+screen
+#1319113091
+reboot
+#1319113247
+cd .Mail/
+#1319113288
+cd
+#1319113297
+cdls
+#1319113301
+cdsvnn 
+#1319113303
+cdv
+#1319113291
+screen
+#1319113258
+vbs
+#1319113391
+ff&
+#1319113353
+mutt
+#1319115197
+keynav 
+#1319115201
+g .keynavrc 
+#1319115470
+pkill keynavrc
+#1319115476
+pg key
+#1319115499
+keynav 
+#1319115509
+kill 3282
+#1319115512
+pg key
+#1319115568
+t
+#1319115577
+kill 3282
+#1319115581
+keynav 
+#1319115583
+pg key
+#1319116500
+cd
+#1319116501
+cdm
+#1319116506
+cd TOOLS/1music/
+#1319116510
+cd mp3
+#1319116516
+cd M
+#1319116518
+cd MP3_2/
+#1319116567
+chown root:root .aMule/
+#1319116577
+chmod 700 .aMule/
+#1319116580
+ll .aMule/
+#1319116590
+ll -d .aMule/
+#1319116551
+su
+#1319116595
+cd .aMule/
+#1319116637
+pg key
+#1319116641
+kill 3305
+#1319116657
+keynav 
+#1319116788
+cd
+#1319116790
+cdbot
+#1319116792
+cd wm/
+#1319116794
+cd keynav/
+#1319116803
+vi README 
+#1319116806
+lla
+#1319116813
+cdbo
+#1319116815
+lla
+#1319116818
+vi exclude.list 
+#1319116827
+cdbot
+#1319116830
+cd wm/keynav/
+#1319117278
+gvlc
+#1319117315
+vi /etc/sysconfig/selinux
+#1319117382
+cdbot
+#1319117399
+mkdir selinux
+#1319117401
+cd selinux/
+#1319117408
+g note.txt
+#1319117420
+jj
+#1319117543
+gnome-terminal --usage
+#1319117832
+xdotool | less
+#1319117957
+s turail
+#1319117968
+s turi
+#1319117974
+s tutur
+#1319118127
+cdbot
+#1319118131
+cd browser/
+#1319118133
+cd firefox/
+#1319118136
+touch *
+#1319118141
+vi firefox.notes.txt 
+#1319118150
+git status
+#1319118166
+fg 1
+#1319118171
+g firefox.notes.txt 
+#1319118172
+fg
+#1319118785
+git status firefox.notes.txt 
+#1319116524
+mpg123 --title -C -Z *
+#1319118976
+cd avril/
+#1319119026
+cat readme 
+#1319119471
+vbs
+#1319119681
+pg key
+#1319119685
+kill 3539
+#1319119687
+keynav 
+#1319119719
+pg key
+#1319119722
+kill 5023
+#1319119724
+keynav 
+#1319119740
+pg key
+#1319119751
+kill 5046; keynav
+#1319119791
+pg key
+#1319119796
+kill 5066; keynav
+#1319119841
+pg key
+#1319119845
+kill 5074; keynav
+#1319120271
+pg key
+#1319120277
+kill 5091; keynav
+#1319113334
+mutt
+#1319121087
+pg key
+#1319121091
+kill 5211
+#1319121096
+keynav 
+#1319121545
+gnome-terminal --hlep
+#1319121549
+gnome-terminal --help
+#1319121554
+gnome-terminal --help-all
+#1319121649
+wh gnome
+#1319121657
+pg gnome
+#1319121662
+pg gnome-ter
+#1319121698
+gnome-terminal --help-all
+#1319121713
+gnome-terminal --title=GTW
+#1319121726
+pg gnome-ter
+#1319121847
+gnome-terminal --hide-menubar --geometry=100x32 --working-directory=~
+#1319121861
+gnome-terminal --hide-menubar --geometry=100x32 --working-directory=~ --title=GTW
+#1319121867
+e gnome-terminal --hide-menubar --geometry=100x32 --working-directory=~ --title=GTW
+#1319121869
+vbs
+#1319119479
+vbs
+#1319121980
+.s
+#1319121982
+gto
+#1319121984
+vbs
+#1319121995
+.s
+#1319121996
+gto
+#1319122017
+pg key
+#1319122030
+kill 5326; keynav
+#1319122399
+g doc.txt 
+#1319117303
+su
+#1319122611
+pg key
+#1319122614
+kill 5734
+#1319122616
+keynav 
+#1319122651
+n支持、多显示器的支持、widgets等。我建议初学者用用awesome (2.3)。awesome（2系列）的配置比较像CSS，很好理解。awesome的wiki和maillist也很好。awesome很快就要有 awesome 3 系列了，开始使用xcb，大大提高速度和效率。不过，由于awesome太新了，配置方法每天都在变。awesome3开始用lua了。不想天天折腾人使用前还是要多多考虑。
+#1319122651
+我现在在用xmonad，文中提到haskell的包很大。这一点没用错。但是，作者可能不知道的是，其实haskell的类库不是必需的，在你 “编译”完xmonad.hs之后，你其实可以去除所有的haskell包，因为你已经有了一个独立的可执行二进制文件了。只不过，你一但更改了某些设置后就没有办法在重新“编译”了。
+#1319122912
+e
+#1319122912
+v sh "xdotool key shift+Insert"
+#1319122929
+v sh "xdotool key shift+Insert"ll
+#1319122984
+wh g
+#1319122986
+g doc.txt 
+#1319122991
+vim
+#1319123021
+rm -rf keynav-0.20101014.3067
+#1319123112
+git status
+#1319123125
+git add .
+#1319123126
+git status
+#1319123143
+git add -f keynav-0.20101014.3067.tar.gz 
+#1319123145
+git status
+#1319123212
+git commit -m "用键盘完全模拟鼠标"
+#1319123262
+ 
+#1319123272
+pg fix
+#1319123279
+pg fic
+#1319123297
+pg fc
+#1319123304
+kill -9 2528
+#1319113249
+screen
+#1319118980
+mpg123 --title -C -Z *
+#1319123312
+fcitx 
+#1319123354
+;;
+#1319123363
+pg key
+#1319123371
+gto
+#1319123379
+cdbot
+#1319123383
+git status
+#1319123393
+git add selinux/
+#1319123395
+git status
+#1319123421
+git commit -m "selinux的一些记录"
+#1319123453
+git remote -v
+#1319123460
+cd wm
+#1319123462
+cd keynav/
+#1319123479
+cat README 
+#1319123536
+cdrt
+#1319123544
+cd 
+#1319123546
+cd .rt-notes/
+#1319123550
+git status
+#1319123617
+cdl
+#1319123618
+.
+#1319123623
+cd vercol
+#1319123627
+cd git/
+#1319123629
+git status
+#1319123635
+cd rt
+#1319123637
+lll
+#1319123643
+cd rc-files/
+#1319123645
+,y
+#1319123648
+vbs
+#1319123680
+git status
+#1319123708
+git pull
+#1319123750
+git pull origin master
+#1319123792
+git status

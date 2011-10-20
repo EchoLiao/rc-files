@@ -115,6 +115,9 @@ set attach_format = "%u%D%I %t%4n %T%.40d%> [%.7m/%.10M, %.6e%?C?, %C?, %s] "
 set attach_sep = "\n"
 set attach_split = yes
 
+#alternative_order text/plain text/html *
+alternative_order text/enriched text/plain text application/postscript image/*
+
 # Colors
 #color  obj         front           back
 #----- ------------ --------------- ---------
@@ -192,6 +195,7 @@ macro index  ,gt      "c=inbox/tge3636.126\r"
 macro pager  ,gt      "c=inbox/tge3636.126\r"
 
 macro index,pager ,ebl  ":set from=tge3636@126.com\r:set edit_headers=yes\r:set realname=NuoErlz\r"
+macro index,pager ,ebn  ":set from=nuoerlz@gmail.com\r:set edit_headers=yes\r:set realname=NuoErlz\r"
 
 ## 告诉 Mutt 你已经订阅了那些邮件列表(mailing-list).
 subscribe websites@lists.fedoraproject.org|chinese@lists.fedoraproject.org|linux-kernel@vger.kernel.org
