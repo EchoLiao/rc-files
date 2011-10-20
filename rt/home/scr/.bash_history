@@ -85246,3 +85246,59 @@ git pull
 git pull origin master
 #1319123792
 git status
+#1319123806
+git add .
+#1319123808
+git status
+#1319123845
+lla
+#1319123855
+vi .gitignore
+#1319123862
+git status
+#1319123900
+git reset rt/home/scr/.subversion/
+#1319123905
+git status
+#1319123931
+git add .gitignore 
+#1319123933
+git status
+#1319123948
+git commit -m "bashrc"
+#1319123956
+git status
+#1319123960
+git pull origin master
+#1319123991
+vbs
+#1319124022
+.s
+#1319124027
+cdsls 
+#1319124034
+cdlswold
+#1319124042
+vi ~/.muttrc 
+#1319124108
+git status
+#1319124130
+git checkout rt/home/scr/.subversion/README.txt 
+#1319124133
+git status
+#1319124204
+git push origin master
+#1319124284
+git add .
+#1319124286
+git status
+#1319124301
+git commit -m "bookmark"
+#1319124310
+git push origin master
+#1319124400
+mv .keynavrc .rt/vercol/git/rc-files/rt/home/scr/
+#1319124410
+ln -s .rt/vercol/git/rc-files/rt/home/scr/.keynavrc .
+#1319124416
+git status
