@@ -1,3 +1,7 @@
 # 当在 mutt 中查看邮件时, 邮件内容是 html 格式的, 则用lynx解释并在 mutt 显示; 
 # 若没有下面这一行, 则用默认的浏览器(如: firefox)打开.
 text/html; lynx --dump %s; nametemplate=%s.html; copiousoutput
+
+# 在 mutt 中查看 msword
+application/msword; wvHtml --charset=gb2312 %s - | lynx --dump -stdin; nametemplate=%s.html; copiousoutput
+
