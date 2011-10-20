@@ -21,6 +21,21 @@ export XMODIFIERS="@im=fcitx"
 export GTK_IM_MODULE=xim
 export VIM=/usr/local/share/vim
 
+export  LANG=zh_CN.UTF-8;
+export  LC_CTYPE="zh_CN.UTF-8";
+export  LC_NUMERIC="zh_CN.UTF-8";
+export  LC_TIME="zh_CN.UTF-8";
+export  LC_COLLATE="zh_CN.UTF-8";
+export  LC_MONETARY="zh_CN.UTF-8";
+export  LC_MESSAGES="zh_CN.UTF-8";
+export  LC_PAPER="zh_CN.UTF-8";
+export  LC_NAME="zh_CN.UTF-8";
+export  LC_ADDRESS="zh_CN.UTF-8";
+export  LC_TELEPHONE="zh_CN.UTF-8";
+export  LC_MEASUREMENT="zh_CN.UTF-8";
+export  LC_IDENTIFICATION="zh_CN.UTF-8";
+export  LC_ALL=
+
 ## 命令提示符
 #export PS1='[\!\#\u\$\\\d\h\n\nnn\s\t\W\w]$'
 if [ `whoami` == "root" ]; then
@@ -67,7 +82,13 @@ alias ...='cd ../../'
 alias ....='cd ../../../'
 alias cd19='cd /media/N/l2this/.rt/book/lang/java/JSP/JSP_wlkfrmysj/src/chap19/JDBC_Driver/JavaLibrary'
 alias cdab='cd /media/E/lang/sap/0abap/all'
+alias mab='make -B'
 alias cdav='cd /home/scr/.aMule/Incoming'
+alias cd2dai128='cd /home/sre/work/ls/zzb/2dai/test-128/00-new/max21-erpdrink/'
+alias cd2dai='cd /home/sre/work/ls/zzb/2dai/max21net'
+alias cd3dai='cd /home/sre/work/ls/zzb/3dai/src/samsung2.1'
+alias cd8rt='cd /media/lb/N/l2this/.rt'
+alias cdbost='cd /media/N/l2this/.rt/book/lang/java/strust'
 alias cdb='cd /home/scr/bin'
 alias cdbo='cd /home/scr/.rt/linux/computor'
 alias cdbot='cd /home/scr/.rt/linux/computor/tools'
@@ -76,6 +97,18 @@ alias cdbotvmn='cd /media/N/l2this/.rt/book/tools/vm/note/'
 alias cdbs='cd /home/scr/bin/stsc'
 alias cdbst='cd /media/N/l2this/.rt/book/lang/java/strust'
 alias cd-='cd -'
+alias cdsls='cd /home/sre/work/ls'
+alias vi='vim'
+alias fich='find .   -type f -name "*.c" -o -name "*.h" | xargs grep -n --color=ALWAYS '
+alias fichw='find .  -type f -name "*.c" -o -name "*.h" | xargs grep -n --color=ALWAYS -w '
+alias fichi='find .  -type f -name "*.c" -o -name "*.h" | xargs grep -n --color=ALWAYS '
+alias fichiw='find . -type f -name "*.c" -o -name "*.h" | xargs grep -n --color=ALWAYS -w '
+alias v='vim'
+alias mab='make -B'
+alias cdlsw='cd /home/sre/work/ls-work'
+alias cdlswold='cd /opt/sre/ls-work/zzb/2dai/net/max21-olddrink'
+alias cdlswoldn='cd /opt/sre/ls-work/zzb/2dai-ass/net/max21-olddrink'
+alias cdlswoldqb='cd /opt/sre/ls-work/zzb/2dai/net/max21-olddrink-QB'
 alias cd..='cd ..'
 alias cdif='cd /etc/sysconfig/network-scripts/'
 alias cdjs='cd /usr/share/tomcat6/webapps/ROOT/sy/'

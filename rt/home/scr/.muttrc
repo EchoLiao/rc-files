@@ -1,5 +1,7 @@
 #=========================================================================
 # http://dreamland.blog.51cto.com/417830/87510
+# http://home.ustc.edu.cn/~lixuebai/GNU/MuttConfig.html
+
 
 macro generic ,sm ":source $HOME/.muttrc\r"
 macro generic ,vm "!xterm -bg wheat -e gvim $HOME/.muttrc\r"
@@ -35,6 +37,8 @@ set charset = UTF-8
 set locale  = zh_CN.UTF-8
 
 # hook charset
+charset-hook gb2312 gb2312
+charset-hook GB2312 GB2312
 charset-hook big5 big5
 charset-hook !UTF-8 gbk
 charset-hook "^us-ascii$" "utf-8"
@@ -56,6 +60,8 @@ set to_chars=" +TCFL"
 # 增加垃圾箱, 虽然不是很完善
 folder-hook . 'macro index d "s$folder/trash\r"'
 folder-hook $folder/trash 'bind index d delete-message'
+
+alternative_order text/plain text/html *
 
 # Set header
 ignore headers *
@@ -158,7 +164,7 @@ set encode_from = yes
 # send hook
 ##所有我可能会用到的邮箱 
 send-hook  . 'set sendmail="/usr/local/msmtp/bin/msmtp"'
-alternates "nuoerlz@gmail.com|tge3636@126.com|lcy3636@126.com"
+alternates "nuoerlz@gmail.com|tge3636@126.com|lcy3636@126.com|liaocaiyuan@thunder.com.cn"
 set from="nuoerlz@gmail.com"    #默认的发信人 
 set use_from=yes                #mutt自动生成from地址 
 set use_from=yes                #mutt自动生成from地址 
@@ -193,6 +199,8 @@ macro index  ,gl      "c=inbox/lcy3636.126\r"
 macro pager  ,gl      "c=inbox/lcy3636.126\r"
 macro index  ,gt      "c=inbox/tge3636.126\r"
 macro pager  ,gt      "c=inbox/tge3636.126\r"
+macro index  ,gh      "c=inbox/thunder\r"
+macro pager  ,gh      "c=inbox/thunder\r"
 
 macro index,pager ,ebl  ":set from=tge3636@126.com\r:set edit_headers=yes\r:set realname=NuoErlz\r"
 macro index,pager ,ebn  ":set from=nuoerlz@gmail.com\r:set edit_headers=yes\r:set realname=NuoErlz\r"
