@@ -7,7 +7,7 @@ macro generic ,sm ":source $HOME/.muttrc\r"
 macro generic ,vm "!xterm -bg wheat -e gvim $HOME/.muttrc\r"
 
 # user
-set realname = "LiaoCaiYuan"
+set realname = "erlz nuo"
 
 # folder & spool
 set spoolfile = ~/.Mail/inbox/nuoerlz.gmail/
@@ -185,22 +185,24 @@ set reverse_name=yes            #用哪个邮箱收的信, 就用哪个邮箱回
 #send-hook  . 'my_hdr reply-to:nuoerlz@gmail.com'
 
 # key binding
-macro index  ,G   "!~/.getmail/getmail\n"   "Invoke getmail"
-macro pager  ,G   "!~/.getmail/getmail\n"   "Invoke getmail"
+macro index  ,ehd     ":set edit_headers=yes\r"
+macro index  ,ehn     ":set edit_headers=no\r"
+macro index  ,G       "!~/.getmail/getmail\n"   "Invoke getmail"
+macro pager  ,G       "!~/.getmail/getmail\n"   "Invoke getmail"
 macro index  ,gp      "c=postponed\r"
 macro index  ,gp      "c=postponed\r"
 macro index  ,gs      "c=sent\r"
 macro index  ,gs      "c=sent\r"
 macro index  ,gr      "c=trash\r"
 macro index  ,gr      "c=trash\r"
-macro index  ,gi      "c!\n" "Go to Inbox"
-macro pager  ,gi      "c!\n" "Go to Inbox"
-macro index  ,gl      "c=inbox/lcy3636.126\r"
-macro pager  ,gl      "c=inbox/lcy3636.126\r"
-macro index  ,gt      "c=inbox/tge3636.126\r"
-macro pager  ,gt      "c=inbox/tge3636.126\r"
-macro index  ,gh      "c=inbox/thunder\r"
-macro pager  ,gh      "c=inbox/thunder\r"
+macro index  ,gi      "c!\n:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz nuo\"\r"
+macro pager  ,gi      "c!\n:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz nuo\"\r"
+macro index  ,gl      "c=inbox/lcy3636.126\r:set from=lcy3636@126.com\r:set edit_headers=no\r:set realname=NuoErlz\r"
+macro pager  ,gl      "c=inbox/lcy3636.126\r:set from=lcy3636@126.com\r:set edit_headers=no\r:set realname=NuoErlz\r"
+macro index  ,gt      "c=inbox/tge3636.126\r:set from=tge3636@126.com\r:set edit_headers=no\r:set realname=NuoErlz\r"
+macro pager  ,gt      "c=inbox/tge3636.126\r:set from=tge3636@126.com\r:set edit_headers=no\r:set realname=NuoErlz\r"
+macro index  ,gh      "c=inbox/thunder\r:set from=liaocaiyuan@thunder.com.cn\r:set edit_headers=no\r:set realname=LiaoCaiYuan\r"
+macro pager  ,gh      "c=inbox/thunder\r:set from=liaocaiyuan@thunder.com.cn\r:set edit_headers=no\r:set realname=LiaoCaiYuan\r"
 
 macro index,pager ,ebl  ":set from=tge3636@126.com\r:set edit_headers=yes\r:set realname=NuoErlz\r"
 macro index,pager ,ebn  ":set from=nuoerlz@gmail.com\r:set edit_headers=yes\r:set realname=NuoErlz\r"
