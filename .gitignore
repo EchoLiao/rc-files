@@ -1,1 +1,4 @@
-.subversion
+.subversion/auth/*
+*.swp
+*.swo
+*~
