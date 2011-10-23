@@ -12,7 +12,7 @@ fi
 #export CLASSPATH=$CLASSPATH:/media/N/l2this/.rt/book/lang/java/JSP/JSP_wlkfrmysj/src/chap07/mysql/mysql_gjt.jar
 
 ## 对所有用户都有效的环境变量保存在 /etc/profile 中.
-export PATH=$HOME/bin/rox-filer/ROX-Filer:$HOME/bin:$PATH
+export PATH=$HOME/bin:$PATH
 export CATALINA_HOME=/usr/share/tomcat6/
 export EDITOR=vim #set for svn
 export SVN_EDITOR=vim #set for svn
@@ -89,6 +89,7 @@ alias cdab='cd /media/E/lang/sap/0abap/all'
 alias cdav='cd /home/scr/.aMule/Incoming'
 alias cdb='cd /home/scr/bin'
 alias cdbo='cd /home/scr/.rt/linux/computor'
+alias cdbosh='cd /home/scr/.rt/linux/computor/lang/shell'
 alias cdbost='cd /media/N/l2this/.rt/book/lang/java/strust'
 alias cdbot='cd /home/scr/.rt/linux/computor/tools'
 alias cdbotvm='cd /media/N/l2this/.rt/book/tools/vm'
@@ -137,6 +138,8 @@ alias cdue3='cd /media/N/l2this/.rt/book/tools/shell/UPT/e3'
 alias cdun='cd /media/N/l2this/.rt/book/TCP-IP/unpv1/unpv13e/src/unpv13e'
 alias cdv='cd /usr/local/share/vim'
 alias cdvcrc='cd ~/.rt/vercol/git/rc-files'
+alias cdvcrtbo='cd /home/scr/.rt/vercol/git/rt-notes/linux/computor'
+alias cdvcrtbot='cd /home/scr/.rt/vercol/git/rt-notes/linux/computor/tools'
 alias cdvcrt='cd ~/.rt/vercol/git/rt-notes'
 alias cdvf='cd /usr/local/share/vim/vimfiles/'
 alias cdvmn='cd /media/N/l2this/.rt/book/tools/vm/note/'
@@ -187,9 +190,12 @@ alias gitls='git log --stat'
 alias gitpl='git pull origin master'
 alias gitps='git push origin master'
 alias gits='git status'
+alias gitsl='git status | less'
 alias gitst='git status'
+alias got='gnome-terminal --hide-menubar --geometry=100x32 --working-directory=~ --title=GOT'
 alias gt='gnome-terminal --hide-menubar --geometry=100x32 --working-directory=~'
-alias gto='gnome-terminal --hide-menubar --geometry=100x32 --working-directory=~ --title=GTW'
+alias gto='gnome-terminal --hide-menubar --geometry=100x32 --working-directory=~ --title=GOT'
+alias gtw='gnome-terminal --hide-menubar --geometry=100x32 --working-directory=~ --title=GOT'
 alias gvbkf='gvim /home/scr/bin/bk/app_new_filelists.txt'
 alias gvbs='gvim ~/.bashrc'
 alias gvfi='gvim /media/N/l2this/.rt/notes/note/linux/note/note/02files_introduce.txt'
