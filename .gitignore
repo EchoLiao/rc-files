@@ -1,4 +1,1 @@
-.subversion/auth/*
-*.swp
-*.swo
-*~
+/home/scr/.gitignore
