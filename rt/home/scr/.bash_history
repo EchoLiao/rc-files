@@ -85302,3 +85302,1965 @@ mv .keynavrc .rt/vercol/git/rc-files/rt/home/scr/
 ln -s .rt/vercol/git/rc-files/rt/home/scr/.keynavrc .
 #1319124416
 git status
+#1319124419
+git add .
+#1319124420
+git status
+#1319124492
+git commit -m "keynav 用键盘完全模拟鼠标"
+#1319124496
+git status
+#1319124503
+git push origin master
+#1319127094
+pg key
+#1319127097
+kill 5951
+#1319127217
+ii
+#1319127220
+i
+#1319127223
+ii
+#1319127237
+pg key
+#1319127250
+kill 2363
+#1319127251
+pg key
+#1319127267
+pg mo
+#1319127272
+pg mou
+#1319127300
+kill 69
+#1319127302
+pg mou
+#1319127309
+kill -9 69
+#1319127311
+pg mou
+#1319127313
+kill -9 69
+#1319127317
+kill -0 69
+#1319127320
+pg mou
+#1319127339
+kill -l
+#1319127344
+kill -2 69
+#1319127346
+pg mou
+#1319127428
+ii
+#1319127847
+mutt
+#1319127296
+su
+#1319128009
+cd
+#1319128012
+ex .
+#1319128293
+rm *.jpg
+#1319128374
+ ls
+#1319128376
+rm *.jpg
+#1319128382
+rm *png
+#1319128402
+chmod 777 .aMule/
+#1319127880
+mutt
+#1319128411
+cd .aMule/
+#1319128414
+cd TDDOWNLOAD/
+#1319128419
+ex .
+#1319129717
+halt
+#1319123375
+screen
+#1319127857
+mutt
+#1319128385
+su
+#1319198273
+ff&
+#1319198304
+mutt
+#1319198276
+mutt
+#1319199737
+cd .Mail/
+#1319199761
+ff http://www.vim.org/script.php?script_id=173
+#1319200023
+keynav 
+#1319200036
+g yum_list.txt 
+#1319200238
+cdrt
+#1319200245
+cd .rt-notes/
+#1319200253
+git status
+#1319200277
+cd
+#1319200279
+cdrt
+#1319200280
+lla
+#1319200282
+cd vercol-hub/
+#1319200287
+lla
+#1319200292
+cd vercol
+#1319200293
+cd git/
+#1319200295
+cd rc-files/
+#1319200298
+git status
+#1319200315
+git pull origin master
+#1319200274
+git pull origin master
+#1319200356
+.s
+#1319200360
+cdvcrrt
+#1319200364
+cdvcrt
+#1319200375
+cdvcrc
+#1319200408
+ln -s ../../../.rt-notes/ rt-notes
+#1319200409
+lla
+#1319200415
+cdvcrt
+#1319200421
+pwdp
+#1319200429
+cdvcrc
+#1319200441
+lla
+#1319200442
+ds .git
+#1319200450
+.s
+#1319199738
+mutt
+#1319200515
+.s
+#1319200517
+vbs
+#1319200564
+ii
+#1319200580
+cat README 
+#1319200588
+cdbot
+#1319200592
+git status
+#1319200618
+cd file-manager/
+#1319200630
+ll sunflower/
+#1319200632
+cd rox-filer/
+#1319200689
+ro
+#1319200691
+rox
+#1319200695
+wh rox
+#1319200698
+vbs
+#1319200728
+rox
+#1319200731
+wh rox
+#1319200737
+vbs
+#1319200759
+gt
+#1319200765
+gto
+#1319200770
+wh rox
+#1319200864
+cdb
+#1319200868
+svn st
+#1319200883
+ll keynav 
+#1319200907
+cd rox-filer/
+#1319200911
+ll 0install/
+#1319200924
+cd Choices/
+#1319200927
+ll MIME-types/
+#1319200932
+cd ROX-Filer/
+#1319200947
+ll 0install/
+#1319200953
+vi README
+#1319201011
+ll ROX-Filer/
+#1319201054
+rox
+#1319200637
+vi install.env 
+#1319201289
+git status
+#1319201291
+.s
+#1319201292
+gits
+#1319201314
+ds .svn
+#1319201326
+svn st
+#1319201330
+svn add rox-filer/
+#1319201342
+svn st
+#1319201345
+svn st | less
+#1319201444
+cdb
+#1319201446
+svn st
+#1319201451
+svn st | grep ?
+#1319201456
+g rtnote2rt.sh 
+#1319201508
+file README 
+#1319201512
+file install.env 
+#1319201396
+svn commit -m '轻量级文件管理器'; svn up
+#1319201811
+gits
+#1319201830
+gitl
+#1319201837
+gits
+#1319201852
+gitlp
+#1319201861
+gitl
+#1319201877
+gits
+#1319201896
+lll
+#1319201904
+cdvcrt 
+#1319201909
+pwdp
+#1319201923
+cd linux/computor/tools/
+#1319201931
+,y
+#1319201934
+vbs
+#1319201981
+.s
+#1319201988
+cdvcrtbot
+#1319202017
+cd vercol/git/notes/
+#1319202021
+cd github/
+#1319202026
+g 01.txt 
+#1319202031
+g 01git使用笔记.txt 
+#1319202066
+gitl
+#1319202068
+wh gitl
+#1319202070
+gil
+#1319202074
+gitl
+#1319202092
+gits
+#1319202110
+cdvcrt
+#1319202111
+gits
+#1319202117
+lla
+#1319202163
+cd ../../../linux/
+#1319202167
+cd computor/
+#1319202189
+cp exclude.list ~/.gitignore
+#1319202190
+lla
+#1319202196
+cd-
+#1319202202
+cdvcrt
+#1319202205
+gits
+#1319202216
+cp ~/.gitignore .
+#1319202218
+gits
+#1319202227
+vi .gitignore 
+#1319202246
+gits
+#1319202252
+git add .gitignore 
+#1319202255
+gits
+#1319202271
+git commit -m "add .gitignore"
+#1319202273
+gits
+#1319202277
+gitl
+#1319202294
+gits
+#1319202321
+git pull origin master
+#1319202343
+gitl
+#1319202394
+gvlc
+#1319202452
+m find
+#1319202817
+gvlc
+#1319203124
+rt2rtnote.sh 
+#1319203299
+rt2rtnote.sh s
+#1319203334
+rt2rtnote.sh 
+#1319203344
+m fild
+#1319203348
+m find
+#1319203376
+rt2rtnote.sh 
+#1319203432
+gits
+#1319203440
+gits | less
+#1319203502
+cat README 
+#1319203507
+gits
+#1319203518
+cat .gitignore 
+#1319203540
+vbs
+#1319203546
+vi .gitignore 
+#1319203555
+gits
+#1319203561
+vi .gitignore 
+#1319203582
+gits
+#1319203587
+vi .gitignore 
+#1319203602
+gits
+#1319203864
+,, ,,, ,,,, \: \! . .. ... .... \[ \[\[ ]] \{ } a2p a52dec ab ac accept accessdb accton aclocal aclocal-1.11 aclocal-1.4 aclocal-1.5 aclocal-1.6 aclocal-1.7 aconnect acpi_listen activation-client adddebug addftinfo addgnupghome addpart addr2line adplugdb advdef advmng advpng advzip affixcompress afs5log agetty akonadi2xml akonadi_birthdays_resource akonadiconsole akonadi_contacts_resource akonadi_control akonadictl akonadi_ical_resource akonadi_imap_resource akonadi_kabc_resource akonadi_kcal_resource akonadi_knut_resource akonadi_kolabproxy_resource akonadi_localbookmarks_resource akonadi_maildir_resource akonadi_maildispatcher_agent akonadi_mailtransport_dummy_resource akonadi_mbox_resource akonadi_microblog_resource akonadi_nepomuk_calendar_feeder akonadi_nepomuk_contact_feeder akonadi_nepomuktag_resource akonadi_nntp_resource akonadi_notes_resource akonadi_pop3_resource akonadi_rds akonadiserver akonaditray akonadi_vcarddir_resource akonadi_vcard_resource akregator akregatorstorageexporter alias align_image_stack alsactl alsa_in alsa-info alsa-info.sh alsamixer alsa_out alsaunmute alternatives amarok amarok_afttagger amarokcollectionscanner amarokmp3tunesharmonydaemon amarokpkg amidi amixer amuFormat.sh anacron analyze animate annotate-output ant anthy-agent anthy-dic-tool anthy-morphological-analyzer antlr antRun apachectl aplay aplaymidi appletviewer applydeltarpm applygnupgdefaults appres AppRun apropos apt ar arch arecord arecordmidi ark arm-koji arp arp1 arpaname arpd arping artscat artsd artsdsp artsplay artsrec artsshell artswrapper as ascii-xfr aseqdump aseqnet aserver ask aspell assistant_adp assistant-qt4 at atd aterm atq atrm atrun attr audit2allow audit2why aulast aulastlog aureport ausearch ausyscall authconfig authconfig-gtk authconfig-tui autoconf autoheader autom4te automake automake-1.11 automake-1.4 automake-1.5 automake-1.6 automake-1.7 automoc4 autooptimiser autopoint autoreconf autoscan autoupdate av7110_evtest av7110_loadkeys avahi-autoipd avahi-daemon avcstat awk azap b43-fwcutter badblocks baobab base64 base_change.sh basename bash bashbug-64 batch bc bcc2h bccmd bce bch2b bch2c bdftopcf bdftops berkeley_db47_svc bg bind biosdecode bison bittorrent-console bittorrent-curses bittorrent-tracker blkid blockdev blogilo bluetooth-applet bluetoothd bluetooth-properties bluetooth-sendto bluetooth-wizard bodhi bomber bonobo-activation-run-query bonobo-activation-sysconf bonobo-browser botti bovo brasero break btseed bttrack bugzilla build-classpath build-classpath-directory build-jar-repository build-progress.sh builtin bunzip2 bw.sh byacc bzcat bzcmp bzdiff bzgrep bzip2 bzip2recover bzless bzmore bzr c++ c2ph c89 c99 cacertdir_rehash cadaver cagibid cal calibrate_lens caller callgrind_annotate callgrind_control canberra-gtk-play cancel cancel.cups capsh captoinfo card_eventmgr caribou case cat catchsegv catman cbq cc ccache ccache-swig cciss_id ccmake cd cd- cd.. cd19 cd2dai cd2dai128 cd3dai cd8rt cdab cdav cdb cdbo cdbost cdbot cdbotvm cdbotvmn cdbs cdbst cdda2ogg cdda2wav cdda-player cd-drive cdif cd-info cdjs cdl cdlc cdlcm cdlcn cdldd cdlib cdlk cdln cdlnc cdlsw cdlswold cdlswoldn cdlswoldqb cdlv cdm cdme cdmf cdmi cdmib cdmin cdmis cdmn cdn cdnvim cdparanoia cd-paranoia cdrdao cd-read cdrecord cdrk cdrt cds cdse cdsls cdsvnn cdtin cdtis cdtrash cdue3 cdun cdv cdvcrc cdvcrt cdvf cdvmn cdvp cdvrf cdvt cdx celeste_standalone celtdec celtenc certutil certwatch cervisia cfdisk cfg-clex c++filt cg_annotate cgclassify cgclear cgconfigparser cgcreate cgdelete cgexec cgget cg_merge cgrulesengd cgset chacl chage chainsaw changetracker-console charmap chat chattr chcat chcon cheatmake checkbashisms check-binary-files checkmodule checkpolicy check-regexp checkXML cheese chfn chgrp chkconfig chklg chm chm2html64 chmdo chm_http chmod chmodd chmodf chmorph chms chown chpasswd chroot chrt chsh chvt chx chxx ci cifs.upcall ciptool cisco-decrypt ck-history ck-launch-session ck-list-sessions ck-log-system-restart ck-log-system-start ck-log-system-stop cksum ck-xinit-session clean-binary-files cleanup_digikamdb clear clex clibrary clibrary2 clock clockdiff cloog cmake cmd cmp cmsutil co col colcrt collateindex.pl colorsvn colrm column combinedeltarpm combinediff comm command compare compgen compile_et compiz compiz-gtk complete compopt composite conjure connection_recovery consolehelper consolehelper-gtk console-kit-daemon consoletype continue convert convertquota coproc cp cpack cpan cpclean cpio cpp cpp2html cpufreq-selector cpuspeed cracklib-check cracklib-format cracklib-packer cracklib-unpacker crda create-branching-keyboard create-cracklib-dict create_cvsignore create-jar-links create_makefile create_makefiles createPYMB createrepo create_svnignore crlutil crond crontab cryptsetup cscope cscopecpp.sh cscopec.sh cscope-indexer cscopej.sh cscopesql.sh csplit csslint-0.6 ctags ctagsc_curdir.sh ctagscpp2.sh ctagscpp.sh ctagsc.sh ctagsj.sh ctagsR.sh ctagsTCFSC.sh ctest ctrlaltdel cue2toc cupsaccept cupsaddsmb cupsctl cupsdisable cupsenable cupsfilter cupsreject cupstestdsc cupstestppd curl curl-config cut cuttail cvs cvsaddcurrentdir cvsaskpass cvsbackport cvsblame cvsbug cvscheck cvs-clean cvsforwardport cvslastchange cvslastlog cvsrevertlast cvsservice cvsversion cvt cxpm cxxmetric czap dash date db2html db2rtf db47_archive db47_checkpoint db47_codegen db47_deadlock db47_dump db47_hotbackup db47_load db47_printlog db47_recover db47_stat db47_upgrade db47_verify db_archive db_checkpoint db_deadlock db_dump db_dump185 db_hotbackup dbilogstrip dbiprof dbiproxy db_load db_printlog db_recover db_sql db_stat db_upgrade dbus-binding-tool dbus-cleanup-sockets dbus-cxx-introspect dbus-cxx-xml2cpp dbus-daemon dbus-launch dbus-monitor dbus-send dbus-uuidgen dbusxx-introspect dbusxx-xml2cpp db_verify dc dc_client dconf dc_server dc_snoop dc_test dd ddate ddns-confgen deallocvt debugfs debuginfo-install declare deghosting_mask dehtmldiff deja-dup deja-dup-preferences delpart demangle deplate depmod designer-qt4 desktop-effects desktop-file-install desktop-file-validate devdump devhelp devkit-disks devkit-power df dfutool dhclient dhclient-script dialog diff diff3 diff-jars diffstat dig digikam digitaglinktree dir dircolors dirname dirs disable-paste disown display display-buttons display-coords django-admin djetty dltest dm_dso_reg_tool dmesg dmeventd dmevent_tool dmidecode dmraid dmraid.static dmsetup dngconverter dnsdomainname dnsmasq dnssec-dsfromkey dnssec-keyfromlabel dnssec-keygen dnssec-revoke dnssec-settime dnssec-signzone do docbook2html docbook2man docbook2rtf docbook2tex docbook2texi docbook2txt dolphin domainname done dongle_attach dos2unix dos2unix.sh dosfsck dosfslabel double do_with_vim.sh doxygen doxytag dprof2calltree dprofpp dracut dragon ds du dump dump-acct dumpe2fs dumphint dumpiso dumpkeys dumpsexp dump-utmp duplicity dvbdate dvbnet dvbtraffic dvcont dvd-ram-control dvdrecord dvd+rw-booktype dvd+rw-format dvd+rw-mediainfo dvipdf dwell-click-applet e e2freefrag e2fsck e2image e2label e2undo echo eclipse ed edid-decode editdiff editres edquota eet efibootmgr efj egrep eject elbadmin elfedit elif elinks else empathy empathy-accounts empathy-debugger enable enblend enc2xs enca enchant enchant-lsmod enconv enfuse enum_chmLib enumdir_chmLib env envsubst eog eps2eps epylint eqn eqn2graph erb esac e.sh espdiff espeak ether-wake eu-addr2line eu-ar eu-elfcmp eu-elflint eu-findtextrel eu-make-debug-archive eu-nm eu-objdump eu-ranlib eu-readelf eu-size eu-strings eu-strip eu-unstrip eval eval_t.sh evas_cserve evas_cserve_tool eventlogadm eview evim evince evince-previewer evince-thumbnailer evolution evolution-settings ex exec execstack exiftool exit expand expoblending export exportfs expr extcheck extend_dmalloc extract_a52 extractattr extract_chmLib extractqml extractrc exv f95 factor faillog faked faked-sysv faked-tcp fakeroot fakeroot-sysv fakeroot-tcp fallocate false fastjar fc fc-cache fc-cat fcitx fc-list fc-match fc-query fc-scan fd fdformat fdisk fedora-burn-yubikey fedora-cert fedora-cvs fedoradev-pkgowners fedora-easy-karma fedora-getsvn fedora-hosted fedora-packager-setup fedpkg femon festival festival_client festival_server festival_server_control festival-synthesis-driver fetch_file fetchmail ff ffbs fflatex ffsvn fftwf-wisdom fftwl-wisdom fftw-wisdom fftw-wisdom-to-conf fg fg. fgconsole fgd fgf fgrep fgx fi fich fichi fichiw fichw fie fif file filefrag file-roller filterdiff find find2perl find_break_num.awk.sh findchip findcon findfs find-jar findmissingcrystal findmnt find-repos-of-install findsmb find_svn-vss_files.sh finger fipscheck fipshmac fiq firefox firstboot fixcvsdiff fixfiles fix-include.sh fixkdeincludes fixuifiles fl flac flex flex++ flipdiff flite flite_time flock floppy fmt fold font2c fonttosfnt fop for formail fpaste fprintd-delete fprintd-enroll fprintd-list fprintd-verify free freetype-config fribidi fsck fsck.cramfs fsck.ext2 fsck.ext3 fsck.ext4 fsck.ext4dev fsck.msdos fsck.vfat fsck.xfs fsfreeze fstab-decode fstr fsview ftp fulla function funzip fuser fusermount fvwm fvwm2 fvwm-bug FvwmCommand fvwm-config fvwm-convert-2.4 fvwm-convert-2.6 fvwm-menu-desktop fvwm-menu-directory fvwm-menu-headlines fvwm-menu-xlock fvwm-perllib fvwm-root fxload g g++ gawk gcalccmd gcalctool gcc gcj-dbtool gcm-apply gcm-dump-edid gcm-dump-profile gcm-fix-profile gcm-import gcm-inspect gcm-install-system-wide gcm-prefs gcm-session gconf-merge-tree gconftool-2 gcore gcov gdb gdb-add-index gdbtui gdbus gdiffmk gdk-pixbuf-csource gdk-pixbuf-query-loaders-64 gdlib-config gdm gdm-binary gdmflexiserver gdm-screenshot ge gedit gegl gencat gendiff generate_tempname.sh genhomedircon genhostid genisoimage genkdmconf genkey genrandom geodatatest geoiplookup geoiplookup6 geoipupdate geqn GET getcap getconf getenforce getent getfacl getfattr getkey getkeycodes getmail getmail_fetch getmail_maildir getmail_mbox getopt getopts getpcaps getsebool gettext gettextize gettext.sh get-versions gfortran ghostscript gij gimp gimp-2.6 gimp-console gimp-console-2.6 gimp-remote gimp-remote-2.6 gindxbib gio-querymodules-64 g-ir-compiler g-ir-generate g-ir-scanner git gitd gitdf gitdl gitl gitlo gitlp gitls gitpl gitps git-receive-pack gits git-shell gitst git-upload-archive git-upload-pack gjar gjarsigner gkeytool glade-3 glewinfo glib-compile-schemas glib-config glib-genmarshal glib-gettextize glib-mkenums global globash glookbib glxgears glxinfo gmake gmimeuudecode gmimeuuencode gneqn gnochm gnome-about gnome-about-me gnome-appearance-properties gnome-at-mobility gnome-at-properties gnome-at-visual gnome-audio-profiles-properties gnome-autogen.sh gnome-calculator gnome-character-map gnome-control-center gnome-default-applications-properties gnome-desktop-item-edit gnome-dictionary gnome-display-properties gnome-display-properties-install-systemwide gnome-doc-common gnome-doc-prepare gnome-doc-tool gnome-dvb-control gnome-dvb-daemon gnome-dvb-setup gnome-file-share-properties gnome-font-viewer gnome-help gnome-keybinding-properties gnome-keyboard-properties gnome-keyring gnome-keyring-daemon gnome-mouse-properties gnome-network-properties gnome-open gnome-panel gnome-panel-screenshot gnome-pilot-make-password gnome-power-backlight-helper gnome-power-bugreport.sh gnome-power-manager gnome-power-preferences gnome-power-statistics gnome-screensaver gnome-screensaver-command gnome-screensaver-preferences gnome-screenshot gnome-search-tool gnome-session gnome-session-properties gnome-session-save gnome-sudoku gnome-system-monitor gnome-terminal gnome-text-editor gnome-thumbnail-font gnome-typing-monitor gnomevfs-cat gnomevfs-copy gnomevfs-df gnomevfs-info gnomevfs-ls gnomevfs-mkdir gnomevfs-monitor gnomevfs-mv gnomevfs-rm gnome-volume-control gnome-volume-control-applet gnome-window-properties gnome-wm gnomine gnote gnroff gnugo gobject-query gok gorbd gozilla gpasswd gpg gpg2 gpg-agent gpgconf gpg-connect-agent gpg-error gpg-error-config gpgkey2ssh gpgparsemail gpgsplit gpgv gpgv2 gpg-zip gpic gpilotd-control-applet gpilotd-session-wrapper gpilot-install-file gpm gpm-root gprof gpsctl gpsd gpsmon gpsprof granatier grap2graph graph grefer grep grepdiff grepjar grmic grmid grmiregistry grn grodvi groff grolbp grolj4 grops grotty groups groupwarewizard groupwisewizard growisofs grpck grpconv grpunconv grub grubby grub-crypt grub-install grub-md5-crypt grub-terminfo gs gsbj gsdj gsdj500 gserialver gsettings gsettings-data-convert gsettings-schema-convert gslj gslp gsnd gsoelim gss-client gss_clnt_send_err gss_destroy_creds gssdp-device-sniffer gss-server gstack gst-feedback gst-feedback-0.10 gst-inspect gst-inspect-0.10 gst-launch gst-launch-0.10 gst-typefind gst-typefind-0.10 gst-xmlinspect gst-xmlinspect-0.10 gst-xmllaunch gst-xmllaunch-0.10 gt gtags gtags-cscope gtar gtbl gtester gtester-report gtf gtk3-demo gtk-builder-convert gtk-builder-convert-3.0 gtk-config gtk-demo gtkdoc-check gtkdoc-depscan gtkdoc-fixxref gtkdocize gtkdoc-mkdb gtkdoc-mkhtml gtkdoc-mkman gtkdoc-mkpdf gtkdoc-mktmpl gtkdoc-rebase gtkdoc-scan gtkdoc-scangobj gtkdoc-scanobj gtkhtml-editor-test gtk-query-immodules-2.0-64 gtk-query-immodules-3.0-64 gtk-update-icon-cache gtk-update-icon-cache-3.0 gtk-window-decorator gtnameserv gto gtroff gucharmap guile guile-tools gunzip gupnp-binding-tool gvbkf gvbs gvfi gvfl gvfs-cat gvfs-copy gvfs-info gvfs-less gvfs-ls gvfs-mkdir gvfs-monitor-dir gvfs-monitor-file gvfs-mount gvfs-move gvfs-open gvfs-rename gvfs-rm gvfs-save gvfs-set-attribute gvfs-trash gvfs-tree gvhi gvhosts gvht gview gvim gvimdiff gvimtutor gvip gvlc gvnc gvns gvnt gvnw gvsp gvvl gwenview gwenview_importer gzexe gzip h h2b.sh h2ph h2xs hald hal-device hal-disable-polling hal-find-by-capability hal-find-by-property hal-get-property hal-is-caller-locked-out hal-lock hal-set-property hal-setup-keymap halt hash hc hciattach hciconfig hcitool hdparm hdsploader head HEAD help hexdump hexs2char hg hg-ssh history hltest hmac256 host hostid hostname hoststat hotshot2calltree hpftodit hsqldbRunUtil htags htcacheclean htdb_dump htdb_load htdbm htdb_stat htdig htdigest htdump HtFileType htfuzzy htload htmerge htmlview htnotify htpasswd htpurge htsearch htstat httpd httpd.event httpd.worker httxt2dbm hugin_hdrmerge hunspell hunzip hwclock hzip i i386 iagno ical2vcal iceauth icedax iconv iconvconfig iconvconfig.x86_64 id ident identify idevicebackup idevice_id ideviceimagemounter ideviceinfo idevicepair idevicescreenshot idevicesyslog idn iecset if ifcfg ifconfig ifdown ifenslave ifnames ifrename ifs ifse ifup igawk ii im-chooser imgcmp imginfo import imsettings-applet imsettings-info imsettings-list imsettings-reload imsettings-restart imsettings-start imsettings-stop imsettings-xim in includemocs indent indexcon indxbib inews info infocmp infokey infotocap init initctl innochecksum inputattach insmod insmod.static install install-catalog install-info installkernel instmodsh interdiff intltool-extract intltoolize intltool-merge intltool-prepare intltool-update invest-chart iodbctest iodbctestw iok ionice ior-decode-2 ip ip6tables ip6tables-multi ip6tables-restore ip6tables-save ipa ipcalc ipcmk ip_config.sh ipcrm ipcs ip_mac.sh ipmaddr ipod-read-sysinfo-extended iproxy iptables iptables-multi iptables-restore iptables-save iptables-xml iptc iptstate iptunnel irattach irdadump irdaping irkbd irnetd irpsion5 irqbalance irssi isc-hmac-fixup isodebug isodump isoinfo iso-info iso-read isosize isovfy ispell ispellaff2myspell isql iterator.sh iusql iw iwconfig iwevent iwgetid iwlist iwpriv iwspy j jack_cpu jack_cpu_load jackd jack_delay jack_freewheel jack_load jack_server_control jack_test jack_thru jack_unload jack_zombie jade jar jarsigner jasper jasper5-setclasspath.sh jasper5.sh java java2html javac javadoc javah javap javaws jconsole jd2fcitx jdb jetty jhat jinfo jj jmap jobs join jovie jps jrunscript js jsadebugd jspc5.sh jstack jstat jstatd juk jv-convert jvmjar jw jwhois jython jythonc k5srvutil kabc2mutt kabcclient kaccess kaddressbook kaddressbookmigrator kadmin kaffeine kaffeine-xbu kalarm kalarmautostart kapman kapplymousetheme kapptemplate karm kasumi kate katomic kbackgroundsnapshot kbanner.kss kbattleship kbd_mode kbdrate kbd-test kblackbox kblankscrn.kss kblob.kss kblocks kbluetooth kbluetooth-devicemanager kbluetooth-inputwizard kbookmarkmerger kbounce kbreakout kbugbuster kbuildsycoca4 kcachegrind kcalc kcharselect kcheckrunning kclock.kss kcminit kcminit_startup kcmshell4 kcolorchooser kconfig_compiler4 kcookiejar4 kde4 kde4-config kde4-doxygen.sh kde4-menu kdeasciiquarium.kss kdebugdialog kde-cp kded4 kdedoc kde_generate_export_header kdeinit4 kdeinit4_shutdown kdeinit4_wrapper kdekillall kdelnk2desktop.py kdemangen.pl kde-mv kde-open kdepasswd kdesnake kdesrc-build kdestroy kdesu kde-systemsettings-tree.py kdevelop kdevelop.bin kdf kdialog kdiamond kdm kdmctl kdostartupconfig4 keditbookmarks keditfiletype keuphoria.kss keyctl keynav keyrand keytool keyutil kfile4 kfind kfloppy kflux.kss kfmclient kfontinst kfontview kfountain.kss kfourinline kfourinlineproc kget kglobalaccel kgoldrunner kgpg kgpgconf kgravity.kss khelpcenter khotnewstuff4 khotnewstuff-upload kiconfinder kigo kill killall killall5 killbots killgxrj.sh killl kinfocenter kinit kioclient kio_svn_helper kiriki kjots kjs kjscmd kjumpingcube kk kleopatra klines klines.kss klipper klist klorenz.kss kmag kmahjongg kmail kmail_antivir.sh kmail_clamav.sh kmailcvt kmail_fprot.sh kmail-migrator kmail_sav.sh kmenuedit kmimetypefinder kmines kminspector kmix kmixctrl kmmatch kmousetool kmouth kmtrace knetwalk knode knotes knotify4 Kobil_mIDentity_switch koi8rxterm koji kolabwizard kolf kollision kolourpaint kompare konqueror konquest konsole konsolekalendar konsoleprofile kontact konversation kopete kopete_latexconvert.sh korgac korganizer kpartloader kpartsaver.kss kpartx kpasswd kpat kpendulum.kss kpolygon.kss kppp kppplogview kquitapp krandom.kss krandrtray krb5-auth-dialog krb5-auth-dialog-preferences krb5-config krb5-send-pr krcdnotifieritem krdb krdc kreadconfig kres-migrator kreversi krfb kross krotation.kss kruler krunner ksame kscd kscience.kss ksendemail kshell4 kshisen ksirk ksirkskineditor kslideshow.kss ksmserver ksnapshot ksolarwinds.kss kspaceduel ksplashsimple ksplashx ksplashx_scale ksquares ksshaskpass kstart kstartperf kstartupconfig4 ksu ksudoku ksvgtopng kswarm.kss ksysguard ksysguardd ksystraycmd ktesnippets_editor ktimer ktimetracker ktmagnetdownloader ktorrent ktraderclient ktrash ktron ktuberling ktupnptest ktutil kubrick kuiserver kuiviewer kunittestmodrunner kvm.kss kvno kwalletd kwalletmanager kwatchgnupg kwave.kss kwikdisk kwin kwrapper4 kwrite kwriteconfig kxsconfig kxsrun l l. l2ping la lame lancelot last lastb lastcomm lastlog launch_instance launchmany-console launchmany-curses lc lchage lchfn lchsh lconvert ld ldattach ldb3add ldb3del ldb3edit ldb3modify ldb3rename ldb3search ld.bfd ldconfig ldd ld.gold less lessecho lesskey lesspipe.sh let lex lexgrog lftp lftpget lgroupadd lgroupdel lgroupmod libart2-config libgcc_post_upgrade libgcrypt-config libglade-convert libgnutls-config libgnutls-extra-config libIDL-config-2 libieee1284_test libnetcfg libpala-puzzlebuilder libpng12-config libpng-config libtool libtoolize libwmf-fontmap licensecheck lid linc-cleanup-sockets linguist-qt4 link links linux32 linux64 list_instances listres lkbib ll ll. lla llf llr lls llsr llx llxr lm ln lnewusers lnp2h.sh lnstat loadkeys load_policy loadunimap local locale localedef locate lockdev lockfile logfactor5 logger login logname logout logresolve logrotate logsave lokalize lokkit look lookbib losetup lowercase lowntfs-3g lp lpadmin lpasswd lpc lpc.cups lp.cups lpinfo lpmove lpoptions lppasswd lpq lpq.cups lpr lpr.cups lprm lprm.cups lprsetup.sh lp_solve lpstat lpstat.cups lr lrelease lrelease-qt4 ls lsattr ls_by_column.sh lscgroup lscpu lsdiff lshal lsinitrd lskat lsmod lsof lspci lspcmcia lspgpot lssubsys lsusb lt ltrace lu lua luac luit lupdate-qt4 luseradd luserdel lusermod lv2_inspect lv2_jack_host lv2_list lv2_simple_jack_host lwp-download lwp-dump lwp-mirror lwp-request lwp-rget lwresd lx lynx lz m m17n-conv m4 ma mab mac mac2 mac2unix magnifier mai mail Mail mailq mailq.sendmail mailstat mailstats mailx make makealias makedb makedeltarpm makeinfo makekdewidgets4 makemap makeobj makestrs maketorrent-console mako-render man mandb manpage-alert manpath mapfile mapscrn mar marble matchpathcon matchpoint mattrib maui mb2org mb2txt mbadblocks mbchk mc mca mcat mcd mcelog mcheck mclasserase mcomp mcookie mcopy mcpp mc-tool mc-wait-for-name md5sum mdadm mdel mdeltree mdir mdkir mdkri mdmon mdu meinproc4 meinproc4_simple memhog memprof2calltree mentohust merge mergerepo mesg metacity metacity-message metaflac mev mformat microcode_ctl migratepages migspeed mii-diag mii-tool mimedump mimeencode mimeexplode mimepostcard mimesend minfo mingetty minicom mixartloader mkcd mkdict mkdir mkdosfs mke2fs mkfifo mkfontdir mkfontscale mkfs mkfs.cramfs mkfs.ext2 mkfs.ext3 mkfs.ext4 mkfs.ext4dev mkfs.msdos mkfs.ntfs mkfs.vfat mkfs.xfs mkhomedir_helper mkhybrid mkidr mkinitrd mkisofs mklost+found mkmanifest mknod mkntfs mkrfc2734 mksmbpasswd.sh mkswap mktemp mkxauth mlabel mmc-tool mmd mmount mmove moc mock moc-qt4 mod modem-manager modhex modifyrepo modinfo modprobe modutil moe mogrify mon montage more mount mount.cifs mount.fuse mount.lowntfs-3g mount.nfs mount.nfs4 mountpoint mountstats mount.tmpfs mouse-test mousetweaks mozilla-plugin-config mp2bug mp3-cmdline mp3rtp mp4art mp4dump mp4extract mp4info mp4tags mp4trackdump mpartition mpathconf mpg123 mpg123.bin mplayer mrd mren ms msgattrib msgcat msgcmp msgcomm msgconv msgen msgexec msgfilter msgfmt msggrep msghack msginit msgmerge msgunfmt msguniq mshowfat msntest ms_print msql2mysql mtools mtoolstest mtr mtype multipath multipathd munch mutt mv mxtar myfreem myip myisamchk myisam_ftdump myisamlog myisampack my_print_defaults myps mysql mysqlaccess mysqladmin mysqlbinlog mysqlbug mysqlcheck mysql_config mysql_convert_table_format mysqld_multi mysqld_safe mysqldump mysqldumpslow mysql_find_rows mysql_fix_extensions mysql_fix_privilege_tables mysqlhotcopy mysqlimport mysql_install_db mysql_secure_installation mysql_setpermission mysqlshow mysqlslap mysqltest mysql_tzinfo_to_sql mysql_upgrade mysql_waitpid mysql_zap mzip nail named named-checkconf named-checkzone named-compilezone named-journalprint namei nameif nano native2ascii nautilus nautilus-autorun-software nautilus-connect-server nautilus-file-management-properties nautilus-sendto nc ncftp ncftpbatch ncftpbookmarks ncftpget ncftpls ncftpput ncftpspooler ncurses5-config ncursesw5-config needs-restarting nepomuk-rcgen nepomukserver nepomukservicestub neqn net netreport netscsid netstat newaliases newaliases.sendmail newgrp new-kernel-pkg newusers nfsiostat nfsstat ngettext nice nisdomainname nl nm nmap.sh nmbd nmblookup nohup nologin nona noncvslist nonsvnlist no_op_client_for_valgrind normalize normalize-mp3 normalize-ogg notify-send nproc nroff nsec3hash nsgmls nslookup nspluginscan nspluginviewer nspr-config nss-config nss-softokn-config nss-util-config nstat nsupdate ntfs-3g ntfs-3g.probe ntfs-3g.secaudit ntfs-3g.usermap ntfscat ntfsck ntfsclone ntfscluster ntfscmp ntfscp ntfsdecrypt ntfsdump_logfile ntfsfix ntfsinfo ntfslabel ntfsls ntfsmftalloc ntfsmount ntfsmove ntfsresize ntfstruncate ntfsundelete ntfswipe ntpd ntpdate ntpdc ntp-keygen ntpq ntpstat ntptime ntsysv numactl numademo numastat obex-data-server obexftp obexftpd objcopy objdump oclock ocs od odbc_config odbcinst ode ogg123 oggdec oggenc ogginfo okteta okular oldfind oldrdist on_ac_power onsgmls onto2vocabularyclass oocalc oodraw ooffice ooimpress oomath ooviewdoc oowriter op2calltree opannotate oparchive opcontrol open openconnect opencv_createsamples opencv_haartraining opencv_performance opencv_traincascade open_init_pty openjade openoffice.org openoffice.org-1.9 openoffice.org-2.0 openssl openvpn openvt opgprof ophelp opimport opjitconv opreport oprofiled oprof_start optimizegraphics optipng orbd orbit2-config orbit-idl-2 orca osd_cat osgmlnorm ospam ospcat ospent osx otfdump otflist otftobdf otfview otr_mackey otr_modify otr_parse otr_readforge otr_remac otr_sesskeys ovftool ownership oxygen-demo oxygen-settings p p2v.sh p6 pacat pack200 package-cleanup package_crystalsvg packer pacmd pactl padsp palapeli palimpsest pam_console_apply pamon pam-panel-icon pam_tally2 pam_timestamp_check panelctl panel-test-applets panel-test-applets-bonobo pango-querymodules-64 pango-view paplay parec parecord parted partprobe partx passwd paste pasuspender patch path pathchk pax11publish pccardctl pcregrep pcretest pcscd pdbedit pdf pdf2dsc pdf2ps pdffonts pdfimages pdfinfo pdfopt pdfroff pdfs pdftohtml pdftoppm pdftops pdftotext peekfd perf perl perl5.12.2 perlbug perldoc perlivp perlthanks perror pethtool pf2afm pfbtopfa pfbtops pftp pg pgawk pgpewrap pgpring pgrep phar phar.phar php php-cgi pic pic2graph pic2plot piconv pidof pifconfig pigz pilot-addresses pilot-clip pilot-csd pilot-debugsh pilot-dedupe pilot-dlpsh pilot-file pilot-foto pilot-foto-treo600 pilot-foto-treo650 pilot-getram pilot-getrom pilot-getromtoken pilot-hinotes pilot-install-datebook pilot-install-expenses pilot-install-hinote pilot-install-memo pilot-install-netsync pilot-install-todo pilot-install-todos pilot-install-user pilot-memos pilot-nredir pilot-read-expenses pilot-read-ical pilot-read-notepad pilot-read-palmpix pilot-read-screenshot pilot-read-todos pilot-read-veo pilot-reminders pilot-schlep pilot-wav pilot-xfer pinentry pinentry-curses pinentry-gtk pinentry-gtk-2 pinentry-qt pinentry-qt4 pinfo ping ping6 pinky pitchplay pivot_root pixeltool pk11install pk12util pkaction pkau pkcheck pkcs11_eventmgr pkcs11_inspect pkcs11_listcerts pkcs11_setup pkexec pkg-config pkill pklogin_finder pl pl2pm plague-client planner plasma-desktop plasmaengineexplorer plasma-netbook plasma-overlay plasmapkg plasmawallpaperviewer plasma-windowed plasmoidviewer play plipconfig plot plotfont pluginviewer plutil plutil-1.3 plymouth plymouthd plymouth-log-viewer plymouth-set-default-plugin plymouth-set-default-theme pmap pm-hibernate pm-is-supported pm-powersave pm-suspend pm-suspend-hybrid pm-utils-bugreport-info.sh png2mng.pl po po2xml pod2html pod2latex pod2man pod2text pod2usage podchecker podselect pointer-capture-applet policytool popd portrelease portreserve POST post-grohtml poweroff pp ppc-koji ppdc ppdhtml ppdi ppdmerge ppdpo ppl-config pppd pppdump pppoe-discovery pppstats ppp-watch pprof2calltree pptp pr praliases precat preconv pre-grohtml prelink preparetips preunzip prezip prezip-bin printafm printenv printer-applet printf procmail profiles prove prtstat pruneemptydirs ps ps2ascii ps2epsi ps2pdf ps2pdf12 ps2pdf13 ps2pdf14 ps2pdfwr ps2ps ps2ps2 psed psfaddtable psfgettable psfstriptable psfxtable pstack pstree pstree.x11 pstruct pto2mk ptx pu puid pulseaudio purgestat purple-client-example purple-remote purple-send purple-send-async purple-url-handler pushd pv.sh pwck pwconv pwd pwdp pwdx pwunconv pydoc pygobject-codegen-2.0 pygtk-codegen-2.0 pygtk-demo pyjj2fcitx pykdeuic4 pylint pylupdate4 pyrcc4 pyreverse pytest python python2 python2.7 python2.7-config python-config pyuic4 qcatool2 qcollectiongenerator qdbus qdbuscpp2xml qdbusviewer qdbusxml2cpp qdoc3 qedje_viewer qhelpconverter qhelpgenerator qmake-qt4 qmlviewer qsexec qt3to4 qtconfig-qt4 qtdoc qttracereplay quota quotacheck quota_nld quotaoff quotaon quotastats r r6 radeontool ranlib rapper rar rarian-example rarian-sk-config rarian-sk-extract rarian-sk-gen-uuid rarian-sk-get-cl rarian-sk-get-content-list rarian-sk-get-extended-content-list rarian-sk-get-scripts rarian-sk-install rarian-sk-migrate rarian-sk-preinstall rarian-sk-rebuild rarian-sk-update rasun rb rcc rc-lns.sh rcp rcs rcs2log rcsclean rcsdiff rcsfreeze rcsmerge rdate rdesktop rdfproc rdiff rdiffdir rdisc rdist rdistd rdump read readahead readahead-collector readarray readcd readelf readlink readmult readom readonly readprofile readPYBase readPYMB reboot rebuild-gcj-db rebuild-jar-repository rec recode-sr-latin recountdiff red rediff redland-db-upgrade refer regdbdump reject reload rename rename.sh renice repeat replace replcon repoclosure repodiff repo-graph repomanage repoquery repo-rss report reposync repotrack repquota request-key reset resize resize2fs resizecons resolveip resolve_stack_dump restart restore restorecon restorecond return rev rexec rfcomm rfe.sh rgview rgvim rhgb-client rhino rhythmbox rhythmbox-client rj_restart.sh rlog rlogin rm rmail rmail.sendmail rmdir rmfile.sh rmic rmid rmiregistry rmmod rmt rn rn6 rnano rndc rndc-confgen rngd rngtest roqet rotatelogs route rox ROX-Filer rpcbind rpcclient rpcdebug rpcgen rpc.gssd rpc.idmapd rpcinfo rpc.mountd rpc.nfsd rpc.rquotad rpc.statd rpc.svcgssd rpm rpm2cpio rpmargs rpmbuild rpmbuild-md5 rpmdb rpmdev-bumpspec rpmdev-checksig rpmdev-cksum rpmdev-diff rpmdev-extract rpmdev-md5 rpmdev-newinit rpmdev-newspec rpmdev-packager rpmdev-rmdevelrpms rpmdev-setuptree rpmdev-sha1 rpmdev-sha224 rpmdev-sha256 rpmdev-sha384 rpmdev-sha512 rpmdev-sort rpmdev-sum rpmdev-vercmp rpmdev-wipetree rpmdiff rpmdumpheader rpmelfsym rpmfile rpmgraph rpminfo rpmlint rpmls rpmpeek rpmquery rpmsign rpmsodiff rpmsoname rpmverify rrestore RSA_SecurID_getpasswd rsh rsvg rsvg-convert rsvg-view rsync rsync_cron.sh rsync.sh rsyslogd rt2rtnote.sh rtacct rtcwake rtkitctl rtmon rtnote2rt.sh ruby ruijie.sh runcon rundig run_init runlevel run-parts runscript runuser run-with-aspell rvi rview rvim rx rz s .s s2p s390-koji s3put sa safe_finger sandbox saned sane-find-scanner sasl2-sample-client sasl2-sample-server sasl2-shared-mechlist saslauthd sasldblistusers2 saslpasswd2 saytime sb sb_bnfilter.py sb_bnserver.py sb_chkopts.py sb_client.py sb_dbexpimp.py sb_evoscore.py sb_filter.py sb_imapfilter.py sb_mailsort.py sb_mboxtrain.py sb_notesfilter.py sb_pop3dnd.py sb_server.py sb_unheader.py sb_upload.py sb_xmlrpcserver.py scandvb scangui scanimage schemagen sclient scp screen scribus script scriptreplay scrollkeeper-config scrollkeeper-extract scrollkeeper-gen-seriesid scrollkeeper-get-cl scrollkeeper-get-content-list scrollkeeper-get-extended-content-list scrollkeeper-get-index-from-docpath scrollkeeper-get-toc-from-docpath scrollkeeper-get-toc-from-id scrollkeeper-install scrollkeeper-preinstall scrollkeeper-rebuilddb scrollkeeper-uninstall scrollkeeper-update scsi_id sdbadmin sdcv sdcv.sh sdiff sdl-config sdptool seahorse seahorse-daemon sealert seapplet seaudit-report sechecker secon securetty sed sediff sedismod sedispatch sedispol sedmv.sh seed seinfo select selinuxconlist selinuxdefcon selinuxenabled selinux-polgengui semanage semodule semodule_deps semodule_expand semodule_link semodule_package sendiso sendmail sendmail.sendmail sepolgen sepolgen-ifgen sepolgen-ifgen-attr-helper seq serialver servertool service serviceconf servicemenudeinstallation servicemenuinstallation sesearch sessreg sestatus set setarch setcap setenforce setfacl setfattr setfiles setfont setkeycodes setleds setmetamode setpci setquota setregdomain setroubleshootd setsebool setserial setsid setsysfont setterm setup setup-nsssysinit.sh setxkbmap seunshare sfconvert sfdisk sfinfo sftp sg sgml2xml sgmldiff sgmlnorm sgmlspl sgmlwhich sgpio sh sha1sum sha224sum sha256sum sha384sum sha512sum sharesec shasum shift shopt shotwell showconsolefont showfoto showkey showmount showrgb shred shuf shutdown signtool signver sim_client simple-scan sim_server sinjdoc sip size skdump skill sktest sl slabtop slattach sleep sln slogin sloxwizard slptool slrn smartctl smartd smbcacls smbclient smbcontrol smbcquotas smbd smbget smbpasswd smbprint smbspool smbstatus smbtar smbtree smime_keys sm-notify smoltDeleteProfile smoltSendProfile smp_conf_general smp_conf_route_info smp_discover smp_discover_list smplayer smp_phy_control smp_phy_test smp_read_gpio smp_rep_exp_route_tbl smp_rep_general smp_rep_manufacturer smp_rep_phy_err_log smp_rep_phy_sata smp_rep_route_info smp_write_gpio smrsh sndfile-resample snice sntp soelim soffice sol solid-action-desktop-gen solid-bluetooth solid-hardware solid-network solid-powermanagement sopranocmd sopranod sort sosreport sound-juicer source source-highlight source-highlight-settings sox soxi spam sparc-koji spd-conf spd_long_message spd_run_test spd-say spdsend speaker-test spectool speech-dispatcher spell spent splain spline split split2po splitdiff sprof sqlite3 squid squidclient src-hilite-lesspipe.sh ss sserver ssh ssh-add ssh-agent ssh-copy-id sshd ssh-keygen ssh-keyscan sslswamp ssltap sssd sss_groupadd sss_groupdel sss_groupmod sss_groupshow sss_useradd sss_userdel sss_usermod stap stap-authorize-signing-cert stap-prep stap-report staprun stardict start startkde start-pulseaudio-kde start-pulseaudio-x11 start-statd start_udev startx stat status stdbuf stop strace stream strings strip stty stunbdc stund stunnel su sudo sudoedit sudoreplay sulogin sum superkaramba sushell suspend svn svnadmin svnbackport svnchangesince svn-clean svn-create-repos.sh svnd svndl svndumpfilter svnforwardport svngettags svni svnintegrate svnl svnlastchange svnlastlog svnlook svnlv svn-move.sh svnrevertlast svns svnserve svnsync svnu svnup svnversion svnversions swap swaplabel swapoff swapon swappo sweeper swig switch_root sx sxpm symilar symlinks sync synclient syndaemon sysctl sysprof sysprof-cli system-config-authentication system-config-date system-config-firewall system-config-firewall-tui system-config-keyboard system-config-network system-config-network-cmd system-config-network-gui system-config-network-tui system-config-samba system-config-selinux system-config-services system-config-users system-control-network systemctl systemsettings system-setup-keyboard sys-unconfig sz szap t tabs tac tail tailf talk tar taskadmin taskset tbl tc tca_correct tcamgr tcamttest tcatest tcbmgr tcbmttest tcbtest tcfmgr tcfmttest tcftest tchmgr tchmttest tchtest tclsh tclsh8.5 tcpd tcpdmatch tcpdump tcpdump_op.sh tcpslice tctmgr tctmttest tcttest tcucodec tcumttest tcutest tee tek2plot telinit telnet test test_chmLib testlibraw test-moniker testparm testrb testsaslauthd test-speech text2wave tfmtodit tgz then tic tickadj tidy time timeout times tload tma tmo tmpwatch tnameserv toc2cddb toc2cue toe togglesebool top torrentinfo-console totem totem-audio-preview totem-video-indexer totem-video-thumbnailer touch tput tr tracepath tracepath6 traceroute traceroute6 transmission transmission-remote trap tree trip_byte.sh troff true truncate try-from tset tsort ttusb_dec_reset tty tune2fs tunelp txt2mb type typelib-dump typeset tzap tzselect ucs2any udevadm udevd udisks __udisks udisks-tcp-bridge uic3 uic-qt4 ul ulimit ulockmgr_server umask umbrello umoc umod umoe umon umount umount.nfs umount.nfs4 umount.udisks unalias uname unexpand unicode_start unicode_stop uniq unix2dos unix2mac unix_chkpwd unix-lpr.sh unlink unmunch unopkg unpack200 unpigz unrar unrpm.sh unset unshare until unwrapdiff unxz unzip unzipsfx update-alternatives updatedb update-desktop-database update-gtk-immodules update-mime-database update-pciids update-xscreensaver-hacks upower upstart uptime uptime2.sh urlgrabber url_handler.sh urlview usb-devices usb_modeswitch usbmuxd userformat userhelper userinfo usermount usernetctl userpasswd users usleep usx2yloader utmpdump uuclient uuidgen uuserver uxterm uz v vainfo valgrind valgrind-listener vbkf vbs vconfig vcut vdir verifytree vfi vfl vhi vhosts vht vi view viewres vife0 vife00 vife1 vig_optimize vigr viki_make.sh viki_update.sh viki_upload.sh vim vimdiff vimtutor vinagre vino-passwd vino-preferences vipw virtuoso-t visualinfo visudo vlc vmmouse_detect vmnet-bridge vmnet-detect vmnet-dhcpd vmnet-natd vmnet-netifup vmnet-sniffer vmplayer vmrun vmss2core vmstat vm-support vmware vmware-acetool vmware-authd vmware-authdlauncher vmware-fuseUI vmware-gksu vmware-hostd vmware-installer vmware-modconfig vmware-mount vmware-netcfg vmware-networks vmware-ping vmware-tray vmware-uninstall vmware-unity-helper vmware-usbarbitrator vmware-vdiskmanager vmware-vim-cmd vmware-wssc-adminTool vns vnt volname vorbiscomment vpddecode vpnc vpnc-disconnect vrc vsftpd vvl vxloader w wait wall warnquota watch watchgnupg wavpack wc wcgrep wcmgr weak-modules webalizer webazolver wftopfa wget wh whatis whereis which while whiptail who whoami whois win2fcitx winpopup-install winpopup-send wipefs wish wish8.5 wmf2eps wmf2fig wmf2gd wmf2svg wmf2x wmxmms wnck-urgency-monitor wodim wordforms wordlist2hunspell word-list-compress wpa_cli wpa_passphrase wpa_supplicant write wsgen wsimport wvgain wvunpack X x11perf x11perfcomp x86_64 x86_64-redhat-linux-c++ x86_64-redhat-linux-g++ x86_64-redhat-linux-gcc xargs xauth xbiff xclipboard xclock xconsole xcursorgen xcutsel xdg-desktop-icon xdg-desktop-menu xdg-email xdg-icon-resource xdg-mime xdg-open xdg-screensaver xdg-settings xdg-user-dir xdg-user-dirs-gtk-update xdg-user-dirs-update xdotool xdpr xdpyinfo xdriinfo xev xeyes xf86gammacfg xfd xfontsel xfs_admin xfs_bmap xfs_check xfs_copy xfs_db xfs_estimate xfs_freeze xfs_fsr xfs_growfs xfs_info xfs_io xfs_logprint xfs_mdrestore xfs_metadump xfs_mkfile xfs_ncheck xfs_quota xfs_repair xfs_rtcp xgamma xgettext xhost xinit xinput xjc xkbcomp xkill xload xlogo xlsatoms xlsclients xlsfonts xmag xmessage xminicom xml2-config xml2po xml2pot xmlcatalog xmllint xmlpatterns xmlpatternsvalidator xml-resolver xmlwf xml-xparse xml-xread xmms xmodmap Xorg xpmroot xpr xprop xrandr xrdb xrefresh xrestop xscreensaver xscreensaver-command xscreensaver-demo xscreensaver-getimage xscreensaver-getimage-file xscreensaver-getimage-video xscreensaver-gl-helper xscreensaver-text xsel xset xsetmode xsetpointer xsetroot xsettings-kde xsetwacom xslt-config xsltproc xstdcmap xsubpp xterm xulrunner xvidtune xvinfo xwd xwininfo xwud xxd xz xzcat xzcmp xzdec xzdiff xzegrep xzfgrep xzgrep xzless xzmore ,y yacc yelp yes ykdebug ykpersonalize ypbind ypcat ypchfn ypchsh ypdomainname ypmatch yppasswd yppoll ypset yptest ypwhich yum yum-builddep yum-complete-transaction yum-config-manager yumdb yum-debug-dump yum-debug-restore yumdownloader yum-groups-manager zcat zcmp zdiff zdump zegrep zenheiset zenity zfgrep zforce zgrep zic zip zipcloak zipcmp zipgrep zipinfo zipmerge zipnote zipsplit ziptorrent zless zmore znew zonetab2pot.py zsoelim 
+#1319204020
+cd rc-files/
+#1319204021
+gits
+#1319204031
+cat .gitignore
+#1319204057
+rm .gitignore
+#1319204065
+ln -s ~/.gitignore .
+#1319204066
+lla
+#1319204069
+git
+#1319204070
+gits
+#1319204075
+gitd
+#1319204117
+lla
+#1319204128
+fg
+#1319204133
+gitd
+#1319204163
+gits
+#1319204179
+cdrt
+#1319204181
+lla
+#1319204185
+cd linux/computor/
+#1319204185
+lla
+#1319204187
+gits
+#1319204189
+.s
+#1319204190
+gits
+#1319204204
+gits | less
+#1319204215
+gits
+#1319204225
+gits 
+#1319204232
+vbs
+#1319204251
+.s
+#1319204253
+gitsl
+#1319204293
+.s
+#1319204294
+gitsl
+#1319204310
+git checkout .
+#1319204316
+gits
+#1319204337
+gitd
+#1319204353
+gits
+#1319204357
+gitsl
+#1319204367
+git add linux/computor/tools/devel/cmd/cmd.txt 
+#1319204370
+gits
+#1319204372
+gitsl
+#1319204412
+git commit -m "find in case insensitive"
+#1319204416
+gitsl
+#1319204395
+m find
+#1319204438
+cd tools/
+#1319204441
+git
+#1319204443
+gits
+#1319204448
+gitl
+#1319204479
+git checkout .
+#1319204482
+gitsl
+#1319204506
+lla
+#1319204510
+rm -rf *
+#1319204512
+lla
+#1319204514
+git checkout .
+#1319204522
+gits
+#1319204526
+gitl
+#1319204530
+qll
+#1319204564
+rt2rtnote.sh 
+#1319204601
+gitsl
+#1319204764
+ll /home/scr/.rt/./linux/computor/OS/minix/src-new/minix_src_old/src/boot/installboot.c 
+#1319204781
+gitsl
+#1319204797
+git status
+#1319204873
+ll linux/computor/tools/terminal/urxvt/INSTALL 
+#1319205009
+gits
+#1319204716
+gitsl
+#1319205071
+ll tools/terminal/urxvt/
+#1319205099
+git add linux/computor/tools/terminal/urxvt/INSTALL 
+#1319205101
+gitsl
+#1319205137
+git add .
+#1319205142
+gitsl
+#1319205207
+git commit -m "move all text and install file from .rt to there" test.txt
+#1319205227
+git commit -m "move all text and install file from .rt to there"
+#1319205230
+gits
+#1319205236
+gitsl
+#1319205247
+git add .
+#1319205249
+gitsl
+#1319205274
+git commit -m "move all text file to rt-notes"
+#1319205284
+gits
+#1319205296
+cd linux/computor/tools/
+#1319205300
+cdvcrtbo
+#1319205305
+cd tools/
+#1319205307
+ll file-manager/
+#1319205482
+rt2rtnote.sh 
+#1319205544
+ll OS/minix/OSDI/boot-net/README
+#1319205630
+rt2rtnote.sh 
+#1319205655
+cdrt
+#1319205658
+ll ./lang/linux-src/kernel/linux-2.6.11/arch/arm26/boot/install.sh
+#1319205707
+cd
+#1319205709
+cd .rt-notes/
+#1319205714
+ll lang/
+#1319205756
+ll lang/linux-src/kernel/linux-2.6.11/a*
+#1319205818
+gits
+#1319205826
+ll life/
+#1319205833
+cd lang/
+#1319205836
+svn st
+#1319205893
+cdl
+#1319205899
+svns
+#1319205904
+svns | less
+#1319205912
+svn up
+#1319205924
+svnsl
+#1319205926
+svns
+#1319205929
+svn st
+#1319205935
+svns | less
+#1319205981
+svns | sed 's/~//'
+#1319205991
+svns | sed 's/~//' | rm -
+#1319206000
+svns | sed 's/~//' | rm 
+#1319206019
+`svns | sed 's/~//'`
+#1319206024
+rm `svns | sed 's/~//'`
+#1319206030
+svn st
+#1319206032
+svn up
+#1319206058
+ll linux-src/
+#1319206065
+ll linux-src/kernel/linux-2.6.11/
+#1319206074
+svns
+#1319206081
+svn up books
+#1319206109
+ll address-book/
+#1319206137
+ll address-book/changyongzi/
+#1319206155
+gits
+#1319206159
+cdl
+#1319206163
+svn st
+#1319206172
+svn up shell/
+#1319206226
+svn st
+#1319206237
+svn st | sed 's/!//'
+#1319206247
+svn up `svn st | sed 's/!//'`
+#1319206339
+ll lang/
+#1319206369
+lla
+#1319206374
+ll 0ctope/
+#1319206382
+svnsl
+#1319206383
+svn s
+#1319206386
+svns
+#1319206391
+svns | less
+#1319206413
+svn up 0ctope/
+#1319206442
+mkdir ../bk
+#1319206449
+mv * ../bk/
+#1319206452
+svn st
+#1319206503
+cdrt
+#1319206519
+cd linux/
+#1319206535
+ll linux/
+#1319206606
+echo *
+#1319206782
+.s
+#1319206803
+cd bk
+#1319206806
+cd shell/
+#1319206947
+cd
+#1319206951
+rm bin
+#1319206968
+ln -s .rt/bk/shell/
+#1319207040
+mv shell bin
+#1319207070
+cd bin
+#1319207078
+rm rt2rtnote.sh!
+#1319207086
+chx rt2rtnote.sh 
+#1319207150
+rt2rtnote.sh 
+#1319207201
+cdrt
+#1319206453
+svn up
+#1319207345
+rt2rtnote.sh 
+#1319207367
+ll linux/computor/OS/minix/src-new/minix-2/Intel-2.0.4/Intel-2.0.4/src/SYS/src/lib/i386/string/README
+#1319207479
+rt2rtnote.sh 
+#1319207498
+svn st
+#1319207527
+lcd
+#1319207528
+cd
+#1319207531
+rm bin
+#1319207505
+svn up shell
+#1319207541
+ln -s .rt/lang/shell/ bin
+#1319207544
+svn st
+#1319207552
+svn up sed-awk
+#1319207559
+svn st
+#1319207563
+svn up latex
+#1319207569
+svn st
+#1319207572
+svn up vim
+#1319207722
+svn st
+#1319207787
+gvlc
+#1319207792
+gvnt
+#1319207796
+gvht
+#1319207808
+cdrt
+#1319207812
+cd linux/
+#1319207816
+lla
+#1319207818
+cd computor/
+#1319207824
+lla
+#1319208300
+cd
+#1319208317
+ll conversion/
+#1319208319
+ll conversion/chm2htm/
+#1319208336
+pwdp
+#1319208342
+cdrt
+#1319208345
+pwdp
+#1319208349
+git status
+#1319208360
+cd linux/
+#1319208363
+gits
+#1319208368
+cd computor/
+#1319208369
+gits
+#1319208380
+ll network/
+#1319208392
+ll network/Linux\ System\ Administrators\'\ Guide/linuxmanage/
+#1319208494
+cdrt
+#1319208498
+cd bk
+#1319208501
+cd shell/
+#1319208502
+git st
+#1319208508
+svns
+#1319208546
+cdb
+#1319208554
+chx  rt2rtnote.sh rtnote2rt.sh 
+#1319208637
+rt2rtnote.sh 
+#1319208645
+echo $?
+#1319208793
+s exsit
+#1319208828
+exsist
+#1319208835
+s exsist
+#1319208844
+s exist
+#1319208908
+chx rtlinkisvalid.sh 
+#1319208960
+rtlinkisvalid.sh 
+#1319209000
+rt2rtnote.sh 
+#1319209020
+rtlinkisvalid.sh 
+#1319209073
+cd
+#1319209076
+cd .rt-notes/
+#1319209081
+ll gs
+#1319209083
+ll address-book/
+#1319209087
+ll win
+#1319209099
+cdrt
+#1319209101
+ll address-book/
+#1319209120
+cd address-book/
+#1319209123
+xxd README 
+#1319209156
+rtlinkisvalid.sh 
+#1319209203
+gvlc
+#1319209304
+rtlinkisvalid.sh 
+#1319209418
+rtlinkisvalid.sh > out
+#1319209435
+rtlinkisvalid.sh 2> err
+#1319209440
+cat err
+#1319209446
+cat out
+#1319209475
+s directory
+#1319209508
+rtlinkisvalid.sh 
+#1319209517
+rtlinkisvalid.sh > out
+#1319209524
+rm err out
+#1319209568
+rtlinkisvalid.sh 
+#1319209664
+ffbs
+#1319209671
+wh ffbs
+#1319209774
+rtlinkisvalid.sh 
+#1319209776
+rtlinkisvalid.sh s
+#1319209791
+rtlinkisvalid.sh ssdfs
+#1319209818
+rtlinkisvalid.sh -h
+#1319209875
+rtlinkisvalid.sh -hs
+#1319209899
+rtlinkisvalid.sh 
+#1319209945
+rtlinkisvalid.sh /home/scr/.rt-notes
+#1319209993
+rtlinkisvalid.sh /etc
+#1319210064
+rtlinkisvalid.sh ~
+#1319210133
+rtlinkisvalid.sh 
+#1319207726
+svn up books
+#1319210356
+rtlinkisvalid.sh ~
+#1319210381
+rtlinkisvalid.sh /home/scr/.rt-notes
+#1319210391
+rtlinkisvalid.sh /home/scr/.rt-note
+#1319210427
+svn st
+#1319210540
+rtlinkisvalid.sh 
+#1319210437
+svn up 0ctope
+#1319210627
+time rtlinkisvalid.sh 
+#1319210958
+time rtlinkisvalid.sh -h
+#1319211036
+rtlinkisvalid.sh /home/scr/.rt-note
+#1319211039
+rtlinkisvalid.sh 
+#1319211445
+m xargs
+#1319212330
+rt2rtnote.sh 
+#1319212407
+ll /home/scr/.rt/linux/computor/encoding/10谈谈Unicode编码 简要解释UCS UTF BMP BOM等名词.txt
+#1319212417
+ll "/home/scr/.rt/linux/computor/encoding/10谈谈Unicode编码 简要解释UCS UTF BMP BOM等名词.txt"
+#1319212433
+ll "/home/scr/.rt-notes/linux/computor/encoding/10谈谈Unicode编码 简要解释UCS UTF BMP BOM等名词.txt"
+#1319212444
+rtlinkisvalid.sh 
+#1319212459
+ll /home/scr/.rt-notes/linux/computor/encoding/
+#1319212478
+ll /home/scr/.rt/linux/computor/encoding/
+#1319212504
+rt2rtnote.sh 
+#1319212550
+ll /home/scr/.rt/linux/computor/encoding/
+#1319212578
+rt2rtnote.sh 
+#1319212600
+rt2rtnote.sh | wc
+#1319212731
+rt2rtnote.sh 
+#1319212833
+rt2rtnote.sh | wc
+#1319212841
+rt2rtnote.sh | wc -l
+#1319212896
+rt2rtnote.sh 2|&1 wc -l
+#1319212902
+rt2rtnote.sh 2>|&1 wc -l
+#1319212911
+rt2rtnote.sh 2>|1 wc -l
+#1319213659
+cdbot
+#1319213663
+cdbo
+#1319213667
+wh cdbo
+#1319213674
+cd tools/
+#1319213681
+cd devel/
+#1319213691
+wh ffbs
+#1319213700
+cd lang/shell/
+#1319213708
+vbs
+#1319213730
+,y
+#1319213730
+fg
+#1319213748
+.s
+#1319213749
+vbs
+#1319213763
+.s
+#1319213767
+cd UPT/
+#1319213771
+cd e
+#1319213773
+cd e3
+#1319213785
+chm UNIXPowerTools.3rd.chm &
+#1319214156
+~
+#1319214160
+ex .
+#1319214297
+.s
+#1319214303
+cdbosh
+#1319214307
+ex UPT/
+#1319214569
+rt2rtnote.sh 2>&1 | wc -l
+#1319214610
+rt2rtnote.sh 1>&3 2>&1 | wc -l
+#1319215058
+rt2rtnote.sh 
+#1319215144
+ll /home/scr/.rt/linux/computor/encoding/
+#1319215161
+rm /home/scr/.rt/linux/computor/encoding/10谈谈Unicode编码\\\ 简要解释UCS\\\ UTF\\\ BMP\\\ BOM等名词.txt 
+#1319215163
+ll /home/scr/.rt/linux/computor/encoding/
+#1319215223
+rt2rtnote.sh 
+#1319215261
+ll /home/scr/.rt/linux/computor/encoding/
+#1319215268
+ll /home/scr/.rt-notes/linux/computor/encoding/
+#1319215333
+ll /home/scr/.rt/linux/computor/encoding/
+#1319215390
+rt2rtnote.sh 
+#1319215401
+ll /home/scr/.rt/win/tools/coolminipe/
+#1319215410
+ll /home/scr/.rt-notes/win/tools/coolminipe/
+#1319215424
+ll /home/scr/.rt-notes/win/
+#1319215429
+ll /home/scr/.rt-notes/win/tools/
+#1319215446
+rt2rtnote.sh 
+#1319215470
+rm /home/scr/.rt/win/tools/coolminipe/README 
+#1319215489
+rm README 
+#1319215495
+rt2rtnote.sh 
+#1319215502
+cd..
+#1319215507
+cd linux/computor/
+#1319215509
+gits
+#1319215548
+rt2rtnote.sh 
+#1319215561
+rm /home/scr/.rt/linux/computor/OS/minix/src-new/minix-2/src/man/man1/install.1 
+#1319215578
+rm /home/scr/.rt/linux/computor/OS/minix/src-new/minix-2/Intel-2.0.4/Intel-2.0.4/src/SYS/man/man1/install.1 A
+#1319215582
+rm /home/scr/.rt/linux/computor/OS/minix/src-new/minix-2/Intel-2.0.4/Intel-2.0.4/src/SYS/man/man1/install.1 
+#1319215585
+gits
+#1319215592
+rt2rtnote.sh 
+#1319215599
+git checkout .
+#1319215602
+gits
+#1319215606
+rt2rtnote.sh 
+#1319215619
+ll /home/scr/.rt/linux/computor/encoding/
+#1319215645
+ll /home/scr/.rt-notes/linux/computor/encoding/
+#1319215658
+rt2rtnote.sh 
+#1319216142
+m :
+#1319216166
+:
+#1319216168
+:;
+#1319216281
+rt2rtnote.sh 
+#1319216298
+ll /home/scr/.rt/linux/computor/encoding/
+#1319216369
+gits
+#1319216375
+cd /home/scr/.rt/linux/computor/encoding/
+#1319216377
+gits
+#1319216410
+mv 10谈谈Unicode编码\\\ 简要解释UCS\\\ UTF\\\ BMP\\\ BOM等名词.txt 10谈谈Unicode编码-简要解释UCS-UTF-BMP-BOM等名词.txt 
+#1319216416
+gits
+#1319216434
+git add .
+#1319216438
+gits
+#1319216463
+git add .
+#1319216464
+gits
+#1319216491
+git add 10\350\260\210\350\260\210Unicode\347\274\226\347\240\201\\ \347\256\200\350\246\201\350\247\243\351\207\212UCS\\ UTF\\ BMP\\ BOM\347\255\211\345\220\215\350\257\215.txt
+#1319216495
+gits
+#1319216509
+git add *
+#1319216511
+gits
+#1319216535
+git commit -m "去掉文件名中的空格"
+#1319216540
+gits
+#1319216556
+git commit -a -m "去掉文件名中的空格"
+#1319216559
+gits
+#1319216565
+gitl
+#1319216572
+rt2rtnote.sh 
+#1319216617
+cdrt
+#1319216620
+ll linux/computor/OS/linux/01NOW/05Sys/01界面方面介绍得很详细/zh_cn/Starter.html/install.html
+#1319216670
+    find $fdir -type f             -iname "*.txt" -o -iname "README" -o -iname "INSTALL"             -iname "README.*" -o -iname "INSTALL.*"             | grep -v '.git' | grep -v '.svn'             | grep -v '/rfc/' | grep -v 'softEngineering' > $tf
+#1319216691
+    find $fdir -type f             -iname "*.txt" -o -iname "README" -o -iname "INSTALL"             -iname "README.*" -o -iname "INSTALL.*"             | grep -v '.git' | grep -v '.svn'             | grep -v '/rfc/' | grep -v 'softEngineering' 
+#1319216700
+    find $fdir -type f             -iname "*.txt" -o -iname "README" -o -iname "INSTALL"             -iname "README.*" -o -iname "INSTALL.*"             | grep -v '.git' | grep -v '.svn'             | grep -v '/rfc/' | grep -v 'softEngineering' | less
+#1319216736
+    find $fdir -type f             -iname "*.txt" -o -iname "README" -o -iname "INSTALL"             -iname "README.*" -o -iname "INSTALL.*"             | grep -v '.git' | grep -v '.svn'             | grep -v '/rfc/' | grep -v 'softEngineering' | c
+#1319216741
+    find $fdir -type f             -iname "*.txt" -o -iname "README" -o -iname "INSTALL"             -iname "README.*" -o -iname "INSTALL.*"             | grep -v '.git' | grep -v '.svn'             | grep -v '/rfc/' | grep -v 'softEngineering' | wc
+#1319216780
+ll ./linux/computor/OS/minix/OSDI/OSDI-book/README
+#1319216843
+cdrt
+#1319216861
+    find $fdir -type f             -iname "*.txt" -o -iname "README" -o -iname "INSTALL"             -iname "README.*" -o -iname "INSTALL.*"             | grep -v '.git' | grep -v '.svn'             | grep -v '/rfc/' | grep -v 'softEngineering' | wc
+#1319216924
+    find . -type f             -iname "*.txt" -o -iname "README" -o -iname "INSTALL"             -iname "README.*" -o -iname "INSTALL.*"             | grep -v '.git' | grep -v '.svn'             | grep -v '/rfc/' | grep -v 'softEngineering' | wc
+#1319216938
+    find . -type l             -iname "*.txt" -o -iname "README" -o -iname "INSTALL"             -iname "README.*" -o -iname "INSTALL.*"             | grep -v '.git' | grep -v '.svn'             | grep -v '/rfc/' | grep -v 'softEngineering' | wc
+#1319216952
+    find . -type f             -iname "*.txt" -o -iname "README" -o -iname "INSTALL"             -iname "README.*" -o -iname "INSTALL.*"             | grep -v '.git' | grep -v '.svn'             | grep -v '/rfc/' | grep -v 'softEngineering' | wc
+#1319216956
+    find . -type f             -iname "*.txt" -o -iname "README" -o -iname "INSTALL"             -iname "README.*" -o -iname "INSTALL.*"             | grep -v '.git' | grep -v '.svn'             | grep -v '/rfc/' | grep -v 'softEngineering' 
+#1319216970
+ll ./linux/computor/OS/minix/src-new/minix_source_3_1_1/src/drivers/dpeth/README
+#1319217041
+m find
+#1319217180
+rt2rtnote.sh 
+#1319217314
+m find
+#1319247421
+mutt
+#1319247508
+rt2rtnote.sh 
+#1319247528
+cdrt
+#1319247536
+ll linux/computor/OS/minix/src-new/minix_src_old/src/drivers/dpeth/README
+#1319247584
+svn st
+#1319247772
+m find
+#1319247779
+m [
+#1319247861
+m find
+#1319248203
+cd
+#1319248209
+vi .keynavrc 
+#1319248252
+pg key
+#1319247593
+svn up linux-src/
+#1319248258
+kill 18043
+#1319248259
+keynav 
+#1319248270
+vbs
+#1319248297
+ll rox-filer/ROX-Filer/
+#1319248306
+wh rox
+#1319248310
+rox
+#1319248317
+wh rox
+#1319248337
+cdbot
+#1319248348
+cd wm/
+#1319248352
+cd keynav/
+#1319248365
+vi README 
+#1319248390
+vi install.sh
+#1319248406
+fg
+#1319248442
+chx install.sh 
+#1319248444
+./install.sh 
+#1319248451
+vi install.sh 
+#1319248468
+./install.sh 
+#1319248506
+vi keynav-0.20101014.3067/Makefile 
+#1319248562
+ma
+#1319248566
+make keynav
+#1319248572
+ma
+#1319248577
+cd keynav-0.20101014.3067
+#1319248578
+ma
+#1319248582
+mai
+#1319248600
+fg
+#1319248640
+cp keynav-0.20101014.3067/Makefile .
+#1319248645
+mv Makefile Makefile.MY
+#1319248653
+vi install.sh 
+#1319248754
+./install.sh 
+#1319248762
+vi install.sh 
+#1319248784
+./install.sh 
+#1319248810
+gits
+#1319248821
+svn st
+#1319248830
+svn up .
+#1319248835
+svn st
+#1319248872
+gitl
+#1319248881
+gits
+#1319248925
+...
+#1319248926
+gits
+#1319248931
+cd en
+#1319248934
+cd encoding/
+#1319248935
+gits
+#1319248946
+git add encoding/
+#1319248947
+gits
+#1319248966
+git commit -m "move to .rt-notes"
+#1319248970
+gits
+#1319248995
+keynav 
+#1319249011
+cdj
+#1319247074
+mutt
+#1319249029
+pg key
+#1319249042
+g ~/.keynavrc 
+#1319249013
+fg
+#1319249099
+.s
+#1319249100
+gto
+#1319249127
+vi .keynavrc 
+#1319249164
+pg key
+#1319249171
+kill 30770
+#1319249173
+keynav 
+#1319249214
+pg key
+#1319249220
+kill 30874
+#1319249223
+vi .keynavrc 
+#1319249238
+pg key
+#1319249241
+keynav 
+#1319249244
+vbs
+#1319249257
+.s
+#1319249270
+ii
+#1319249290
+gto
+#1319249305
+.s
+#1319249310
+.s
+#1319249312
+gto
+#1319249343
+vbs
+#1319249392
+.s
+#1319249394
+got
+#1319249559
+gto
+#1319249679
+gnome-terminal --help-all
+#1319249798
+rt2rtnote.sh 
+#1319249641
+vbs
+#1319249843
+cdbot
+#1319249851
+cd wm/keynav/
+#1319249857
+cat install.sh 
+#1319249863
+rt2rtnote.sh 
+#1319249865
+gits
+#1319249872
+git add .
+#1319249874
+gits
+#1319249940
+s success
+#1319249943
+git commit -m "modify Makefile of keynav, so that it can make success" 
+#1319249945
+gits
+#1319249947
+gitl
+#1319249957
+gitlo
+#1319249962
+gits
+#1319249970
+rt2rtnote.sh 
+#1319250034
+rt2rtnote.sh -h
+#1319250118
+rtlinkisvalid.sh -h
+#1319250169
+rt2rtnote.sh -h
+#1319250478
+rtnote2rt.sh -h
+#1319250491
+rt2rtnote.sh -h
+#1319250537
+rtnote2rt.sh -h
+#1319250661
+rt2rtnote.sh -h
+#1319250745
+rt2rtnote.sh 
+#1319250799
+rtnote2rt.sh 
+#1319250808
+kill 32306
+#1319250814
+rtnote2rt.sh -h
+#1319250861
+rt2rtnote.sh -h
+#1319250867
+rtnote2rt.sh -h
+#1319250900
+rtnote2rt.sh 
+#1319250912
+echo $?
+#1319250950
+rtnote2rt.sh 
+#1319251025
+kk
+#1319251034
+ll linux/computor/tools/virtual-machine/vmware/wmware.7/01在Fedora 11下安装 VMware-Workstation-Full-7.0.1-227600.i3.bundle并解决在PulseAudio环境下正常发声的办法(含注册码).txt
+#1319251044
+ll "linux/computor/tools/virtual-machine/vmware/wmware.7/01在Fedora 11下安装 VMware-Workstation-Full-7.0.1-227600.i3.bundle并解决在PulseAudio环境下正常发声的办法(含注册码).txt"
+#1319251061
+.bundle并解决在PulseAudio环境下正常发声的办法(含注册码).txt
+#1319251075
+ll 'linux/computor/tools/virtual-machine/vmware/wmware.7/01在Fedora 11下安装 VMware-Workstation-Full-7.0.1-227600.i3.bundle并解决在PulseAudio环境下正常发声的办法(含注册码).txt'
+#1319251112
+cert
+#1319251113
+cdrt
+#1319251120
+ll 'linux/computor/tools/virtual-machine/vmware/wmware.7/01在Fedora 11下安装 VMware-Workstation-Full-7.0.1-227600.i386.bundle并解决在PulseAudio环境下正常发声的办法(含注册码).txt'
+#1319251201
+rtnote2rt.sh 
+#1319252204
+echo $?
+#1319252242
+rtnote2rt.sh 
+#1319252261
+rtnote2rt.sh | wc
+#1319252268
+rtnote2rt.sh 2>&1 | wc
+#1319252325
+rtnote2rt.sh 
+#1319252426
+ll /home/scr/.rt/linux/computor/tools/sysconf/nautilus-open-terminal/nautilus-open-terminal.notes.txt 
+#1319252435
+ll /home/scr/.rt-notes/linux/computor/tools/sysconf/nautilus-open-terminal/nautilus-open-terminal.notes.txt 
+#1319252479
+rtnote2rt.sh 
+#1319252653
+ll /home/scr/.rt/linux/computor/tools/sysconf/nautilus-open-terminal/nautilus-open-terminal.notes.txt 
+#1319252672
+rtnote2rt.sh -h
+#1319252699
+rtlinkisvalid.sh 
+#1319252706
+rtlinkisvalid.sh -h
+#1319252720
+ll 'linux/computor/tools/virtual-machine/vmware/wmware.7/01在Fedora 11下安装 VMware-Workstation-Full-7.0.1-227600.i3'
+#1319252728
+ln -s lsdfo
+#1319252731
+rtlinkisvalid.sh 
+#1319252771
+rtlinkisvalid.sh -h
+#1319252830
+rtlinkisvalid.sh .
+#1319252888
+ll '././bk/books/c/cguo-e3/ch6/Terrain Engine/readme.txt'
+#1319252930
+ll /home/scr/.rt/lang/books/c/cguo-e3/ch6/Terrain\ Engine/
+#1319253108
+rm lsdfo 
+#1319253117
+ln -s odsfsofj liosf
+#1319253124
+rtlinkisvalid.sh 
+#1319253131
+rtlinkisvalid.sh .
+#1319253167
+mv liosf liosf.txt
+#1319253172
+rtlinkisvalid.sh .
+#1319253284
+ll '././bk/books/c/cguo-e3/ch6/Terrain Engine/readme.txt'
+#1319253308
+ll '/home/scr/.rt-notes/./lang/books/c/cguo-e3/ch6/Terrain Engine/readme.txt'
+#1319253353
+cdl
+#1319253355
+svn st
+#1319253360
+cd books/
+#1319253372
+cd c
+#1319253375
+cd cguo-e3/
+#1319253381
+ll ch6
+#1319253408
+ll /home/scr/.rt-notes/lang/books/c/cguo-e3/ch*
+#1319253415
+ll /home/scr/.rt-notes/lang/books/c/cguo-e3/
+#1319253422
+cd /home/scr/.rt-notes/lang/books/c/cguo-e3/
+#1319253426
+,y
+#1319253455
+cdvcrt
+#1319253459
+ll lang/
+#1319253461
+gits
+#1319253478
+ll lang
+#1319253482
+ds lang
+#1319253490
+ll lang/0ctope/libc/www.pudn.com.txt 
+#1319253503
+rtnote2rt.sh 
+#1319253507
+rtlinkisvalid.sh 
+#1319253679
+rtlinkisvalid.sh .
+#1319253718
+cdrt
+#1319253722
+rtlinkisvalid.sh .
+#1319253781
+mv liosf.txt liofs
+#1319253784
+rtlinkisvalid.sh .
+#1319253886
+rtlinkisvalid.sh . | grep -v '.svn'
+#1319253898
+rtlinkisvalid.sh . 2>&1 | grep -v '.svn'
+#1319253917
+rtlinkisvalid.sh . 2>&1 | grep -v '.svn' | less
+#1319253975
+rtlinkisvalid.sh
+#1319254038
+rtlinkisvalid.sh -h
+#1319254374
+rtlinkisvalid.sh -a
+#1319254450
+rtlinkisvalid.sh -h
+#1319254520
+rtlinkisvalid.sh -a
+#1319254599
+rtlinkisvalid.sh -h
+#1319254628
+rtlinkisvalid.sh -a
+#1319254700
+rtlinkisvalid.sh -a d
+#1319254702
+rtlinkisvalid.sh -a d fd
+#1319254705
+rtlinkisvalid.sh -a d fd dsaf
+#1319254736
+rtlinkisvalid.sh -a d 
+#1319254884
+rtlinkisvalid.sh -a d f
+#1319255058
+rtlinkisvalid.sh 
+#1319255071
+rtlinkisvalid.sh -h
+#1319255074
+rtlinkisvalid.sh -h s
+#1319255095
+rtlinkisvalid.sh s
+#1319255149
+rtlinkisvalid.sh s s
+#1319255168
+rtlinkisvalid.sh 
+#1319255179
+rtlinkisvalid.sh -a
+#1319255278
+rtlinkisvalid.sh -a -h
+#1319255285
+rtlinkisvalid.sh -a .
+#1319255346
+rtlinkisvalid.sh -a 
+#1319255361
+rtlinkisvalid.sh -a /tmp
+#1319255456
+rtlinkisvalid.sh  /tmp
+#1319255459
+rtlinkisvalid.sh  .
+#1319255463
+rtlinkisvalid.sh  
+#1319255472
+rtlinkisvalid.sh  -h
+#1319255627
+rtlinkisvalid.sh 
+#1319255630
+rt2rtnote.sh 
+#1319255632
+rtnote2rt.sh 
+#1319255645
+rtnote2rt.sh -h
+#1319255651
+rt2rtnote.sh -h
+#1319255659
+rtlinkisvalid.sh -h
+#1319255673
+cdl
+#1319255675
+cdb
+#1319255677
+svn st
+#1319255681
+svn add keynav 
+#1319255733
+svn commit -m '完全用键盘模拟鼠标'; svn up
+#1319255873
+svn st
+#1319255876
+svn add .
+#1319255881
+svn add rt*
+#1319255882
+svn st
+#1319255934
+svn commit -m '增加三个用于同步".rt"和".rt-notes"目录的脚本'; svn up
+#1319256172
+svn st
+#1319256173
+cdl
+#1319256177
+svn st
+#1319256179
+cd
+#1319255814
+p www.baidu.com
+#1319199720
+screen
+#1319272180
+reboot
+#1319338583
+jj
+#1319338592
+vrc
+#1319338607
+cdbi
+#1319338608
+cdb
+#1319338612
+cd rc.d/
+#1319338616
+cat README 
+#1319338620
+vi rc.local.sh 
+#1319338694
+fg
+#1319338704
+su
+#1319338714
+fg
+#1319338717
+s
+#1319338737
+fcitx 
+#1319338721
+vrc
+#1319338818
+/etc/rc.d/rc.local 
+#1319338837
+p www.baidu.com
+#1319339060
+ifconfig vmnet1 down
+#1319339132
+p 172.16.198.1
+#1319339583
+ex .
+#1319340415
+cd m
+#1319340416
+cdm
+#1319340419
+cd TOOLS/
+#1319340424
+cd 1music/
+#1319338560
+mutt
+#1319340472
+s inspect
+#1319340489
+echo $NAL_WHERE
+#1319340494
+fg
+#1319340500
+vbs
+#1319340508
+fg
+#1319340562
+echo $NAL_WHERE
+#1319340564
+fg
+#1319340571
+echo $NAL_WHERE
+#1319340613
+s corporta
+#1319340632
+s corportate
+#1319340654
+s corportater
+#1319340669
+s corpor
+#1319340731
+s company
+#1319340892
+wh fcitx
+#1319341044
+cdb
+#1319341049
+cd rc.d/
+#1319341051
+./rc.local.sh 
+#1319341263
+gvlc
+#1319341350
+i sed
+#1319341506
+./rc.local.sh 
+#1319341675
+gvlc
+#1319341681
+mutt
+#1319341746
+./rc.local.sh 
+#1319342046
+gvlc
+#1319342088
+keynav 
+#1319342125
+vi ~/.keynavrc 
+#1319342155
+gto
+#1319342185
+vi ~/.keynavrc 
+#1319342414
+./rc.local.sh 
+#1319342434
+./rc.local.sh > out
+#1319342435
+vi out 
+#1319342519
+./rc.local.sh 
+#1319342525
+time ./rc.local.sh 
+#1319342529
+./rc.local.sh 
+#1319340577
+fg
+#1319342803
+/etc/rc.d/rc.local 
+#1319342834
+fg
+#1319342838
+pg svn
+#1319342945
+cdb
+#1319342971
+find . -type f | grep awk -w
+#1319342985
+find . -type f | xargs grep awk -w
+#1319343000
+find . -type f | xargs grep --color=always awk -w
+#1319343007
+find . -type f | xargs grep --color=always -n awk -w
+#1319343143
+find . -type f | xargs grep --color=always -n awk -w | grep '$'
+#1319343150
+find . -type f | xargs grep --color=always -n awk -w | grep -v '$'
+#1319343165
+find . -type f | xargs grep --color=always -n awk -w | grep '$[^0-9]'
+#1319343211
+find . -type f | xargs grep --color=always -n awk -w | grep 'print $[^0-9]'
+#1319343239
+g ./stsc/12/12_4_idelete.sh:60:
+#1319343268
+echo $ENVIRON
+#1319343295
+pg key
+#1319343315
+kill 5888
+#1319343302
+vi ~/.keynavrc 
+#1319343323
+keynav 
+#1319343382
+gto
+#1319343383
+vi
+#1319343412
+fg
+#1319343418
+pg key
+#1319343423
+kill 8126
+#1319343425
+keynav 
+#1319343480
+gvlc
+#1319343615
+f=3; echo "ab oa fo" | awk '{ print $f }'
+#1319343626
+f=3; echo "ab oa fo" | awk '{ print $2 }'
+#1319343630
+f=3; echo "ab oa fo" | awk '{ print $f }'
+#1319343653
+f=3; echo $f; echo "ab oa fo" | awk '{ print $f }'
+#1319343667
+f=3; echo $f; echo "ab oa fo" | awk "{ print $f }"
+#1319343697
+f=3; echo $f; echo "ab oa fo" | awk '{ print "$f" }'
+#1319343747
+f=3; echo $f; echo "ab oa fo" | awk '{ print '$f' }'
+#1319343779
+f=3; echo $f; echo "ab oa fo" | awk "{ print '$f' }"
+#1319343787
+f=3; echo $f; echo "ab oa fo" | awk "{ print "$f" }"
+#1319343815
+g ./stsc/12/12_4_idelete.sh:60:
+#1319343864
+f=3; echo $f; echo "ab oa fo" | awk "{ print '$f' }"
+#1319343924
+f=3; echo $f; echo "ab oa fo" | awk '{ print '$$f' }'
+#1319343930
+f=3; echo $f; echo "ab oa fo" | awk '{ print '\$$f' }'
+#1319343934
+f=3; echo $f; echo "ab oa fo" | awk '{ print '\$f' }'
+#1319343938
+f=3; echo $f; echo "ab oa fo" | awk '{ print \$f }'
+#1319343943
+f=3; echo $f; echo "ab oa fo" | awk '{ print "\$f" }'
+#1319343966
+f=2; echo $f; echo "ab oa fo" | awk '{ print "\$f" }'
+#1319343972
+f=2; echo $f; echo "ab oa fo" | awk '{ print $f }'
+#1319343976
+f=2; echo $f; echo "ab oa fo" | awk '{ print $2 }'
+#1319343982
+f=2; echo $f; echo "ab oa fo" | awk '{ print $$f }'
+#1319343993
+f=2; echo $f; echo "ab oa fo" | awk '{ print $"$f" }'
+#1319344000
+f=2; echo $f; echo "ab oa fo" | awk '{ print $'$f' }'
+#1319344028
+f=2; echo $f; echo "ab oa fo" | awk '{ print $"$f" }'
+#1319344030
+f=2; echo $f; echo "ab oa fo" | awk '{ print $'$f' }'
+#1319344137
+f=2; echo $f; echo "ab oa fo" | awk '{ print $'"$f"' }'
+#1319344142
+f=2; echo $f; echo "ab oa fo" | awk '{ print $''$f'' }'
+#1319344148
+f=2; echo $f; echo "ab oa fo" | awk '{ print $''\$f'' }'
+#1319344155
+f=2; echo $f; echo "ab oa fo" | awk '{ print $''$f'' }'
+#1319344157
+f=2; echo $f; echo "ab oa fo" | awk '{ print $'"$f"' }'
+#1319344189
+fg
+#1319342840
+fg
+#1319344270
+/etc/rc.d/rc.local 
+#1319344286
+fg
+#1319344296
+/etc/rc.d/rc.local 
+#1319344302
+fg
+#1319344322
+/etc/rc.d/rc.local 
+#1319344338
+p 172.16.198.1
+#1319344340
+p www.baidu.com
+#1319344362
+p www.code.google.com
+#1319344328
+fg
+#1319344421
+/etc/rc.d/rc.local 
+#1319344428
+fg
+#1319344459
+rm out 
+#1319338718
+su
+#1319344462
+svn st
+#1319344466
+svndl
+#1319344483
+vrc
+#1319344557
+s both
+#1319344572
+s 'both with'
+#1319344625
+ s compitable
+#1319344665
+s compatiblly
+#1319344729
+svn commit -m 'Modify rc.local.sh, so than it can be use in comtatible home with company'
+#1319344744
+s comtatible
+#1319344831
+cdbot
+#1319344841
+cd vercol/
+#1319344843
+cd svn
+#1319344851
+g 02svn服务配置和维护常用命令.txt 
+#1319344860
+ll README 
+#1319344866
+ll README
+#1319344870
+cat README 
+#1319344884
+find . | grep README
+#1319344916
+find . -name "README"
+#1319344919
+find . -iname "README"
+#1319344983
+svni
+#1319344985
+svn up
+#1319344989
+svni
+#1319345031
+svn propset svn:log 'Modify rc.local.sh, so that it can be use in compatible home with company' -r 217 --revprop
+#1319345046
+svn log -r 217
+#1319345083
+cdb
+#1319345085
+g rt*
+#1319345129
+rt2rtnote.sh 
+#1319345502
+rm README 
+#1319345506
+rt2rtnote.sh 
+#1319345556
+rtnote2rt.sh 
+#1319345582
+cdb
+#1319345584
+svn st
+#1319345653
+svn commit -m '应只过渡掉含有"\.svn"的文件, 而不是".svn"'
+#1319345674
+cdvcrt
+#1319345678
+gits
+#1319345689
+pwdp
+#1319345702
+gitd
+#1319345737
+git commit -m '在awk的print选项中使用shell变量'
+#1319345753
+git add linux/computor/tools/devel/
+#1319345756
+gits
+#1319345762
+git commit -m '在awk的print选项中使用shell变量'
+#1319345765
+gits
+#1319345797
+gitl
+#1319345813
+lla
+#1319345819
+cat .gitignore 
+#1319345832
+gits
+#1319345861
+git add -a 'keynav,svn,git notes'
+#1319345877
+git commit -a 'keynav,svn,git notes'
+#1319345883
+git add .
+#1319345884
+gits
+#1319345895
+git commit -m 'keynav,svn,git notes'
+#1319345898
+gits
+#1319345945
+cdvcrc
+#1319346012
+ll ~/.rt
+#1319346024
+rm README 
+#1319346025
+gits
+#1319346053
+cat .gitignore 
+#1319346055
+lla
+#1319346059
+cat .gitignore 
+#1319346062
+gits
+#1319346067
+g .gitignore 
+#1319346073
+gits
+#1319346224
+gitd
+#1319346230
+gits
+#1319346242
+gitd rt/home/scr/.bashrc 
+#1319346273
+gits
+#1319346296
+git add rt/home/scr/.bashrc 
+#1319346298
+gits
+#1319346308
+git add rt/home/scr/.keynavrc 
+#1319346309
+gits
+#1319346347
+git commit -m 'open gnome-termial with title'
+#1319346349
+gits
