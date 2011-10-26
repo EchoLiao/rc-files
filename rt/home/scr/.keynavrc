@@ -81,12 +81,13 @@ q record
 
 # 这需要 gnome-terminal 事先做一些设置: 编辑>>配置文件首选项>>标题和命令, 在打
 # 开的标签中设置<起始标题>为: GT
-t sh "xdotool windowactivate $(xdotool search -title -- '- GT')", end
-o sh "xdotool windowactivate $(xdotool search -title -- '- GOT')", end # for work
+t sh "xdotool windowactivate $(xdotool search -title -- 'GT')", end
+o sh "xdotool windowactivate $(xdotool search -title -- 'GOT')", end # for work
+d sh "xdotool windowactivate $(xdotool search -title -- 'Okular')", end # for work
 
 # Make firefox the active window
-f sh "xdotool windowactivate $(xdotool search -title -- '- Mozilla Firefox')", end
-ctrl+f sh "xdotool windowactivate $(xdotool search -title -- '- Mozilla Firefox'); xdotool key ctrl+t", end
+f sh "xdotool windowactivate $(xdotool search -title -- 'Mozilla Firefox')", end
+ctrl+f sh "xdotool windowactivate $(xdotool search -title -- 'Mozilla Firefox'); xdotool key ctrl+t", end
 
 # Make a new tab in google chrome:
 #t sh "xdotool windowactivate $(xdotool search --title -- '- Google Chrome' | head -1); xdotool key ctrl+t",end
