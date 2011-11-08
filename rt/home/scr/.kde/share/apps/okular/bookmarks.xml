@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel>
+<xbel xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" xmlns:kdepriv="http://www.kde.org/kdepriv" dbusName="okular">
+ <folder href="file:///home/sre/01%E6%9E%84%E5%BB%BA%E5%B5%8C%E5%85%A5%E5%BC%8FLinux%E7%B3%BB%E7%BB%9F.pdf">
+  <title>/home/sre/01构建嵌入式Linux系统.pdf</title>
+  <bookmark href="file:///home/sre/01%E6%9E%84%E5%BB%BA%E5%B5%8C%E5%85%A5%E5%BC%8FLinux%E7%B3%BB%E7%BB%9F.pdf#323">
+   <title>#324</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/sre/01%E6%9E%84%E5%BB%BA%E5%B5%8C%E5%85%A5%E5%BC%8FLinux%E7%B3%BB%E7%BB%9F.pdf#121">
+   <title>#122</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/sre/.rt/book/lang/java/strust/01%E8%BD%BB%E9%87%8F%E7%BA%A7J2EE%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E5%AE%9E%E6%88%98.pdf">
+  <title>/home/sre/.rt/book/lang/java/strust/01轻量级J2EE企业应用实战.pdf</title>
+  <bookmark href="file:///home/sre/.rt/book/lang/java/strust/01%E8%BD%BB%E9%87%8F%E7%BA%A7J2EE%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E5%AE%9E%E6%88%98.pdf#209">
+   <title>#210</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/sre/.rt/book/lang/java/strust/01%E8%BD%BB%E9%87%8F%E7%BA%A7J2EE%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E5%AE%9E%E6%88%98.pdf#211">
+   <title>#212</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/sre/.rt/book/lang/java/strust/01%E8%BD%BB%E9%87%8F%E7%BA%A7J2EE%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E5%AE%9E%E6%88%98.pdf#218">
+   <title>#219</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/sre/.rt/book/lang/java/strust/01%E8%BD%BB%E9%87%8F%E7%BA%A7J2EE%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E5%AE%9E%E6%88%98.pdf#233">
+   <title>#223 </title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/sre/.rt/book/lang/java/strust/01%E8%BD%BB%E9%87%8F%E7%BA%A7J2EE%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E5%AE%9E%E6%88%98.pdf#250">
+   <title>#251</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/sre/.rt/book/lang/java/strust/01%E8%BD%BB%E9%87%8F%E7%BA%A7J2EE%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E5%AE%9E%E6%88%98.pdf#265">
+   <title>#266</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/sre/.rt/book/lang/java/strust/01%E8%BD%BB%E9%87%8F%E7%BA%A7J2EE%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E5%AE%9E%E6%88%98.pdf#263">
+   <title>#264</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/sre/.rt/book/lang/c-cpp/BianChengZhuJi/02%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91-%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf">
+  <title>/home/sre/.rt/book/lang/c-cpp/BianChengZhuJi/02编程珠玑-中文第二版.pdf</title>
+ </folder>
+</xbel>

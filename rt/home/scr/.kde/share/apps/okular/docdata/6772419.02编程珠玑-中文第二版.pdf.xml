@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/sre/.rt/book/lang/c-cpp/Programming-Pearls/02编程珠玑-中文第二版.pdf">
+ <pageList>
+  <page number="17">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2011-09-27T03:45:05" uniqueName="okular-17-1" author="sre" modifyDate="2011-09-27T03:45:05" color="#ffe000">
+      <boundary l="0.482252" r="0.867809" b="0.389273" t="0.389273"/>
+     </base>
+     <line>
+      <point x="0.482252" y="0.389273"/>
+      <point x="0.869033" y="0.390138"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T03:45:13" uniqueName="okular-17-2" author="sre" modifyDate="2011-09-27T03:45:13" color="#ffe000">
+      <boundary l="0.123623" r="0.867809" b="0.415225" t="0.411765"/>
+     </base>
+     <line>
+      <point x="0.123623" y="0.41263"/>
+      <point x="0.869033" y="0.41609"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T03:45:16" uniqueName="okular-17-3" author="sre" modifyDate="2011-09-27T03:45:16" color="#ffe000">
+      <boundary l="0.124847" r="0.522644" b="0.438581" t="0.435121"/>
+     </base>
+     <line>
+      <point x="0.124847" y="0.435121"/>
+      <point x="0.522644" y="0.438581"/>
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="18">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2011-09-27T04:12:20" uniqueName="okular-18-1" author="sre" modifyDate="2011-09-27T04:12:20" color="#ffe000">
+      <boundary l="0.135863" r="0.243574" b="0.381488" t="0.381488"/>
+     </base>
+     <line>
+      <point x="0.137087" y="0.381488"/>
+      <point x="0.244798" y="0.382353"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T04:12:42" uniqueName="okular-18-2" author="sre" modifyDate="2011-09-27T04:12:42" color="#ffe000">
+      <boundary l="0.135863" r="0.257038" b="0.454152" t="0.454152"/>
+     </base>
+     <line>
+      <point x="0.137087" y="0.455017"/>
+      <point x="0.257038" y="0.455017"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T04:13:14" uniqueName="okular-18-3" author="sre" modifyDate="2011-09-27T04:13:14" color="#ffe000">
+      <boundary l="0.135863" r="0.388005" b="0.556228" t="0.551903"/>
+     </base>
+     <line>
+      <point x="0.135863" y="0.551903"/>
+      <point x="0.388005" y="0.557093"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T04:13:34" uniqueName="okular-18-4" author="sre" modifyDate="2011-09-27T04:13:34" color="#ffe000">
+      <boundary l="0.135863" r="0.47246" b="0.631488" t="0.626298"/>
+     </base>
+     <line>
+      <point x="0.135863" y="0.626298"/>
+      <point x="0.473684" y="0.632353"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T04:14:19" uniqueName="okular-18-5" author="sre" modifyDate="2011-09-27T04:14:19" color="#ffe000">
+      <boundary l="0.129743" r="0.243574" b="0.799308" t="0.796713"/>
+     </base>
+     <line>
+      <point x="0.129743" y="0.796713"/>
+      <point x="0.244798" y="0.799308"/>
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="19">
+   <annotationList>
+    <annotation type="6">
+     <base creationDate="2011-09-27T05:50:18" uniqueName="okular-19-1" author="sre" modifyDate="2011-09-27T05:50:18" color="#00ff00">
+      <boundary l="0.13269" r="0.185766" b="0.606138" t="0.571185"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.154403" y="0.575448"/>
+       <point x="0.160434" y="0.574595"/>
+       <point x="0.135103" y="0.57971"/>
+       <point x="0.141134" y="0.575448"/>
+       <point x="0.144753" y="0.573743"/>
+       <point x="0.147165" y="0.57289"/>
+       <point x="0.149578" y="0.57289"/>
+       <point x="0.150784" y="0.57289"/>
+       <point x="0.153197" y="0.57289"/>
+       <point x="0.156815" y="0.57289"/>
+       <point x="0.162847" y="0.574595"/>
+       <point x="0.166466" y="0.5763"/>
+       <point x="0.171291" y="0.578005"/>
+       <point x="0.173703" y="0.578858"/>
+       <point x="0.177322" y="0.580563"/>
+       <point x="0.178528" y="0.581415"/>
+       <point x="0.179735" y="0.583973"/>
+       <point x="0.182147" y="0.58994"/>
+       <point x="0.183353" y="0.591645"/>
+       <point x="0.183353" y="0.59335"/>
+       <point x="0.183353" y="0.594203"/>
+       <point x="0.183353" y="0.595055"/>
+       <point x="0.183353" y="0.595908"/>
+       <point x="0.183353" y="0.59676"/>
+       <point x="0.182147" y="0.599318"/>
+       <point x="0.179735" y="0.600171"/>
+       <point x="0.178528" y="0.601876"/>
+       <point x="0.176116" y="0.603581"/>
+       <point x="0.173703" y="0.604433"/>
+       <point x="0.172497" y="0.604433"/>
+       <point x="0.166466" y="0.604433"/>
+       <point x="0.162847" y="0.604433"/>
+       <point x="0.159228" y="0.604433"/>
+       <point x="0.156815" y="0.604433"/>
+       <point x="0.15199" y="0.604433"/>
+       <point x="0.150784" y="0.604433"/>
+       <point x="0.148372" y="0.603581"/>
+       <point x="0.145959" y="0.603581"/>
+       <point x="0.144753" y="0.603581"/>
+       <point x="0.143546" y="0.603581"/>
+       <point x="0.143546" y="0.602728"/>
+       <point x="0.14234" y="0.601876"/>
+       <point x="0.139928" y="0.600171"/>
+       <point x="0.139928" y="0.597613"/>
+       <point x="0.137515" y="0.588235"/>
+       <point x="0.137515" y="0.583973"/>
+       <point x="0.137515" y="0.580563"/>
+       <point x="0.139928" y="0.5763"/>
+       <point x="0.141134" y="0.574595"/>
+       <point x="0.143546" y="0.57289"/>
+       <point x="0.144753" y="0.57289"/>
+       <point x="0.145959" y="0.57289"/>
+       <point x="0.148372" y="0.57289"/>
+       <point x="0.15199" y="0.574595"/>
+       <point x="0.158022" y="0.5763"/>
+       <point x="0.164053" y="0.578005"/>
+       <point x="0.166466" y="0.578858"/>
+       <point x="0.167672" y="0.580563"/>
+       <point x="0.167672" y="0.581415"/>
+       <point x="0.167672" y="0.582268"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T05:52:08" uniqueName="okular-19-2" author="sre" modifyDate="2011-09-27T05:52:08" color="#00ff00">
+      <boundary l="0.135103" r="0.176116" b="0.876385" t="0.8474"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.138721" y="0.85763"/>
+       <point x="0.139928" y="0.855925"/>
+       <point x="0.14234" y="0.855072"/>
+       <point x="0.144753" y="0.853367"/>
+       <point x="0.149578" y="0.852515"/>
+       <point x="0.15199" y="0.852515"/>
+       <point x="0.15199" y="0.851662"/>
+       <point x="0.153197" y="0.851662"/>
+       <point x="0.159228" y="0.856777"/>
+       <point x="0.160434" y="0.859335"/>
+       <point x="0.164053" y="0.861893"/>
+       <point x="0.166466" y="0.863598"/>
+       <point x="0.168878" y="0.867008"/>
+       <point x="0.170084" y="0.86786"/>
+       <point x="0.171291" y="0.869565"/>
+       <point x="0.172497" y="0.872123"/>
+       <point x="0.173703" y="0.872975"/>
+       <point x="0.173703" y="0.87468"/>
+       <point x="0.171291" y="0.87468"/>
+       <point x="0.162847" y="0.872975"/>
+       <point x="0.155609" y="0.872123"/>
+       <point x="0.150784" y="0.872123"/>
+       <point x="0.145959" y="0.87127"/>
+       <point x="0.144753" y="0.87127"/>
+       <point x="0.143546" y="0.870418"/>
+       <point x="0.143546" y="0.869565"/>
+       <point x="0.141134" y="0.86786"/>
+       <point x="0.139928" y="0.866155"/>
+       <point x="0.139928" y="0.86445"/>
+       <point x="0.138721" y="0.861893"/>
+       <point x="0.137515" y="0.859335"/>
+       <point x="0.137515" y="0.85763"/>
+       <point x="0.137515" y="0.856777"/>
+       <point x="0.137515" y="0.853367"/>
+       <point x="0.138721" y="0.851662"/>
+       <point x="0.141134" y="0.849957"/>
+       <point x="0.14234" y="0.849105"/>
+       <point x="0.144753" y="0.849105"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T05:52:25" uniqueName="okular-19-3" author="sre" modifyDate="2011-09-27T05:52:25" color="#00ff00">
+      <boundary l="0.137515" r="0.173703" b="0.682012" t="0.653879"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.144753" y="0.680307"/>
+       <point x="0.143546" y="0.680307"/>
+       <point x="0.14234" y="0.678602"/>
+       <point x="0.141134" y="0.675192"/>
+       <point x="0.141134" y="0.674339"/>
+       <point x="0.141134" y="0.671782"/>
+       <point x="0.141134" y="0.670929"/>
+       <point x="0.139928" y="0.669224"/>
+       <point x="0.139928" y="0.667519"/>
+       <point x="0.139928" y="0.666667"/>
+       <point x="0.139928" y="0.664962"/>
+       <point x="0.139928" y="0.663257"/>
+       <point x="0.141134" y="0.663257"/>
+       <point x="0.141134" y="0.662404"/>
+       <point x="0.143546" y="0.660699"/>
+       <point x="0.144753" y="0.659847"/>
+       <point x="0.147165" y="0.658994"/>
+       <point x="0.149578" y="0.658994"/>
+       <point x="0.150784" y="0.658994"/>
+       <point x="0.15199" y="0.658142"/>
+       <point x="0.154403" y="0.658142"/>
+       <point x="0.155609" y="0.657289"/>
+       <point x="0.158022" y="0.656436"/>
+       <point x="0.160434" y="0.656436"/>
+       <point x="0.160434" y="0.655584"/>
+       <point x="0.161641" y="0.655584"/>
+       <point x="0.162847" y="0.658142"/>
+       <point x="0.165259" y="0.659847"/>
+       <point x="0.166466" y="0.662404"/>
+       <point x="0.170084" y="0.665814"/>
+       <point x="0.170084" y="0.666667"/>
+       <point x="0.170084" y="0.668372"/>
+       <point x="0.170084" y="0.670077"/>
+       <point x="0.171291" y="0.670929"/>
+       <point x="0.171291" y="0.671782"/>
+       <point x="0.171291" y="0.672634"/>
+       <point x="0.171291" y="0.673487"/>
+       <point x="0.171291" y="0.674339"/>
+       <point x="0.171291" y="0.675192"/>
+       <point x="0.171291" y="0.676044"/>
+       <point x="0.168878" y="0.677749"/>
+       <point x="0.167672" y="0.678602"/>
+       <point x="0.166466" y="0.678602"/>
+       <point x="0.164053" y="0.679454"/>
+       <point x="0.161641" y="0.679454"/>
+       <point x="0.156815" y="0.679454"/>
+       <point x="0.153197" y="0.679454"/>
+       <point x="0.149578" y="0.678602"/>
+       <point x="0.145959" y="0.677749"/>
+       <point x="0.141134" y="0.676897"/>
+       <point x="0.141134" y="0.676044"/>
+       <point x="0.139928" y="0.675192"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T05:52:28" uniqueName="okular-19-4" author="sre" modifyDate="2011-09-27T05:52:28" color="#00ff00">
+      <boundary l="0.126659" r="0.179735" b="0.731458" t="0.699062"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.13269" y="0.726343"/>
+       <point x="0.131484" y="0.72549"/>
+       <point x="0.131484" y="0.723785"/>
+       <point x="0.131484" y="0.720375"/>
+       <point x="0.130277" y="0.717818"/>
+       <point x="0.130277" y="0.712702"/>
+       <point x="0.130277" y="0.710997"/>
+       <point x="0.130277" y="0.709292"/>
+       <point x="0.130277" y="0.707587"/>
+       <point x="0.130277" y="0.706735"/>
+       <point x="0.131484" y="0.705882"/>
+       <point x="0.13269" y="0.705882"/>
+       <point x="0.137515" y="0.704177"/>
+       <point x="0.14234" y="0.703325"/>
+       <point x="0.143546" y="0.702472"/>
+       <point x="0.145959" y="0.70162"/>
+       <point x="0.148372" y="0.700767"/>
+       <point x="0.153197" y="0.700767"/>
+       <point x="0.154403" y="0.700767"/>
+       <point x="0.155609" y="0.700767"/>
+       <point x="0.156815" y="0.700767"/>
+       <point x="0.158022" y="0.700767"/>
+       <point x="0.160434" y="0.70162"/>
+       <point x="0.162847" y="0.702472"/>
+       <point x="0.165259" y="0.703325"/>
+       <point x="0.166466" y="0.70503"/>
+       <point x="0.167672" y="0.706735"/>
+       <point x="0.168878" y="0.706735"/>
+       <point x="0.168878" y="0.70844"/>
+       <point x="0.170084" y="0.70844"/>
+       <point x="0.171291" y="0.710997"/>
+       <point x="0.172497" y="0.713555"/>
+       <point x="0.173703" y="0.71526"/>
+       <point x="0.17491" y="0.716113"/>
+       <point x="0.176116" y="0.720375"/>
+       <point x="0.176116" y="0.721228"/>
+       <point x="0.177322" y="0.722933"/>
+       <point x="0.177322" y="0.723785"/>
+       <point x="0.177322" y="0.724638"/>
+       <point x="0.173703" y="0.727195"/>
+       <point x="0.171291" y="0.728048"/>
+       <point x="0.170084" y="0.7289"/>
+       <point x="0.168878" y="0.7289"/>
+       <point x="0.166466" y="0.729753"/>
+       <point x="0.165259" y="0.729753"/>
+       <point x="0.162847" y="0.729753"/>
+       <point x="0.159228" y="0.729753"/>
+       <point x="0.15199" y="0.729753"/>
+       <point x="0.147165" y="0.729753"/>
+       <point x="0.143546" y="0.729753"/>
+       <point x="0.137515" y="0.728048"/>
+       <point x="0.136309" y="0.727195"/>
+       <point x="0.135103" y="0.727195"/>
+       <point x="0.133896" y="0.72549"/>
+       <point x="0.13269" y="0.72549"/>
+       <point x="0.130277" y="0.724638"/>
+       <point x="0.129071" y="0.723785"/>
+      </path>
+     </ink>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="20">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2011-09-27T05:53:05" uniqueName="okular-20-1" author="sre" modifyDate="2011-09-27T05:53:05" color="#ffe000">
+      <boundary l="0.647768" r="0.856454" b="0.190963" t="0.188406"/>
+     </base>
+     <line>
+      <point x="0.648975" y="0.188406"/>
+      <point x="0.85766" y="0.191816"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T05:53:12" uniqueName="okular-20-2" author="sre" modifyDate="2011-09-27T05:53:12" color="#ffe000">
+      <boundary l="0.0952955" r="0.318456" b="0.215686" t="0.214834"/>
+     </base>
+     <line>
+      <point x="0.0965018" y="0.215686"/>
+      <point x="0.319662" y="0.214834"/>
+     </line>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T22:06:18" uniqueName="okular-20-3" author="sre" modifyDate="2011-09-27T22:06:18" color="#00ff00">
+      <boundary l="0.103739" r="0.162847" b="0.175618" t="0.140665"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.106152" y="0.15601"/>
+       <point x="0.106152" y="0.155158"/>
+       <point x="0.108565" y="0.153453"/>
+       <point x="0.112183" y="0.150895"/>
+       <point x="0.118215" y="0.146633"/>
+       <point x="0.119421" y="0.14578"/>
+       <point x="0.121834" y="0.14578"/>
+       <point x="0.129071" y="0.144928"/>
+       <point x="0.138721" y="0.144075"/>
+       <point x="0.147165" y="0.143223"/>
+       <point x="0.153197" y="0.14237"/>
+       <point x="0.154403" y="0.14237"/>
+       <point x="0.155609" y="0.14237"/>
+       <point x="0.156815" y="0.144928"/>
+       <point x="0.158022" y="0.147485"/>
+       <point x="0.159228" y="0.148338"/>
+       <point x="0.159228" y="0.150043"/>
+       <point x="0.160434" y="0.154305"/>
+       <point x="0.160434" y="0.156863"/>
+       <point x="0.160434" y="0.15942"/>
+       <point x="0.160434" y="0.161125"/>
+       <point x="0.160434" y="0.165388"/>
+       <point x="0.160434" y="0.16624"/>
+       <point x="0.160434" y="0.167945"/>
+       <point x="0.160434" y="0.16965"/>
+       <point x="0.160434" y="0.170503"/>
+       <point x="0.160434" y="0.171355"/>
+       <point x="0.160434" y="0.172208"/>
+       <point x="0.156815" y="0.173913"/>
+       <point x="0.154403" y="0.173913"/>
+       <point x="0.153197" y="0.173913"/>
+       <point x="0.15199" y="0.173913"/>
+       <point x="0.150784" y="0.173913"/>
+       <point x="0.147165" y="0.173061"/>
+       <point x="0.141134" y="0.170503"/>
+       <point x="0.133896" y="0.168798"/>
+       <point x="0.129071" y="0.167945"/>
+       <point x="0.129071" y="0.167093"/>
+       <point x="0.127865" y="0.167093"/>
+       <point x="0.127865" y="0.16624"/>
+       <point x="0.127865" y="0.165388"/>
+       <point x="0.127865" y="0.164535"/>
+       <point x="0.127865" y="0.16283"/>
+       <point x="0.127865" y="0.161125"/>
+       <point x="0.127865" y="0.15942"/>
+       <point x="0.127865" y="0.156863"/>
+       <point x="0.127865" y="0.154305"/>
+       <point x="0.127865" y="0.153453"/>
+       <point x="0.127865" y="0.1526"/>
+       <point x="0.127865" y="0.151748"/>
+       <point x="0.127865" y="0.150895"/>
+       <point x="0.127865" y="0.150043"/>
+       <point x="0.127865" y="0.147485"/>
+       <point x="0.127865" y="0.146633"/>
+       <point x="0.127865" y="0.14578"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T22:07:13" uniqueName="okular-20-4" author="sre" modifyDate="2011-09-27T22:07:13" color="#00ff00">
+      <boundary l="0.120627" r="0.172497" b="0.317988" t="0.282182"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.131484" y="0.294118"/>
+       <point x="0.13269" y="0.293265"/>
+       <point x="0.133896" y="0.292413"/>
+       <point x="0.136309" y="0.29156"/>
+       <point x="0.14234" y="0.290708"/>
+       <point x="0.145959" y="0.289855"/>
+       <point x="0.147165" y="0.289003"/>
+       <point x="0.148372" y="0.289855"/>
+       <point x="0.15199" y="0.290708"/>
+       <point x="0.159228" y="0.29497"/>
+       <point x="0.164053" y="0.296675"/>
+       <point x="0.166466" y="0.299233"/>
+       <point x="0.168878" y="0.300938"/>
+       <point x="0.168878" y="0.302643"/>
+       <point x="0.170084" y="0.3052"/>
+       <point x="0.170084" y="0.306905"/>
+       <point x="0.170084" y="0.31202"/>
+       <point x="0.170084" y="0.313725"/>
+       <point x="0.170084" y="0.314578"/>
+       <point x="0.170084" y="0.315431"/>
+       <point x="0.168878" y="0.316283"/>
+       <point x="0.165259" y="0.316283"/>
+       <point x="0.159228" y="0.316283"/>
+       <point x="0.15199" y="0.316283"/>
+       <point x="0.13269" y="0.312873"/>
+       <point x="0.127865" y="0.31202"/>
+       <point x="0.125452" y="0.311168"/>
+       <point x="0.12304" y="0.310315"/>
+       <point x="0.12304" y="0.30861"/>
+       <point x="0.12304" y="0.306905"/>
+       <point x="0.12304" y="0.306053"/>
+       <point x="0.12304" y="0.3052"/>
+       <point x="0.12304" y="0.300085"/>
+       <point x="0.124246" y="0.297528"/>
+       <point x="0.126659" y="0.294118"/>
+       <point x="0.133896" y="0.289855"/>
+       <point x="0.137515" y="0.287298"/>
+       <point x="0.147165" y="0.283887"/>
+       <point x="0.148372" y="0.283887"/>
+      </path>
+     </ink>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="22">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2011-09-27T22:32:10" uniqueName="okular-22-1" author="sre" modifyDate="2011-09-27T22:32:10" color="#ffe000">
+      <boundary l="0.172967" r="0.184422" b="0.496356" t="0.489879"/>
+     </base>
+     <line>
+      <point x="0.174112" y="0.489879"/>
+      <point x="0.184422" y="0.496356"/>
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="23">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2011-09-27T22:37:11" uniqueName="okular-23-1" author="sre" modifyDate="2011-09-27T22:37:11" color="#ffe000">
+      <boundary l="0.5063" r="0.85567" b="0.262348" t="0.259919"/>
+     </base>
+     <line>
+      <point x="0.507446" y="0.260729"/>
+      <point x="0.856816" y="0.263158"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T22:37:14" uniqueName="okular-23-2" author="sre" modifyDate="2011-09-27T22:37:14" color="#ffe000">
+      <boundary l="0.112257" r="0.704467" b="0.283401" t="0.280162"/>
+     </base>
+     <line>
+      <point x="0.112257" y="0.280972"/>
+      <point x="0.704467" y="0.283401"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T22:44:48" uniqueName="okular-23-3" author="sre" modifyDate="2011-09-27T22:44:48" color="#007eee">
+      <boundary l="0.68614" r="0.871707" b="0.407287" t="0.404858"/>
+     </base>
+     <line closed="1">
+      <point x="0.68614" y="0.408097"/>
+      <point x="0.871707" y="0.407287"/>
+      <point x="0.870561" y="0.405668"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T22:44:54" uniqueName="okular-23-4" author="sre" modifyDate="2011-09-27T22:44:54" color="#007eee">
+      <boundary l="0.101947" r="0.600229" b="0.42834" t="0.42834"/>
+     </base>
+     <line closed="1">
+      <point x="0.103093" y="0.42834"/>
+      <point x="0.601375" y="0.42834"/>
+      <point x="0.601375" y="0.42834"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:00:05" uniqueName="okular-23-5" author="sre" modifyDate="2011-09-27T23:00:05" color="#ffe000">
+      <boundary l="0.521226" r="0.862028" b="0.8975" t="0.895"/>
+     </base>
+     <line>
+      <point x="0.521226" y="0.895"/>
+      <point x="0.863208" y="0.898333"/>
+     </line>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T23:00:08" uniqueName="okular-23-6" author="sre" modifyDate="2011-09-27T23:00:08" color="#00ff00">
+      <boundary l="0.742925" r="0.747642" b="0.876667" t="0.839167"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.745283" y="0.84"/>
+       <point x="0.745283" y="0.840833"/>
+       <point x="0.745283" y="0.8425"/>
+       <point x="0.745283" y="0.844167"/>
+       <point x="0.745283" y="0.846667"/>
+       <point x="0.745283" y="0.8525"/>
+       <point x="0.745283" y="0.855"/>
+       <point x="0.745283" y="0.858333"/>
+       <point x="0.745283" y="0.860833"/>
+       <point x="0.745283" y="0.861667"/>
+       <point x="0.745283" y="0.8625"/>
+       <point x="0.745283" y="0.865833"/>
+       <point x="0.745283" y="0.8675"/>
+       <point x="0.745283" y="0.868333"/>
+       <point x="0.745283" y="0.87"/>
+       <point x="0.745283" y="0.870833"/>
+       <point x="0.745283" y="0.871667"/>
+       <point x="0.745283" y="0.8725"/>
+       <point x="0.745283" y="0.874167"/>
+       <point x="0.745283" y="0.875"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:17:37" uniqueName="okular-23-7" author="sre" modifyDate="2011-09-27T23:17:37" color="#ffe000">
+      <boundary l="0.191038" r="0.681604" b="0.356667" t="0.354167"/>
+     </base>
+     <line>
+      <point x="0.192217" y="0.355"/>
+      <point x="0.682783" y="0.356667"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:28:56" uniqueName="okular-23-9" author="sre" modifyDate="2011-09-27T23:28:56" color="#ffe000">
+      <boundary l="0.82783" r="0.867925" b="0.209167" t="0.209167"/>
+     </base>
+     <line>
+      <point x="0.829009" y="0.209167"/>
+      <point x="0.867925" y="0.209167"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:29:00" uniqueName="okular-23-10" author="sre" modifyDate="2011-09-27T23:29:00" color="#ffe000">
+      <boundary l="0.107311" r="0.862028" b="0.233333" t="0.230833"/>
+     </base>
+     <line>
+      <point x="0.107311" y="0.233333"/>
+      <point x="0.863208" y="0.230833"/>
+     </line>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T23:29:04" uniqueName="okular-23-11" author="sre" modifyDate="2011-09-27T23:29:04" color="#00ff00">
+      <boundary l="0.860849" r="0.873821" b="0.22" t="0.191667"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.872642" y="0.193333"/>
+       <point x="0.871462" y="0.193333"/>
+       <point x="0.871462" y="0.1975"/>
+       <point x="0.871462" y="0.198333"/>
+       <point x="0.871462" y="0.2"/>
+       <point x="0.870283" y="0.201667"/>
+       <point x="0.869104" y="0.2025"/>
+       <point x="0.869104" y="0.204167"/>
+       <point x="0.867925" y="0.205"/>
+       <point x="0.867925" y="0.206667"/>
+       <point x="0.867925" y="0.2075"/>
+       <point x="0.866745" y="0.209167"/>
+       <point x="0.865566" y="0.21"/>
+       <point x="0.865566" y="0.210833"/>
+       <point x="0.864387" y="0.2125"/>
+       <point x="0.864387" y="0.213333"/>
+       <point x="0.863208" y="0.214167"/>
+       <point x="0.863208" y="0.215"/>
+       <point x="0.863208" y="0.216667"/>
+       <point x="0.863208" y="0.2175"/>
+       <point x="0.863208" y="0.218333"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T23:29:13" uniqueName="okular-23-12" author="sre" modifyDate="2011-09-27T23:29:13" color="#00ff00">
+      <boundary l="0.516509" r="0.591981" b="0.356667" t="0.325"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.517689" y="0.326667"/>
+       <point x="0.518868" y="0.326667"/>
+       <point x="0.53184" y="0.326667"/>
+       <point x="0.542453" y="0.328333"/>
+       <point x="0.550708" y="0.329167"/>
+       <point x="0.555425" y="0.329167"/>
+       <point x="0.556604" y="0.33"/>
+       <point x="0.556604" y="0.330833"/>
+       <point x="0.556604" y="0.331667"/>
+       <point x="0.553066" y="0.335"/>
+       <point x="0.550708" y="0.3375"/>
+       <point x="0.549528" y="0.338333"/>
+       <point x="0.548349" y="0.34"/>
+       <point x="0.544811" y="0.343333"/>
+       <point x="0.542453" y="0.345833"/>
+       <point x="0.542453" y="0.3475"/>
+       <point x="0.540094" y="0.348333"/>
+       <point x="0.537736" y="0.35"/>
+       <point x="0.535377" y="0.350833"/>
+       <point x="0.533019" y="0.351667"/>
+       <point x="0.53066" y="0.3525"/>
+       <point x="0.529481" y="0.353333"/>
+       <point x="0.529481" y="0.354167"/>
+       <point x="0.529481" y="0.355"/>
+       <point x="0.528302" y="0.355"/>
+       <point x="0.527123" y="0.354167"/>
+       <point x="0.528302" y="0.353333"/>
+       <point x="0.535377" y="0.353333"/>
+       <point x="0.553066" y="0.35"/>
+       <point x="0.563679" y="0.35"/>
+       <point x="0.573113" y="0.348333"/>
+       <point x="0.582547" y="0.348333"/>
+       <point x="0.588443" y="0.348333"/>
+       <point x="0.589623" y="0.3475"/>
+       <point x="0.589623" y="0.346667"/>
+      </path>
+     </ink>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="24">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2011-09-27T22:52:47" uniqueName="okular-24-1" author="sre" modifyDate="2011-09-27T22:52:47" color="#ffe000">
+      <boundary l="0.755896" r="0.854953" b="0.214167" t="0.210833"/>
+     </base>
+     <line>
+      <point x="0.755896" y="0.210833"/>
+      <point x="0.854953" y="0.214167"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T22:52:51" uniqueName="okular-24-2" author="sre" modifyDate="2011-09-27T22:52:51" color="#ffe000">
+      <boundary l="0.0978774" r="0.145047" b="0.233333" t="0.233333"/>
+     </base>
+     <line>
+      <point x="0.0978774" y="0.233333"/>
+      <point x="0.145047" y="0.233333"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T22:57:43" uniqueName="okular-24-3" author="sre" modifyDate="2011-09-27T22:57:43" color="#ffe000">
+      <boundary l="0.443396" r="0.849057" b="0.4725" t="0.4675"/>
+     </base>
+     <line>
+      <point x="0.443396" y="0.468333"/>
+      <point x="0.850236" y="0.473333"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T22:57:49" uniqueName="okular-24-4" author="sre" modifyDate="2011-09-27T22:57:49" color="#ffe000">
+      <boundary l="0.0955189" r="0.209906" b="0.490833" t="0.489167"/>
+     </base>
+     <line>
+      <point x="0.0955189" y="0.489167"/>
+      <point x="0.211085" y="0.490833"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T22:59:34" uniqueName="okular-24-6" author="sre" modifyDate="2011-09-27T22:59:34" color="#ffe000">
+      <boundary l="0.630896" r="0.849057" b="0.643333" t="0.638333"/>
+     </base>
+     <line>
+      <point x="0.630896" y="0.639167"/>
+      <point x="0.849057" y="0.644167"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T22:59:37" uniqueName="okular-24-7" author="sre" modifyDate="2011-09-27T22:59:37" color="#ffe000">
+      <boundary l="0.0990566" r="0.334906" b="0.6625" t="0.661667"/>
+     </base>
+     <line>
+      <point x="0.0990566" y="0.6625"/>
+      <point x="0.336085" y="0.663333"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:00:16" uniqueName="okular-24-8" author="sre" modifyDate="2011-09-27T23:00:16" color="#ffe000">
+      <boundary l="0.318396" r="0.727594" b="0.160833" t="0.159167"/>
+     </base>
+     <line>
+      <point x="0.318396" y="0.159167"/>
+      <point x="0.727594" y="0.161667"/>
+     </line>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T23:00:19" uniqueName="okular-24-9" author="sre" modifyDate="2011-09-27T23:00:19" color="#00ff00">
+      <boundary l="0.558962" r="0.678066" b="0.1775" t="0.131667"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.561321" y="0.141667"/>
+       <point x="0.561321" y="0.14"/>
+       <point x="0.563679" y="0.1375"/>
+       <point x="0.567217" y="0.135"/>
+       <point x="0.571934" y="0.134167"/>
+       <point x="0.575472" y="0.133333"/>
+       <point x="0.580189" y="0.133333"/>
+       <point x="0.589623" y="0.133333"/>
+       <point x="0.595519" y="0.133333"/>
+       <point x="0.597877" y="0.133333"/>
+       <point x="0.599057" y="0.133333"/>
+       <point x="0.599057" y="0.134167"/>
+       <point x="0.602594" y="0.136667"/>
+       <point x="0.602594" y="0.1375"/>
+       <point x="0.604953" y="0.14"/>
+       <point x="0.606132" y="0.141667"/>
+       <point x="0.606132" y="0.1425"/>
+       <point x="0.607311" y="0.1475"/>
+       <point x="0.607311" y="0.15"/>
+       <point x="0.607311" y="0.151667"/>
+       <point x="0.607311" y="0.153333"/>
+       <point x="0.607311" y="0.155833"/>
+       <point x="0.604953" y="0.158333"/>
+       <point x="0.603774" y="0.16"/>
+       <point x="0.600236" y="0.1625"/>
+       <point x="0.597877" y="0.165833"/>
+       <point x="0.596698" y="0.1675"/>
+       <point x="0.595519" y="0.168333"/>
+       <point x="0.59434" y="0.17"/>
+       <point x="0.591981" y="0.170833"/>
+       <point x="0.591981" y="0.171667"/>
+       <point x="0.589623" y="0.1725"/>
+       <point x="0.588443" y="0.173333"/>
+       <point x="0.588443" y="0.174167"/>
+       <point x="0.587264" y="0.175"/>
+       <point x="0.59434" y="0.175"/>
+       <point x="0.606132" y="0.175"/>
+       <point x="0.634434" y="0.175"/>
+       <point x="0.649764" y="0.175"/>
+       <point x="0.660377" y="0.175833"/>
+       <point x="0.668632" y="0.175833"/>
+       <point x="0.674528" y="0.175833"/>
+       <point x="0.675708" y="0.175833"/>
+       <point x="0.675708" y="0.175"/>
+       <point x="0.674528" y="0.174167"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T23:00:26" uniqueName="okular-24-10" author="sre" modifyDate="2011-09-27T23:00:26" color="#00ff00">
+      <boundary l="0.791274" r="0.850236" b="0.2125" t="0.175"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.791274" y="0.178333"/>
+       <point x="0.793632" y="0.1775"/>
+       <point x="0.799528" y="0.176667"/>
+       <point x="0.811321" y="0.176667"/>
+       <point x="0.816038" y="0.176667"/>
+       <point x="0.818396" y="0.176667"/>
+       <point x="0.819575" y="0.176667"/>
+       <point x="0.819575" y="0.1775"/>
+       <point x="0.820755" y="0.18"/>
+       <point x="0.821934" y="0.181667"/>
+       <point x="0.821934" y="0.183333"/>
+       <point x="0.821934" y="0.184167"/>
+       <point x="0.821934" y="0.185"/>
+       <point x="0.821934" y="0.185833"/>
+       <point x="0.821934" y="0.1875"/>
+       <point x="0.819575" y="0.189167"/>
+       <point x="0.816038" y="0.1925"/>
+       <point x="0.814858" y="0.194167"/>
+       <point x="0.811321" y="0.194167"/>
+       <point x="0.810142" y="0.194167"/>
+       <point x="0.807783" y="0.194167"/>
+       <point x="0.806604" y="0.194167"/>
+       <point x="0.813679" y="0.194167"/>
+       <point x="0.821934" y="0.195833"/>
+       <point x="0.830189" y="0.195833"/>
+       <point x="0.837264" y="0.196667"/>
+       <point x="0.84316" y="0.198333"/>
+       <point x="0.846698" y="0.199167"/>
+       <point x="0.847877" y="0.2"/>
+       <point x="0.846698" y="0.201667"/>
+       <point x="0.839623" y="0.205833"/>
+       <point x="0.832547" y="0.208333"/>
+       <point x="0.824292" y="0.209167"/>
+       <point x="0.816038" y="0.21"/>
+       <point x="0.804245" y="0.210833"/>
+       <point x="0.803066" y="0.210833"/>
+       <point x="0.801887" y="0.209167"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T23:00:37" uniqueName="okular-24-11" author="sre" modifyDate="2011-09-27T23:00:37" color="#00ff00">
+      <boundary l="0.129717" r="0.261792" b="0.463333" t="0.440833"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.136792" y="0.440833"/>
+       <point x="0.135613" y="0.443333"/>
+       <point x="0.133255" y="0.448333"/>
+       <point x="0.132075" y="0.451667"/>
+       <point x="0.132075" y="0.454167"/>
+       <point x="0.132075" y="0.4575"/>
+       <point x="0.132075" y="0.458333"/>
+       <point x="0.132075" y="0.459167"/>
+       <point x="0.132075" y="0.46"/>
+       <point x="0.132075" y="0.460833"/>
+       <point x="0.135613" y="0.460833"/>
+       <point x="0.146226" y="0.460833"/>
+       <point x="0.185142" y="0.460833"/>
+       <point x="0.207547" y="0.460833"/>
+       <point x="0.229953" y="0.460833"/>
+       <point x="0.257075" y="0.461667"/>
+       <point x="0.259434" y="0.461667"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T23:00:41" uniqueName="okular-24-12" author="sre" modifyDate="2011-09-27T23:00:41" color="#00ff00">
+      <boundary l="0.163915" r="0.179245" b="0.475" t="0.44"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.176887" y="0.44"/>
+       <point x="0.176887" y="0.443333"/>
+       <point x="0.175708" y="0.4475"/>
+       <point x="0.174528" y="0.451667"/>
+       <point x="0.170991" y="0.4575"/>
+       <point x="0.170991" y="0.46"/>
+       <point x="0.170991" y="0.461667"/>
+       <point x="0.169811" y="0.464167"/>
+       <point x="0.169811" y="0.465"/>
+       <point x="0.168632" y="0.465833"/>
+       <point x="0.168632" y="0.466667"/>
+       <point x="0.168632" y="0.4675"/>
+       <point x="0.168632" y="0.468333"/>
+       <point x="0.168632" y="0.469167"/>
+       <point x="0.168632" y="0.47"/>
+       <point x="0.167453" y="0.470833"/>
+       <point x="0.167453" y="0.4725"/>
+       <point x="0.166274" y="0.473333"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T23:00:57" uniqueName="okular-24-15" author="sre" modifyDate="2011-09-27T23:00:57" color="#00ff00">
+      <boundary l="0.653302" r="0.721698" b="0.625833" t="0.589167"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.689858" y="0.589167"/>
+       <point x="0.689858" y="0.591667"/>
+       <point x="0.689858" y="0.595833"/>
+       <point x="0.688679" y="0.600833"/>
+       <point x="0.688679" y="0.605"/>
+       <point x="0.688679" y="0.61"/>
+       <point x="0.688679" y="0.611667"/>
+       <point x="0.688679" y="0.6125"/>
+       <point x="0.688679" y="0.613333"/>
+       <point x="0.689858" y="0.614167"/>
+       <point x="0.694575" y="0.614167"/>
+       <point x="0.701651" y="0.615"/>
+       <point x="0.706368" y="0.615833"/>
+       <point x="0.715802" y="0.6175"/>
+       <point x="0.71816" y="0.618333"/>
+       <point x="0.71934" y="0.619167"/>
+       <point x="0.715802" y="0.621667"/>
+       <point x="0.694575" y="0.623333"/>
+       <point x="0.681604" y="0.624167"/>
+       <point x="0.670991" y="0.624167"/>
+       <point x="0.65684" y="0.624167"/>
+       <point x="0.65566" y="0.624167"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T23:01:01" uniqueName="okular-24-16" author="sre" modifyDate="2011-09-27T23:01:01" color="#00ff00">
+      <boundary l="0.691038" r="0.715802" b="0.6" t="0.595"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.691038" y="0.595833"/>
+       <point x="0.693396" y="0.596667"/>
+       <point x="0.706368" y="0.598333"/>
+       <point x="0.708726" y="0.598333"/>
+       <point x="0.712264" y="0.598333"/>
+       <point x="0.713443" y="0.5975"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-10-24T14:46:02" uniqueName="okular-24-17" author="sre" modifyDate="2011-10-24T14:46:02" color="#007eee">
+      <boundary l="0.137" r="0.841" b="0.424735" t="0.416254"/>
+     </base>
+     <line closed="1">
+      <point x="0.137" y="0.416254"/>
+      <point x="0.842" y="0.425442"/>
+      <point x="0.831" y="0.424028"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-10-24T14:46:07" uniqueName="okular-24-18" author="sre" modifyDate="2011-10-24T14:46:07" color="#007eee">
+      <boundary l="0.097" r="0.363" b="0.44311" t="0.439576"/>
+     </base>
+     <line closed="1">
+      <point x="0.097" y="0.440283"/>
+      <point x="0.364" y="0.44311"/>
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="25">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:24:22" uniqueName="okular-25-1" author="sre" modifyDate="2011-09-27T23:24:22" color="#ffe000">
+      <boundary l="0.737028" r="0.865566" b="0.593333" t="0.5925"/>
+     </base>
+     <line>
+      <point x="0.737028" y="0.5925"/>
+      <point x="0.865566" y="0.594167"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:24:26" uniqueName="okular-25-2" author="sre" modifyDate="2011-09-27T23:24:26" color="#ffe000">
+      <boundary l="0.104953" r="0.814858" b="0.618333" t="0.613333"/>
+     </base>
+     <line>
+      <point x="0.104953" y="0.614167"/>
+      <point x="0.814858" y="0.619167"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:26:15" uniqueName="okular-25-3" author="sre" modifyDate="2011-09-27T23:26:15" color="#ffe000">
+      <boundary l="0.545991" r="0.867925" b="0.715" t="0.713333"/>
+     </base>
+     <line>
+      <point x="0.545991" y="0.714167"/>
+      <point x="0.867925" y="0.715833"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:26:19" uniqueName="okular-25-4" author="sre" modifyDate="2011-09-27T23:26:19" color="#ffe000">
+      <boundary l="0.112028" r="0.380896" b="0.7375" t="0.735833"/>
+     </base>
+     <line>
+      <point x="0.112028" y="0.735833"/>
+      <point x="0.380896" y="0.738333"/>
+     </line>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T23:27:50" uniqueName="okular-25-5" author="sre" modifyDate="2011-09-27T23:27:50" color="#00ff00">
+      <boundary l="0.751179" r="0.755896" b="0.571667" t="0.550833"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.753538" y="0.551667"/>
+       <point x="0.753538" y="0.5525"/>
+       <point x="0.753538" y="0.555833"/>
+       <point x="0.753538" y="0.559167"/>
+       <point x="0.753538" y="0.564167"/>
+       <point x="0.753538" y="0.566667"/>
+       <point x="0.753538" y="0.568333"/>
+       <point x="0.753538" y="0.569167"/>
+       <point x="0.753538" y="0.57"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T23:27:53" uniqueName="okular-25-6" author="sre" modifyDate="2011-09-27T23:27:53" color="#00ff00">
+      <boundary l="0.862028" r="0.900943" b="0.705833" t="0.679167"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.869104" y="0.684167"/>
+       <point x="0.870283" y="0.681667"/>
+       <point x="0.875" y="0.681667"/>
+       <point x="0.876179" y="0.680833"/>
+       <point x="0.877358" y="0.680833"/>
+       <point x="0.883255" y="0.6825"/>
+       <point x="0.885613" y="0.684167"/>
+       <point x="0.886792" y="0.686667"/>
+       <point x="0.89033" y="0.688333"/>
+       <point x="0.891509" y="0.69"/>
+       <point x="0.891509" y="0.690833"/>
+       <point x="0.891509" y="0.691667"/>
+       <point x="0.891509" y="0.6925"/>
+       <point x="0.891509" y="0.693333"/>
+       <point x="0.885613" y="0.695"/>
+       <point x="0.877358" y="0.695833"/>
+       <point x="0.870283" y="0.695833"/>
+       <point x="0.865566" y="0.696667"/>
+       <point x="0.864387" y="0.696667"/>
+       <point x="0.864387" y="0.6975"/>
+       <point x="0.869104" y="0.699167"/>
+       <point x="0.882075" y="0.701667"/>
+       <point x="0.889151" y="0.703333"/>
+       <point x="0.896226" y="0.704167"/>
+       <point x="0.897406" y="0.704167"/>
+       <point x="0.898585" y="0.703333"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:33:20" uniqueName="okular-25-7" author="sre" modifyDate="2011-09-27T23:33:20" color="#ffe000">
+      <boundary l="0.329009" r="0.608491" b="0.860833" t="0.858333"/>
+     </base>
+     <line>
+      <point x="0.329009" y="0.859167"/>
+      <point x="0.608491" y="0.860833"/>
+     </line>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-27T23:33:25" uniqueName="okular-25-8" author="sre" modifyDate="2011-09-27T23:33:25" color="#00ff00">
+      <boundary l="0.496462" r="0.561321" b="0.863333" t="0.8175"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.507075" y="0.819167"/>
+       <point x="0.508255" y="0.819167"/>
+       <point x="0.51533" y="0.820833"/>
+       <point x="0.523585" y="0.823333"/>
+       <point x="0.543632" y="0.83"/>
+       <point x="0.557783" y="0.831667"/>
+       <point x="0.557783" y="0.8325"/>
+       <point x="0.558962" y="0.833333"/>
+       <point x="0.556604" y="0.834167"/>
+       <point x="0.548349" y="0.836667"/>
+       <point x="0.523585" y="0.84"/>
+       <point x="0.51533" y="0.840833"/>
+       <point x="0.509434" y="0.841667"/>
+       <point x="0.508255" y="0.841667"/>
+       <point x="0.507075" y="0.8425"/>
+       <point x="0.509434" y="0.845"/>
+       <point x="0.51533" y="0.846667"/>
+       <point x="0.53066" y="0.849167"/>
+       <point x="0.534198" y="0.850833"/>
+       <point x="0.537736" y="0.850833"/>
+       <point x="0.540094" y="0.851667"/>
+       <point x="0.538915" y="0.8525"/>
+       <point x="0.535377" y="0.853333"/>
+       <point x="0.53066" y="0.853333"/>
+       <point x="0.524764" y="0.855"/>
+       <point x="0.518868" y="0.856667"/>
+       <point x="0.516509" y="0.8575"/>
+       <point x="0.51533" y="0.858333"/>
+       <point x="0.512972" y="0.859167"/>
+       <point x="0.511792" y="0.859167"/>
+       <point x="0.507075" y="0.859167"/>
+       <point x="0.504717" y="0.86"/>
+       <point x="0.502358" y="0.861667"/>
+       <point x="0.501179" y="0.861667"/>
+       <point x="0.5" y="0.861667"/>
+       <point x="0.498821" y="0.861667"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:33:55" uniqueName="okular-25-9" author="sre" modifyDate="2011-09-27T23:33:55" color="#007eee">
+      <boundary l="0.291274" r="0.40566" b="0.91" t="0.909167"/>
+     </base>
+     <line closed="1">
+      <point x="0.292453" y="0.909167"/>
+      <point x="0.40566" y="0.91"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:34:01" uniqueName="okular-25-10" author="sre" modifyDate="2011-09-27T23:34:01" color="#007eee">
+      <boundary l="0.433962" r="0.646226" b="0.9125" t="0.91"/>
+     </base>
+     <line closed="1">
+      <point x="0.435142" y="0.91"/>
+      <point x="0.647406" y="0.913333"/>
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="26">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:37:08" uniqueName="okular-26-1" author="sre" modifyDate="2011-09-27T23:37:08" color="#ffe000">
+      <boundary l="0.135613" r="0.216981" b="0.526667" t="0.524167"/>
+     </base>
+     <line>
+      <point x="0.135613" y="0.524167"/>
+      <point x="0.21816" y="0.5275"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:37:11" uniqueName="okular-26-2" author="sre" modifyDate="2011-09-27T23:37:11" color="#ffe000">
+      <boundary l="0.128538" r="0.175708" b="0.355833" t="0.354167"/>
+     </base>
+     <line>
+      <point x="0.129717" y="0.355833"/>
+      <point x="0.175708" y="0.355"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-27T23:37:16" uniqueName="okular-26-3" author="sre" modifyDate="2011-09-27T23:37:16" color="#ffe000">
+      <boundary l="0.126179" r="0.185142" b="0.603333" t="0.601667"/>
+     </base>
+     <line>
+      <point x="0.127358" y="0.601667"/>
+      <point x="0.186321" y="0.603333"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-28T01:22:14" uniqueName="okular-26-4" author="sre" modifyDate="2011-09-28T01:22:14" color="#007eee">
+      <boundary l="0.454009" r="0.849057" b="0.630833" t="0.626667"/>
+     </base>
+     <line closed="1">
+      <point x="0.454009" y="0.626667"/>
+      <point x="0.849057" y="0.630833"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-28T01:22:18" uniqueName="okular-26-5" author="sre" modifyDate="2011-09-28T01:22:18" color="#007eee">
+      <boundary l="0.0966981" r="0.209906" b="0.651667" t="0.650833"/>
+     </base>
+     <line closed="1">
+      <point x="0.0966981" y="0.651667"/>
+      <point x="0.209906" y="0.6525"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-28T01:22:22" uniqueName="okular-26-6" author="sre" modifyDate="2011-09-28T01:22:22" color="#007eee">
+      <boundary l="0.238208" r="0.792453" b="0.651667" t="0.646667"/>
+     </base>
+     <line closed="1">
+      <point x="0.238208" y="0.6475"/>
+      <point x="0.792453" y="0.6525"/>
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="27">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2011-09-28T01:01:10" uniqueName="okular-27-1" author="sre" modifyDate="2011-09-28T01:01:10" color="#ffe000">
+      <boundary l="0.142689" r="0.228774" b="0.165" t="0.1625"/>
+     </base>
+     <line>
+      <point x="0.143868" y="0.1625"/>
+      <point x="0.228774" y="0.165"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-28T01:02:43" uniqueName="okular-27-2" author="sre" modifyDate="2011-09-28T01:02:43" color="#ffe000">
+      <boundary l="0.149764" r="0.3125" b="0.258333" t="0.255"/>
+     </base>
+     <line>
+      <point x="0.149764" y="0.255"/>
+      <point x="0.3125" y="0.258333"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-28T03:01:43" uniqueName="okular-27-3" author="sre" modifyDate="2011-09-28T03:01:43" color="#ffe000">
+      <boundary l="0.224057" r="0.313679" b="0.574167" t="0.574167"/>
+     </base>
+     <line>
+      <point x="0.225236" y="0.574167"/>
+      <point x="0.313679" y="0.574167"/>
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="28">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2011-09-28T01:14:53" uniqueName="okular-28-1" author="sre" modifyDate="2011-09-28T01:14:53" color="#ffe000">
+      <boundary l="0.318396" r="0.555425" b="0.795" t="0.793333"/>
+     </base>
+     <line>
+      <point x="0.318396" y="0.793333"/>
+      <point x="0.555425" y="0.795833"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-28T01:14:57" uniqueName="okular-28-2" author="sre" modifyDate="2011-09-28T01:14:57" color="#ffe000">
+      <boundary l="0.57783" r="0.854953" b="0.795" t="0.795"/>
+     </base>
+     <line>
+      <point x="0.579009" y="0.795"/>
+      <point x="0.854953" y="0.795833"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-28T01:15:00" uniqueName="okular-28-3" author="sre" modifyDate="2011-09-28T01:15:00" color="#ffe000">
+      <boundary l="0.0955189" r="0.147406" b="0.819167" t="0.818333"/>
+     </base>
+     <line>
+      <point x="0.0955189" y="0.819167"/>
+      <point x="0.147406" y="0.818333"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-28T01:15:03" uniqueName="okular-28-4" author="sre" modifyDate="2011-09-28T01:15:03" color="#ffe000">
+      <boundary l="0.175708" r="0.714623" b="0.820833" t="0.818333"/>
+     </base>
+     <line>
+      <point x="0.175708" y="0.818333"/>
+      <point x="0.714623" y="0.821667"/>
+     </line>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-28T01:29:20" uniqueName="okular-28-5" author="sre" modifyDate="2011-09-28T01:29:20" color="#00ff00">
+      <boundary l="0.363208" r="0.456368" b="0.771667" t="0.768333"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.364387" y="0.77"/>
+       <point x="0.365566" y="0.77"/>
+       <point x="0.371462" y="0.77"/>
+       <point x="0.377358" y="0.77"/>
+       <point x="0.393868" y="0.77"/>
+       <point x="0.400943" y="0.77"/>
+       <point x="0.40566" y="0.77"/>
+       <point x="0.408019" y="0.77"/>
+       <point x="0.411557" y="0.77"/>
+       <point x="0.418632" y="0.77"/>
+       <point x="0.426887" y="0.77"/>
+       <point x="0.432783" y="0.77"/>
+       <point x="0.4375" y="0.77"/>
+       <point x="0.439858" y="0.77"/>
+       <point x="0.441038" y="0.77"/>
+       <point x="0.445755" y="0.77"/>
+       <point x="0.450472" y="0.77"/>
+       <point x="0.454009" y="0.77"/>
+      </path>
+     </ink>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="29">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2011-09-28T01:29:33" uniqueName="okular-29-1" author="sre" modifyDate="2011-09-28T01:29:33" color="#ffe000">
+      <boundary l="0.277123" r="0.352594" b="0.28" t="0.2775"/>
+     </base>
+     <line>
+      <point x="0.278302" y="0.280833"/>
+      <point x="0.352594" y="0.278333"/>
+     </line>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-28T01:29:35" uniqueName="okular-29-2" author="sre" modifyDate="2011-09-28T01:29:35" color="#00ff00">
+      <boundary l="0.314858" r="0.324292" b="0.269167" t="0.2475"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.321934" y="0.2475"/>
+       <point x="0.321934" y="0.249167"/>
+       <point x="0.321934" y="0.251667"/>
+       <point x="0.321934" y="0.254167"/>
+       <point x="0.321934" y="0.256667"/>
+       <point x="0.320755" y="0.26"/>
+       <point x="0.319575" y="0.260833"/>
+       <point x="0.319575" y="0.261667"/>
+       <point x="0.318396" y="0.265"/>
+       <point x="0.317217" y="0.266667"/>
+       <point x="0.317217" y="0.2675"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-28T01:34:12" uniqueName="okular-29-3" author="sre" modifyDate="2011-09-28T01:34:12" color="#ffe000">
+      <boundary l="0.149764" r="0.26533" b="0.646667" t="0.645833"/>
+     </base>
+     <line>
+      <point x="0.150943" y="0.6475"/>
+      <point x="0.26533" y="0.646667"/>
+     </line>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-28T01:34:17" uniqueName="okular-29-4" author="sre" modifyDate="2011-09-28T01:34:17" color="#00ff00">
+      <boundary l="0.137972" r="0.1875" b="0.6375" t="0.6175"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.141509" y="0.6225"/>
+       <point x="0.14033" y="0.621667"/>
+       <point x="0.142689" y="0.620833"/>
+       <point x="0.148585" y="0.62"/>
+       <point x="0.149764" y="0.62"/>
+       <point x="0.150943" y="0.619167"/>
+       <point x="0.154481" y="0.619167"/>
+       <point x="0.166274" y="0.6225"/>
+       <point x="0.178066" y="0.625833"/>
+       <point x="0.179245" y="0.625833"/>
+       <point x="0.175708" y="0.626667"/>
+       <point x="0.173349" y="0.6275"/>
+       <point x="0.168632" y="0.6275"/>
+       <point x="0.166274" y="0.629167"/>
+       <point x="0.163915" y="0.63"/>
+       <point x="0.162736" y="0.63"/>
+       <point x="0.160377" y="0.63"/>
+       <point x="0.160377" y="0.630833"/>
+       <point x="0.158019" y="0.630833"/>
+       <point x="0.15684" y="0.630833"/>
+       <point x="0.154481" y="0.631667"/>
+       <point x="0.153302" y="0.6325"/>
+       <point x="0.153302" y="0.633333"/>
+       <point x="0.150943" y="0.634167"/>
+       <point x="0.150943" y="0.635"/>
+       <point x="0.152123" y="0.635833"/>
+       <point x="0.15684" y="0.635833"/>
+       <point x="0.163915" y="0.635833"/>
+       <point x="0.169811" y="0.635833"/>
+       <point x="0.182783" y="0.635833"/>
+       <point x="0.185142" y="0.635833"/>
+      </path>
+     </ink>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-28T01:34:24" uniqueName="okular-29-5" author="sre" modifyDate="2011-09-28T01:34:24" color="#ffe000">
+      <boundary l="0.633255" r="0.727594" b="0.650833" t="0.649167"/>
+     </base>
+     <line>
+      <point x="0.634434" y="0.649167"/>
+      <point x="0.727594" y="0.650833"/>
+     </line>
+    </annotation>
+    <annotation type="6">
+     <base creationDate="2011-09-28T01:34:29" uniqueName="okular-29-6" author="sre" modifyDate="2011-09-28T01:34:29" color="#00ff00">
+      <boundary l="0.652123" r="0.667453" b="0.6375" t="0.62"/>
+      <penStyle width="2" ycr="0" style="1" spaces="0" marks="3" xcr="0"/>
+     </base>
+     <ink>
+      <path>
+       <point x="0.653302" y="0.621667"/>
+       <point x="0.65684" y="0.621667"/>
+       <point x="0.658019" y="0.621667"/>
+       <point x="0.659198" y="0.6225"/>
+       <point x="0.659198" y="0.623333"/>
+       <point x="0.660377" y="0.623333"/>
+       <point x="0.660377" y="0.624167"/>
+       <point x="0.660377" y="0.625"/>
+       <point x="0.660377" y="0.625833"/>
+       <point x="0.65566" y="0.628333"/>
+       <point x="0.654481" y="0.628333"/>
+       <point x="0.654481" y="0.629167"/>
+       <point x="0.65566" y="0.631667"/>
+       <point x="0.660377" y="0.631667"/>
+       <point x="0.663915" y="0.631667"/>
+       <point x="0.665094" y="0.631667"/>
+       <point x="0.662736" y="0.633333"/>
+       <point x="0.659198" y="0.634167"/>
+       <point x="0.658019" y="0.635"/>
+       <point x="0.65684" y="0.635833"/>
+      </path>
+     </ink>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="31">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2011-09-28T02:03:29" uniqueName="okular-31-1" author="sre" modifyDate="2011-09-28T02:03:29" color="#ffe000">
+      <boundary l="0.40566" r="0.862028" b="0.56" t="0.555833"/>
+     </base>
+     <line>
+      <point x="0.40566" y="0.556667"/>
+      <point x="0.863208" y="0.560833"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-09-28T02:03:33" uniqueName="okular-31-2" author="sre" modifyDate="2011-09-28T02:03:33" color="#ffe000">
+      <boundary l="0.108491" r="0.724057" b="0.584167" t="0.5825"/>
+     </base>
+     <line>
+      <point x="0.108491" y="0.5825"/>
+      <point x="0.724057" y="0.585"/>
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="26;C2:0.499478:0.761993:1"/>
+   <oldPage viewport="27;C2:0.499498:0.228014:1"/>
+   <oldPage viewport="26;C2:0.499498:0.228014:1"/>
+   <oldPage viewport="25;C2:0.499498:0.228014:1"/>
+   <oldPage viewport="24;C2:0.499498:0.771277:1"/>
+   <oldPage viewport="25;C2:0.499498:0.228014:1"/>
+   <oldPage viewport="24;C2:0.4995:0.224382:1"/>
+   <oldPage viewport="23;C2:0.4995:0.774912:1"/>
+   <oldPage viewport="24;C2:0.4995:0.224382:1"/>
+   <oldPage viewport="23;C2:0.4995:0.774912:1"/>
+   <current viewport="24;C2:0.4995:0.295053:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="1" value="1.68067"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>
