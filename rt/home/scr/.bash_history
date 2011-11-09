@@ -87264,3 +87264,5177 @@ gits
 git commit -m 'open gnome-termial with title'
 #1319346349
 gits
+#1319346365
+git add .
+#1319346367
+gits
+#1319346380
+git add README
+#1319346381
+gits
+#1319346406
+git checkout README
+#1319346407
+gits
+#1319346417
+cat README 
+#1319346425
+mutt
+#1319346487
+gits
+#1319346493
+git rm README 
+#1319346495
+gits
+#1319346553
+ls ~/.subversion
+#1319346567
+git commit -m 'ignore .subversion/auth'
+#1319346569
+gits
+#1319346596
+cd
+#1319346591
+git push origin master
+#1319346700
+cdrt
+#1319346704
+rm liofs 
+#1319346707
+cdbo
+#1319346715
+gits
+#1319346898
+cdvcrt
+#1319346901
+cat README 
+#1319346912
+cdvcrc
+#1319346924
+gits
+#1319346937
+cdbot
+#1319346939
+cd vercol/
+#1319346940
+cd svn
+#1319346945
+cd git
+#1319346948
+cd notes/
+#1319346974
+g 02.txt 
+#1319347510
+git checkout -h
+#1319347557
+git checkout README
+#1319347734
+git reset README
+#1319347745
+git reset -- README
+#1319348490
+gits
+#1319348533
+git checkout .
+#1319348535
+gits
+#1319348548
+cd svn
+#1319348552
+gits
+#1319348570
+git checkout README 
+#1319348572
+gits
+#1319348590
+git checkout ../git
+#1319348592
+gits
+#1319348599
+ll ../../sysconf/nautilus-open-terminal/
+#1319348608
+git checkout ../../sysconf/nautilus-open-terminal/
+#1319348612
+gitl
+#1319348643
+gits
+#1319348668
+cd sysconf/
+#1319348669
+gits
+#1319348682
+ll ../file-manager/
+#1319348690
+ll nautilus-open-terminal/
+#1319348706
+cdrt 
+#1319348707
+.
+#1319348715
+cd .rt-notes/
+#1319348722
+cd linux/computor/tools/
+#1319348724
+ll file-manager/
+#1319348730
+ll sysconf/
+#1319348734
+gits
+#1319348742
+gitl
+#1319348766
+git pull
+#1319348774
+git pull origin master
+#1319348779
+gits
+#1319348807
+git pull origin btest
+#1319348816
+git pull btest master
+#1319348827
+gitlp
+#1319348831
+gitl
+#1319348838
+gitls
+#1319348845
+gitl
+#1319348848
+gits
+#1319348881
+git pull origin btest
+#1319348891
+git pull origin 
+#1319348898
+git pull origin master
+#1319348903
+git pull origin btest
+#1319348912
+git pull -h
+#1319348940
+git pull origin master
+#1319348962
+git branch
+#1319349000
+git checkout btest
+#1319349006
+git checkout master
+#1319349027
+git branch
+#1319349030
+gits
+#1319349034
+git add .
+#1319349038
+gitl
+#1319349040
+gits
+#1319349054
+git commit -m 
+#1319349056
+git commit 
+#1319349066
+gitl
+#1319349074
+git checkout master
+#1319349080
+gitl
+#1319349091
+git checkout btest
+#1319349098
+gitl
+#1319349127
+gitk
+#1319349206
+gits
+#1319349213
+cdvcrt
+#1319349215
+gits
+#1319349223
+cat README 
+#1319349228
+cdvcrc
+#1319349229
+gits
+#1319349236
+gitl
+#1319349245
+gits
+#1319349247
+gitls
+#1319349284
+gits
+#1319349293
+gitlo
+#1319349297
+gitls
+#1319349322
+git reset README
+#1319349421
+git reset --soft README
+#1319349428
+gitl
+#1319349463
+git reset --soft HEAD^
+#1319349466
+gits
+#1319349489
+gitl
+#1319349504
+gits
+#1319349536
+gits
+#1319349541
+git commit -m 'ignore .subversion/auth'
+#1319349542
+gitl
+#1319349546
+gits
+#1319349580
+git reset --soft HEAD README
+#1319349587
+git reset HEAD README
+#1319349593
+gits
+#1319349600
+git reset HEAD^ README
+#1319349602
+gits
+#1319349626
+git reset HEAD^^ README
+#1319349628
+gits
+#1319349646
+git reset --hard HEAD^^ README
+#1319349706
+gits
+#1319349719
+git reset HEAD README
+#1319349721
+gits
+#1319349793
+git ls-files –deleted
+#1319349796
+gits
+#1319349802
+gitl
+#1319349809
+git ls-files –-deleted
+#1319349819
+git pull
+#1319349856
+git pull origin master
+#1319350014
+gitl
+#1319350044
+gits
+#1319350047
+gitl
+#1319350061
+git reset HEAD README
+#1319350064
+gits
+#1319350074
+git ls-files –-deleted
+#1319350078
+git ls-files –deleted
+#1319350100
+git checkout README
+#1319350204
+git checkout commitfoobar -- README
+#1319350244
+gitl
+#1319350278
+git checkout c59d73e4e12ffcccdaa9a0f8ca86ab5ad1cd91b3 -- README
+#1319350279
+gits
+#1319350284
+gitl
+#1319350297
+e git checkout c59d73e4e12ffcccdaa9a0f8ca86ab5ad1cd91b3 -- README
+#1319350299
+gvlc
+#1319350359
+gits
+#1319350363
+gitl
+#1319350405
+git checkout 97368fcd52321c0efb9ac13f189e2670473f33ef -- README
+#1319350409
+gitl
+#1319350412
+gits
+#1319350418
+gitl
+#1319350433
+git checkout b70f663cd79b62e211307edfbd9278dde6cbbed9 -- README
+#1319350436
+rm README 
+#1319350439
+gits
+#1319350466
+git reset HEAD README
+#1319350467
+gits
+#1319350475
+git checkout b70f663cd79b62e211307edfbd9278dde6cbbed9 -- README
+#1319350488
+gitl
+#1319350503
+git checkout 044f4133acda6845ca5d69ab69caaffc92801804 -- README
+#1319350510
+cat > README 
+#1319350521
+gits
+#1319350529
+git add README 
+#1319350530
+gits
+#1319350540
+git commit 
+#1319350547
+gits
+#1319350552
+git commit 
+#1319350559
+gits
+#1319350561
+gitl
+#1319350567
+gitlo
+#1319350650
+m ls
+#1319350681
+m man
+#1319350688
+less yum_list.txt 
+#1319350638
+vbs
+#1319350741
+gvlc
+#1319350833
+gits
+#1319350848
+cdvcrt
+#1319350850
+gits
+#1319350864
+gvlc
+#1319350872
+gitd
+#1319350879
+gits
+#1319350887
+gitd
+#1319350901
+gits
+#1319350907
+git commit -a
+#1319350941
+gits
+#1319350942
+gitl
+#1319350945
+gits
+#1319350948
+gitl
+#1319350958
+cdrt
+#1319350962
+cdvcrt
+#1319350964
+gits
+#1319351038
+gvlc
+#1319351168
+gits
+#1319351170
+gitd
+#1319351201
+gits
+#1319351206
+git commit -a
+#1319351218
+gitl
+#1319351219
+gits
+#1319351344
+cd
+#1319351345
+g yum_list.txt 
+#1319351413
+s inspect
+#1319351389
+yum -y install clex
+#1319351642
+clex
+#1319351669
+vibs
+#1319351691
+clex
+#1319351670
+vbs
+#1319351703
+yum -y erase clex
+#1319340432
+mpg123 --title -C -Z *
+#1319351385
+su
+#1319353966
+g
+#1319353989
+rt2rtnote.sh 
+#1319354013
+ll /home/scr/.rt/linux/computor/tools/vercol/svn/README 
+#1319354028
+ll /home/scr/.rt-notes/linux/computor/tools/vercol/svn/README 
+#1319354056
+diff /home/scr/.rt/linux/computor/tools/vercol/svn/README  /home/scr/.rt-notes/linux/computor/tools/vercol/svn/README
+#1319354074
+diff /home/scr/.rt/linux/computor/tools/vercol/git/books/Pro-Git/README  /home/scr/.rt-notes/linux/computor/tools/vercol/git/books/Pro-Git/README
+#1319354086
+rm  /home/scr/.rt-notes/linux/computor/tools/vercol/git/books/Pro-Git/README
+#1319354094
+rm  /home/scr/.rt-notes/linux/computor/tools/vercol/svn/README
+#1319354097
+rt2rtnote.sh 
+#1319354111
+cdrt
+#1319354117
+ll linux/computor/libs/wireless_tools/README
+#1319354128
+ll linux/computor/network/tcp-ip/TCP-IP_I1/src/sock/back-up/README
+#1319354151
+g
+#1319354192
+find . -type f             -iname "*.txt" -o -iname "README" -o -iname "INSTALL"             -iname "README.*" -o -iname "INSTALL.*"             | grep -v '\.git' | grep -v '\.svn' | grep -v 'minix.*svn'            | grep -v '/rfc/' | grep -v 'softEngineering'
+#1319354241
+rt2rtnote.sh 
+#1319354281
+ll linux/computor/network/tcp-ip/TCP-IP_I1/src/README
+#1319354293
+ll linux/computor/tools/editor/latex/install/install.txt
+#1319354304
+rt2rtnote.sh 
+#1319354320
+ll linux/computor/tools/editor/latex/install/install.txt
+#1319354330
+cat linux/computor/tools/editor/latex/install/install.txt
+#1319354375
+cp -r ~/mail-te linux/computor/tools/editor/latex/install
+#1319354393
+cp -r ~/mail-te linux/computor/tools/editor/latex/install ~/mail-te
+#1319354401
+mkdir ~/mail-te
+#1319354405
+cp -r ~/mail-te linux/computor/tools/editor/latex/install ~/mail-te
+#1319354412
+cd
+#1319354415
+ll mail-te/
+#1319354418
+cd mail-te/
+#1319354420
+ll install/
+#1319354429
+cd install/
+#1319354460
+touch INS
+#1319354473
+rminstall.txt
+#1319354477
+rm install.txt
+#1319354485
+ln -s INS install.txt
+#1319354494
+find . -type '*.txt'
+#1319354499
+find . -type f '*.txt'
+#1319354509
+find . -type f  '*.txt'
+#1319354515
+find . -type f  "*.txt"
+#1319354529
+find . -type f -name '*.txt'
+#1319354545
+mv INS INS.txt
+#1319354551
+rm install.txt 
+#1319354556
+ln -s INS.txt install.txt
+#1319354558
+find . -type f -name '*.txt'
+#1319354589
+ll linux/computor/tools/editor/latex/install/install.txt
+#1319354657
+find . -type -name '*.txt' | grep latex
+#1319354662
+find . -type f -name '*.txt' | grep latex
+#1319354678
+find . -type l -name '*.txt' | grep latex
+#1319354704
+vi f.sh
+#1319354746
+chx f.sh 
+#1319354747
+./f.sh 
+#1319354778
+fg
+#1319354795
+./f.sh 
+#1319354808
+./f.sh  | grep latex
+#1319354818
+fg
+#1319354849
+./f.sh  | grep latex
+#1319354852
+fg
+#1319354981
+./f.sh  | grep latex
+#1319354989
+fg
+#1319355005
+./f.sh  | grep latex
+#1319355006
+fg
+#1319355107
+rt2rtnote.sh 
+#1319355239
+rm /home/scr/.rt/linux/computor/lang/java/jsp/Pro_JSP_e3/code-e4/flock/readme.txt~ AND /home/scr/.rt-notes/linux/computor/lang/java/jsp/Pro_JSP_e3/code-e4/flock/readme.txt~
+#1319355254
+rt2rtnote.sh 
+#1319355277
+ll /home/scr/.rt/linux/computor/tools/editor/latex/install 
+#1319355294
+ll /home/scr/.rt/linux/computor/tools/editor/latex/install/
+#1319355316
+ll /home/scr/.rt/linux/computor/tools/editor/latex/install/ -d
+#1319355321
+rt2rtnote.sh 
+#1319355334
+ll /home/scr/.rt/linux/computor/OS/minix/note/install
+#1319355339
+ll /home/scr/.rt/linux/computor/OS/minix/note/install/ -d
+#1319355412
+rt2rtnote.sh 
+#1319355461
+ll /home/scr/.rt/linux/computor/tools/file-manager/nautilus/nautilus-open-terminal/nautilus-open-terminal.notes.txt 
+#1319355601
+cdvcrt
+#1319355603
+pwdp
+#1319355614
+cd linux/computor/sysconf/
+#1319355618
+cd tools/
+#1319355621
+cd sysconf/
+#1319355627
+mv nautilus-open-terminal/ ../file-manager/
+#1319355634
+ ll
+#1319355637
+gits
+#1319355648
+cd file-manager/
+#1319355653
+mkdir nautilus
+#1319355663
+mv nautilus-open-terminal/ nautilus
+#1319355665
+ll nautilus/
+#1319355668
+gits
+#1319355679
+rt2rtnote.sh 
+#1319355710
+ll /home/scr/.rt/linux/computor/tools/sysconf/nautilus-open-terminal/nautilus-open-terminal.notes.txt
+#1319355717
+rm /home/scr/.rt/linux/computor/tools/sysconf/nautilus-open-terminal/nautilus-open-terminal.notes.txt
+#1319355725
+rtnote2rt.sh 
+#1319355728
+ll /home/scr/.rt/linux/computor/tools/sysconf/nautilus-open-terminal/nautilus-open-terminal.notes.txt
+#1319355742
+ll nautilus/
+#1319355745
+ll nautilus/nautilus-open-terminal/
+#1319355763
+rm nautilus/nautilus-open-terminal/nautilus-open-terminal.notes.txt 
+#1319355767
+rt2rtnote.sh 
+#1319355789
+ll nautilus/nautilus-open-terminal/
+#1319355793
+rtnote2rt.sh 
+#1319355799
+ll nautilus/nautilus-open-terminal/
+#1319355801
+rt2rtnote.sh 
+#1319355812
+ll /home/scr/.rt-notes/linux/computor/tools/sysconf/nautilus-open-terminal/nautilus-open-terminal.notes.txt
+#1319355825
+ll /home/scr/.rt/linux/computor/tools/sysconf/nautilus-open-terminal/nautilus-open-terminal.notes.txt
+#1319355834
+gits
+#1319355839
+pwdp
+#1319355840
+gits
+#1319355864
+git checkout ../sysconf/
+#1319355865
+gits
+#1319355870
+ll nautilus/
+#1319355872
+ll nautilus/nautilus-open-terminal/
+#1319355874
+gis
+#1319355889
+mv ../sysconf/nautilus-open-terminal/ nautilus/
+#1319355893
+ll nautilus/nautilus-open-terminal/nautilus-open-terminal.notes.txt 
+#1319355894
+gits
+#1319355910
+cdrt
+#1319355918
+git commit -a
+#1319355957
+gitl
+#1319355962
+gits
+#1319355965
+rt2rtnote.sh 
+#1319355973
+rt2rtnote.sh 
+#1319355984
+ll /home/scr/.rt/linux/computor/tools/sysconf/nautilus-open-terminal/nautilus-open-terminal.notes.txt
+#1319355989
+rtnote2rt.sh 
+#1319356007
+ll linux/computor/tools/file-manager/nautilus/nautilus-open-terminal/nautilus-open-terminal.notes.txt
+#1319356014
+cdvcrc
+#1319356016
+cd rt
+#1319356021
+cdvcrt
+#1319356024
+ll linux/computor/tools/file-manager/nautilus/nautilus-open-terminal/nautilus-open-terminal.notes.txt
+#1319356094
+rtnote2rt.sh 
+#1319356160
+ll linux/computor/tools/file-manager/nautilus/nautilus-open-terminal/nautilus-open-terminal.notes.txt
+#1319356428
+cd linux/computor/tools/
+#1319356431
+ll sysconf/
+#1319356433
+ll sysconf/nautilus-open-terminal/
+#1319356440
+ll file-manager/nautilus/nautilus-open-terminal/nautilus-open-terminal.notes.txt 
+#1319356448
+cd linux/computor/tools/
+#1319356453
+ll sysconf/
+#1319356457
+ll file-manager/nautilus/nautilus-open-terminal/nautilus-open-terminal.notes.txt 
+#1319356510
+pwdp
+#1319356513
+ll file-manager/nautilus/nautilus-open-terminal/nautilus-open-terminal.notes.txt 
+#1319356582
+rtnote2rt.sh 
+#1319356666
+ll file-manager/nautilus/nautilus-open-terminal/nautilus-open-terminal.notes.txt 
+#1319356684
+gits
+#1319356700
+rm -rf sysconf/nautilus-open-terminal/
+#1319356702
+gits
+#1319356714
+git commit -a
+#1319356737
+gits
+#1319356748
+ll ../OS/minix/note/install
+#1319356874
+rt2rtnote.sh 
+#1319356906
+ ll
+#1319356910
+mkdir test
+#1319356921
+rt2rtnote.sh 
+#1319356949
+ll test/
+#1319357040
+rt2rtnote.sh 
+#1319357042
+ll test/
+#1319357099
+rt2rtnote.sh 
+#1319357106
+ll test/
+#1319357110
+ds test/
+#1319357113
+rt2rtnote.sh 
+#1319357149
+gits
+#1319357164
+cdvcrt
+#1319357167
+gits
+#1319357176
+git checkout .
+#1319357183
+gits
+#1319357194
+gitl
+#1319357201
+gits
+#1319357206
+ll linux/computor/tools/file-manager/nautilus/
+#1319357208
+ll linux/computor/tools/file-manager/nautilus/nautilus-open-terminal/
+#1319357227
+gits
+#1319357239
+ll life/
+#1319357243
+gits
+#1319357251
+cd linux/computor/tools/file-manager/nautilus/nautilus-open-terminal/
+#1319357260
+cp nautilus-open-terminal.notes.txt l
+#1319357267
+cat l
+#1319357271
+cat nautilus-open-terminal.notes.txt 
+#1319357278
+mv l nautilus-open-terminal.notes.txt 
+#1319357282
+cat nautilus-open-terminal.notes.txt 
+#1319357286
+gits
+#1319357293
+git add .
+#1319357294
+gits
+#1319357300
+cdvcrt
+#1319357301
+pwdp
+#1319357303
+gits
+#1319357307
+git add .
+#1319357308
+gits
+#1319357313
+git commit -a
+#1319357325
+gits
+#1319357333
+ll test/
+#1319357334
+cd test/
+#1319357340
+rt2rtnote.sh 
+#1319357344
+rt2rtnote.sh | wc
+#1319357349
+rt2rtnote.sh 2>&1 | wc
+#1319357386
+ll gs
+#1319357388
+ll gs/
+#1319357389
+ll gs/ls/
+#1319357436
+rt2rtnote.sh 
+#1319357730
+rtnote2rt.sh 
+#1319357768
+cd test/
+#1319357772
+rm -rf 
+#1319357775
+rm -rf  *
+#1319357783
+rt2rtnote.sh 
+#1319357827
+rtnote2rt.sh 
+#1319357855
+cdb
+#1319357858
+svn st
+#1319357911
+svn commit -m 'find 命令的 -o 参数的使用需要注意!!'
+#1319357929
+svn diff -r 218:219
+#1319353585
+mutt
+#1319358573
+find . -type f (-name "*.txt" -o -name "install")
+#1319358581
+find . -type f \(-name "*.txt" -o -name "install"\)
+#1319359332
+gvht
+#1319359937
+s ack
+#1319360115
+vi /etc/fstab 
+#1319360773
+ip 
+#1319360777
+ii
+#1319360779
+ex .
+#1319360782
+rox
+#1319360789
+cdb
+#1319360804
+ln -s rox-filer/ROX-Filer/rox rox
+#1319360805
+rox
+#1319360826
+rm rox
+#1319360827
+vbs
+#1319360850
+.s
+#1319360851
+rox
+#1319360905
+ii
+#1319360908
+cdvcrt
+#1319360909
+git s
+#1319360911
+gits
+#1319360917
+git checkout .
+#1319360919
+gits
+#1319338362
+mutt
+#1319360934
+cdvcrc
+#1319360935
+gis
+#1319360937
+gits
+#1319360954
+gitd rt/home/scr/.bashrc 
+#1319360966
+git add rt/home/scr/.bashrc 
+#1319360969
+gits
+#1319360982
+git commit -m "rox file manager" 
+#1319360984
+gits
+#1319360928
+git push origin master
+#1319360996
+cdrt
+#1319361004
+cd linux/computor/
+#1319361006
+gits
+#1319361017
+cdv
+#1319361019
+svn st
+#1319361028
+svndl
+#1319361066
+svn commit -m '调出firefox的插件管理' _vimperatorrc 
+#1319361071
+gits
+#1319361075
+cdl
+#1319361077
+svn st
+#1319361115
+svn up
+#1319361121
+svndl
+#1319361140
+svnl
+#1319361136
+svnl
+#1319361183
+cat README 
+#1319337931
+screen
+#1319361194
+got
+#1319361210
+mutt
+#1319361517
+ex .
+#1319361540
+rm ashlynn*
+#1319361542
+s
+#1319361546
+cat gmon.out 
+#1319361551
+vi gmon.out 
+#1319361557
+rm gmon.out 
+#1319361561
+vi hardcopy.4 
+#1319361576
+rm hardcopy.4 
+#1319361580
+rm public_html*
+#1319361586
+rm public_html* -rf
+#1319361589
+ll order.txt 
+#1319361592
+rm order.txt 
+#1319361595
+mr size.txt 
+#1319361598
+rm size.txt 
+#1319361609
+rm -rf test/
+#1319361612
+ll mail-te/
+#1319361620
+rm -rf mail-te/
+#1319361625
+ll bkt
+#1319361627
+rmdir bkt
+#1319361630
+lla bkt
+#1319361756
+lla
+#1319361762
+lla -d .aMule/
+#1319361768
+chmod 700 .aMule/
+#1319361770
+lla -d .aMule/
+#1319360738
+mpg123 --title -C -Z *
+#1319362174
+ii
+#1319362181
+i
+#1319362183
+ii
+#1319362185
+w
+#1319362188
+who
+#1319362190
+w
+#1319362197
+ii
+#1319361752
+su
+#1319362204
+ii
+#1319362206
+w
+#1319362208
+ii
+#1319362209
+w
+#1319362211
+ii
+#1319362566
+t
+#1319370957
+mutt
+#1319370931
+mutt
+#1319371698
+wh make
+#1319371703
+whereis make
+#1319372880
+cd
+#1319372881
+cdm
+#1319372886
+cd TOOLS/1music/
+#1319372886
+LS
+#1319372891
+mpg123 --title -C -Z *
+#1319459462
+ff&
+#1319459761
+ff http://blog.sina.com.cn/s/blog_467a3a7f0100ulwm.html
+#1319459784
+cd
+#1319459788
+vi .keynavrc 
+#1319459809
+pg key
+#1319459814
+kill 8288
+#1319459816
+keynav 
+#1319460135
+s unoptimize
+#1319460868
+m
+#1319460873
+cdm
+#1319460875
+cd TOOLS/
+#1319460878
+cd 1music/
+#1319460902
+pg mpg
+#1319460906
+kill 27326
+#1319460882
+mpg123 --title -C -Z *
+#1319460912
+pg mpg
+#1319460916
+kill 27354
+#1319460921
+cd mp3
+#1319460934
+pg mpg
+#1319460940
+kill 27364
+#1319460924
+mpg123 --title -C -Z *
+#1319460946
+cd mp3
+#1319460948
+pg key
+#1319460962
+pg mpg
+#1319460966
+kill 27376
+#1319460950
+mpg123 --title -C -Z *
+#1319460989
+pg mpg
+#1319460993
+kill 27385
+#1319460978
+mpg123 1180131.mp3 
+#1319461022
+pg
+#1319461029
+pg | less
+#1319461174
+uu
+#1319461181
+cdbo
+#1319461186
+pwdp
+#1319461191
+cd tools/
+#1319461195
+ce editor/
+#1319461197
+cd editor/
+#1319461199
+cd metapost/
+#1319461208
+pdf metapost.pdf &
+#1319461219
+locate tex.loria.fr
+#1319461240
+locate tex.loria.fr | less
+#1319461249
+rm tex.loria.fr 
+#1319461268
+mv /home/scr/.rt/linux/computor/html/tex.loria.fr/ .
+#1319461272
+ll tex.loria.fr/
+#1319461311
+ff tex.loria.fr/prod-graph/zoonekynd/metapost/
+#1319461340
+gits
+#1319461367
+git commit -a
+#1319461378
+gits
+#1319461393
+git add tex.loria.fr/
+#1319461395
+git 
+#1319461397
+gits
+#1319461402
+gits | less
+#1319461411
+git commit -a
+#1319461435
+cdrt
+#1319461439
+cd linux/computor/
+#1319461442
+git commit -a
+#1319461469
+gits
+#1319461480
+cd tools/editor/metapost/
+#1319461517
+,y
+#1319461523
+cdl
+#1319461529
+cd latex/
+#1319461539
+mkdir metapost
+#1319461542
+s metapost
+#1319461554
+cd metapost/
+#1319461762
+vi ~/.keynavrc 
+#1319461787
+pg key
+#1319461791
+kill 26955
+#1319461793
+keynav 
+#1319461864
+cdl
+#1319461867
+cd latex/
+#1319461869
+cd hello/
+#1319461875
+pdf hello.pdf 
+#1319461936
+ll hello
+#1319461944
+cat README 
+#1319461957
+cd -
+#1319461560
+vi README 
+#1319461997
+jj
+#1319462003
+vi example.mp
+#1319462072
+m vim
+#1319462092
+fg
+#1319462096
+g example.mp 
+#1319462121
+g
+#1319462127
+g ~/yum_list.txt 
+#1319462214
+cdl
+#1319462217
+cd sed-awk/
+#1319462221
+cd latex/
+#1319462222
+cd metapost/
+#1319462226
+ggs
+#1319462227
+gs
+#1319462244
+gs README 
+#1319462260
+gs example.mp 
+#1319462294
+cdbot
+#1319462299
+cd editor/
+#1319462302
+cd latex/
+#1319462310
+cd install/
+#1319462315
+ff install.txt 
+#1319462335
+sudo yum -y install texlive-afm texlive-context texlive-dviutils texlive-east-asian texlive-texmf-afm texlive-texmf-context texlive-texmf-east-asian texlive-texmf-errata-afm texlive-texmf-errata-context texlive-texmf-errata-east-asian texlive-texmf-errata-xetex texlive-texmf-xetex texlive-xetex
+#1319462365
+locate mpost
+#1319462370
+mpsot
+#1319462678
+gs
+#1319462686
+m gs
+#1319462717
+cdl
+#1319462720
+cd latex/hello/
+#1319462723
+gs hello.pdf 
+#1319462734
+k
+#1319462743
+gs test-yi.1
+#1319462761
+gs test-yi-temp.dvi 
+#1319462772
+vi hello.tex 
+#1319462811
+pdf test-yi-2.pdf 
+#1319462820
+pdf test-yi-1.pdf 
+#1319462829
+ma
+#1319462831
+vi Makefile 
+#1319463030
+g yum_list.txt 
+#1319462348
+ yum -y install texlive-afm texlive-context texlive-dviutils texlive-east-asian texlive-texmf-afm texlive-texmf-context texlive-texmf-east-asian texlive-texmf-errata-afm texlive-texmf-errata-context texlive-texmf-errata-east-asian texlive-texmf-errata-xetex texlive-texmf-xetex texlive-xetex
+#1319463794
+cd metapost/
+#1319463910
+ln -s ../latex/install/install.txt .
+#1319463913
+cat install.txt 
+#1319463917
+gits
+#1319463934
+mpost example.mp 
+#1319463941
+gs example.1
+#1319463948
+[A
+#1319463980
+epstopdf example.1
+#1319463985
+pdf example.pdf
+#1319464016
+cp ../hello/Makefile .
+#1319464018
+vi Makefile 
+#1319464024
+jj
+#1319464025
+fg
+#1319464126
+mc
+#1319464129
+fg
+#1319464135
+mc
+#1319464137
+ma
+#1319464141
+pdf example.pdf
+#1319464146
+gs example.1
+#1319464157
+pdf example.1
+#1319464166
+cat example.1
+#1319464170
+cat example.pdf
+#1319464177
+cat example.1
+#1319464182
+ma
+#1319464184
+fg
+#1319464209
+mc
+#1319464210
+ma
+#1319464211
+mc
+#1319464215
+ma
+#1319464656
+pdflatex sample.tex 
+#1319464665
+pdf sample.pdf 
+#1319464674
+vi Makefile 
+#1319464676
+fg
+#1319464718
+mc
+#1319464722
+ma
+#1319464727
+fg
+#1319464764
+mc
+#1319464765
+ma
+#1319464778
+fg
+#1319464787
+ma
+#1319464790
+fg
+#1319464799
+ma
+#1319464811
+fg
+#1319464827
+ma
+#1319464829
+mc
+#1319464830
+ma
+#1319465156
+pdf sample.pdf 
+#1319465176
+ma
+#1319465177
+pdf sample.pdf 
+#1319465314
+ma
+#1319465315
+pdf sample.pdf 
+#1319465417
+ma
+#1319465425
+cat README 
+#1319465596
+;dll
+#1319465598
+mc
+#1319465732
+fg
+#1319465763
+ma
+#1319466044
+gs example3.1
+#1319466086
+ma
+#1319466094
+pdf example3.pdf 
+#1319466099
+mc
+#1319466109
+ma
+#1319466165
+gs example.1
+#1319466206
+ma
+#1319466213
+mc
+#1319466213
+ma
+#1319466221
+pdf example3.1
+#1319466403
+cdlc
+#1319466404
+cdl
+#1319466406
+cd books/
+#1319466407
+cd c
+#1319466409
+cd opengl/
+#1319466413
+cd opengl-red/
+#1319466531
+ma
+#1319466532
+mc
+#1319466533
+ma
+#1319466538
+mc
+#1319466545
+rm example3.2 example3.3 
+#1319466555
+ma
+#1319466588
+mc
+#1319466588
+ma
+#1319466602
+mc
+#1319466602
+ma
+#1319466615
+m mpost
+#1319466632
+ma
+#1319466633
+mc
+#1319466634
+ma
+#1319466671
+mc
+#1319466672
+ma
+#1319466683
+pdf example3.pdf 
+#1319466685
+mc
+#1319466740
+ma
+#1319466755
+pdf sample.pdf 
+#1319466773
+mc
+#1319466793
+ma
+#1319466865
+mc
+#1319466866
+ma
+#1319466872
+xpdf
+#1319466917
+ma
+#1319468981
+mc
+#1319468982
+ma
+#1319468988
+pdf example3.pdf 
+#1319469002
+ma
+#1319469048
+s equilateral
+#1319469146
+ma
+#1319469165
+pdf example4.pdf 
+#1319469353
+m bc
+#1319469383
+bc sqrt(3)
+#1319469389
+bc sqrt\(3\)
+#1319469396
+bc sqrt\( 3 \)
+#1319469404
+bc sqrt \( 3 \)
+#1319469413
+m bc
+#1319469512
+bc \(sqrt \( 3 \)\)
+#1319469654
+bce 
+#1319469656
+wh bce
+#1319469679
+bce sqrt\(3\)
+#1319469685
+bce 3+3
+#1319469689
+gvlc
+#1319469773
+ma
+#1319469776
+pdf example4.pdf 
+#1319469833
+s hexagon
+#1319469901
+mc
+#1319469902
+ma
+#1319469912
+pdf example4.pdf 
+#1319469916
+mc
+#1319469938
+ma
+#1319470059
+mc
+#1319470087
+ma
+#1319470091
+pdf example4.pdf 
+#1319470102
+mc
+#1319470110
+svn st
+#1319470115
+svn add metapost/
+#1319470117
+cd metapost/
+#1319470145
+svn commit -m 'hollo world to metapost' 
+#1319470161
+svn st
+#1319470163
+svndl
+#1319470171
+mc
+#1319470173
+ma
+#1319470175
+mc
+#1319470180
+svndl
+#1319470214
+svn commit -m '我最终只要pdf类型的文件' 
+#1319470223
+svn st
+#1319470225
+ma
+#1319470227
+svn st
+#1319470229
+mc
+#1319470244
+ma
+#1319471369
+pdf example5.pdf 
+#1319471401
+ma
+#1319471421
+cdlc
+#1319471424
+cdl
+#1319471427
+cd latex/
+#1319471430
+svn st
+#1319471435
+cd metapost/
+#1319471436
+svndl
+#1319471441
+svn st
+#1319471474
+ma
+#1319471482
+pdf example5.pdf 
+#1319551214
+cdl
+#1319551216
+svn up
+#1319551294
+cd books/c/opengl/opengl-red/
+#1319551296
+ma
+#1319551328
+locate freeglu
+#1319551355
+cd /home/scr/.rt/linux/computor/libs/freeglut
+#1319551364
+pwdp
+#1319551367
+gits
+#1319551388
+tar xvzf freeglut-2.6.0.tar.gz 
+#1319551391
+cd freeglut-
+#1319551393
+cd freeglut-2.6.0
+#1319551407
+./configure 
+#1319551411
+mc
+#1319551416
+./configure 
+#1319551435
+make
+#1319551493
+g Makefile
+#1319551541
+ma
+#1319551600
+ll /usr/lib64/libGL*
+#1319551606
+ma
+#1319551727
+ma 2>&1 
+#1319551732
+ma 2>&1 | grep 64
+#1319551782
+ma
+#1319551794
+ma 2>&1 | grep 64
+#1319551814
+ma
+#1319551884
+ma 2>&1 | grep 64
+#1319551933
+ma
+#1319551939
+ma 2>&1 | grep 64
+#1319552117
+ma
+#1319552241
+ls src
+#1319552250
+ma
+#1319552263
+ls src
+#1319552286
+ma
+#1319552438
+./configure --help
+#1319552493
+make distclean
+#1319552496
+ma
+#1319552510
+./configure LDFLAGS+=-L/usr/lib64 -lGL
+#1319552524
+./configure --help
+#1319552548
+LDFLAGS+=-L/usr/lib64 -lGL; ./configure 
+#1319552555
+ma
+#1319552571
+LDFLAGS+="-L/usr/lib64 -lGL"; ./configure 
+#1319552598
+LDFLAGS="-L/usr/lib64 -lGL"; ./configure 
+#1319552647
+m configure
+#1319552673
+./configure LDFLAGS="-L/usr/lib64 -lGL"; 
+#1319552690
+mc
+#1319552693
+mca
+#1319552695
+ma
+#1319552735
+./configure LDFLAGS="-L/usr/lib64 -lGL -lm"; 
+#1319552745
+ma
+#1319552755
+ls src
+#1319552760
+lsa src
+#1319552764
+la src
+#1319552768
+la src/.libs/
+#1319552788
+mc
+#1319552792
+mcd
+#1319552795
+ll ..
+#1319552809
+g ../README
+#1319552872
+uname 
+#1319552875
+uname -a
+#1319552891
+e `uname -a`
+#1319552936
+ll ..
+#1319552941
+mca
+#1319552943
+mc
+#1319552952
+./configure LDFLAGS="-L/usr/lib64 -lGL -lm"; 
+#1319552962
+ma
+#1319552972
+mai
+#1319552983
+ma
+#1319553053
+./robot 
+#1319553093
+svn log > log.out&
+#1319553105
+cd /usr/include/
+#1319553114
+llr | grep glut
+#1319553123
+find . | grep glut
+#1319553142
+cd lib64/
+#1319553144
+find . | grep glut
+#1319553178
+cd usr/include/
+#1319553199
+locate glut
+#1319551208
+mutt
+#1319466416
+vi Makefile
+#1319553369
+ctagsc.sh 
+#1319553372
+g 
+#1319553379
+g robot.c
+#1319553421
+ma
+#1319553454
+ls /usr/include/GL/glu*
+#1319553473
+ma
+#1319553509
+locate glut.h
+#1319553526
+cd /
+#1319553547
+find . -name '*.h' -type f
+#1319553595
+find lib* opt/ usr/ etc/ srv/ var/ -type f -name '*.h'
+#1319553623
+ma
+#1319553629
+svn st
+#1319552973
+su
+#1319553639
+gits
+#1319553603
+find lib* opt/ usr/ etc/ srv/ var/ -type f -name '*.h' | grep glut
+#1319553681
+ll /usr/local/include/GL/
+#1319553698
+cat /usr/local/include/GL/glut.h 
+#1319553744
+./robot 
+#1319553753
+ff&
+#1319553959
+m
+#1319553961
+ma
+#1319553974
+ll Data/
+#1319554027
+bc 24%-5
+#1319554422
+cd tmp/
+#1319554429
+mkdir ii
+#1319554430
+cd ii
+#1319554432
+g ll.c
+#1319554481
+gcc ll.c 
+#1319554484
+./a.out 
+#1319554599
+gcc ll.c 
+#1319554601
+./a.out 
+#1319554700
+gcc ll.c 
+#1319554701
+./a.out 
+#1319554911
+gcc ll.c 
+#1319554912
+./a.out 
+#1319555238
+ma
+#1319555433
+g ma
+#1319555435
+ma
+#1319555438
+./robot 
+#1319555442
+ma
+#1319555443
+./robot 
+#1319555594
+ma
+#1319555596
+./robot 
+#1319555603
+ma
+#1319555604
+./robot 
+#1319555714
+ma
+#1319555715
+./robot 
+#1319555959
+ma
+#1319555960
+./robot 
+#1319556032
+ma
+#1319556034
+./robot 
+#1319556045
+./robot &
+#1319556055
+ma
+#1319556056
+./robot &
+#1319556350
+ma
+#1319556353
+./robot &
+#1319556384
+ma
+#1319556386
+./robot &
+#1319556624
+ma
+#1319556625
+./robot &
+#1319556952
+ma
+#1319556954
+./robot &
+#1319556959
+ma
+#1319556961
+./robot &
+#1319557046
+ma
+#1319557047
+./robot &
+#1319557063
+ma
+#1319557064
+./robot &
+#1319557077
+ma
+#1319557078
+./robot &
+#1319557171
+ma
+#1319557172
+./robot &
+#1319557189
+ma
+#1319557190
+./robot &
+#1319557227
+ma
+#1319557228
+./robot &
+#1319557344
+ma
+#1319557346
+./robot &
+#1319557411
+ma
+#1319557413
+./robot &
+#1319557463
+ma
+#1319557465
+./robot &
+#1319557577
+ma
+#1319557578
+./robot &
+#1319557692
+ma
+#1319557707
+./robot &
+#1319557890
+ma
+#1319557892
+./robot &
+#1319557921
+ma
+#1319557923
+./robot &
+#1319557942
+ma
+#1319557943
+./robot &
+#1319557949
+ma
+#1319557950
+./robot &
+#1319557996
+ma
+#1319557998
+./robot &
+#1319558025
+ma
+#1319558026
+./robot &
+#1319558040
+ma
+#1319558043
+./robot &
+#1319558071
+ma
+#1319558073
+./robot &
+#1319558116
+ma
+#1319558117
+./robot &
+#1319558133
+ma
+#1319558135
+./robot &
+#1319558189
+ma
+#1319558190
+./robot &
+#1319558200
+ma
+#1319558201
+./robot &
+#1319558255
+ma
+#1319558257
+./robot &
+#1319558270
+ma
+#1319558271
+./robot &
+#1319558281
+ma
+#1319558283
+./robot &
+#1319558340
+ma
+#1319558341
+./robot &
+#1319558380
+ma
+#1319558381
+./robot &
+#1319558399
+ma
+#1319558400
+./robot &
+#1319558410
+ma
+#1319558412
+./robot &
+#1319558451
+ma
+#1319558452
+./robot &
+#1319558465
+ma
+#1319558466
+./robot &
+#1319558611
+a
+#1319558612
+ma
+#1319558614
+./robot &
+#1319558694
+ma
+#1319558695
+./robot &
+#1319558719
+ma
+#1319558720
+./robot &
+#1319558769
+ma
+#1319558771
+./robot &
+#1319558803
+ma
+#1319558805
+./robot &
+#1319558822
+ma
+#1319558824
+./robot &
+#1319558864
+ma
+#1319558866
+./robot &
+#1319558913
+ma
+#1319558914
+./robot &
+#1319558935
+ma
+#1319558936
+./robot &
+#1319558950
+ma
+#1319558951
+./robot &
+#1319559040
+ma
+#1319559042
+./robot &
+#1319559053
+ma
+#1319559054
+./robot &
+#1319559119
+ma
+#1319559120
+./robot &
+#1319559129
+ma
+#1319559130
+./robot &
+#1319559173
+ma
+#1319559175
+./robot &
+#1319559182
+ma
+#1319559183
+./robot &
+#1319559212
+ma
+#1319559215
+./robot &
+#1319559233
+svn st
+#1319559235
+svns
+#1319559236
+svnst
+#1319559238
+svns
+#1319559242
+svndl
+#1319559301
+svn st
+#1319559306
+ma
+#1319559312
+./robot &
+#1319559338
+ma
+#1319559362
+./robot &
+#1319559377
+ma
+#1319559378
+./robot &
+#1319559395
+svn commit ./commit.log 
+#1319559398
+svns
+#1319559404
+svn commit -F ./commit.log 
+#1319559414
+svn up
+#1319559433
+ma
+#1319559434
+./robot &
+#1319559444
+ma
+#1319559445
+./robot &
+#1319559477
+ma
+#1319559480
+./robot &
+#1319559569
+ma
+#1319559570
+./robot &
+#1319559785
+ma
+#1319559786
+./robot &
+#1319559793
+ma
+#1319559794
+./robot &
+#1319559816
+ma
+#1319559818
+./robot &
+#1319559879
+ma
+#1319559881
+./robot &
+#1319559912
+ma
+#1319559913
+./robot &
+#1319559933
+ma
+#1319559935
+./robot &
+#1319560172
+ma
+#1319560173
+./robot &
+#1319560200
+ma
+#1319560201
+./robot &
+#1319560206
+svndl
+#1319560221
+mma
+#1319560222
+ma
+#1319560224
+svn st
+#1319560227
+svn up
+#1319560231
+svndl
+#1319560248
+ma
+#1319560249
+./robot &
+#1319560261
+svndl
+#1319560263
+ma
+#1319560264
+./robot &
+#1319560313
+ma
+#1319560314
+./robot &
+#1319560456
+svnd
+#1319560468
+./robot &
+#1319560470
+ma
+#1319560473
+./robot &
+#1319560474
+ma
+#1319560479
+svn commit -F ./commit.log 
+#1319560504
+ma
+#1319560505
+./robot &
+#1319560511
+ma
+#1319560512
+./robot &
+#1319560521
+ma
+#1319560522
+./robot &
+#1319560625
+ma
+#1319560632
+./robot &
+#1319560647
+ma
+#1319560648
+./robot &
+#1319560673
+svndl
+#1319560689
+ma
+#1319560690
+svndl
+#1319560701
+ma
+#1319560702
+./robot &
+#1319560708
+svn commit -F ./commit.log 
+#1319560770
+ma
+#1319560772
+./robot &
+#1319561218
+ma
+#1319561219
+./robot &
+#1319561335
+ma
+#1319561336
+./robot &
+#1319561341
+svndl
+#1319561360
+svn commit -F ./commit.log 
+#1319561378
+svndl
+#1319561381
+svn commit -F ./commit.log 
+#1319561409
+ma
+#1319561411
+svndl
+#1319561415
+ma
+#1319561417
+svndl
+#1319561446
+ma
+#1319561448
+./robot &
+#1319561451
+svndl
+#1319561476
+ma
+#1319561478
+./robot &
+#1319561509
+ma
+#1319561564
+svndl
+#1319561566
+ma
+#1319561567
+./robot &
+#1319561585
+svn commit -F ./commit.log 
+#1319561612
+cd
+#1319561613
+mutt
+#1319561631
+cd tmp/
+#1319561636
+mkdir actor
+#1319561637
+cd actor/
+#1319561652
+cp ../../gfx3d_private.c .
+#1319561658
+cp ../../ViewActor.c .
+#1319561661
+ctagsc.sh 
+#1319561661
+g
+#1319562242
+ma
+#1319562245
+ma
+#1319562247
+svndl
+#1319562249
+ma
+#1319562297
+mc
+#1319562300
+svnl
+#1319562310
+svn up
+#1319562319
+svnl
+#1319562335
+svn st
+#1319562338
+svn up -r 227
+#1319562356
+ma
+#1319562369
+./robot &
+#1319562376
+ma
+#1319562378
+./robot &
+#1319562383
+ma
+#1319562385
+./robot &
+#1319563137
+p www.code.google.com
+#1319562994
+mutt
+#1319563181
+mutt
+#1319466927
+mutt
+#1319635065
+cdl
+#1319635081
+ii
+#1319635066
+svn st
+#1319635181
+ii
+#1319635117
+t
+#1319635210
+svndl
+#1319635214
+ma
+#1319635218
+./robot 
+#1319635227
+ma
+#1319635230
+./robot 
+#1319635239
+svn st
+#1319635246
+ii
+#1319635244
+svn up
+#1319635249
+t
+#1319635359
+ii
+#1319635368
+ii
+#1319635384
+ff&
+#1319635392
+iii
+#1319635393
+ii
+#1319635431
+svnl
+#1319635449
+svn up -r 226
+#1319635484
+ma
+#1319635487
+./robot 
+#1319635565
+ma
+#1319635567
+./robot 
+#1319635581
+ma
+#1319635582
+./robot 
+#1319635670
+ma
+#1319635673
+./robot 
+#1319635693
+ma
+#1319635756
+vi Makefile
+#1319635771
+ma
+#1319635987
+./robot 
+#1319636052
+a
+#1319636053
+ma
+#1319636055
+./robot 
+#1319636101
+ma
+#1319636102
+./robot 
+#1319636111
+ma
+#1319636112
+./robot 
+#1319636122
+ma
+#1319636124
+./robot 
+#1319636158
+ma
+#1319636159
+./robot 
+#1319636400
+ma
+#1319636402
+./robot 
+#1319636436
+ma
+#1319636438
+./robot 
+#1319636506
+a
+#1319636507
+ma
+#1319636508
+./robot 
+#1319636541
+ma
+#1319636542
+./robot 
+#1319636562
+ma
+#1319636563
+./robot 
+#1319636605
+ma
+#1319636606
+./robot 
+#1319636647
+ma
+#1319636649
+./robot 
+#1319636742
+ma
+#1319636743
+./robot 
+#1319636763
+ma
+#1319636764
+./robot 
+#1319636775
+ma
+#1319636776
+./robot 
+#1319636794
+ma
+#1319636795
+./robot 
+#1319636810
+ma
+#1319636812
+./robot 
+#1319636834
+ma
+#1319636835
+./robot 
+#1319636842
+ma
+#1319636843
+./robot 
+#1319636851
+ma
+#1319636852
+./robot 
+#1319636864
+ma
+#1319636866
+./robot 
+#1319636898
+ma
+#1319636899
+./robot 
+#1319637027
+ma
+#1319637028
+./robot 
+#1319637050
+a
+#1319637051
+ma
+#1319637052
+./robot 
+#1319637087
+date
+#1319637133
+ma
+#1319637134
+./robot 
+#1319637406
+ma
+#1319637409
+./robot 
+#1319637421
+ma
+#1319637423
+./robot 
+#1319637512
+ma
+#1319637513
+./robot 
+#1319637533
+ma
+#1319637534
+./robot 
+#1319637604
+ma
+#1319637606
+./robot 
+#1319637857
+ma
+#1319637858
+./robot 
+#1319638101
+ma
+#1319638102
+./robot 
+#1319638135
+ma
+#1319638136
+./robot 
+#1319638150
+ma
+#1319638152
+./robot 
+#1319638172
+ma
+#1319638174
+./robot 
+#1319638354
+ma
+#1319638355
+./robot 
+#1319638448
+ma
+#1319638668
+svni
+#1319638744
+svn up
+#1319638761
+svni
+#1319638764
+svn st
+#1319638765
+svndl
+#1319638855
+ma
+#1319638856
+./robot 
+#1319638865
+svni
+#1319638869
+svn commit -F ./commit.log 
+#1319638877
+svn up -r 229
+#1319638920
+svnl
+#1319638947
+ma
+#1319638949
+./robot 
+#1319638954
+svnl
+#1319639031
+svn up
+#1319639035
+svnl
+#1319639179
+svn propset svn:log -F ./commit.log -r 230 --revprop
+#1319639182
+svnl
+#1319639206
+svn propset svn:log -F ./commit.log -r 230 --revprop
+#1319639222
+svnl
+#1319639322
+ma
+#1319639324
+./robot 
+#1319639626
+ma
+#1319639627
+./robot 
+#1319639703
+ma
+#1319639705
+./robot 
+#1319639787
+ma
+#1319639794
+.ma
+#1319639795
+ma
+#1319639796
+.ma
+#1319639799
+./robot 
+#1319639882
+ma
+#1319639883
+./robot 
+#1319639913
+ma
+#1319639980
+./robot 
+#1319639993
+ma
+#1319639994
+./robot 
+#1319640088
+ma
+#1319640090
+./robot 
+#1319640342
+ma
+#1319640427
+./robot 
+#1319640475
+ma
+#1319640477
+./robot 
+#1319640490
+ma
+#1319640491
+./robot 
+#1319640527
+ma
+#1319640529
+./robot 
+#1319640532
+svndl
+#1319640563
+svni
+#1319640568
+svn up
+#1319640632
+svn commit -F ./commit.log 
+#1319640805
+svnl
+#1319641270
+svn st
+#1319641276
+svn propset svn:log -F ./commit.log -r 231 --revprop
+#1319641281
+svnl
+#1319641288
+svn up
+#1319641298
+svnl
+#1319641373
+ma
+#1319641375
+./robot 
+#1319641425
+ma
+#1319641448
+svn st
+#1319641449
+svndl
+#1319641455
+svn st
+#1319641459
+fg
+#1319641577
+ex .
+#1319641630
+fl
+#1319641662
+cdm
+#1319641663
+fl
+#1319641669
+mkdir htc
+#1319641689
+mount /dev/sdb1 htc/
+#1319641692
+ll htc/
+#1319641698
+cd htc/
+#1319641701
+cd scr/
+#1319641706
+cd gs
+#1319641722
+cd
+#1319641729
+cdx
+#1319641732
+mkdir gs
+#1319641733
+cd gs
+#1319641744
+cp thundermouse_3D_* /home/scr/xiazai/gs
+#1319641747
+cp thundermouse_3D_* /home/scr/xiazai/gs -r
+#1319641627
+su
+#1319641775
+cdm
+#1319641780
+umount htc/
+#1319641793
+ll htc/
+#1319641813
+cd thundermouse_3D_
+#1319641816
+cd thundermouse_3D_erp_gaijin-2/
+#1319641837
+chown scr:scr *
+#1319641842
+chmodd .
+#1319641846
+chmodf .
+#1319641849
+wh chmodf
+#1319641853
+cd-
+#1319641825
+su
+#1319641867
+chmod +x gs
+#1319641869
+cd gs
+#1319641872
+ll thundermouse_3D_
+#1319641875
+ll thundermouse_3D_erp_gaijin-2/
+#1319641905
+cdvcrc 
+#1319641907
+gits
+#1319641914
+gitd
+#1319641920
+gits
+#1319641927
+git add rt/home/scr/.keynavrc 
+#1319641928
+gits
+#1319641934
+git commit 
+#1319641948
+gits
+#1319641954
+svn pull
+#1319641966
+cd thundermouse_3D_erp_gaijin-2/
+#1319641969
+cscopec.sh 
+#1319641974
+ctagsc.sh 
+#1319641990
+g -t main
+#1319726861
+ff&
+#1319726915
+ii
+#1319727149
+cdx
+#1319727162
+unzip 1283933574_58120839.zip 
+#1319727171
+mv +�������ί��»�-�Ӧ���㦦���+���.txt  jiji.txt
+#1319727173
+g jiji.txt 
+#1319727219
+mv +�.jpg fffff.jpg
+#1319727221
+ex .
+#1319727562
+unrar 拯救大唐MM\(完结版\).rar 
+#1319727565
+unrar x 拯救大唐MM\(完结版\).rar 
+#1319727634
+ex .
+#1319728090
+g datang 
+#1319728170
+t
+#1319728196
+g chongs.txt 
+#1319728498
+cdx
+#1319728499
+ex .
+#1319728822
+cd
+#1319728829
+cd .aMule/
+#1319728837
+ll .aMule/
+#1319728845
+ll -d .aMule/
+#1319728851
+su
+#1319728860
+cd .aMule/
+#1319728862
+cd TDDOWNLOAD/
+#1319462332
+su
+#1319462212
+screen
+#1319804322
+rebbot
+#1319804337
+reboot
+#1319641960
+git pull origin master
+#1319641719
+screen
+#1319551339
+screen
+#1319462196
+gs
+#1319804510
+ff&
+#1319806816
+pg fire
+#1319806823
+ff&
+#1319806964
+pg fire
+#1319806970
+kill 4514
+#1319806973
+pg
+#1319806978
+pg fire
+#1319806982
+kill 4574
+#1319806984
+ps
+#1319807063
+ff&
+#1319810227
+t
+#1319810451
+ff&
+#1319806988
+mutt
+#1319810772
+ff http://arxiv.org/PS_cache/arxiv/pdf/1110/1110.3465v1.pdf&
+#1319812487
+ff 
+#1319818014
+ff&
+#1319857813
+ii
+#1319857839
+cdx
+#1319857842
+cd gs
+#1319857901
+cd thundermouse_3D_second_gaijin/
+#1319857908
+cscopec.sh 
+#1319857911
+ctagsc.sh 
+#1319857925
+mkdirsvn
+#1319857927
+mkdir svn
+#1319857933
+cp thundermouse_3D_second_gaijin/ svn/ -rf
+#1319857935
+cd svn/
+#1319857944
+svn-create-repos.sh -h
+#1319858002
+cd thundermouse_3D_second_gaijin/
+#1319858005
+mc
+#1319858008
+svni
+#1319858014
+find_svn-vss_files.sh 
+#1319858019
+find_svn-vss_files.sh -d
+#1319858025
+rm G*
+#1319858027
+mca
+#1319858039
+ln -s ~/.gitignore .
+#1319858040
+lla
+#1319858044
+git add *
+#1319858050
+cdbot
+#1319858053
+pwdp
+#1319858063
+cd vercol/
+#1319858064
+lll
+#1319858066
+cd git
+#1319858068
+cd notes/
+#1319858074
+g 01git使用笔记.txt 
+#1319858129
+lla
+#1319858134
+git init
+#1319858137
+git add *
+#1319858141
+gits
+#1319858153
+git commit -m "init"
+#1319858155
+gits
+#1319858170
+git .gitignore 
+#1319858173
+g .gitignore 
+#1319858185
+git add .gitignore 
+#1319858186
+gits
+#1319858198
+git commit -m "add .gitignore"
+#1319858200
+gis
+#1319858203
+cscopec.sh 
+#1319858206
+ctagsc.sh 
+#1319858208
+gits
+#1319858220
+g .gitignore 
+#1319858253
+g
+#1319858862
+ff&
+#1319876200
+cdx
+#1319876202
+ll gs
+#1319876209
+cd th
+#1319876211
+cd gs
+#1319876213
+mutt
+#1319876230
+ii
+#1319876749
+ctagsc.sh 
+#1319879786
+gits
+#1319879793
+gitd
+#1319880168
+ctagsc.sh 
+#1319885508
+gits
+#1319885511
+gitd
+#1319885556
+gits
+#1319885558
+gitd
+#1319885578
+cd
+#1319885582
+cd .aMule/
+#1319885591
+chmod 777 .aMule/
+#1319885598
+smplayer &
+#1319888190
+ff&
+#1319888686
+rn
+#1319889435
+orange
+#1319889440
+s orange
+#1319889450
+s engineer
+#1319894002
+service network restart
+#1319898904
+ff
+#1319898974
+ff&
+#1319899046
+ii
+#1319899055
+is
+#1319899058
+oo
+#1319899058
+i
+#1319893995
+su
+#1319901894
+ff&
+#1319910971
+t
+#1319912389
+ii
+#1319912718
+ff&
+#1319949374
+chmod 000 .aMule/
+#1319949377
+ll .aMule/
+#1319949382
+ll -d .aMule/
+#1319885583
+su
+#1319949393
+gis
+#1319949394
+gits
+#1319949600
+cd tmp/
+#1319949603
+cd ii
+#1319949608
+find .
+#1319949612
+find . | vim -
+#1319949635
+vim (find .)
+#1319949649
+vim $(find .)
+#1319949665
+find .
+#1319949670
+lla
+#1319949674
+rm .swp
+#1319949677
+rm .swo 
+#1319949678
+lla
+#1319949683
+find *
+#1319949701
+vim $(find . -type f)
+#1319949709
+lla
+#1319949762
+find . -type f | vim -
+#1319949814
+gvlc
+#1319950421
+find . -exec vim {} \;
+#1319950434
+lla
+#1319950437
+rm .swp 
+#1319950445
+find . -type f -exec vim {} \;
+#1319950467
+e find . -type f -exec vim {} \;
+#1319950536
+e find . -type f -exec vim {} +
+#1319950542
+e find . -type f -exec vim {} \+
+#1319950548
+find . -type f -exec vim {} +
+#1319950555
+lla
+#1319950559
+find . -type f -exec vim {} \+
+#1319950621
+ff&
+#1319950722
+find . -type f -exec gvim --servername GVIM --remote-tab {} \;
+#1319950736
+keynav 
+#1319950786
+find . -type f
+#1319950792
+find . -type f -exec gvim --servername GVIM --remote-tab {} \;
+#1319950865
+m gvim
+#1319950902
+find . -type f -exec gvim --servername GVIM --remote-tab {} \;
+#1319950929
+lla
+#1319950957
+lla
+#1319950968
+cat > fi
+#1319950971
+find . -type f -exec gvim --servername GVIM --remote-tab {} \;
+#1319951007
+find . -type f -exec gvim --servername GVIM1 --remote-tab {} \;
+#1319951062
+find . -type f -exec gvim --servername GVIM1 --remote-tab {} +
+#1319951074
+find . -type f -exec vim --servername GVIM1 --remote-tab {} +
+#1319804515
+screen
+#1319857904
+screen
+#1319804519
+mutt
+#1319949358
+mutt
+#1319963089
+ii
+#1319963102
+ff&
+#1319963094
+mutt
+#1319965386
+g
+#1319965388
+gvlc
+#1319965474
+cd tmp/ii/
+#1319965477
+lla
+#1319965482
+find . -type f -exec gvim --servername GVIM --remote-tab {} +
+#1319965776
+keynav 
+#1319966154
+m xargs
+#1319966215
+xargs -a <(find) vim
+#1319966223
+lla
+#1319966244
+xargs -a < (find) vim
+#1319966250
+xargs -a <(find) vim
+#1319966260
+xargs -a <(find . -type f) vim
+#1319966279
+xargs -a < \(find . -type f\) vim
+#1319966283
+xargs -a <(find . -type f) vim
+#1319966522
+m gvim
+#1319966554
+find . -type f -exec gvim -p --remote-tab {} \;
+#1319966574
+find . -type f -exec gvim -p --remote-tab {} +
+#1319966587
+find . -type f -exec gvim -p {} +
+#1319966624
+g
+#1319966627
+find . -type f -exec gvim -p --remote-tab {} +
+#1319966784
+vv
+#1319966955
+vim -p/-o/-O `find .`
+#1319966971
+vim -o `find .`
+#1319966980
+vim -O `find .`
+#1319966999
+gvim -O `find .`
+#1319967134
+vim $(find . -type f)
+#1319967141
+lla
+#1319967157
+rm .*
+#1319967158
+lla
+#1319967247
+vim
+#1319968725
+ff&
+#1319970238
+cd
+#1319970242
+mutt
+#1319970992
+xargs -a <(find . -type f) vim
+#1319971001
+xargs -a < (find . -type f) vim
+#1319971004
+xargs -a < $(find . -type f) vim
+#1319971013
+xargs -a <(find . -type f) vim
+#1319971030
+vim $(find . -type f) 
+#1319971054
+ii
+#1319971064
+cdvcrt
+#1319971065
+pwdp
+#1319971068
+gits
+#1319971088
+gitd
+#1319971108
+gitdl
+#1319971113
+gits
+#1319971120
+git add linux/computor/bookmark/
+#1319971121
+gits
+#1319971154
+git commit -m "取模运算和求余运算的区别"
+#1319971156
+gits
+#1319971161
+git add linux/
+#1319971163
+gits
+#1319971185
+git commit -m "用vim打开find的结果"
+#1319971187
+gits
+#1319971194
+git push origin master
+#1319971234
+cdvcrc
+#1319971235
+gits
+#1319971243
+gitl
+#1319971247
+cd-
+#1319971249
+pwdp
+#1319971251
+gitl
+#1319971273
+ff&
+#1319971536
+ff&
+#1319971552
+cdbot
+#1319971554
+pwdp
+#1319971561
+cd vercol/git/books/
+#1319971563
+cd Pro-Git/
+#1319971571
+cd notes/
+#1319971574
+cd github/
+#1319971592
+cdvcrt
+#1319971598
+cdvcrtbot
+#1319971600
+cd vercol/
+#1319971602
+cd git/
+#1319971604
+cd books/
+#1319971607
+cd notes/
+#1319971609
+cd github/
+#1319971611
+cd help.github.com/
+#1319971617
+ff index.html 
+#1319971659
+t
+#1319971678
+pg bin
+#1319971682
+pg bin$
+#1319971750
+ff index.html 
+#1319971861
+cd..
+#1319971865
+cdbo
+#1319971866
+cdbot
+#1319971868
+cd vercol/
+#1319971871
+cd git/books/
+#1319971874
+cd Pro-Git/
+#1319971876
+cat sedmv.sed 
+#1319971885
+sedmv.sh 
+#1319971890
+cdb
+#1319971893
+g sedmv.sh 
+#1319971957
+g sedmv.sed
+#1319971968
+cat sedmv.sed 
+#1319972055
+ll set-up-git-redirect/
+#1319972134
+sed -f sedmv.sed index.html 
+#1319972138
+sed -f sedmv.sed index.html | less
+#1319972169
+sed -f sedmv.sed index.html > out.html
+#1319972170
+ff out.html 
+#1319972235
+sed -f sedmv.sed index.html > out.html
+#1319972236
+ff out.html 
+#1319972273
+ff set-up-git-redirect/index.html 
+#1319972287
+g set-up-git-redirect/
+#1319972334
+,y
+#1319972427
+sed -f sedmv.sed index.html > out.html
+#1319972429
+ff set-up-git-redirect/index.html 
+#1319972437
+ff out.html 
+#1319972453
+ll ssh-issues/
+#1319972463
+ls css
+#1319972469
+ll delete-a-repo/
+#1319972481
+find . -type d | xargs ls
+#1319972485
+find . -type d | xargs ls | less
+#1319972503
+find . -type d | xargs ls 
+#1319972623
+sed -f sedmv.sed set-up-git-redirect/index.html > out.html
+#1319972626
+ff out.html 
+#1319972701
+sed -f sedmv.sed index.html > out.html
+#1319972703
+ff out.html 
+#1319972729
+sed -f sedmv.sed index.html > out.html
+#1319972730
+ff out.html 
+#1319972753
+cd set-up-git-redirect/
+#1319972757
+sed -f sedmv.sed index.html > out.html
+#1319972762
+sed -f ../sedmv.sed index.html > out.html
+#1319972772
+g out.html 
+#1319972801
+sed -f ../sedmv.sed index.html > out.html
+#1319972812
+g out.html 
+#1319972847
+sed -f ../sedmv.sed index.html > out.html
+#1319972855
+f
+#1319972857
+g out.html 
+#1319972965
+sed -f ../sedmv.sed index.html > out.html
+#1319972966
+g out.html 
+#1319973016
+rm out.html 
+#1319973018
+rm o
+#1319973020
+rm out.html 
+#1319973021
+gis
+#1319973022
+gits
+#1319973100
+find . -type f -name *[^.].html -exec sedmv.sh {} \;
+#1319973104
+gits
+#1319973129
+gitsl
+#1319973143
+ff index.html
+#1319973215
+ff index.html.OLD 
+#1319973444
+find . -type f -name *[^.].html -exec sedmv.sh {} \;
+#1319973449
+gits
+#1319973454
+git add sedmv.sed 
+#1319973456
+gitsl
+#1319973486
+find  . -type f -name '*.OLD'
+#1319973491
+find  . -type f -name '*.OLD' | xrags rm
+#1319973497
+find  . -type f -name '*.OLD' | xargs rm
+#1319973500
+gits
+#1319973502
+gitsl
+#1319973510
+git add .
+#1319973511
+gitsl
+#1319973553
+git commit -m "modify path, so it open in local place"
+#1319973556
+gits
+#1319973569
+ff index.html
+#1319973595
+gits
+#1319973612
+cdvcrtbot 
+#1319973614
+cd vercol/
+#1319973616
+cd git/
+#1319973618
+cd notes/
+#1319973621
+g 02.txt 
+#1319973764
+gvlc
+#1319973780
+gitl
+#1319973794
+git checkout 0502
+#1319973799
+gits
+#1319973802
+gitl
+#1319973824
+git checkout .
+#1319973826
+gitl
+#1319973865
+git checkout .
+#1319973866
+git checkout 
+#1319973868
+gitl
+#1319973987
+git checkout 646c
+#1319974135
+git checkout HEAD
+#1319974136
+gitl
+#1319974140
+git checkout HEAD .
+#1319974142
+gitl
+#1319974191
+git checkout -- *
+#1319974193
+gitl
+#1319974241
+git branch
+#1319974261
+git checkout branch
+#1319974280
+git checkout master
+#1319974285
+gitl
+#1319974302
+git checkout 0502
+#1319974374
+gitl
+#1319974381
+git checkout HEAD .
+#1319974382
+gitl
+#1319974402
+git branch
+#1319974409
+git checkout master
+#1319974412
+git branch
+#1319974422
+git checkout 0502
+#1319974424
+git branch
+#1319974429
+rm index.html 
+#1319974432
+gitl
+#1319974435
+git branch
+#1319974436
+gits
+#1319974443
+gitl
+#1319974445
+gits
+#1319974448
+git branch
+#1319974461
+git commit -a -m "dlsjf"
+#1319974464
+gitl
+#1319974470
+git branch
+#1319974473
+git checkout master
+#1319974476
+git branch
+#1319974490
+git checkout 0502
+#1319974526
+git checkout master
+#1319974564
+cp sedmv.sed sedmv.sed.bk
+#1319974713
+git reset --hard HEAD~1
+#1319974718
+git branch
+#1319974722
+gitl
+#1319974728
+gits
+#1319974747
+e git reset --hard HEAD~1
+#1319974749
+gitl
+#1319974758
+gits
+#1319974762
+pwdp
+#1319974765
+gitl
+#1319974776
+gitlv
+#1319974780
+gitls
+#1319974787
+gits
+#1319974809
+e git reset --hard HEAD~1
+#1319974842
+gits
+#1319974857
+gitdl
+#1319974860
+gits
+#1319974886
+mv sedmv.sed.bk sedmv.sed
+#1319974887
+gits
+#1319974895
+git add sedmv.sed 
+#1319974896
+gits
+#1319974904
+find . -type f -name *[^.].html -exec sedmv.sh {} \;
+#1319974907
+gitl
+#1319974911
+gits
+#1319974913
+gitsl
+#1319974925
+git add *
+#1319974927
+gitsl
+#1319974948
+git commit -m "modify path, so it open in local place"
+#1319974954
+gitl
+#1319974957
+git b
+#1319974960
+gitl
+#1319974962
+git branch
+#1319974964
+gitl
+#1319974967
+ff index.html
+#1319975009
+gits
+#1319975013
+git add .
+#1319975014
+git s
+#1319975017
+gits
+#1319975056
+git commit -m "git notes: 取消最后一次提交"
+#1319975065
+git add .
+#1319975066
+gits
+#1319975077
+cdvcrt
+#1319975079
+gits
+#1319975082
+git add .
+#1319975083
+gits
+#1319975087
+git commit -m "git notes: 取消最后一次提交"
+#1319975088
+gits
+#1319975268
+cdvcrtbot
+#1319975270
+cd browser/
+#1319975272
+cd firefox/
+#1319975275
+g firefox.notes.txt 
+#1319975677
+gits
+#1319975693
+git add .
+#1319975694
+gits
+#1319975722
+git commit -m "firxfox插件: 繁简体互转"
+#1319975724
+gits
+#1319975727
+...
+#1319975728
+gits
+#1319975738
+git add 
+#1319975743
+git add .
+#1319975744
+gits
+#1319975751
+git commit
+#1319975759
+pwdp
+#1319975779
+git commit -m "git常用命令笔记"
+#1319975783
+gits
+#1319975788
+gitl
+#1319975810
+cd-
+#1319975813
+ff index.html
+#1319975848
+cd
+#1319975851
+cd .ssh/
+#1319975862
+mkdir bk
+#1319975870
+mv id_rsa* bk
+#1319975912
+ssh-keygen -t rsa -C "nuoerlz@gmail.com"
+#1319975950
+vi id_rsa.pub 
+#1319975993
+ssh -T git@github.com
+#1319976022
+cat known_hosts 
+#1319976032
+gits
+#1319976037
+git push origin master
+#1319976123
+gits
+#1319976126
+cdvcrc
+#1319976128
+gits
+#1319976132
+cdvcrt
+#1319976133
+gits
+#1319976135
+cd
+#1319976138
+fg
+#1319971105
+screen
+#1319976143
+cds
+#1319976144
+cdb
+#1319976146
+svns
+#1319976149
+svndl
+#1319977715
+cdx
+#1319977717
+cd gs
+#1319977722
+ii
+#1319977725
+cd svn
+#1319977729
+mv svn git
+#1319977733
+cd git/
+#1319977735
+cd thundermouse_3D_second_gaijin/
+#1319977736
+cscopec.sh 
+#1319977741
+ctagsc.sh 
+#1319980237
+ff&
+#1319982430
+s join
+#1319984076
+gits
+#1319984083
+gitd
+#1319984101
+git commit -a -m "2d"
+#1319984104
+gitl
+#1319984109
+cscopec.sh 
+#1319984111
+ctagsc.sh 
+#1319984112
+gits
+#1319984114
+g
+#1319985228
+cdv
+#1319985229
+svn st
+#1319985234
+svnl
+#1319985251
+svnlv
+#1319985317
+svn st
+#1319985323
+svn up -r 62
+#1319985329
+cd
+#1319985330
+cdx
+#1319985334
+cd gs/thundermouse_3D_
+#1319985338
+cd gs/thundermouse_3D_erp_gaijin-2/
+#1319985345
+svn st
+#1319985348
+g
+#1319985378
+fg
+#1319985468
+svn up -r 56
+#1319985536
+svn up -r 57
+#1319985575
+fg
+#1319985606
+svn up -r 59
+#1319985646
+fg
+#1319985660
+svn up -r 58
+#1319985691
+svni
+#1319985697
+svn up -r 59
+#1319985990
+svn up -r 58
+#1319986014
+fg
+#1319986016
+fg
+#1319986027
+svn up -r 57
+#1319986032
+g
+#1319986048
+svn up -r 56
+#1319986080
+svni
+#1319986092
+svn up -r 57
+#1319986103
+svn diff -r 56:57 | less
+#1319986309
+svni
+#1319986310
+svns
+#1319986313
+fg
+#1319986325
+g vimfiles/plugin/NERD_tree.vim 
+#1319986342
+fg
+#1319986470
+svni
+#1319986474
+fg 1
+#1319986484
+g
+#1319986500
+svn up -r 56
+#1319986505
+svns
+#1319986542
+svn up -r 57
+#1319986715
+svn up _vimrc 
+#1319986732
+svn info _vimrc 
+#1319986866
+fg 2
+#1319988154
+svns
+#1319988170
+rm vimfiles/plugin/NERD_tree.vim 
+#1319988170
+svns
+#1319988174
+svn up
+#1319988181
+svns
+#1319988183
+svndl
+#1319988260
+svns
+#1319988261
+svndl
+#1319988303
+g
+#1319988318
+svn commit -m "修改bug: SwitchToBuf()" _vimrc 
+#1319988354
+fg
+#1319988359
+cdv
+#1319988360
+svns
+#1319988361
+svni
+#1319988510
+gits
+#1319988514
+gitl
+#1319988516
+gitd
+#1319988533
+cdx
+#1319988535
+cd-
+#1319988545
+ex
+#1319988595
+ex .
+#1319988631
+cd git/
+#1319988634
+lla
+#1319988637
+cd thundermouse_3D_second_gaijin/
+#1319988639
+lla
+#1319988650
+rm .gitignore 
+#1319988656
+cp ~/.gitignore .
+#1319988658
+lla
+#1319988721
+ll ..
+#1319988724
+lla ..
+#1319988730
+llll
+#1319988734
+find -type l
+#1319988736
+find -type f
+#1319988739
+find -type f | wc
+#1319988785
+cdm
+#1319988791
+cd 38F0-B967/
+#1319988793
+cd scr/
+#1319988796
+cd gs
+#1319988798
+cd src/
+#1319988799
+cd 1
+#1319988800
+lla
+#1319988803
+rm -rf *
+#1319988805
+ex .
+#1319988809
+ex ..
+#1319988855
+lla
+#1319988859
+ds .git
+#1319988872
+mkdir tmp
+#1319988875
+gits
+#1319988896
+cd
+#1319988944
+cp .git* tmp/
+#1319988947
+cp .git* tmp/ -r
+#1319988948
+cd tmp/
+#1319988950
+lla
+#1319988963
+git checkout .
+#1319988966
+lla
+#1319988972
+cscopec.sh 
+#1319988984
+ctagsc.sh 
+#1319988990
+gits
+#1319989001
+rm -rf tmp/
+#1319989002
+lla
+#1319989004
+gits
+#1319989009
+gitl
+#1319989012
+gitd
+#1319989020
+gits
+#1319989031
+git commit -a -m "2d"
+#1319989032
+gitl
+#1319989035
+gits
+#1319989047
+rm cscope.*
+#1319989053
+rm tags 
+#1319989056
+rm G*
+#1319989062
+rm -rf *
+#1319989064
+git commit -a -m "2d"
+#1319989074
+gits
+#1319989078
+git checkout .
+#1319989081
+lla
+#1319989104
+git reset --hard HEAD~1 .
+#1319989109
+g
+#1319989112
+gvlc
+#1319989124
+git reset --hard HEAD~1 
+#1319989128
+gitl
+#1319989141
+git branch
+#1319989147
+mc
+#1319989150
+mca
+#1319989154
+find_svn-vss_files.sh 
+#1319989169
+cdvcrt
+#1319989171
+gits
+#1319989175
+cdvcrc
+#1319989176
+gits
+#1319989179
+cdx
+#1320063006
+ii
+#1320063008
+t
+#1320064645
+ff 1. http://j.dajie.com/?uid=9942820&e_cat=regt&e_cd=reg&email=nuoerlz@gmail.com&send_date=2011-10-31&url=http://www.dajie.com/account/verify?code=fNzEZQ8bi8n7lXHaL
+#1320064866
+ex .
+#1320064890
+rm 12..jpg 
+#1320066267
+cdbo
+#1320066277
+ex address-book/
+#1320068559
+ff &
+#1320071472
+ex .
+#1320072160
+ii
+#1320072155
+su
+#1320073385
+ii
+#1320073416
+ii
+#1320073491
+ip
+#1320073781
+ii
+#1320075622
+t
+#1320075669
+ff &
+#1320151381
+muttll
+#1320151384
+ll;
+#1320151389
+ff&
+#1320152123
+cd .Mail/
+#1320152125
+cd inbox/
+#1320152128
+cd
+#1320152143
+cd .Mail/
+#1320152145
+ll inbox/
+#1320152147
+cd inbox/
+#1320152149
+cd nuoerlz.gmail/
+#1320152153
+ls new/
+#1320152164
+ find . | grep kernel
+#1320152168
+ff &
+#1320152170
+find_svn-vss_files.sh 
+#1320152177
+ find . | grep kernel
+#1320152191
+cd
+#1320152194
+ex .
+#1320154449
+ii
+#1320151331
+mutt
+#1320154465
+ii
+#1320154559
+ff http://3.bp.blogspot.com/-sgulUcyzQuA/TpQyTnma1sI/AAAAAAAAAQg/YEs7DxQCj94/s1600/ama1.jpg
+#1320154600
+ ff http://1.bp.blogspot.com/-1xIklIh7mrQ/TpQ4egO138I/AAAAAAAAAY8/5OGFeKBlWBs/s1600/rei2.jpg
+#1320154793
+ff https://groups.google.com/forum/\#\!members/shlug|joindate
+#1320154804
+ff https://groups.google.com/forum/\#\!members/shlug\|joindate
+#1320155764
+m tar
+#1320155781
+cat ViewActor.c | less
+#1320155784
+cat ViewActor.c | less -
+#1320151816
+mutt
+#1320237056
+cdl
+#1320237058
+svns
+#1320237076
+ii
+#1320237100
+cd latex/
+#1320237101
+svndl
+#1320237119
+cd latex/
+#1320237122
+svndl
+#1320237128
+cd shell/
+#1320237130
+svns
+#1320237133
+svndl
+#1320237143
+ rm sedmv.sh 
+#1320237147
+svn up
+#1320238567
+mutt
+#1320238647
+ds .Mail/
+#1320238677
+ff&
+#1320242617
+ff http://www.amazon.com/Handbook-Source-Tools-Sandeep-Koranne/dp/144197718X/ref=sr_1_1?ie=UTF8&qid=1318812839&sr=8-1
+#1320242661
+ff https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B2-X1qooRpugNjNiZjQ4YTktNGNhNS00YjZlLTgwYzAtMzNhZDgzOWMwYzlj&hl=zh_CN
+#1320242694
+ff https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B2-X1qooRpugMTdlMTg2YzctNDA0My00NTFhLWI5ZmYtOGU0OWU2YWRkZDFm&hl=zh_CN
+#1320242718
+ff https://docs.google.com/viewer\?a=v&pid=explorer\&chrome=true\&srcid=0B2-X1qooRpugMTdlMTg2YzctNDA0My00NTFhLWI5ZmYtOGU0OWU2YWRkZDFm\&hl=zh_CN
+#1320242884
+ff http://producingoss.com/en/producingoss.pdf 
+#1320243238
+lspci -v
+#1320243264
+e lspci -v
+#1320243266
+gvlc
+#1320243280
+lspci | grep net
+#1320243285
+lspci -v | grep net
+#1320243290
+m lspci
+#1320243296
+lspci -v | grep net
+#1320243465
+cd .Mail/
+#1320243468
+ll inbox/
+#1320243470
+ll postponed/
+#1320243472
+ll sent/
+#1320243474
+ll trash/
+#1320243484
+ll /tmp/ | grep S
+#1320243493
+cd
+#1320243498
+locate kernel-map.png 
+#1320243502
+cdx
+#1320243508
+ex .
+#1320247697
+cdl
+#1320247700
+cd books/
+#1320247702
+cd c
+#1320247703
+cd opengl/
+#1320247706
+cd opengl-blue/
+#1320247707
+cd 
+#1320247709
+cd-
+#1320247711
+cd e4/
+#1320247713
+cd src/
+#1320247716
+cd examples/
+#1320247722
+cd src/
+#1320247726
+cd chapt04
+#1320247734
+cd sphereworld/
+#1320247735
+svni
+#1320247738
+svnl
+#1320247749
+g sphereworld.cpp 
+#1320247757
+cscopec.sh 
+#1320247760
+ctagsc.sh 
+#1320247763
+;;~ll
+#1320247769
+cd 
+#1320247775
+cd-
+#1320247779
+cd chapt04
+#1320247783
+cd sphereworld/
+#1320247791
+svndl
+#1320247803
+cdlsw
+#1320247806
+cdlc
+#1320247810
+cdl
+#1320247831
+cd books/c/opengl/opengl-blue/e4/src/examples/projects/linux/chapt04
+#1320247835
+cd sphereworld/
+#1320247837
+ma
+#1320247849
+chxx Makefile 
+#1320247851
+svns
+#1320247876
+cp ../../chapt09/sphereworld/Makefile .
+#1320247878
+vi Makefile 
+#1320247893
+mc
+#1320247899
+fg
+#1320247938
+ma
+#1320247946
+fg
+#1320247984
+mc
+#1320247985
+ma
+#1320247995
+fg
+#1320248035
+cdl
+#1320248056
+cd books/c/opengl/opengl-blue/e4/src/examples/projects/linux/
+#1320248059
+ll build 
+#1320248061
+cat build 
+#1320248070
+cd chapt08
+#1320248073
+cd toon/
+#1320248076
+cat Makefile 
+#1320248086
+cp Makefile ~
+#1320248090
+mv ~/Makefile  .
+#1320248093
+fg
+#1320248112
+mc
+#1320248116
+chxx Makefile 
+#1320248118
+ma
+#1320248123
+./sphereworld 
+#1320248177
+fg
+#1320248199
+svns
+#1320248206
+fg
+#1320248236
+ma
+#1320248244
+./sphereworld 
+#1320248302
+ma
+#1320248303
+mc
+#1320248305
+ma
+#1320248308
+mc
+#1320248309
+ma
+#1320248337
+cd...
+#1320248338
+ll.
+#1320248339
+...
+#1320248349
+svns
+#1320248353
+svndl
+#1320248393
+svn commit -m "修改Makefile, 和重新缩进 *.c" 
+#1320248407
+mc
+#1320248410
+ma
+#1320248420
+fg
+#1320248713
+ma
+#1320248719
+mc
+#1320248720
+ma
+#1320248725
+mc
+#1320248726
+mca
+#1320248728
+ma
+#1320248736
+./sphereworld 
+#1320248742
+file Makefile 
+#1320248745
+./sphereworld 
+#1320248748
+file sphereworld
+#1320248753
+./sphereworld 
+#1320322731
+cdvcrt
+#1320322735
+git pull origin master
+#1320322842
+ll ...
+#1320322873
+cd linux/computor/tools/devel/cmd/awk/match/
+#1320322879
+./mk.d2mk.d.sh 
+#1320322883
+./mk.d2mk.d.sh Makefile.d 
+#1320323119
+ll /etc/fstab 
+#1320323123
+cat /etc/fstab 
+#1320323199
+gvfi
+#1320323210
+locate 02files
+#1320323224
+vbs
+#1320323247
+.s
+#1320323252
+gvfi
+#1320324107
+g mk.d2mk.d.sh 
+#1320326558
+mutt
+#1320326716
+t
+#1320326762
+svns
+#1320326765
+ma
+#1320326765
+mc
+#1320326766
+ma
+#1320326841
+./sphereworld 
+#1320326872
+ma
+#1320326874
+mai
+#1320326875
+./sphereworld 
+#1320326910
+ma
+#1320326911
+./sphereworld 
+#1320326965
+ma
+#1320326967
+./sphereworld 
+#1320326995
+ma
+#1320326997
+./sphereworld 
+#1320327009
+ma
+#1320327010
+./sphereworld 
+#1320327076
+cd /usr/include/GL/
+#1320327082
+ctagsc.sh 
+#1320327079
+su
+#1320327103
+ma
+#1320327105
+./sphereworld 
+#1320327115
+ma
+#1320327117
+./sphereworld 
+#1320327122
+ma
+#1320327135
+cd /usr/local/include/
+#1320327137
+cd GL/
+#1320327139
+ctagsc.sh 
+#1320327141
+su
+#1320327225
+rename
+#1320327230
+m rename
+#1320327302
+gvlc
+#1320327310
+vlc
+#1320327388
+m rename
+#1320327532
+svns
+#1320327617
+mai
+#1320327619
+./sphereworld 
+#1320327639
+m
+#1320327640
+ma
+#1320327642
+./sphereworld 
+#1320327659
+ma
+#1320327661
+./sphereworld 
+#1320327670
+ma
+#1320327671
+./sphereworld 
+#1320327850
+ma
+#1320327851
+./sphereworld 
+#1320327893
+cdl
+#1320327902
+cd books/c/opengl/opengl-red/
+#1320327911
+./torus 
+#1320327933
+cdbo
+#1320327939
+pwdp
+#1320327971
+cd grath/
+#1320327974
+cd opengl/
+#1320327979
+cd test/
+#1320327987
+cd  opengl
+#1320327991
+ll sizeof_void/
+#1320327996
+cd note/
+#1320328006
+ll nehe/
+#1320328008
+ll nehe/dev-src-html/
+#1320328080
+cdm
+#1320328083
+cd WA
+#1320328085
+cd E
+#1320328093
+ll ..
+#1320328097
+ll rsync/
+#1320328104
+cd E
+#1320328107
+ex .
+#1320328251
+cdx
+#1320328255
+ex .
+#1320328261
+mkdir gl
+#1320328266
+mv glsamples.tar.gz gs
+#1320328268
+cd gs
+#1320328278
+mv gs/glsamples.tar.gz gl
+#1320328280
+cd gl
+#1320328282
+chxx glsamples.tar.gz 
+#1320328287
+tar xvzf glsamples.tar.gz 
+#1320328289
+cd glsamples
+#1320328293
+ll smooth/
+#1320328297
+ll maiden/
+#1320328298
+ma
+#1320328304
+./texture 
+#1320328309
+../ro
+#1320328311
+./rotate 
+#1320328318
+./multiview 
+#1320328345
+./nii
+#1320328350
+./qix
+#1320328355
+./starfield 
+#1320328359
+./voronoi 
+#1320328368
+./maiden/maiden 
+#1320328393
+./smooth/
+#1320328396
+./smooth/smooth 
+#1320328399
+cd smooth/
+#1320328401
+./smooth 
+#1320328530
+ex .
+#1320328536
+mkdir tutors
+#1320328541
+mv tutors-src.zip tutors
+#1320328542
+cd tutors/
+#1320328545
+chxx tutors-src.zip 
+#1320328551
+unzip tutors-src.zip 
+#1320328553
+cd tutors
+#1320328555
+ma
+#1320328569
+ll tutors.vc6/
+#1320328579
+ma
+#1320327917
+svnl
+#1320328601
+vi Makefile 
+#1320328613
+ma
+#1320328729
+fg
+#1320328748
+ma
+#1320328756
+./texture 
+#1320328825
+cdl
+#1320328826
+cd books/c
+#1320328829
+cd opengl/
+#1320328835
+mkdir tutors
+#1320328836
+cd tutors/
+#1320328859
+cp ~/xiazai/gl/tutors/tutors-src.zip .
+#1320328866
+unzip tutors-src.zip 
+#1320328872
+mv tutors/* .
+#1320328877
+rm tutors-src.zip 
+#1320328884
+rmdir tutors
+#1320328890
+svn add tutors/
+#1320328970
+svn commit -m "opengl tutors, 例子很丰富, 且完善" 
+#1320329002
+svns
+#1320329070
+svnl&
+#1320329088
+./dof
+#1320329107
+g dof.c
+#1320329121
+fg
+#1320329031
+svn commit -m "opengl tutors, 例子很丰富, 且完善"  tutors/
+#1320329227
+svnlv&
+#1320329229
+fg 1
+#1320329246
+fg 2
+#1320329267
+g 20e-2.c
+#1320328593
+fg
+#1320329300
+./sphereworld 
+#1320329581
+ma
+#1320329582
+./sphereworld 
+#1320329599
+ma
+#1320329600
+./sphereworld 
+#1320329609
+ma
+#1320329611
+./sphereworld 
+#1320329274
+./20e-2
+#1320329712
+svns
+#1320329714
+mc
+#1320329715
+svns
+#1320329721
+fg
+#1320329732
+svnl > svn.log&
+#1320329737
+svnlv > svn.logv&
+#1320329745
+cat svn.log
+#1320329748
+jj
+#1320329750
+svns
+#1320329755
+cat svn.logv
+#1320329774
+svns
+#1320329776
+cd tutors/
+#1320329791
+mv ~/xiazai/gl/tutors/tutors/Makefile .
+#1320329793
+vi Makefile 
+#1320329800
+svns
+#1320329801
+svndl
+#1320329803
+ma
+#1320329810
+mc
+#1320329811
+ma
+#1320329821
+svns
+#1320329822
+mc
+#1320329822
+svns
+#1320329838
+svn commit -m "使能编译通过"  
+#1320329910
+ma
+#1320329912
+./sphereworld 
+#1320329928
+ma
+#1320329929
+./sphereworld 
+#1320329935
+ma
+#1320329936
+./sphereworld 
+#1320329980
+ma
+#1320329981
+./sphereworld 
+#1320330039
+ma
+#1320330042
+./sphereworld 
+#1320330172
+ma
+#1320330173
+./sphereworld 
+#1320330351
+m
+#1320330352
+ma
+#1320330372
+cd src
+#1320330375
+ctagsc.sh 
+#1320330376
+svns
+#1320330380
+svndl
+#1320330399
+svns
+#1320330420
+svn commit -m "indent" shared/glframe.h 
+#1320330427
+ctagsc.sh 
+#1320330986
+svns
+#1320330989
+svndl shared/
+#1320330995
+svns
+#1320331004
+svndl shared/glframe.h 
+#1320331013
+svnd shared/glframe.h 
+#1320331031
+wh svndl
+#1320331036
+svnd shared/glframe.h | less
+#1320331545
+svns
+#1320331550
+g commit.log
+#1320331677
+svns
+#1320331679
+svndl
+#1320331742
+svns
+#1320331758
+svn commit -m -F ./commit.log shared/glframe.h 
+#1320331766
+svn commit -F ./commit.log shared/glframe.h 
+#1320331887
+ma
+#1320331969
+fg
+#1320331986
+ma
+#1320331993
+./sphereworld 
+#1320332751
+svns
+#1320332755
+svn commit -F ./commit.log shared/glframe.h 
+#1320407350
+ff http://3.bp.blogspot.com/-BzWJXn3hw-o/TqPn_datncI/AAAAAAAAAdk/d-edYZqiSz0/s1600/mil1.jpg
+#1320407237
+mutt
+#1320410797
+svns
+#1320410801
+svndl
+#1320410828
+svns
+#1320411012
+ii
+#1320411485
+s delta
+#1320571931
+ff&
+#1320575714
+cd
+#1320575729
+ex ll
+#1320575732
+cdm
+#1320575734
+cd TOOLS/
+#1320575737
+cd 1music/
+#1320575740
+cd m
+#1320575742
+cd mp3
+#1320581164
+date
+#1320584943
+ds .Mail/
+#1320584946
+ll .Mail/
+#1320584949
+ll .Mail/inbox/
+#1320584951
+ds .Mail/inbox/
+#1320575753
+mpg123 --title -C -Z *
+#1320581165
+mutt
+#1320588436
+s
+#1320588510
+cdl
+#1320588518
+cd books/c/cguo-e3/
+#1320588521
+cd ch5
+#1320588530
+cd 5.50-camera\ demo/
+#1320588543
+ma
+#1320588547
+ll Debug/
+#1320588571
+gcc Camera.cpp GlutWin.cpp
+#1320588583
+gcc Camera.cpp GlutWin.cpp Transform.cpp 
+#1320588590
+g Camera.cpp 
+#1320588597
+gcc Camera.cpp GlutWin.cpp Transform.cpp 
+#1320588638
+g++ Camera.cpp GlutWin.cpp Transform.cpp 
+#1320588727
+ll /usr/include/GL/
+#1320588729
+g++ Camera.cpp GlutWin.cpp Transform.cpp 
+#1320588751
+g++ -I/usr/include  Camera.cpp GlutWin.cpp Transform.cpp 
+#1320588761
+ll /usr/include/GL
+#1320588770
+g++ -I/usr/include  Camera.cpp GlutWin.cpp Transform.cpp 
+#1320588797
+cdl
+#1320588809
+cd books/c/opengl/tutors/
+#1320588813
+g Makefile 
+#1320588827
+g++ lGL -lGLU -lglut -L/lib64 -lm -I/usr/include  Camera.cpp GlutWin.cpp Transform.cpp 
+#1320588835
+g++ -lGL -lGLU -lglut -L/lib64 -lm -I/usr/include  Camera.cpp GlutWin.cpp Transform.cpp 
+#1320588840
+./a.out 
+#1320588876
+g++ -lGL -lGLU -lglut -L/lib64 -lm -I/usr/include  Camera.cpp GlutWin.cpp Transform.cpp 
+#1320588930
+cd ch7
+#1320588933
+cd 7.13-CameraDemo/
+#1320588948
+g++ -lGL -lGLU -lglut -L/lib64 -lm -I/usr/include  camera.cpp main.cpp 
+#1320588970
+g camera.cpp 
+#1320589035
+g++ -lGL -lGLU -lglut -L/lib64 -lm -I/usr/include  camera.cpp main.cpp 
+#1320589076
+g++ -lGL -lGLU -lglut -L/lib64 -lm -I/usr/include  camera.cpp main.cpp -w
+#1320589149
+ctagsc.sh 
+#1320589199
+g++ -lGL -lGLU -lglut -L/lib64 -lm -I/usr/include  camera.cpp main.cpp -w
+#1320589698
+gcc -lGL -lGLU -lglut -L/lib64 -lm -I/usr/include  camera.cpp main.cpp -w
+#1320589861
+gcc -lGL -lGLU -lglut -L/lib64 -lm -I/usr/include  camera.cpp main.cpp -L/usr/lib64 -lstdc++ -w
+#1320589899
+gcc -lGL -lGLU -lglut -L/lib64 -lm -I/usr/include  camera.cpp main.cpp RGBpixmap.cpp SDL_arch.cppj -L/usr/lib64 -lstdc++ -w
+#1320589914
+gcc -lGL -lGLU -lglut -L/lib64 -lm -I/usr/include  camera.cpp main.cpp -w
+#1320589917
+gcc -lGL -lGLU -lglut -L/lib64 -lm -I/usr/include  camera.cpp main.cpp -L/usr/lib64 -lstdc++ -w
+#1320589931
+gcc -lGL -lGLU -lglut -L/lib64 -lm -I/usr/include  camera.cpp main.cpp RGBpixmap.cpp SDL_arch.cpp -L/usr/lib64 -lstdc++ -w
+#1320589936
+./a.out 
+#1320589942
+ll Debug/
+#1320589950
+./a.out 
+#1320666203
+mutt
+#1320667725
+cdx
+#1320667735
+rar x \[计算机图形学\].\(美国\)Donald.Hearn.清晰版.part1.rar 
+#1320667740
+ex .
+#1320667775
+pdf 0A计算机图形学.美国.Donald.Hearn.清晰版.pdf &
+#1320667779
+ii
+#1320667782
+iii
+#1320667783
+ii
+#1320667820
+ex /media/TOOLS/
+#1320667823
+ex .
+#1320667839
+ex /media/TOOLS/
+#1320667928
+cdbot
+#1320667933
+pwdp
+#1320667943
+cdbo
+#1320667947
+cd grath/
+#1320667949
+cd opengl/
+#1320667961
+mkdir books
+#1320667963
+cd books/
+#1320667973
+mv ~/xiazai/0A计算机图形学.美国.Donald.Hearn.清晰版.pdf .
+#1320667983
+gits
+#1320668031
+git add books/
+#1320668038
+gits
+#1320668050
+git commit
+#1320668079
+gitl
+#1320668086
+gitls
+#1320668094
+cd books/
+#1320668097
+pdf 0A计算机图形学.美国.Donald.Hearn.清晰版.pdf &
+#1320669718
+cdm
+#1320669721
+cd TOOLS/
+#1320669724
+cd 1music/
+#1320666962
+mutt
+#1320669728
+mpg123 --title -C -Z *
+#1320680600
+pdf&
+#1320707514
+--ll
+#1320707519
+ex .
+#1320757361
+cdvcrt
+#1320757365
+gits
+#1320757374
+pwdp
+#1320757381
+cdvcrc
+#1320757375
+fg
+#1320757383
+gits
+#1320757389
+gitd
+#1320757415
+gits
+#1320757423
+git add rt/home/scr/.bashrc 
+#1320757424
+gits
+#1320757433
+git commit -m 'files_introduce.txt'
+#1320757444
+gitd
+#1320757462
+git add .
+#1320757463
+gits
+#1320757471
+git commit -a -m "批量重命名, 并转化为小写"
+#1320757483
+git pull origin master
+#1320757512
+cd .kde/share/apps/okular/
+#1320757514
+cd docdata/
+#1320757518
+g 101592359.0A计算机图形学.美国.Donald.Hearn.清晰版.pdf.xml 
+#1320757557
+vi bookmarks.xml
+#1320757599
+gits
+#1320757621
+cd rt/home/scr/
+#1320757622
+lla
+#1320757633
+mv okular/ okular.bak
+#1320757646
+pwdp
+#1320757666
+ln -s /home/scr/.rt/vercol/git/rc-files/rt/home/scr/.kde/share/apps/okular/ .
+#1320757670
+pdf &
+#1320757762
+g okular.bak/bookmarks.xml
+#1320757803
+g okular/bookmarks.xml
+#1320757838
+pdf 
+#1320757862
+ll okular
+#1320757864
+cd okular
+#1320757866
+gits
+#1320757876
+g docdata/101592359.0A计算机图形学.美国.Donald.Hearn.清晰版.pdf.xml 
+#1320757893
+ll okular.bak/
+#1320757902
+g okular.bak/docdata/101592359.0A计算机图形学.美国.Donald.Hearn.清晰版.pdf.xml 
+#1320757929
+pdf &
+#1320757997
+cd okular
+#1320757998
+gits
+#1320758017
+git add .
+#1320758018
+gits
+#1320758039
+p www.code.google.com
+#1320757477
+git pull origin master
+#1320758504
+fg
+#1320758508
+gits
+#1320758518
+gitl
+#1320758527
+gits
+#1320758530
+git push origin master
+#1320758809
+gits
+#1320758150
+mpg123 --title -C -Z *
+#1320759757
+p github.org
+#1320758813
+git pull origin master
+#1320761857
+cdx
+#1320761869
+mv cd\(2\).rar cd.2.rar
+#1320761875
+rar x cd.2.rar 
+#1320761888
+file cd.2.rar 
+#1320761896
+unzip cd.2.rar 
+#1320761997
+file cd.2.rar 
+#1320762004
+g cd.2.rar 
+#1320762024
+tar xvf cd.2.rar 
+#1320762033
+file rox-2.1.3-1.i386.rpm 
+#1320762173
+gits
+#1320762185
+ll linux/computor/grath/books/
+#1320762187
+ll linux/computor/grath/books/0A计算机图形学.D.Hearn/
+#1320762195
+ds .git
+#1320762379
+s legitimate
+#1320762423
+git push origin master
+#1320762517
+gitl
+#1320762533
+gitd
+#1320762547
+gitl
+#1320762550
+gils
+#1320762551
+gitls
+#1320762561
+git branch
+#1320762563
+fg
+#1320762666
+gvlc
+#1320762712
+gits
+#1320762717
+gitlo
+#1320762746
+cd linux/computor/grath/books/0A计算机图形学.D.Hearn/
+#1320762750
+,y
+#1320762775
+pwdp
+#1320762780
+g bookmarks.xml
+#1320762947
+pdf &
+#1320763019
+gits
+#1320763029
+gits
+#1320763038
+git add .
+#1320763041
+git s
+#1320763042
+gits
+#1320763065
+ll docdata/
+#1320763070
+gitl
+#1320763072
+gits
+#1320759764
+p github.com
+#1320763158
+g docdata/101592359.0A计算机图形学.美国.Donald.Hearn.清晰版.pdf.xml 
+#1320763201
+ll docdata/
+#1320763211
+g bookmarks.xml
+#1320763244
+gits
+#1320841825
+mu
+#1320841841
+cdvcrc
+#1320841842
+gits
+#1320841858
+git add rt/home/scr/.kde/
+#1320841859
+gits
+#1320841879
+git commit -m "computor graph"
+#1320841881
+gits
+#1320841886
+s graph
+#1320841890
+git
+#1320841895
+git pull origin master
+#1320841946
+gits
+#1320841974
+g rt/home/scr/.kde/share/apps/okular/bookmarks.xml.bak 
+#1320842012
+gits
+#1320842037
+lla
+#1320842039
+gits
+#1320842058
+pdf&
+#1320842119
+gits
+#1320842133
+g rt/home/scr/.kde/share/apps/okular/bookmarks.xml.bak 
