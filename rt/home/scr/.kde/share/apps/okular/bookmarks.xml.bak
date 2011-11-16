@@ -62,11 +62,22 @@
     </metadata>
    </info>
   </bookmark>
-  <info>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="application-pdf"/>
-   </metadata>
-  </info>
+  <bookmark href="file:///home/scr/.rt-notes/linux/computor/grath/books/0A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6.D.Hearn/0A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6.%E7%BE%8E%E5%9B%BD.Donald.Hearn.%E6%B8%85%E6%99%B0%E7%89%88.pdf#5">
+   <title>目录</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/scr/.rt-notes/linux/computor/grath/books/0A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6.D.Hearn/0A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6.%E7%BE%8E%E5%9B%BD.Donald.Hearn.%E6%B8%85%E6%99%B0%E7%89%88.pdf#463">
+   <title>#464</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
   <bookmark href="file:///home/scr/.rt-notes/linux/computor/grath/books/0A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6.D.Hearn/0A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6.%E7%BE%8E%E5%9B%BD.Donald.Hearn.%E6%B8%85%E6%99%B0%E7%89%88.pdf#463">
    <title>#464</title>
    <info>
@@ -77,6 +88,84 @@
   </bookmark>
   <bookmark href="file:///home/scr/.rt-notes/linux/computor/grath/books/0A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6.D.Hearn/0A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6.%E7%BE%8E%E5%9B%BD.Donald.Hearn.%E6%B8%85%E6%99%B0%E7%89%88.pdf#469">
    <title>#470</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/scr/.rt-notes/linux/computor/grath/books/0A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6.D.Hearn/0A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6.%E7%BE%8E%E5%9B%BD.Donald.Hearn.%E6%B8%85%E6%99%B0%E7%89%88.pdf#465">
+   <title>#466</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/scr/.rt-notes/linux/computor/grath/books/0A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6.D.Hearn/0A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6.%E7%BE%8E%E5%9B%BD.Donald.Hearn.%E6%B8%85%E6%99%B0%E7%89%88.pdf#517">
+   <title>#518</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/sre/.rt/vercol/git/rt-notes/linux/computor/grath/books/0D%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%87%A0%E4%BD%95%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3/0D%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%87%A0%E4%BD%95%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3.pdf">
+  <title>/home/sre/.rt/vercol/git/rt-notes/linux/computor/grath/books/0D计算机图形学几何工具算法详解/0D计算机图形学几何工具算法详解.pdf</title>
+  <bookmark href="file:///home/sre/.rt/vercol/git/rt-notes/linux/computor/grath/books/0D%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%87%A0%E4%BD%95%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3/0D%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%87%A0%E4%BD%95%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3.pdf#10">
+   <title>#11</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/sre/.rt/vercol/git/rt-notes/linux/computor/grath/books/0D%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%87%A0%E4%BD%95%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3/0D%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%87%A0%E4%BD%95%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3.pdf#254">
+   <title>#255</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/sre/.rt/vercol/git/rt-notes/linux/computor/grath/books/0D%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%87%A0%E4%BD%95%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3/0D%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%87%A0%E4%BD%95%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3.pdf#512">
+   <title>#513</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/sre/.rt/vercol/git/rt-notes/linux/computor/grath/books/0D%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%87%A0%E4%BD%95%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3/0D%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%87%A0%E4%BD%95%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3.pdf#508">
+   <title>#509</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/sre/.rt/vercol/git/rt-notes/linux/computor/grath/books/0D%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%87%A0%E4%BD%95%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3/0D%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%87%A0%E4%BD%95%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3.pdf#18">
+   <title>#19</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/scr/.rt-notes/linux/computor/grath/books/0E%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E7%9A%84%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/0E%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E7%9A%84%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80.pdf">
+  <title>/home/scr/.rt-notes/linux/computor/grath/books/0E计算机图形学的算法基础/0E计算机图形学的算法基础.pdf</title>
+  <bookmark href="file:///home/scr/.rt-notes/linux/computor/grath/books/0E%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E7%9A%84%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/0E%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E7%9A%84%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80.pdf#28">
+   <title>#29</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/scr/.rt-notes/linux/computor/grath/books/0E%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E7%9A%84%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/0E%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E7%9A%84%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80.pdf#30">
+   <title>#31</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name="application-pdf"/>
