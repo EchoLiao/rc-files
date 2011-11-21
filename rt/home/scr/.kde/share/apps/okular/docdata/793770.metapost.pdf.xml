@@ -8,11 +8,14 @@
    <oldPage viewport="10"/>
    <oldPage viewport="18"/>
    <oldPage viewport="55"/>
-   <current viewport="3;C2:0.499491:0.483468:1"/>
+   <oldPage viewport="3;C2:0.499522:-0.000378215:1"/>
+   <oldPage viewport="2;C2:0.499522:0.0802515:1"/>
+   <oldPage viewport="1;C2:0.499522:0.130578:1"/>
+   <current viewport="0;C2:0.499522:0.233791:1"/>
   </history>
   <views>
    <view name="PageView">
-    <zoom mode="1" value="1.6521"/>
+    <zoom mode="1" value="1.75966"/>
    </view>
   </views>
  </generalInfo>
