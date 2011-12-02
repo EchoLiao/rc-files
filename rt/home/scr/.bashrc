@@ -415,6 +415,11 @@ function bcc2h()
     echo "ibase=10; obase=16; $1" | bc
 }
 
+function bcc2b()
+{
+    echo "ibase=10; obase=2; $1" | bc
+}
+
 function bch2c()
 {
     hex=`echo "$1" | tr a-z A-Z`
