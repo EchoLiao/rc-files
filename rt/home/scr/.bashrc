@@ -187,6 +187,10 @@ alias fl='fdisk -l'
 alias gedit='gedit 2>/dev/null'
 alias ge='gedit 2>/dev/null'
 alias g='gvim 2>/dev/null'
+alias gitbc='git checkout'
+alias gitbcm='git checkout master'
+alias gitb='git branch'
+alias gitdc='git diff --cached'
 alias gitdf='git diff'
 alias gitd='git diff'
 alias gitdl='git diff'
@@ -410,6 +414,11 @@ function bce()
 function bcc2h()
 {
     echo "ibase=10; obase=16; $1" | bc
+}
+
+function bcc2b()
+{
+    echo "ibase=10; obase=2; $1" | bc
 }
 
 function bch2c()
