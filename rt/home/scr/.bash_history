@@ -92438,3 +92438,7839 @@ pdf&
 gits
 #1320842133
 g rt/home/scr/.kde/share/apps/okular/bookmarks.xml.bak 
+#1320842146
+git add .
+#1320842147
+gits
+#1320842160
+git commit -m "computor graph"
+#1320842162
+gits
+#1320842175
+git push origin master
+#1320842195
+gits
+#1320842199
+git push origin master
+#1320842210
+gitl
+#1320842224
+pdf&
+#1320842259
+ll rt/home/scr/.kde/share/apps/okular/bookmarks.xml.bak 
+#1320842265
+ll rt/home/scr/.kde/share/apps/okular/docdata/*
+#1320842434
+gits
+#1320842440
+pwdp
+#1320842441
+fg
+#1320842477
+cd ../../../OS/minix/note/
+#1320842485
+ll install
+#1320842486
+gits
+#1320842494
+gits .
+#1320842496
+git
+#1320842498
+gits
+#1320842515
+git add install
+#1320842516
+gits
+#1320842535
+git commit -m 'notes of minix install'
+#1320842538
+gits
+#1320842545
+cd ../../../libs/free
+#1320842548
+cd ../../../libs/freeglut/
+#1320842550
+gits
+#1320842554
+cat README 
+#1320842578
+rm freeglut-2.6.0 -rf
+#1320842600
+g freeglut-MinGW-2.6.0-3.mp.zip 
+#1320842623
+g freeglut-MSVC-2.6.0-3.mp.zip 
+#1320842634
+git add .
+#1320842635
+gits
+#1320842674
+git commit -m 'notes of freeglut install'
+#1320842676
+gits
+#1320842683
+cd ../../tools/editor/metapost/
+#1320842686
+gits
+#1320842689
+git add .
+#1320842690
+gits
+#1320842712
+git commit -m 'notes of metapost install'
+#1320842713
+gits
+#1320842719
+git push origin master
+#1320842755
+cdl
+#1320842766
+cd books/c/opengl/opengl-red/
+#1320842769
+svns
+#1320842772
+svn up
+#1320842780
+ma
+#1320842795
+fg
+#1320842848
+g robot2
+#1320843056
+pwdp
+#1320843063
+cdl
+#1320843081
+cd books/c/opengl/opengl-blue/
+#1320843083
+,y
+#1320843084
+vbs
+#1320843092
+cdo
+#1320843092
+fg
+#1320843153
+.s
+#1320843159
+cdlbob
+#1320843162
+cdlbor
+#1320843165
+cdlbob
+#1320843180
+cd e4/src/examples/src/chapt05
+#1320843183
+,y
+#1320843209
+cat /tmp/pwd2vim.tmp 
+#1320843234
+cd `cat /tmp/pwd2vim.tmp`
+#1320843236
+cd
+#1320843238
+cd `cat /tmp/pwd2vim.tmp`
+#1320843251
+vbs
+#1320843291
+,y
+#1320843301
+.s
+#1320843302
+cd,y
+#1320843311
+cd sphereworld/
+#1320843322
+cd projects/linux/chapt05
+#1320843325
+cd sp
+#1320843328
+cd sphereworld/
+#1320843330
+ma
+#1320843338
+pwdp
+#1320843351
+./sphereworld 
+#1320843369
+cd ..
+#1320843371
+cd chapt04
+#1320843373
+cd sphereworld/
+#1320843375
+./sphereworld 
+#1320843395
+cd ../../chapt04/sphereworld/
+#1320843411
+g sphereworld.cpp 
+#1320843415
+svns
+#1320843417
+svndl
+#1320843503
+ex .
+#1320844129
+keynav 
+#1320844180
+svns
+#1320844184
+svndl
+#1320844950
+svnlv
+#1320846578
+svns
+#1320846579
+svndl
+#1320846582
+svnd
+#1320850595
+cd tmp/
+#1320850597
+cd wget/
+#1320850609
+ll home.ustc.edu.cn/~lixuebai/*
+#1320850617
+ll mirrors.163.com/rpmfusion/free/fedora/releases/14/Everything/x86_64/os/repodata/repomd.xml 
+#1320850643
+cdbo
+#1320850644
+cdbot
+#1320850645
+pwdp
+#1320850650
+cd mail/
+#1320850654
+gits
+#1320850671
+cd msmtp/
+#1320850681
+vi 02.txt 
+#1320850695
+rm -rf Adrianna_casting.part1.rar.h* m*
+#1320850697
+su
+#1320850710
+ll home.ustc.edu.cn/~lixuebai/
+#1320850713
+ll home.ustc.edu.cn/~lixuebai/GNU/
+#1320850720
+mv home.ustc.edu.cn/ ~
+#1320850731
+ds ~/home.ustc.edu.cn/
+#1320850743
+cdvcrt
+#1320850746
+cd li
+#1320850749
+cd linux/
+#1320850751
+cd computor/
+#1320850755
+cd html/
+#1320850761
+mv ~/home.ustc.edu.cn/ .
+#1320850763
+gits
+#1320850772
+git add home.ustc.edu.cn/
+#1320850775
+gits
+#1320850880
+git commit -m '一个博士的主页, 里面讲解了大量linux系统和软件的使用经验和方法'
+#1320850884
+gits
+#1320850888
+lla
+#1320850941
+ll www.pudn.com/downloads257/sourcecode/comm/mtk/detail1185734.html 
+#1320850944
+ff www.pudn.com/downloads257/sourcecode/comm/mtk/detail1185734.html 
+#1320851410
+llr
+#1320851411
+lr
+#1320851416
+llr
+#1320851421
+llr | grep zip
+#1320851536
+s redeem
+#1320853774
+t
+#1320854285
+cdvcrt
+#1320854292
+cd linux/computor/grath/
+#1320854295
+cd books/
+#1320854297
+cd 0A计算机图形学.D.Hearn/
+#1320854301
+gits
+#1320854328
+cdm
+#1320854330
+ex .
+#1320854772
+svns
+#1320854780
+g robot2
+#1320854820
+svns
+#1320854838
+svns
+#1320854840
+svndl
+#1320854835
+svn commit -F ./commit.log robot2.c 
+#1320854849
+svns
+#1320854850
+mc
+#1320854851
+svns
+#1320854860
+svns
+#1320854862
+----ll
+#1320854866
+svns
+#1320854869
+gits
+#1320854885
+git add .
+#1320854887
+gits
+#1320854920
+git commit -m '<<computor graph>> book marks'
+#1320854922
+gits
+#1320854926
+gitd
+#1320854940
+gits
+#1320854955
+....
+#1320854968
+gitl
+#1320854969
+gits
+#1320854974
+cd-
+#1320854983
+cdvcrc
+#1320854983
+gits
+#1320854991
+git add rt/home/scr/.bashrc 
+#1320855003
+git commit -m 'new alias'
+#1320855004
+gits
+#1320855012
+git push origin master
+#1320855025
+pwdp
+#1320855027
+gits
+#1320855032
+cdvcrt
+#1320855033
+gits
+#1320855035
+gitdl
+#1320855049
+git add .
+#1320855050
+gits
+#1320855060
+git commit -m '计算机图形学的各种资源'
+#1320855077
+cdl
+#1320855085
+cdb
+#1320855086
+svns
+#1320855120
+cdv
+#1320855121
+svns
+#1320850901
+wget -c -p -r http://www.pudn.com/
+#1320855164
+wh gvht
+#1320855069
+git push origin master
+#1320855177
+ll /home/scr/.rt/linux/computor/bookmark/html.txt
+#1320855185
+ll -l /home/scr/.rt/linux/computor/bookmark/html.txt
+#1320855189
+ll -L /home/scr/.rt/linux/computor/bookmark/html.txt
+#1320855206
+gits
+#1320855210
+gis
+#1320855211
+gits
+#1320855216
+ g
+#1320855234
+llr | grep zip
+#1320855250
+g /www.pudn.com/downloads70/sourcecode/zip:
+#1320855260
+g www.pudn.com/downloads70/sourcecode/zip:
+#1320855275
+llr | grep rar
+#1320855286
+llr | grep tar
+#1320855219
+fg
+#1320933938
+git pull origin master
+#1320933944
+git pull origin master
+#1320934030
+df -i
+#1320934089
+p github.com
+#1320934120
+p 211.64.120.2
+#1320934129
+p www.code.google.com
+#1320934134
+p bd
+#1320934141
+vi /etc/resolv.conf
+#1320934162
+p 168.96.1.1
+#1320934168
+p www.code.google.com
+#1320934255
+p www.baidu.com
+#1320934289
+vhosts 
+#1320934295
+p www.baidu.com
+#1320934304
+vi /etc/resolv.conf
+#1320934313
+p www.baidu.com
+#1320934321
+p 168.96.1.1
+#1320934326
+p www.baidu.com
+#1320934337
+fg
+#1320934340
+vi /etc/resolv.conf
+#1320934350
+fg
+#1320934352
+p www.baidu.com
+#1320934459
+gits
+#1320934484
+p 202.181.224.2
+#1320934473
+git pull origin master
+#1320934500
+fg
+#1320934552
+g /etc/resolv.conf
+#1320934625
+p www.code.google.com
+#1320934635
+nslookup www.code.google.com
+#1320934148
+su
+#1320934649
+git pull origin master
+#1320934671
+gtil
+#1320934672
+gitl
+#1320934681
+gitlo
+#1320940467
+llr | grep rar
+#1320940477
+find . | wc
+#1320934185
+mpg123 --title -C -Z *
+#1320941818
+llr | grep rar
+#1320941834
+find . | grep rar
+#1321017632
+ff&
+#1321026883
+cdvcrt
+#1321026891
+pwdp
+#1321026901
+cdvcrc
+#1321026902
+gits
+#1321026895
+git push origin master
+#1321026906
+git pull origin master
+#1321026912
+git pull origin master
+#1321026929
+ff&
+#1321026943
+mutt
+#1321027064
+git@github.com:nuoerlz/lang.git
+#1321027110
+gvlc
+#1321027133
+cdvcrtbot
+#1321027137
+cd vercol/
+#1321027139
+cd git/
+#1321027141
+cd notes/
+#1321027143
+g 02.txt 
+#1321027177
+mkdir lang
+#1321027179
+cd lang/
+#1321027183
+git init
+#1321027189
+git remote add origin git@github.com:nuoerlz/lang.git
+#1321027192
+lla
+#1321027196
+git pull origin master
+#1321027211
+gil
+#1321027212
+gitl
+#1321027279
+,y
+#1321027309
+e git remote add origin git@github.com:nuoerlz/lang.git
+#1321027331
+gitl
+#1321027333
+cat README 
+#1321027335
+gitl
+#1321027368
+git
+#1321027369
+gits
+#1321027382
+gitd
+#1321027408
+git add .
+#1321027409
+gits
+#1321027416
+git commit -m '100.3.2 checkout from github.com'
+#1321027418
+gitl
+#1321027421
+gits
+#1321027425
+git push origin master
+#1321027457
+gits
+#1321027460
+cdvcrc
+#1321027462
+gits
+#1321027542
+cd rt
+#1321027546
+gits
+#1321027557
+pwdp
+#1321027569
+cat /etc/passwd
+#1321027624
+cdvcl
+#1321027627
+pwdp
+#1321027638
+cdvclbc
+#1321027642
+gitl
+#1321027652
+gitls
+#1321027663
+cd Chap5ProgramsTxt/
+#1321027665
+ma
+#1321027671
+./prog5CompositeTransformation2D.P203
+#1321027675
+./prog5CompositeTransformation2D.P203-2 
+#1321027686
+ma
+#1321027686
+mc
+#1321027687
+ma
+#1321027688
+mc
+#1321027691
+ma
+#1321027695
+mc
+#1321027696
+kk
+#1321027698
+mca
+#1321027699
+ma
+#1321027708
+mc
+#1321027709
+ma
+#1321027710
+mca
+#1321027713
+mc
+#1321027716
+ma
+#1321027719
+vi Makefile 
+#1321027727
+mc
+#1321027729
+ma
+#1321027731
+./prog5CompositeTransformation2D.P203-2 
+#1321028081
+cdl
+#1321028095
+cd books/c/
+#1321028098
+ll opengl/
+#1321028082
+svns
+#1321028107
+ll cguo-e3/
+#1321028112
+cat cguo-e3/README 
+#1321028133
+svn up
+#1321096210
+mc
+#1321096231
+mv prog5CompositeTransformation3D. prog5CompositeTransformation3D.cpp 
+#1321096234
+g
+#1321096247
+ma
+#1321096265
+ma 2>&1 | less
+#1321096352
+mc
+#1321096373
+fichiw main
+#1321096391
+find -type f | xargs grep main
+#1321096429
+gits
+#1321096468
+mc
+#1321096471
+ma
+#1321096585
+lll
+#1321096130
+p www.code.google.com
+#1321097681
+5zcdm
+#1321097683
+cdm
+#1321097685
+cd TOOLS/
+#1321097688
+cd 1music/
+#1321097692
+cd mp3
+#1321097696
+mpg123 --title -C -Z *
+#1321097709
+cd mp3_2/
+#1321022254
+mutt
+#1321097776
+screen
+#1321097781
+ii
+#1321097784
+date
+#1321097711
+mpg123 --title -C -Z *
+#1321104314
+ff http://www.vim.org/scripts/script.php?script_id=2620&
+#1321097761
+fg
+#1321108723
+./sphereworld 
+#1321108926
+jj
+#1321108930
+pdf &
+#1321156911
+mutt
+#1321156977
+./sphereworld 
+#1321156988
+ma
+#1321157400
+cd Chap6ProgramsTxt/
+#1321157408
+cp ../Chap5ProgramsTxt/Makefile .
+#1321157413
+g
+#1321157449
+git mv prog6OGLViewingProg2D.txt prog6OGLViewingProg2D.P258.cpp
+#1321157450
+gits
+#1321157489
+git add prog6OGLViewingProg2D.P258.cpp 
+#1321157490
+gits
+#1321157503
+git commit -m 'rename and indent'
+#1321157504
+gits
+#1321157506
+ma
+#1321157564
+./prog6OGLViewingProg2D.P258 
+#1321157593
+ma
+#1321157595
+gits
+#1321157611
+gitd
+#1321157619
+gits
+#1321157629
+git add Makefile prog6OGLViewingProg2D.P258.cpp 
+#1321157630
+gits
+#1321157648
+git commit -m '使能编译通过'
+#1321157650
+gits
+#1321157659
+ma
+#1321157659
+mc
+#1321157662
+ma
+#1321157664
+gits
+#1321157668
+mc
+#1321157669
+gits
+#1321157684
+ma
+#1321157685
+./prog6OGLViewingProg2D.P258 
+#1321158037
+ma
+#1321158043
+gits
+#1321158058
+cd Chap5ProgramsTxt/
+#1321158060
+mc
+#1321158062
+gits
+#1321158079
+git checkout prog5CompositeTransformation3D.
+#1321158080
+gits
+#1321158090
+ma
+#1321158311
+mc
+#1321158313
+ma
+#1321158324
+gitl
+#1321158783
+ma
+#1321158786
+./prog6OGLViewingProg2D.P258 
+#1321158899
+ma
+#1321158901
+./prog6OGLViewingProg2D.P258 
+#1321159065
+ma
+#1321159077
+./prog6OGLViewingProg2D.P258 
+#1321159129
+ma
+#1321159130
+./prog6OGLViewingProg2D.P258 
+#1321159158
+./prog6OGLViewingProg2D.P258 &
+#1321159160
+ma
+#1321159162
+./prog6OGLViewingProg2D.P258 &
+#1321159183
+ma
+#1321159185
+./prog6OGLViewingProg2D.P258 &
+#1321159190
+ma
+#1321159191
+./prog6OGLViewingProg2D.P258 &
+#1321159233
+ma
+#1321159234
+./prog6OGLViewingProg2D.P258 &
+#1321159246
+gits
+#1321159251
+ma
+#1321159251
+mc
+#1321159252
+gits
+#1321159265
+git add prog6OGLViewingProg2D.P258.cpp 
+#1321159267
+gits
+#1321159271
+git commit
+#1321159318
+gitl
+#1321159354
+ma
+#1321159356
+./prog6OGLViewingProg2D.P258 &
+#1321159360
+gits
+#1321159362
+git add prog6OGLViewingProg2D.P258.cpp 
+#1321159363
+gits
+#1321159366
+git commit
+#1321159432
+gitl
+#1321159439
+ma
+#1321159441
+./prog6OGLViewingProg2D.P258 &
+#1321159467
+ma
+#1321159573
+./prog6OGLViewingProg2D.P258 &
+#1321159585
+ma
+#1321159586
+./prog6OGLViewingProg2D.P258 &
+#1321159604
+ma
+#1321159606
+mc
+#1321182558
+llma
+#1321182558
+ma
+#1321182560
+mc
+#1321182565
+ma
+#1321182569
+ex .
+#1321188358
+cdm
+#1321188360
+cd TOOLS/
+#1321188365
+cd 1
+#1321188367
+cd 1music/
+#1321188370
+pmg
+#1321188389
+pdf&
+#1321188373
+mpg123 --title -C -Z *
+#1321200907
+cd Chap8ProgramsTxt/
+#1321200915
+gits
+#1321200920
+ma
+#1321200923
+mc
+#1321200929
+mc
+#1321200930
+gits
+#1321200942
+cdvcrt
+#1321200936
+git push origin master
+#1321200944
+gits
+#1321200955
+gitl
+#1321200960
+gits
+#1321200967
+cdvcrc
+#1321200968
+gits
+#1321200977
+git add rt/home/scr/.kde/
+#1321200978
+gits
+#1321200988
+git commit -m '<<computor graph>> book marks'
+#1321200992
+gits
+#1321200996
+git push origin master
+#1321201006
+cdvcrt
+#1321201007
+gits
+#1321201014
+git push origin master
+#1321201021
+cdl
+#1321201023
+svns
+#1321201042
+svns
+#1321201073
+cd books/c/opengl/opengl-blue/e4/src/examples/src/chapt04/sphereworld
+#1321201077
+svndl
+#1321201112
+svns
+#1321201123
+svn commit -m '把当前模型视图矩阵压栈, 以免被 frameCamera.ApplyCameraTransform 所污染' 
+#1321201130
+svn commit -m '把当前模型视图矩阵压栈, 以免被 frameCamera.ApplyCameraTransform 所污染'  .
+#1321201137
+svns
+#1321201140
+ma
+#1321274140
+cdvcrt
+#1321274143
+gits
+#1321274156
+cd
+#1321274148
+git pull origin master
+#1321274168
+cdvcrc
+#1321274170
+gits
+#1321274173
+git pull origin master
+#1321274208
+gits
+#1321274210
+gitl
+#1321274914
+pdf&
+#1321274957
+jj
+#1321274993
+gits
+#1321276828
+cd Chap10ProgramsTxt/
+#1321276839
+vi prog10OGLLineTexture.txt 
+#1321279625
+ff http://vim.wikia.com/wiki/Automatically_append_closing_characters
+#1321275017
+mpg123 --title -C -Z *
+#1321284335
+cd Chap9ProgramsTxt/
+#1321284338
+vi prog9OGLWireFrame.txt 
+#1321284353
+cd Chap13ProgramsTxt/
+#1321284356
+cat prog13OGLAnimation.txt 
+#1321284359
+vi prog13OGLAnimation.txt 
+#1321284484
+cdvcrc
+#1321284485
+gits
+#1321284493
+git add rt/home/scr/.kde/
+#1321284494
+gits
+#1321284498
+git commit -m '<<computor graph>> book marks'
+#1321284500
+gitl
+#1321284503
+gits
+#1321284518
+cdvcrt
+#1321284509
+git push origin master
+#1321284519
+gits
+#1321284538
+gitd
+#1321284530
+git pull origin master
+#1321284542
+git add .
+#1321284543
+gits
+#1321284569
+git commit -m 'vim: Automatically append closing characters'
+#1321284586
+gitlo
+#1321284580
+git push origin master
+#1321284607
+git pull origin master
+#1321284624
+cd Chap7ProgramsTxt/
+#1321284616
+git pull origin master
+#1321284626
+ma
+#1321284631
+cd Chap8ProgramsTxt/
+#1321284632
+ma
+#1321284640
+cd Chap6ProgramsTxt/
+#1321284642
+ma
+#1321284645
+./prog6OGLViewingProg2D.P258 
+#1321284653
+mc
+#1321284659
+cd Chap5ProgramsTxt/
+#1321284660
+ma
+#1321284664
+mc
+#1321284673
+git pull origin master
+#1321359420
+ii
+#1321359731
+cd
+#1321362178
+gits
+#1321362184
+git pull origin master
+#1321362253
+svn up
+#1321362264
+svns
+#1321362267
+svn up
+#1321362320
+fg
+#1320850635
+screen
+#1321362364
+cd src/chapt04/
+#1321362367
+cd sphereworld/
+#1321362372
+ma
+#1321362374
+ma
+#1321362378
+mc
+#1321362380
+ma
+#1321362382
+./sphereworld 
+#1321362422
+g sphereworld.cpp 
+#1321362832
+ma
+#1321362848
+ma
+#1321362852
+./sphereworld 
+#1321362862
+./sphereworld &
+#1321362867
+ma
+#1321362868
+./sphereworld &
+#1321363121
+m
+#1321363122
+ma
+#1321363125
+./sphereworld &
+#1321363171
+ma
+#1321363172
+mc
+#1321363173
+ma
+#1321363175
+mc
+#1321363186
+svns
+#1321363187
+kk
+#1321363750
+cd atom
+#1321363752
+sll
+#1321363756
+cd atom
+#1321363758
+ma
+#1321363760
+./atom 
+#1321363818
+cd ortho/
+#1321363819
+ma
+#1321363831
+,y
+#1321363825
+git pull origin master
+#1321363834
+cd,y
+#1321363839
+./ma
+#1321363837
+git pull origin master
+#1321363841
+./ortho 
+#1321363994
+ma
+#1321364663
+./ortho 
+#1321365312
+ma
+#1321365313
+./ortho 
+#1321365332
+ma
+#1321365336
+./ortho 
+#1321365353
+ma
+#1321365354
+./ortho 
+#1321365808
+ii
+#1321365873
+m
+#1321365873
+ma
+#1321365874
+./ortho 
+#1321366077
+ma
+#1321366078
+./ortho 
+#1321366296
+ma
+#1321366305
+cd-
+#1321366306
+ma
+#1321366630
+./ortho 
+#1321366649
+ma
+#1321366653
+./ortho 
+#1321367470
+ma
+#1321367474
+mc
+#1321367475
+ma
+#1321367560
+cd ../ortho/
+#1321367562
+svns
+#1321367563
+svndl
+#1321368493
+ma
+#1321368497
+./ortho 
+#1321372591
+ex .
+#1321451829
+cd .Mail/
+#1321451834
+ff&
+#1321451841
+cdl
+#1321451844
+cd books/
+#1321451850
+cdvcrc
+#1321451857
+cdvcrt
+#1321451854
+git pull origin master
+#1321452228
+gits
+#1321452234
+git add rt/home/scr/.kde/
+#1321452235
+gits
+#1321452239
+git commit -m '<<computor graph>> book marks'
+#1321452243
+git pull origin master
+#1321451847
+svn up
+#1321452308
+g c/opengl/opengl-blue/e4/src/examples/src/chapt04/ortho/ortho.cpp
+#1321452350
+cd c/opengl/opengl-blue/e4/src/examples/src/chapt04/ortho/
+#1321452352
+ma
+#1321452367
+,y
+#1321452369
+cd,y
+#1321452371
+....
+#1321452378
+cd projects/linux/chapt04/ortho/
+#1321452379
+ma
+#1321452382
+mc
+#1321452383
+ma
+#1321452385
+./ortho 
+#1321452392
+svns
+#1321452413
+svs
+#1321452415
+svns
+#1321452422
+svn resorted ortho.cpp
+#1321452425
+svn help
+#1321452433
+svns
+#1321452439
+svn resolved ortho.cpp
+#1321452441
+svns
+#1321452444
+svni
+#1321451860
+git pull origin master
+#1321454331
+cd sphereworld/
+#1321454335
+g sphereworld.cpp 
+#1321454968
+ii
+#1321455037
+cd linux/computor/
+#1321455039
+cd grath/
+#1321455041
+cd books/
+#1321455044
+cd 0D计算机图形学几何工具算法详解/
+#1321455047
+pdf 0D计算机图形学几何工具算法详解.pdf 
+#1321455051
+pdf 0D计算机图形学几何工具算法详解.pdf &
+#1321455077
+ipa
+#1321455274
+pdf 0D计算机图形学几何工具算法详解.pdf &
+#1321455308
+ln -s scr/ sre
+#1321455316
+ln -s scr sre
+#1321455309
+su
+#1321455761
+ex .
+#1321457067
+ex .
+#1321457087
+cd 0E计算机图形学的算法基础/
+#1321457094
+llr ..
+#1321457098
+chxx *
+#1321457102
+ex .
+#1321457123
+pdf 0E计算机图形学的算法基础.pdf &
+#1321457611
+gits
+#1321457621
+git add .
+#1321457626
+gits
+#1321457653
+git commit -m '<<计算机图形学的算法基础>>'
+#1321457657
+gits
+#1321458081
+gits
+#1321458100
+git add rt/home/scr/.kde/share/apps/
+#1321458101
+gits
+#1321458120
+git commit -m 'book marks'
+#1321458121
+gits
+#1321458129
+git push origin master
+#1321458143
+gits
+#1321458820
+git add rt/home/scr/.kde/share/apps/
+#1321458823
+gits
+#1321458825
+git commit -m 'book marks'
+#1321458828
+git push origin master
+#1321457661
+git push origin master
+#1321458945
+gits
+#1321534407
+cdvcrt
+#1321534409
+git pull origin master
+#1321534413
+git pull origin master
+#1321539664
+ff http://roll.sohu.com/20111115/n325717183.shtml
+#1321540398
+ff http://img60.icicq.com/201003/3096920100407085410.jpg
+#1321540418
+ff http://img60.lcicq.com/201003/2234820100330092135.JPG
+#1321540449
+cd tmp/
+#1321540450
+cd wget/
+#1321540460
+wget -c -p http://www.wupload.com/file/1087877286/gggd20.part01.rar
+#1321540544
+ll www.wupload.cn/file/1087877286/gggd20.part01.rar 
+#1321540552
+rar x www.wupload.cn/file/1087877286/gggd20.part01.rar 
+#1321630824
+ff&
+#1321631012
+bce 69+89+228
+#1321632297
+cdvcrt
+#1321632305
+cdvcrc
+#1321632301
+git pull origin master
+#1321632312
+cdl
+#1321632309
+git pull origin master
+#1321632324
+cd books/c/opengl/opengl-red/
+#1321632329
+cdl
+#1321632326
+svn up
+#1321632336
+cd books/c/opengl/opengl-blue/
+#1321632341
+cdl
+#1321632339
+svn up
+#1321632354
+cd books/c/cguo-e3/
+#1321632362
+cdvcrt
+#1321632356
+svn up
+#1321632365
+cd lang/
+#1321632372
+git pull origin master
+#1321632068
+mutt
+#1321632427
+cdx
+#1321632430
+cd gs
+#1321632433
+cd git/
+#1321632435
+cd thundermouse_3D_second_gaijin/
+#1321632438
+cscopec.sh 
+#1321632442
+ctagsc.sh 
+#1321632443
+g
+#1321701710
+ff&
+#1321701713
+cdx
+#1321701717
+cd gs
+#1321701726
+ll 0A计算机图形学.美国.Donald.Hearn.清晰版/
+#1321701736
+cdvcrt
+#1321701742
+cd linux/computor/grath/
+#1321701744
+cd books/
+#1321701747
+cd 0A计算机图形学.D.Hearn/
+#1321701766
+cdvcrt
+#1321701773
+cd lang/books/c/graph/CGwO.Hearn/
+#1321701777
+gits
+#1321701780
+gitd
+#1321701789
+gitl
+#1321701796
+cdvcrt
+#1321701793
+git pull origin master
+#1321701804
+cdvcrc
+#1321701800
+git pull origin master
+#1321701807
+git pull origin master
+#1321701857
+ex /media/
+#1321701891
+cdx
+#1321701900
+rm 0A计算机图形学.美国.Donald.Hearn.清晰版/ -rf
+#1321701904
+ex .
+#1321702036
+s hater
+#1321702326
+pdf 0A计算机图形学.美国.Donald.Hearn.清晰版.pdf 
+#1321702367
+lll
+#1321702373
+ll ..
+#1321708796
+gvim
+#1321709010
+gvlc
+#1321709140
+gits
+#1321709159
+gitd
+#1321709881
+ff http://kkovacs.eu/cool-but-obscure-unix-tools
+#1321710028
+gvht
+#1321710094
+cd
+#1321710096
+ex .
+#1321710393
+ff http://sexfilmdownload1.blogspot.com/2011/10/x-art-maryjane-presley-hq-366mb.html
+#1321710444
+ff http://wahlque.org
+#1321724341
+cd
+#1321724350
+chmod 777 .aMule/
+#1321724355
+cd .aMule/
+#1321724344
+su
+#1321724360
+cd -
+#1321724363
+cd .aMule/
+#1321724366
+cd TDDOWNLOAD/
+#1321724369
+ex .
+#1321727394
+cd
+#1321727399
+cd /home/scr
+#1321727406
+chmod 000 .aMule/
+#1321727413
+ll .aMule/
+#1321727391
+su
+#1321727427
+ll .aMule/
+#1321764370
+m vim
+#1321764395
+ii
+#1321769279
+cdx
+#1321769281
+ex .
+#1321769286
+pdf How\ to\ Speak\ and\ Write\ Correctly_by_Joseph_Dev.pdf &
+#1321769315
+cd
+#1321769320
+gll
+#1321769321
+cdx
+#1321769324
+g f.txt 
+#1321773038
+ff http://www.tecgraf.puc-rio.br/iup/ 
+#1321773055
+keynav 
+#1321761963
+mutt
+#1321773549
+gits
+#1321773557
+gits
+#1321773568
+gitd
+#1321773580
+git add linux/computor/bookmark/
+#1321773598
+git commit -m 'A little collection of cool unix terminal/console/curses tools'
+#1321773600
+gits
+#1321773602
+git add .
+#1321773630
+git commit -m '在vim中删除匹配行和该行的下一行'
+#1321773634
+gvht
+#1321773637
+gits
+#1321773713
+gitd
+#1321773743
+ff http://www.swig.org
+#1321774217
+cdx
+#1321774218
+lll
+#1321774221
+cd gs
+#1321774223
+cd git
+#1321774224
+cd thundermouse_3D_second_gaijin/
+#1321774228
+gits
+#1321774231
+gitl
+#1321774233
+g
+#1321774433
+ctagsc.sh 
+#1321774505
+ma
+#1321774542
+.s
+#1321774545
+whi fif
+#1321774548
+wh fif
+#1321774556
+wh fichw
+#1321774565
+fichw fFrameBufferWidthRatio
+#1321774582
+fichw 'fFrameBufferWidthRatio.*'
+#1321774598
+wh fichw
+#1321774611
+fichw 'fFrameBufferWidthRatio.*'
+#1321774630
+fichw 'fFrameBufferWidthRatio=*'
+#1321774639
+fichw 'fFrameBufferWidthRatio.*='
+#1321775859
+reboot
+#1321701696
+screen
+#1321774215
+screen
+#1321701698
+mutt
+#1321879515
+ff&
+#1321879543
+cdvcrt
+#1321879549
+cdvcrc
+#1321879551
+gits
+#1321879546
+gits
+#1321879570
+git add rt/home/scr/.kde/
+#1321879571
+gits
+#1321879583
+git commit -m 'pdf bookmark'
+#1321879586
+gis
+#1321879588
+gits
+#1321879596
+gitd
+#1321879607
+git add .
+#1321879607
+gits
+#1321879614
+git commit -m '两个轻量的强大的平台无关的c的gui库'
+#1321879637
+cd .Mail/
+#1321879618
+git push origin master
+#1321879632
+git push origin master
+#1321879755
+p www.code.google.com
+#1321879793
+mutt
+#1321971871
+ff http://item.slide.com/r/1/00c7/i/xpTp8ah_2D¨CGRCxowpFIFwxB5lQAJLn/
+#1321971882
+keynav 
+#1321971909
+ff http://oron.com/puvjk82hpj8q
+#1321972096
+ff http://sexfilmdownload1.blogspot.com/2011/11/monica-bellucci-sex-compilation.html
+#1321972139
+ff http://item.slide.com/r/1/00b2/i/TJpgUbJp1D-iZK-6Uxkea3fR2RWK9mlj
+#1321972189
+ff http://item.slide.com/r/1/009a/i/q9xHphFB7D9PoZhgLf4jPe2SSuv427CZ/
+#1321972386
+ff http://item.slide.com/r/1/00e1/i/S6CBMgje7D-c61DMGG-U2DjkO-XSCfo_/
+#1321972433
+ff http://item.slide.com/r/1/00e4/i/DftBy8nl4T-0sGyx2o06sFIitO9NKndy/
+#1321972454
+ff http://item.slide.com/r/1/008b/i/9U39_Skb5T-PsCCLKsykBffR__PzWXJx/
+#1321972498
+ff http://www.filejungle.com/f/CcFMBF/H0930-784.wmv
+#1321972522
+cd
+#1321972524
+cd .Mail/
+#1321972526
+ex .
+#1321972899
+ff http://item.slide.com/r/1/0055/i/ALxzqcpb5T_84Vyrn4kkHYU31yK96fz3/
+#1321972945
+ff http://www.filejungle.com/f/zBg3sU/111611_000-1pon-whole1.avi
+#1321973191
+cdx
+#1321973194
+ex .
+#1322050988
+gits
+#1322050994
+git pull origin master
+#1322051011
+cdl
+#1322051006
+git pull origin master
+#1322051013
+svn up
+#1322051436
+gits
+#1322051444
+gits
+#1322051442
+git push origin master
+#1322051447
+git push origin master
+#1322051461
+svni
+#1322051695
+ex .
+#1322051701
+cd .Mail/
+#1322051702
+ex .
+#1322051802
+ff https://hotfile.com/dl/135592390/0ea8f7d/nam.rar.html
+#1322051824
+ex .
+#1322051917
+ff http://blog.chinaunix.net/space.php?uid=20729590&do=blog&id=1884509
+#1322052349
+g
+#1322053655
+ff http://sexfilmdownload1.blogspot.com/2011/11/deep-anal-drilling-3-136gb-2-cd.html
+#1322053684
+ff https://hotfile.com/dl/135646363/1df1fcc/______.wmv.html
+#1322053869
+ff http://bit.ly/sAiEza
+#1322053942
+ex .
+#1322054739
+ff http://www.pimpandhost.com/image/9908289-original.html
+#1322054855
+ff http://hotfile.com/dl/133963157/e7d7843/IvanaFukalot_2005-07-02_Fucking_her_boyrfriend_again.rar.html
+#1322056079
+lla .aMule/
+#1322056081
+su
+#1322143539
+ii
+#1322143544
+ff&
+#1322143547
+ex 
+#1322143556
+lla .aMule/
+#1322223570
+cdx
+#1322223578
+java lesson05.jar 
+#1322223595
+cdvcrtbo
+#1322223603
+locate nehe
+#1322223644
+cd /home/scr/bk/computor.git2/grath/opengl/nehe/dev-src-html/images/
+#1322223647
+ex .
+#1322225617
+locate nehe
+#1322225628
+8vs
+#1322225631
+cd /home/scr/bk/computor.git2/grath/opengl/nehe/dev-src-html
+#1322225637
+ff index.htm 
+#1322225739
+ll resource/
+#1322225742
+cd resource/
+#1322225749
+cd lib/
+#1322225753
+cd DevCpp/
+#1322225764
+cd nehe/
+#1322225767
+cd dev-src-html/
+#1322226610
+g
+#1322226909
+locate nehe
+#1322226963
+locate nehe | less
+#1322226976
+cdvcrtbo
+#1322226978
+cd grath/
+#1322226980
+cd opengl/
+#1322226982
+cd n
+#1322226984
+cd nehe/
+#1322226986
+cd dev-src-html/
+#1322226988
+cd resource/
+#1322226990
+cd DevCpp/
+#1322227004
+...
+#1322227050
+cdrt
+#1322227061
+cd linux/computor/grath/opengl/
+#1322227064
+cd nehe/
+#1322227067
+cd dev-src-html/
+#1322227071
+ll resource/
+#1322227076
+ll resource/DevCpp/
+#1322227090
+.
+#1322227097
+cd nehe/
+#1322227099
+cd dev-src-html/
+#1322227107
+g Nehe-src.rar 
+#1322227110
+ex .
+#1322227127
+ff index.htm 
+#1322227226
+ex .
+#1322227278
+cdm
+#1322227329
+ex .
+#1322227341
+fl
+#1322227360
+mkdir wa
+#1322227387
+mount /dev/sdb5 wa/
+#1322227391
+ll wa
+#1322227542
+umount wa
+#1322227544
+ll wa
+#1322227608
+mount /dev/sdb5 wa/
+#1322227611
+ll wa
+#1322228183
+cdx
+#1322228191
+tar xvzf lesson21.tar.gz 
+#1322228205
+cd lesson21.tar.gz 
+#1322228208
+cd Lesson21/
+#1322228213
+cat compile 
+#1322228218
+./compile 
+#1322228229
+vi README 
+#1322228251
+ll Data/
+#1322228461
+cd
+#1322228467
+cd tmp/wget/
+#1322228471
+wget -c -p http://osgsmallcity.googlecode.com/files/OpenGL.rar
+#1322228633
+tar xvzf lesson11.zip 
+#1322228637
+unzip lesson11.zip 
+#1322228644
+cd LESSON11/
+#1322228646
+ma
+#1322228654
+make -f MAKEFILE 
+#1322228659
+vi MAKEFILE 
+#1322228694
+make -f MAKEFILE 
+#1322228697
+fg
+#1322228704
+g LESSON11.CPP 
+#1322228792
+tar xvzf lesson11.zip 
+#1322228802
+tar xvzf lesson11.tar.gz 
+#1322228806
+./lesson11.exe 
+#1322228809
+ma
+#1322228838
+cdl
+#1322228841
+cd books/
+#1322228842
+cd c
+#1322228844
+cd opengl/
+#1322228849
+cd opengl-red/
+#1322228852
+g Makefile
+#1322228870
+g makefile 
+#1322228891
+ma
+#1322228895
+./lesson11
+#1322228912
+mc
+#1322228913
+ma
+#1322228946
+g ma
+#1322228948
+ma
+#1322228950
+./lesson11
+#1322228956
+ll Data/
+#1322228962
+ll Data/lesson11/
+#1322228966
+ex Data/lesson11/
+#1322228974
+./lesson11
+#1322229034
+ma
+#1322229036
+./lesson11
+#1322229109
+ma
+#1322229146
+./lesson11
+#1322229219
+ma
+#1322229222
+.2A
+#1322229226
+./lesson11
+#1322229285
+mkdir ll
+#1322229303
+mv lesson11\(2\).tar.gz ll
+#1322229304
+cd ll
+#1322229311
+mv lesson11\(2\).tar.gz lesson11.tar.gz 
+#1322229314
+tar xvzf lesson11.tar.gz 
+#1322229317
+cd lesson11
+#1322229318
+ma
+#1322229324
+g Makefile 
+#1322229391
+,ma
+#1322229392
+ma
+#1322229404
+cd-
+#1322229406
+./lesson11 
+#1322229519
+ma
+#1322229692
+cd resource/
+#1322229700
+ll lib/
+#1322229704
+ll include/
+#1322229712
+ll DevCpp/
+#1322229713
+cd DevCpp/
+#1322229738
+unzip lesson11.zip 
+#1322229757
+g Lesson11.
+#1322229761
+g Lesson11.cpp 
+#1322229782
+cdx
+#1322229794
+rm lesson* -rf
+#1322229799
+rm L* -rf
+#1322229808
+rm -rf ll makefile README 
+#1322229814
+rm -rf Data/
+#1322229837
+mkdir nehe
+#1322229839
+mv lesson11.zip nehe/
+#1322229842
+cd nehe/
+#1322229846
+mkdir 11
+#1322229849
+mv lesson11.zip 11
+#1322229850
+cd 11
+#1322229854
+unzip lesson11.zip 
+#1322229856
+cd LESSON11/
+#1322229860
+make -f MAKEFILE 
+#1322229866
+g MAKEFILE 
+#1322229893
+ma
+#1322229896
+make -f MAKEFILE 
+#1322229929
+ma
+#1322229933
+make -f MAKEFILE 
+#1322230014
+mv LESSON11.CPP lesson11.cpp
+#1322230019
+mv MAKEFILE makefile
+#1322230021
+ma
+#1322230146
+./lesson11.exe 
+#1322230386
+cdx
+#1322231089
+cp lesson48 nehe/
+#1322231094
+cp lesson48.tar.gz nehe/
+#1322231095
+cd nehe/
+#1322231101
+tar xvzf lesson48.tar.gz 
+#1322231103
+cd lesson48
+#1322231105
+ma
+#1322231115
+g NeHeGL.cpp 
+#1322231126
+ma
+#1322231130
+m 3 exit
+#1322231137
+ma
+#1322231184
+./lesson48 
+#1322231201
+mc
+#1322231201
+ma
+#1322231212
+gdb
+#1322231222
+gdb lesson48 
+#1322231321
+mc
+#1322231322
+ma
+#1322231325
+./lesson48 
+#1322231329
+gdb lesson48 
+#1322231356
+ma
+#1322231357
+./lesson48 
+#1322231374
+ma
+#1322231375
+./lesson48 
+#1322231466
+lla
+#1322231519
+cp lesson21.tar.gz nehe/
+#1322231520
+cd nehe/
+#1322231526
+tar xvzf lesson
+#1322231528
+tar xvzf lesson21.tar.gz 
+#1322231531
+cd Lesson21/
+#1322231534
+./compile 
+#1322231546
+g lesson21.c 
+#1322231577
+ma
+#1322231580
+./compile 
+#1322143558
+screen
+#1322227276
+su
+#1322228834
+screen
+#1322231598
+cdx
+#1322231607
+rm lesson21.tar.gz 
+#1322231623
+rm lesson25\(2\).tar.gz 
+#1322231711
+cp lesson27.tar.gz nehe/
+#1322231712
+cd nehe/
+#1322231720
+tar xvzf lesson27.tar.gz 
+#1322231726
+cd lesson
+#1322231728
+cd lesson27
+#1322231732
+make
+#1322231747
+vi Makefile 
+#1322231767
+ma
+#1322231782
+...
+#1322231785
+rm lesson27.tar.gz 
+#1322231797
+g lesson27.tar.gz 
+#1322231814
+cp lesson27.tar.gz nehe/
+#1322231815
+cd nehe/
+#1322231817
+tar xvzf lesson27.tar.gz 
+#1322231822
+ll ztv5E/
+#1322231828
+cd ztv5E/Lesson27/
+#1322231831
+file Lesson27 
+#1322231837
+tar xvf Lesson27 
+#1322231839
+cd Lesson27/
+#1322231840
+make
+#1322231859
+g Lesson27.cpp 
+#1322231878
+ma
+#1322231897
+./Lesson27 
+#1322231920
+...
+#1322232450
+ll lesson
+#1322232452
+ll lesson*
+#1322232456
+ll lesson* | wc
+#1322232518
+mkdir NeHe
+#1322232523
+mv lesson* NeHe/
+#1322232525
+cd NeHe/
+#1322232680
+cdvcrt
+#1322232687
+cdvcrtbot
+#1322232689
+pwdp
+#1322232693
+cd vercol/git/
+#1322232695
+cd notes/
+#1322232698
+g 02.txt 
+#1322232723
+mkdir git
+#1322232730
+cd git
+#1322232741
+cp ~/.gitignore .
+#1322232744
+vi .gitignore 
+#1322232755
+cat > fi
+#1322232760
+cat > README 
+#1322232779
+rm fi
+#1322232787
+lla
+#1322232789
+git init
+#1322232795
+lla
+#1322232819
+git add .
+#1322232820
+gits
+#1322232828
+git commit -m 'init'
+#1322232838
+mv ../lesson01.zip .
+#1322232839
+gits
+#1322232845
+unzip lesson01.zip 
+#1322232848
+cd LESSON01/
+#1322232851
+ma
+#1322232861
+mv LESSON01/ lesson01
+#1322232880
+cd lesson01
+#1322232891
+mv LESSON01.CPP lesson01.cpp 
+#1322232897
+mv MAKEFILE Makefile
+#1322232899
+make
+#1322232920
+rm lesson01 -rf
+#1322232922
+gits
+#1322232923
+unzip lesson01.zip 
+#1322232925
+gits
+#1322232928
+git add .
+#1322232929
+gits
+#1322232964
+git commit -m '01: OpenGL窗口'
+#1322232974
+cd LESSON01/
+#1322232985
+gvbs
+#1322233003
+lowercase .
+#1322233007
+lowercase *
+#1322233012
+gits
+#1322233014
+ma
+#1322233025
+g lesson01.cpp 
+#1322233032
+ma
+#1322233121
+mc
+#1322233144
+ma
+#1322233145
+mc
+#1322233161
+ma
+#1322233179
+mc
+#1322233180
+ma
+#1322233182
+mc
+#1322233183
+mca
+#1322233184
+mc
+#1322233184
+ma
+#1322233186
+./lesson01.exe 
+#1322233193
+mca
+#1322233194
+mc
+#1322233196
+gits
+#1322233198
+git add .
+#1322233199
+gits
+#1322233222
+git add *
+#1322233223
+gits
+#1322233262
+git commit -a -m '使能编译通过, 并能运行'
+#1322233266
+gits
+#1322233267
+gitl
+#1322233269
+gitls
+#1322233279
+gitlo
+#1322233286
+mv ../lesson02.zip .
+#1322233293
+unzip lesson02.zip 
+#1322233303
+mkdir LESSON02
+#1322233315
+mv lesson2.cpp LESSON02
+#1322233319
+rm lesson2.exe 
+#1322233321
+cd LESSON0
+#1322233323
+cd LESSON02
+#1322233327
+g lesson2.cpp 
+#1322233342
+gits
+#1322233347
+git add LESSON02
+#1322233349
+gits
+#1322233365
+git commit -m '02: 多边形'
+#1322233368
+cd LESSON02
+#1322233375
+cp ../LESSON01/makefile .
+#1322233378
+vi makefile 
+#1322233392
+mv lesson2.cpp lesson02.cpp
+#1322233394
+ma
+#1322233410
+g lesson02.cpp 
+#1322233417
+ma
+#1322233446
+mc
+#1322233446
+ma
+#1322233450
+./lesson02.exe 
+#1322233468
+gdb lesson02.exe 
+#1322233523
+ma
+#1322233525
+mc
+#1322233525
+ma
+#1322233527
+./lesson02.exe 
+#1322233569
+mc
+#1322233569
+ma
+#1322233572
+./lesson02.exe 
+#1322233602
+ma
+#1322233603
+./lesson02.exe 
+#1322233618
+ma
+#1322233620
+./lesson02.exe 
+#1322233624
+ma
+#1322233625
+./lesson02.exe 
+#1322233634
+mc
+#1322233636
+gits
+#1322233641
+git add .
+#1322233642
+gits
+#1322233646
+git commit -a -m '使能编译通过, 并能运行'
+#1322233648
+gitls
+#1322233651
+gits
+#1322233652
+gitl
+#1322233655
+gitd
+#1322233676
+gitd c51f 8238
+#1322233716
+lll
+#1322233722
+gits
+#1322233733
+mv ../lesson03.zip .
+#1322233738
+unzip lesson03.zip 
+#1322233744
+mkdir LESSON03
+#1322233755
+mv lesson3.cpp LESSON03
+#1322233759
+rm lesson3.exe 
+#1322233766
+git add LESSON03
+#1322233770
+gits
+#1322233773
+cd LESSON0
+#1322233774
+cd LESSON03
+#1322233778
+cp ../LESSON01/makefile .
+#1322233782
+g makefile 
+#1322233795
+ma
+#1322233826
+mc
+#1322233827
+ma
+#1322233828
+./lesson3.exe 
+#1322233834
+ma
+#1322233836
+./lesson3.exe 
+#1322233839
+mc
+#1322233840
+gits
+#1322233850
+gitl
+#1322233872
+git commit -a -m '03: 添加颜色; 使能编译通过, 并能运行'
+#1322233874
+gitl
+#1322233878
+gits
+#1322233884
+git add .
+#1322233885
+gits
+#1322233888
+git commit -a -m '03: 添加颜色; 使能编译通过, 并能运行'
+#1322233889
+gitl
+#1322233893
+gits
+#1322233911
+cp ../lesson11.zip .
+#1322233914
+unzip lesson11.zip 
+#1322233917
+cd LESSON11
+#1322233928
+g MAKEFILE 
+#1322233955
+rm MAKEFILE 
+#1322233963
+lowercase *
+#1322233971
+cp ../lesson11.zip .
+#1322233977
+rm lesson11.
+#1322233979
+rm lesson11.zip 
+#1322233983
+cp ../LESSON01/makefile .
+#1322233987
+g makefile 
+#1322233992
+ma
+#1322234034
+mc
+#1322234034
+ma
+#1322234035
+./lesson11.exe 
+#1322234065
+mc
+#1322234082
+file tim_256x256.raw 
+#1322234086
+gits
+#1322234089
+git add .
+#1322234091
+gits
+#1322234113
+git commit -a -m '11: 飘动的旗帜; 使能编译通过, 并能运行'
+#1322234117
+ma
+#1322234147
+./lesson11.exe 
+#1322234153
+ma
+#1322234154
+./lesson11.exe 
+#1322234203
+ma
+#1322234205
+./lesson11.exe 
+#1322234211
+ma
+#1322234212
+./lesson11.exe 
+#1322234219
+ma
+#1322234220
+./lesson11.exe 
+#1322234225
+a
+#1322234226
+ma
+#1322234227
+./lesson11.exe 
+#1322234240
+ma
+#1322234241
+./lesson11.exe 
+#1322234253
+ma
+#1322234253
+./lesson11.exe 
+#1322234257
+gitd
+#1322234270
+gits
+#1322234273
+gitl .
+#1322234351
+ma
+#1322234352
+./lesson11.exe 
+#1322234360
+ma
+#1322234361
+./lesson11.exe 
+#1322234406
+ma
+#1322234407
+./lesson11.exe 
+#1322234594
+ma
+#1322234595
+./lesson11.exe 
+#1322234605
+ma
+#1322234606
+./lesson11.exe 
+#1322234610
+ex .
+#1322234650
+ctagsc.sh 
+#1322235057
+ma
+#1322235060
+gitd
+#1322235083
+ma
+#1322235084
+./lesson11.exe 
+#1322235136
+ma
+#1322235137
+./lesson11.exe 
+#1322235143
+ma
+#1322235143
+./lesson11.exe 
+#1322235186
+ma
+#1322235187
+./lesson11.exe 
+#1322235426
+ma
+#1322235433
+./lesson11.exe 
+#1322235449
+ma
+#1322235450
+./lesson11.exe 
+#1322235456
+ma
+#1322235457
+./lesson11.exe 
+#1322235476
+ma
+#1322235477
+./lesson11.exe 
+#1322235485
+ma
+#1322235485
+./lesson11.exe 
+#1322236058
+ma
+#1322236060
+./lesson11.exe 
+#1322236103
+a
+#1322236104
+ma
+#1322236107
+./lesson11.exe 
+#1322236405
+ma
+#1322236407
+./lesson11.exe 
+#1322236415
+ma
+#1322236416
+./lesson11.exe 
+#1322236420
+gits
+#1322236422
+gitd
+#1322236547
+ma
+#1322236548
+./lesson11.exe 
+#1322236552
+ma
+#1322236554
+./lesson11.exe 
+#1322236556
+mc
+#1322236560
+gits
+#1322236565
+gitd
+#1322236606
+ma
+#1322236607
+./lesson11.exe 
+#1322236610
+x
+#1322236611
+ex
+#1322236723
+ma
+#1322236724
+./lesson11.exe 
+#1322236781
+ma
+#1322236782
+./lesson11.exe 
+#1322236799
+ma
+#1322236800
+./lesson11.exe 
+#1322236817
+ma
+#1322236817
+./lesson11.exe 
+#1322236997
+ma
+#1322236998
+./lesson11.exe 
+#1322237069
+ma
+#1322237070
+./lesson11.exe 
+#1322237089
+ma
+#1322237091
+./lesson11.exe 
+#1322237116
+ma
+#1322237117
+./lesson11.exe 
+#1322237137
+ma
+#1322237138
+./lesson11.exe 
+#1322237163
+ma
+#1322237164
+./lesson11.exe 
+#1322237219
+ma
+#1322237220
+./lesson11.exe 
+#1322237246
+ma
+#1322237251
+gitd
+#1322237267
+git commit -a -m 'some comments'
+#1322237269
+gitl
+#1322237273
+gitl .
+#1322237277
+gitlo
+#1322237289
+cdm
+#1322237290
+kll
+#1322237293
+umount wa
+#1322237299
+ll wa
+#1322274201
+iwconfig 
+#1322274209
+iwconfig scanning
+#1322274215
+iwconfig scanning eth0
+#1322274227
+iwconfig eth0 scanning 
+#1322274234
+iwconfig --help
+#1322274243
+iwlist 
+#1322274249
+iwlist scanning
+#1322274275
+ii
+#1322289932
+cdx
+#1322289935
+cd NeHe/
+#1322289941
+cd git
+#1322289945
+cd LESSON11
+#1322289948
+./lesson11.exe 
+#1322289956
+g
+#1322289974
+ma
+#1322289976
+./lesson11.exe 
+#1322290003
+ma
+#1322290005
+./lesson11.exe 
+#1322290015
+ma
+#1322290016
+./lesson11.exe 
+#1322290061
+ma
+#1322290064
+./lesson11.exe 
+#1322290175
+ma
+#1322290176
+./lesson11.exe 
+#1322290223
+ma
+#1322290225
+./lesson11.exe 
+#1322290245
+ma
+#1322290247
+./lesson11.exe 
+#1322290264
+ma
+#1322290267
+./lesson11.exe 
+#1322290281
+ma
+#1322290283
+./lesson11.exe 
+#1322290392
+ma
+#1322290393
+./lesson11.exe 
+#1322290407
+ma
+#1322290409
+./lesson11.exe 
+#1322290530
+ma
+#1322290531
+./lesson11.exe 
+#1322290542
+ma
+#1322290543
+./lesson11.exe 
+#1322290567
+ma
+#1322290568
+./lesson11.exe 
+#1322290687
+ma
+#1322290717
+gits
+#1322290719
+gitl
+#1322290722
+gits
+#1322290724
+gitd
+#1322290767
+./lesson11.exe 
+#1322290888
+ma
+#1322290890
+./lesson11.exe 
+#1322290934
+ma
+#1322290935
+./lesson11.exe 
+#1322290957
+ma
+#1322290958
+./lesson11.exe 
+#1322291016
+ma
+#1322291042
+./lesson11.exe 
+#1322291331
+ma
+#1322291332
+./lesson11.exe 
+#1322291407
+ma
+#1322291408
+./lesson11.exe 
+#1322291488
+ma
+#1322291489
+./lesson11.exe 
+#1322291620
+ma
+#1322291622
+./lesson11.exe 
+#1322291759
+ma
+#1322291761
+./lesson11.exe 
+#1322291777
+ma
+#1322291779
+./lesson11.exe 
+#1322291827
+ma
+#1322291828
+./lesson11.exe 
+#1322291838
+ma
+#1322291840
+./lesson11.exe 
+#1322291861
+ma
+#1322291862
+./lesson11.exe 
+#1322291867
+ma
+#1322291868
+./lesson11.exe 
+#1322291872
+ma
+#1322291873
+./lesson11.exe 
+#1322291939
+ma
+#1322291952
+./lesson11.exe 
+#1322292004
+ma
+#1322292005
+./lesson11.exe 
+#1322292017
+ma
+#1322292018
+./lesson11.exe 
+#1322292029
+ma
+#1322292030
+./lesson11.exe 
+#1322292037
+ma
+#1322292039
+./lesson11.exe 
+#1322292045
+ma
+#1322292046
+./lesson11.exe 
+#1322292050
+ma
+#1322292051
+./lesson11.exe 
+#1322292094
+m
+#1322292097
+ma
+#1322292099
+./lesson11.exe 
+#1322292128
+ma
+#1322292129
+./lesson11.exe 
+#1322292175
+ma
+#1322292176
+./lesson11.exe 
+#1322292333
+ma
+#1322292334
+./lesson11.exe 
+#1322292507
+ma
+#1322292531
+.ma
+#1322292532
+ma
+#1322292534
+./lesson11.exe 
+#1322292560
+ma
+#1322292561
+./lesson11.exe 
+#1322292869
+ma
+#1322292870
+./lesson11.exe 
+#1322292910
+ma
+#1322292911
+./lesson11.exe 
+#1322292926
+ma
+#1322292928
+./lesson11.exe 
+#1322292949
+ma
+#1322293018
+./lesson11.exe 
+#1322293050
+ma
+#1322293051
+./lesson11.exe 
+#1322293058
+ma
+#1322293059
+./lesson11.exe 
+#1322293069
+./lesson11.exe &
+#1322293076
+ma
+#1322293077
+./lesson11.exe &
+#1322293131
+ma
+#1322293133
+./lesson11.exe &
+#1322293146
+ma
+#1322293147
+./lesson11.exe &
+#1322293153
+gitd
+#1322293248
+ma
+#1322293251
+gits
+#1322293256
+git add lesson11.cpp 
+#1322293267
+git commit -a -m '使更通用'
+#1322293269
+gits
+#1322293271
+mc
+#1322293359
+ma
+#1322293360
+./lesson11.exe &
+#1322293411
+ma
+#1322293413
+./lesson11.exe &
+#1322293418
+ma
+#1322293420
+./lesson11.exe &
+#1322293537
+ma
+#1322293652
+gits
+#1322293654
+gitd
+#1322293663
+gitl .
+#1322293674
+cdvcrtbot
+#1322293681
+cd vercol/git/notes/
+#1322293684
+g 02.txt 
+#1322293754
+gits
+#1322293763
+mc
+#1322293764
+gits
+#1322293770
+git checkout .
+#1322293771
+gits
+#1322293779
+gitlo .
+#1322293788
+cp lesson11.cpp lesson11.cpp2
+#1322293790
+gits
+#1322293805
+git checkout 1273 .
+#1322293817
+git checkout 127e .
+#1322293820
+gitlo
+#1322293824
+gitlo .
+#1322293833
+ma
+#1322293835
+./lesson11.exe &
+#1322293846
+ma
+#1322293847
+./lesson11.exe &
+#1322293861
+ma
+#1322293862
+./lesson11.exe &
+#1322294013
+git checkout .
+#1322294018
+gitlo .
+#1322294034
+ma
+#1322294038
+./lesson11.exe &
+#1322294082
+ma
+#1322294084
+./lesson11.exe &
+#1322294101
+ma
+#1322294134
+gitlo .
+#1322294146
+git checkout 569c .
+#1322294149
+ma
+#1322294150
+./lesson11.exe &
+#1322294170
+ma
+#1322294171
+./lesson11.exe &
+#1322294185
+ma
+#1322294186
+./lesson11.exe &
+#1322294202
+ma
+#1322294203
+./lesson11.exe &
+#1322294217
+ma
+#1322294220
+./lesson11.exe &
+#1322294273
+ma
+#1322294274
+./lesson11.exe &
+#1322294288
+gits
+#1322294290
+mca
+#1322294291
+gits
+#1322294294
+mc
+#1322294296
+gits
+#1322294300
+git add lesson11.cpp
+#1322294317
+git commit -a -m '画为圆柱面'
+#1322294321
+gits
+#1322294324
+rm lesson11.cpp2
+#1322294325
+gits
+#1322294327
+gitlo .
+#1322294334
+gitlo.
+#1322294447
+ma
+#1322294448
+./lesson11.exe &
+#1322294523
+ma
+#1322294524
+./lesson11.exe &
+#1322294553
+ma
+#1322294555
+./lesson11.exe 
+#1322294650
+ma
+#1322294877
+na
+#1322294885
+ma
+#1322294887
+./lesson11.exe 
+#1322294918
+ma
+#1322294925
+./lesson11.exe 
+#1322294986
+ma
+#1322295004
+.ma
+#1322295005
+ma
+#1322295007
+./lesson11.exe 
+#1322295029
+ma
+#1322295030
+./lesson11.exe 
+#1322295035
+ma
+#1322295036
+./lesson11.exe 
+#1322295061
+ma
+#1322295062
+./lesson11.exe 
+#1322295125
+ma
+#1322295127
+./lesson11.exe 
+#1322295132
+ma
+#1322295133
+./lesson11.exe 
+#1322295210
+ma
+#1322295211
+./lesson11.exe 
+#1322295356
+ma
+#1322295358
+./lesson11.exe 
+#1322295590
+ma
+#1322295591
+./lesson11.exe 
+#1322295604
+ma
+#1322295605
+./lesson11.exe 
+#1322295612
+ma
+#1322295614
+./lesson11.exe 
+#1322295620
+ma
+#1322295621
+./lesson11.exe 
+#1322295690
+ma
+#1322295691
+./lesson11.exe 
+#1322295703
+ma
+#1322295704
+./lesson11.exe 
+#1322295723
+ma
+#1322295725
+.2A
+#1322295727
+./lesson11.exe 
+#1322295841
+ma
+#1322295842
+./lesson11.exe 
+#1322295869
+ma
+#1322295870
+./lesson11.exe 
+#1322295881
+ma
+#1322295882
+./lesson11.exe 
+#1322295888
+ma
+#1322295889
+./lesson11.exe 
+#1322295914
+ma
+#1322295915
+./lesson11.exe 
+#1322295961
+ma
+#1322295962
+./lesson11.exe 
+#1322295977
+ma
+#1322295978
+./lesson11.exe 
+#1322296017
+ma
+#1322296018
+./lesson11.exe 
+#1322296186
+ma
+#1322296188
+./lesson11.exe 
+#1322296259
+ma
+#1322296260
+./lesson11.exe 
+#1322296275
+ma
+#1322296276
+./lesson11.exe 
+#1322296289
+ma
+#1322296290
+./lesson11.exe 
+#1322296314
+ma
+#1322296317
+./lesson11.exe 
+#1322296336
+ma
+#1322296338
+./lesson11.exe 
+#1322296556
+ma
+#1322296558
+./lesson11.exe 
+#1322296591
+ii
+#1322296804
+ma
+#1322296806
+./lesson11.exe 
+#1322296835
+ma
+#1322296836
+./lesson11.exe 
+#1322296848
+gitlo .
+#1322296851
+gits
+#1322296853
+gitd
+#1322297199
+ma
+#1322297203
+./lesson11.exe 
+#1322297236
+ma
+#1322297237
+./lesson11.exe 
+#1322297312
+ma
+#1322297314
+./lesson11.exe 
+#1322297387
+ma
+#1322297389
+./lesson11.exe 
+#1322303532
+ff&
+#1322313634
+ma
+#1322313639
+./lesson11.exe 
+#1322313670
+ma
+#1322313958
+./lesson11.exe 
+#1322314071
+ma
+#1322314073
+./lesson11.exe 
+#1322314145
+ma
+#1322314147
+./lesson11.exe 
+#1322314516
+ma
+#1322314517
+./lesson11.exe 
+#1322314578
+ma
+#1322314579
+./lesson11.exe 
+#1322314642
+ma
+#1322314648
+m usleep
+#1322314653
+m 3 usleep
+#1322314670
+ma
+#1322314671
+./lesson11.exe 
+#1322314773
+m
+#1322314774
+ma
+#1322314775
+./lesson11.exe 
+#1322314816
+ma
+#1322314817
+./lesson11.exe 
+#1322314874
+m
+#1322314875
+ma
+#1322314876
+./lesson11.exe 
+#1322314935
+ma
+#1322314936
+./lesson11.exe 
+#1322314984
+ma
+#1322314986
+./lesson11.exe 
+#1322315409
+ma
+#1322315411
+./lesson11.exe 
+#1322315473
+ma
+#1322315475
+./lesson11.exe 
+#1322315531
+ma
+#1322315533
+./lesson11.exe 
+#1322315761
+ma
+#1322315762
+./lesson11.exe 
+#1322315787
+ma
+#1322315789
+./lesson11.exe 
+#1322315795
+ma
+#1322315796
+./lesson11.exe 
+#1322315809
+ma
+#1322315811
+./lesson11.exe 
+#1322315824
+ma
+#1322315825
+./lesson11.exe 
+#1322315973
+ma
+#1322315975
+./lesson11.exe 
+#1322316000
+ma
+#1322316001
+./lesson11.exe 
+#1322316044
+ma
+#1322316045
+./lesson11.exe 
+#1322316277
+ma
+#1322316278
+./lesson11.exe 
+#1322318588
+ma
+#1322318590
+./lesson11.exe 
+#1322318885
+ma
+#1322318887
+./lesson11.exe 
+#1322318979
+ma
+#1322318980
+./lesson11.exe 
+#1322319108
+ma
+#1322319110
+./lesson11.exe 
+#1322319228
+ma
+#1322319229
+./lesson11.exe 
+#1322319326
+ma
+#1322319327
+./lesson11.exe 
+#1322319419
+ma
+#1322319420
+./lesson11.exe 
+#1322319437
+ma
+#1322319439
+./lesson11.exe 
+#1322319467
+ma
+#1322319470
+./lesson11.exe 
+#1322319479
+ma
+#1322319480
+./lesson11.exe 
+#1322319493
+ma
+#1322319494
+./lesson11.exe 
+#1322319567
+ma
+#1322319568
+./lesson11.exe 
+#1322319578
+ma
+#1322319579
+./lesson11.exe 
+#1322319601
+ma
+#1322319602
+./lesson11.exe 
+#1322319740
+ma
+#1322319759
+./lesson11.exe 
+#1322319781
+ma
+#1322319782
+./lesson11.exe 
+#1322319904
+ma
+#1322319905
+./lesson11.exe 
+#1322319913
+ma
+#1322319914
+./lesson11.exe 
+#1322320984
+bce 256*0.75
+#1322320994
+bce 192+256
+#1322321003
+bce 448/256
+#1322321014
+bce 256/448
+#1322321037
+bce 256*4/3
+#1322321476
+ma
+#1322321481
+,y
+#1322321483
+cd,y
+#1322321488
+cd LESSON03
+#1322321489
+ma
+#1322321491
+./lesson11.exe 
+#1322321496
+./lesson3.exe 
+#1322321751
+ma
+#1322321753
+ma
+#1322322750
+mc
+#1322322752
+ma
+#1322322753
+./lesson11.exe 
+#1322322866
+ma
+#1322322867
+./lesson11.exe 
+#1322322903
+ma
+#1322322904
+./lesson11.exe 
+#1322322927
+ma
+#1322322929
+./lesson11.exe 
+#1322322935
+ma
+#1322322936
+./lesson11.exe 
+#1322322940
+ma
+#1322322941
+./lesson11.exe 
+#1322322950
+ma
+#1322322954
+./lesson11.exe 
+#1322322959
+ma
+#1322322960
+./lesson11.exe 
+#1322322966
+./lesson11.exe &
+#1322322970
+ma
+#1322322974
+./lesson11.exe &
+#1322323122
+ma
+#1322323123
+./lesson11.exe &
+#1322324789
+ma
+#1322324792
+./lesson11.exe &
+#1322324827
+ma
+#1322324829
+./lesson11.exe &
+#1322324844
+ma
+#1322324846
+./lesson11.exe &
+#1322324864
+ma
+#1322324865
+./lesson11.exe &
+#1322324873
+ma
+#1322324874
+./lesson11.exe &
+#1322324882
+ma
+#1322324884
+./lesson11.exe &
+#1322324898
+ma
+#1322324900
+./lesson11.exe &
+#1322324925
+ma
+#1322324926
+./lesson11.exe &
+#1322324948
+ma
+#1322324949
+./lesson11.exe &
+#1322324999
+ma
+#1322325007
+./lesson11.exe &
+#1322325013
+ma
+#1322325014
+./lesson11.exe &
+#1322325038
+ma
+#1322325039
+./lesson11.exe &
+#1322325123
+mc
+#1322325124
+ma
+#1322325173
+.ma
+#1322325174
+ma
+#1322325178
+.ma
+#1322325183
+./lesson11.exe &
+#1322325280
+ma
+#1322325297
+mc
+#1322325298
+ma
+#1322325300
+./lesson11.exe &
+#1322325328
+ma
+#1322325329
+./lesson11.exe &
+#1322325436
+ma
+#1322325441
+./lesson11.exe &
+#1322325552
+ma
+#1322325564
+mc
+#1322325566
+ma
+#1322325568
+./lesson11.exe &
+#1322325798
+ma
+#1322325804
+mc
+#1322325805
+ma
+#1322326154
+m cos
+#1322326444
+ma
+#1322326485
+mc
+#1322326486
+ma
+#1322326487
+./lesson11.exe &
+#1322326562
+ma
+#1322326564
+./lesson11.exe &
+#1322326591
+ma
+#1322326592
+./lesson11.exe &
+#1322326609
+ma
+#1322326610
+./lesson11.exe &
+#1322326625
+ma
+#1322326626
+./lesson11.exe &
+#1322326635
+ma
+#1322326636
+mc
+#1322326637
+ma
+#1322326638
+./lesson11.exe &
+#1322326654
+ma
+#1322326655
+./lesson11.exe &
+#1322326693
+ma
+#1322326695
+./lesson11.exe &
+#1322326723
+ma
+#1322326726
+./lesson11.exe &
+#1322326741
+ma
+#1322326742
+./lesson11.exe &
+#1322326931
+ma
+#1322326932
+mc
+#1322326934
+ma
+#1322326935
+./lesson11.exe &
+#1322327037
+ma
+#1322327039
+./lesson11.exe &
+#1322327078
+ma
+#1322327080
+./lesson11.exe &
+#1322327089
+ma
+#1322327091
+./lesson11.exe &
+#1322327110
+ma
+#1322327111
+mc
+#1322327111
+ma
+#1322327113
+./lesson11.exe &
+#1322327150
+ma
+#1322327151
+./lesson11.exe &
+#1322327163
+ma
+#1322327164
+./lesson11.exe &
+#1322327185
+ma
+#1322327187
+./lesson11.exe &
+#1322327204
+ma
+#1322327205
+./lesson11.exe &
+#1322327219
+ma
+#1322327220
+./lesson11.exe &
+#1322327258
+ma
+#1322327260
+./lesson11.exe &
+#1322327326
+ma
+#1322327327
+./lesson11.exe &
+#1322327524
+ma
+#1322327525
+./lesson11.exe &
+#1322327611
+ma
+#1322327612
+./lesson11.exe &
+#1322327656
+ma
+#1322327657
+./lesson11.exe &
+#1322327794
+ma
+#1322327796
+./lesson11.exe &
+#1322327869
+ma
+#1322327870
+./lesson11.exe &
+#1322328047
+ma
+#1322328049
+./lesson11.exe &
+#1322328161
+ma
+#1322328162
+./lesson11.exe &
+#1322328251
+ma
+#1322328253
+./lesson11.exe &
+#1322328301
+ma
+#1322328303
+./lesson11.exe &
+#1322328485
+ma
+#1322328487
+./lesson11.exe &
+#1322328505
+ma
+#1322328506
+./lesson11.exe &
+#1322328543
+ma
+#1322328545
+./lesson11.exe &
+#1322328839
+ma
+#1322328841
+./lesson11.exe &
+#1322328900
+ma
+#1322328901
+./lesson11.exe &
+#1322328958
+ma
+#1322328959
+./lesson11.exe &
+#1322329024
+ ma
+#1322329025
+ma
+#1322329027
+./lesson11.exe &
+#1322329058
+ma
+#1322329060
+./lesson11.exe &
+#1322329286
+cdx
+#1322329288
+cd gs
+#1322329290
+cd git
+#1322329292
+cd thundermouse_3D_second_gaijin/
+#1322329294
+g 
+#1322329386
+ma
+#1322329387
+ma
+#1322329389
+./lesson11.exe &
+#1322329421
+ma
+#1322329423
+./lesson11.exe &
+#1322329438
+ma
+#1322329439
+./lesson11.exe &
+#1322329855
+ma
+#1322329857
+./lesson11.exe &
+#1322329861
+mc
+#1322329861
+ma
+#1322329863
+./lesson11.exe &
+#1322329865
+mc
+#1322329868
+gdb lesson11.
+#1322329874
+ma
+#1322329881
+vi makefile 
+#1322329893
+mc
+#1322329894
+ma
+#1322329900
+gdb lesson11.exe 
+#1322329948
+mc
+#1322329956
+/bin/ls -l tim_256x256.raw 
+#1322329965
+bce 196608/256
+#1322329968
+bce 196608/256/256
+#1322330023
+ma
+#1322330025
+./lesson11.exe &
+#1322330191
+ma
+#1322330192
+./lesson11.exe &
+#1322330450
+ma
+#1322330452
+./lesson11.exe &
+#1322330508
+ma
+#1322330509
+./lesson11.exe &
+#1322330513
+ma
+#1322330522
+./lesson11.exe &
+#1322330532
+ma
+#1322330533
+./lesson11.exe &
+#1322330659
+ma
+#1322330660
+./lesson11.exe &
+#1322330724
+ma
+#1322330725
+./lesson11.exe &
+#1322330815
+ma
+#1322330817
+./lesson11.exe &
+#1322330825
+ma
+#1322330826
+./lesson11.exe &
+#1322331011
+ma
+#1322331015
+./lesson11.exe &
+#1322331032
+ma
+#1322331033
+./lesson11.exe &
+#1322331122
+ma
+#1322331123
+./lesson11.exe &
+#1322331130
+ma
+#1322331131
+./lesson11.exe &
+#1322331193
+ma
+#1322331194
+./lesson11.exe &
+#1322331279
+ma
+#1322331281
+mc
+#1322331282
+ma
+#1322331283
+./lesson11.exe &
+#1322331331
+ma
+#1322331334
+./lesson11.exe &
+#1322331349
+ma
+#1322331350
+./lesson11.exe &
+#1322331372
+ma
+#1322331373
+./lesson11.exe &
+#1322331406
+ma
+#1322331408
+./lesson11.exe &
+#1322331447
+mc
+#1322331448
+ma
+#1322331502
+mc
+#1322331505
+ma
+#1322331855
+./lesson11.exe &
+#1322331880
+ma
+#1322331881
+./lesson11.exe &
+#1322331971
+ma
+#1322332035
+.ma/lesson11.exe &
+#1322332036
+ma
+#1322332037
+.ma/lesson11.exe &
+#1322332043
+./lesson11.exe &
+#1322332061
+ma
+#1322332062
+./lesson11.exe &
+#1322332084
+ma
+#1322332085
+./lesson11.exe &
+#1322332103
+s
+#1322332107
+ma
+#1322332112
+ii
+#1322332176
+ma
+#1322332178
+./lesson11.exe &
+#1322332198
+ma
+#1322332200
+./lesson11.exe &
+#1322332236
+ma
+#1322332238
+mc
+#1322332238
+ma
+#1322332241
+./lesson11.exe &
+#1322332379
+ma
+#1322332381
+./lesson11.exe &
+#1322332579
+ma
+#1322332580
+./lesson11.exe &
+#1322332693
+ma
+#1322332695
+./lesson11.exe &
+#1322332907
+ma
+#1322332908
+./lesson11.exe &
+#1322332940
+ma
+#1322332942
+./lesson11.exe &
+#1322333003
+ma
+#1322333005
+./lesson11.exe &
+#1322333051
+ma
+#1322333052
+./lesson11.exe &
+#1322333085
+ma
+#1322333086
+./lesson11.exe &
+#1322333095
+a
+#1322333097
+ma
+#1322333098
+./lesson11.exe &
+#1322333140
+ma
+#1322333143
+./lesson11.exe &
+#1322333148
+ma
+#1322333174
+./lesson11.exe &
+#1322333192
+mc
+#1322333193
+ma
+#1322333194
+./lesson11.exe &
+#1322333220
+gits
+#1322333221
+gitlo
+#1322333224
+gitd
+#1322333236
+gitl
+#1322333239
+gitlo .
+#1322333241
+gits
+#1322333244
+mca
+#1322333246
+mc
+#1322333246
+gits
+#1322333250
+git add .
+#1322333251
+gits
+#1322333272
+git commit -a -m '实现卷轴特效'
+#1322333279
+vbs
+#1322333330
+.s
+#1322333333
+gitlo.
+#1322333339
+gits
+#1322333354
+git checkout a0a6 .
+#1322333360
+mc
+#1322333360
+ma
+#1322333364
+./lesson11.exe &
+#1322333421
+ma
+#1322333423
+./lesson11.exe &
+#1322333533
+gitlo.
+#1322333540
+git checkout beaa .
+#1322333548
+mc
+#1322333549
+ma
+#1322333554
+./lesson11.exe &
+#1322333587
+ma
+#1322333588
+./lesson11.exe &
+#1322333629
+ma
+#1322333630
+./lesson11.exe &
+#1322333644
+ma
+#1322333645
+./lesson11.exe &
+#1322333655
+gitd
+#1322333662
+gits
+#1322333665
+mc
+#1322333666
+gits
+#1322333679
+git commit -a -m '使更真实'
+#1322333683
+gitl
+#1322333686
+gitl.
+#1322333690
+gitlo.
+#1322333702
+ma
+#1322333703
+./lesson11.exe &
+#1322333736
+ma
+#1322333738
+./lesson11.exe &
+#1322333759
+ma
+#1322333761
+./lesson11.exe &
+#1322333775
+ma
+#1322333777
+./lesson11.exe &
+#1322333814
+ma
+#1322333816
+./lesson11.exe &
+#1322333833
+ma
+#1322333834
+./lesson11.exe &
+#1322368693
+ma
+#1322368694
+./lesson11.exe &
+#1322370035
+ma
+#1322370036
+./lesson11.exe &
+#1322370588
+ma
+#1322370590
+./lesson11.exe &
+#1322370624
+ma
+#1322370625
+./lesson11.exe &
+#1322370714
+ma
+#1322370715
+./lesson11.exe &
+#1322370751
+ma
+#1322370753
+./lesson11.exe &
+#1322370780
+ma
+#1322370781
+./lesson11.exe &
+#1322370813
+ma
+#1322370814
+./lesson11.exe &
+#1322370917
+m
+#1322370918
+ma
+#1322370919
+./lesson11.exe &
+#1322371006
+ma
+#1322371007
+./lesson11.exe &
+#1322371233
+ma
+#1322371235
+./lesson11.exe &
+#1322371272
+ma
+#1322371274
+./lesson11.exe &
+#1322371417
+ma
+#1322371419
+./lesson11.exe &
+#1322371439
+ma
+#1322371455
+./lesson11.exe &
+#1322371486
+ma
+#1322371487
+./lesson11.exe &
+#1322371582
+ma
+#1322371584
+./lesson11.exe &
+#1322371737
+ma
+#1322371739
+./lesson11.exe &
+#1322371966
+ma
+#1322371968
+./lesson11.exe &
+#1322371980
+ma
+#1322371982
+./lesson11.exe &
+#1322372008
+ma
+#1322372010
+./lesson11.exe &
+#1322372185
+ma
+#1322372187
+./lesson11.exe &
+#1322372210
+gitd
+#1322372228
+ma
+#1322372229
+./lesson11.exe &
+#1322372395
+ma
+#1322372397
+./lesson11.exe &
+#1322372409
+ma
+#1322372411
+./lesson11.exe &
+#1322372590
+ma
+#1322372591
+./lesson11.exe &
+#1322373865
+ma
+#1322373866
+./lesson11.exe &
+#1322373905
+ma
+#1322373907
+./lesson11.exe &
+#1322373937
+ma
+#1322373939
+./lesson11.exe &
+#1322373978
+ma
+#1322373979
+./lesson11.exe &
+#1322374006
+ma
+#1322374008
+./lesson11.exe &
+#1322374191
+ma
+#1322374192
+gitd
+#1322374220
+mc
+#1322374220
+ma
+#1322374222
+./lesson11.exe &
+#1322374247
+gits
+#1322374250
+gitlo.
+#1322374253
+gits
+#1322374257
+git add lesson11.cpp 
+#1322374289
+git commit -m '使衔接等更平滑'
+#1322374296
+gits
+#1322374297
+mc
+#1322374299
+gits
+#1322374300
+mc
+#1322374301
+ma
+#1322374303
+./lesson11.exe &
+#1322374575
+m cos
+#1322374579
+m sin
+#1322375269
+ma
+#1322375271
+./lesson11.exe &
+#1322377919
+ss
+#1322397855
+gits
+#1322397857
+gitdl
+#1322397867
+git checkout .
+#1322397868
+gits
+#1322397869
+mc
+#1322397871
+gits
+#1322397888
+cd git/
+#1322397895
+cdvcrt
+#1322397905
+cd lang/
+#1322397906
+gits
+#1322397909
+cd books/
+#1322397910
+cd c
+#1322397912
+cd graph/
+#1322397928
+mv ~/xiazai/NeHe/git/ .
+#1322397937
+mv git/ NeHe
+#1322397938
+cd NeHe/
+#1322397953
+rm lesson01.zip lesson02.zip lesson03.zip lesson11.zip 
+#1322397955
+cat README 
+#1322397958
+gits
+#1322397963
+lla
+#1322397980
+cd LESSON03/
+#1322397983
+mc
+#1322397986
+gits
+#1322397988
+lla
+#1322397994
+rm -rf .git*
+#1322397995
+gits
+#1322398009
+find_svn-vss_files.sh 
+#1322398013
+find_svn-vss_files.sh -d
+#1322398016
+find_svn-vss_files.sh 
+#1322398021
+gits
+#1322398024
+git add .
+#1322398025
+gits
+#1322398045
+git commit -m 'NeHe教程' 
+#1322398047
+gits
+#1322398051
+gitd
+#1322398056
+gits
+#1322398085
+rm CGwO.Hearn/Chap5ProgramsTxt/prog5CompositeTransformation3D.cpp 
+#1322398086
+gits
+#1322398099
+cdvcrt
+#1322398105
+cdvcrc
+#1322398094
+git push origin master
+#1322398106
+gits
+#1322398100
+gits
+#1322398114
+gitd
+#1322398127
+git add rt/home/scr/.bashrc 
+#1322398138
+git commit -m 'git alias' 
+#1322398139
+gits
+#1322398147
+gits
+#1322398142
+git push origin master
+#1322398155
+cdl
+#1322398157
+svni
+#1322398165
+cdv
+#1322398166
+svns
+#1322398172
+svn up
+#1322398159
+svn up
+#1322398194
+svni
+#1322398196
+svns
+#1322398191
+svn diff -r 74:75
+#1322398220
+cd books/c/cguo-e3/
+#1322398221
+svns
+#1322398222
+svndl
+#1322398230
+svns
+#1322398242
+cd opengl/opengl-red/
+#1322398242
+mc
+#1322398243
+ma
+#1322398245
+mca
+#1322398246
+mc
+#1322398247
+svns
+#1322398252
+cdl
+#1322398254
+svni
+#1322398255
+svns
+#1322398263
+cd latex/
+#1322398263
+mc
+#1322398265
+cd metapost/
+#1322398266
+mc
+#1322398267
+svns
+#1322398269
+svndl
+#1322398270
+mc
+#1322398274
+svnl
+#1322398279
+cdl
+#1322398280
+svns
+#1322398321
+svni
+#1322398335
+ll NeHe/
+#1322398354
+cdx
+#1322398356
+cd NeHe/
+#1322398367
+cd NeHe/
+#1322398381
+mv ~/xiazai/NeHe/ .
+#1322398386
+mv NeHe/ zip
+#1322398388
+ll zip
+#1322398389
+gits
+#1322398400
+cd LESSON11
+#1322398401
+ma
+#1322398403
+./lesson11.exe 
+#1322398629
+gitlo.
+#1322398691
+ll nehe/
+#1322398695
+ll gs
+#1322398700
+lla
+#1322398775
+g lesson11.cpp
+#1322398780
+ma
+#1322398782
+./lesson11.exe 
+#1322399726
+ma
+#1322399728
+./lesson11.exe 
+#1322399753
+ma
+#1322399754
+./lesson11.exe 
+#1322400014
+a
+#1322400015
+ma
+#1322400016
+./lesson11.exe 
+#1322400169
+ma
+#1322400170
+./lesson11.exe 
+#1322400878
+ma
+#1322400879
+./lesson11.exe 
+#1322400917
+ma
+#1322400918
+./lesson11.exe 
+#1322400941
+ma
+#1322400942
+./lesson11.exe 
+#1322401040
+ma
+#1322401041
+./lesson11.exe 
+#1322401447
+ma
+#1322401449
+./lesson11.exe 
+#1322401497
+ma
+#1322401498
+./lesson11.exe 
+#1322401525
+ma
+#1322401526
+./lesson11.exe 
+#1322401647
+ma
+#1322401648
+./lesson11.exe 
+#1322401712
+ma
+#1322401713
+./lesson11.exe 
+#1322401724
+ma
+#1322401725
+./lesson11.exe 
+#1322401732
+ma
+#1322401733
+./lesson11.exe 
+#1322401744
+ma
+#1322401745
+./lesson11.exe 
+#1322402858
+gitd
+#1322402880
+ma
+#1322402881
+./lesson11.exe 
+#1322402939
+ma
+#1322402940
+./lesson11.exe 
+#1322402968
+ma
+#1322402969
+./lesson11.exe 
+#1322403000
+ma
+#1322403001
+./lesson11.exe 
+#1322403260
+ma
+#1322403262
+./lesson11.exe 
+#1322403290
+gitd
+#1322403551
+ma
+#1322403556
+./lesson11.exe 
+#1322403559
+gitd
+#1322403566
+mc
+#1322403574
+gits
+#1322403577
+git add .
+#1322403577
+gitd
+#1322403579
+gits
+#1322403609
+git commit -m '从数学的角度上修改bug, 使更真实.'
+#1322403613
+gitlo.
+#1322403878
+gitd
+#1322403880
+git add .
+#1322403888
+git commit -m '[(<<G:2>> P45 P109)]'
+#1322403891
+gitlo.
+#1322403928
+ma
+#1322403929
+./lesson11.exe 
+#1322403947
+ma
+#1322403948
+./lesson11.exe 
+#1322403971
+gitd
+#1322403973
+git add .
+#1322404006
+git commit -m '实现从左到右展开的效果'
+#1322404014
+gitls.
+#1322404025
+gits
+#1322404028
+mc
+#1322404029
+gits
+#1322404043
+mc
+#1322404051
+git rm lesson11.e
+#1322404053
+git rm lesson11.ex
+#1322404054
+git rm lesson11.exe
+#1322404056
+gits
+#1322404059
+mc
+#1322404065
+git commit -m 'rm *.exe'
+#1322404066
+gits
+#1322404069
+gitls.
+#1322404074
+gitlo.
+#1322404075
+ma
+#1322404077
+./lesson11.exe 
+#1322404154
+ma
+#1322404155
+./lesson11.exe 
+#1322404202
+ma
+#1322404202
+./lesson11.exe 
+#1322404233
+ma
+#1322404235
+./lesson11.exe 
+#1322404505
+s ma
+#1322404507
+ma
+#1322404517
+./lesson11.exe 
+#1322404599
+ma
+#1322404601
+./lesson11.exe 
+#1322404758
+mc
+#1322404759
+ma
+#1322404762
+./lesson11.exe 
+#1322404851
+gitdl
+#1322404885
+mc
+#1322404886
+gits
+#1322404888
+git add .
+#1322404890
+gits
+#1322404921
+git commit -m '实现来回展开和收起'
+#1322404925
+gits
+#1322404938
+ma
+#1322404940
+./lesson11.exe 
+#1322404977
+ma
+#1322404978
+./lesson11.exe 
+#1322405017
+ma
+#1322405018
+./lesson11.exe 
+#1322405031
+ma
+#1322405032
+./lesson11.exe 
+#1322405086
+gits
+#1322405089
+ma
+#1322405096
+,y
+#1322405100
+cd,y
+#1322405103
+....
+#1322405108
+lla
+#1322405111
+vi .gitignore 
+#1322405118
+ma
+#1322405119
+gits
+#1322405128
+git add .gitignore 
+#1322405141
+git commit -m '.gitignore'
+#1322405145
+ma
+#1322405147
+./lesson11.exe 
+#1322405179
+ma
+#1322405180
+./lesson11.exe 
+#1322405332
+ma
+#1322405336
+./lesson11.exe 
+#1322405391
+gitd
+#1322405433
+ma
+#1322405434
+./lesson11.exe 
+#1322405449
+ma
+#1322405450
+./lesson11.exe 
+#1322405454
+ma
+#1322405456
+./lesson11.exe 
+#1322405667
+ma
+#1322405668
+./lesson11.exe 
+#1322405679
+ma
+#1322405680
+./lesson11.exe 
+#1322405711
+gitd
+#1322405717
+git checkout .
+#1322405721
+ma
+#1322405722
+./lesson11.exe 
+#1322405750
+ma
+#1322405751
+./lesson11.exe 
+#1322406423
+ma
+#1322406424
+./lesson11.exe 
+#1322406623
+ma
+#1322406624
+./lesson11.exe 
+#1322406656
+ma
+#1322406658
+./lesson11.exe 
+#1322406684
+ma
+#1322406685
+./lesson11.exe 
+#1322406729
+ma
+#1322406730
+./lesson11.exe 
+#1322406793
+gits
+#1322406795
+gitd
+#1322406804
+git add lesson11.cpp 
+#1322406821
+ma
+#1322406823
+gits
+#1322406838
+git commit -m '修改一个严重的bug'
+#1322406842
+ma
+#1322406844
+./lesson11.exe 
+#1322406893
+ma
+#1322406895
+./lesson11.exe 
+#1322406916
+ma
+#1322406917
+./lesson11.exe 
+#1322406994
+ma
+#1322406996
+./lesson11.exe 
+#1322407049
+ma
+#1322407050
+./lesson11.exe 
+#1322407111
+ma
+#1322407113
+./lesson11.exe 
+#1322407206
+ma
+#1322407208
+./lesson11.exe 
+#1322407581
+ma
+#1322407583
+./lesson11.exe 
+#1322407633
+gitd
+#1322407697
+ma
+#1322407701
+./lesson11.exe 
+#1322407749
+gitd
+#1322407771
+ma
+#1322407772
+./lesson11.exe 
+#1322407915
+ma
+#1322407916
+gitd
+#1322407931
+git ma
+#1322407933
+ma
+#1322407935
+./lesson11.exe 
+#1322407971
+ma
+#1322407972
+./lesson11.exe 
+#1322407999
+gitd
+#1322408006
+git add lesson11.cpp 
+#1322408010
+git commit
+#1322408039
+gitl
+#1322408046
+ma
+#1322408055
+./lesson11.exe 
+#1322408085
+ma
+#1322408087
+./lesson11.exe 
+#1322408095
+ma
+#1322408096
+./lesson11.exe 
+#1322408108
+ma
+#1322408109
+./lesson11.exe 
+#1322408124
+ma
+#1322408125
+./lesson11.exe 
+#1322408205
+ma
+#1322408207
+./lesson11.exe 
+#1322408260
+gits
+#1322408269
+....
+#1322408274
+gits
+#1322408276
+git push origin master
+#1322408293
+git push origin master
+#1322408307
+gits
+#1322408302
+git push origin master
+#1322486294
+jj
+#1322486316
+cd books/c/graph/NeHe/LESSON11/
+#1322486317
+gits
+#1322486320
+git pull origin master
+#1322486333
+mc
+#1322486334
+ma
+#1322486338
+./lesson11.exe 
+#1322486346
+./lesson11-2.exe.exe 
+#1322486348
+./lesson11-2.exe
+#1322486354
+g lesson11-2.
+#1322486358
+g lesson11-2.cpp 
+#1322486538
+ma
+#1322486541
+./lesson11-2.exe
+#1322486713
+ma
+#1322486715
+./lesson11-2.exe
+#1322486860
+ma
+#1322486862
+./lesson11-2.exe
+#1322486868
+ma
+#1322486869
+./lesson11-2.exe
+#1322486992
+ma
+#1322486993
+./lesson11-2.exe
+#1322487039
+ma
+#1322487041
+./lesson11-2.exe
+#1322487058
+ma
+#1322487060
+./lesson11-2.exe
+#1322487073
+ma
+#1322487074
+./lesson11-2.exe
+#1322487106
+ma
+#1322487108
+./lesson11.exe 
+#1322487156
+ma
+#1322487162
+./lesson11.exe 
+#1322487202
+gitlo lesson11.cpp 
+#1322487220
+git checkout ee5b lesson11.cpp 
+#1322487221
+ma
+#1322487223
+./lesson11.exe 
+#1322487243
+gitlo lesson11.cpp 
+#1322487261
+git checkout 68fe lesson11.cpp 
+#1322487262
+ma
+#1322487263
+./lesson11.exe 
+#1322487279
+gitlo lesson11.cpp 
+#1322487283
+ma
+#1322487346
+gimat checkout 68fe lesson11.cpp 
+#1322487347
+ma
+#1322487348
+./lesson11.exe 
+#1322487663
+ma
+#1322487672
+./lesson11.exe 
+#1322487719
+ma
+#1322487720
+./lesson11.exe 
+#1322487766
+ma
+#1322487768
+./lesson11.exe 
+#1322487893
+ma
+#1322487896
+./lesson11.exe 
+#1322487987
+ma
+#1322488069
+a
+#1322488069
+ma
+#1322488071
+./lesson11.exe 
+#1322488121
+a
+#1322488122
+ma
+#1322488124
+./lesson11.exe 
+#1322488417
+gitlo lesson11.cpp 
+#1322488425
+git checkout b4e3 lesson11.cpp 
+#1322488426
+ma
+#1322488428
+./lesson11.exe 
+#1322488502
+ma
+#1322488512
+./lesson11.exe 
+#1322488674
+ma
+#1322488675
+./lesson11.exe 
+#1322489018
+ma
+#1322489021
+./lesson11.exe 
+#1322489164
+ma
+#1322489166
+./lesson11.exe 
+#1322489189
+./lesson11.exe > out
+#1322489224
+g out 
+#1322489347
+./lesson11.exe 
+#1322489695
+a
+#1322489696
+ma
+#1322489697
+./lesson11.exe 
+#1322490070
+gits
+#1322490076
+gitlo lesson11.cpp 
+#1322490186
+ma
+#1322490187
+./lesson11.exe 
+#1322490303
+a
+#1322490303
+ma
+#1322490364
+./lesson11.exe 
+#1322490408
+ma
+#1322490410
+./lesson11.exe 
+#1322490468
+ma
+#1322490470
+./lesson11.exe 
+#1322490538
+gitlo.
+#1322490540
+gitd
+#1322490570
+gits
+#1322490574
+git add lesson11.cpp 
+#1322490577
+git commit
+#1322490696
+gitd
+#1322490738
+gits
+#1322490761
+cdvcrtbot
+#1322490763
+cd devel/
+#1322490769
+cd vercol/
+#1322490771
+cd git/
+#1322490773
+g notes/
+#1322490744
+vbs
+#1322490796
+git diff --cached
+#1322490813
+fg
+#1322490830
+ma
+#1322490836
+mc
+#1322490837
+ma
+#1322490846
+./lesson11.exe 
+#1322490943
+ma
+#1322490947
+./lesson11-2.exe
+#1322490984
+gits
+#1322490985
+gitd
+#1322491007
+ma
+#1322491008
+./lesson11-2.exe
+#1322491024
+ma
+#1322491025
+./lesson11-2.exe
+#1322491046
+ma
+#1322491048
+./lesson11-2.exe
+#1322491079
+ma
+#1322491097
+.ma
+#1322491098
+ma
+#1322491115
+./lesson11-2.exe
+#1322491155
+ma
+#1322491156
+./lesson11-2.exe
+#1322491174
+ma
+#1322491175
+./lesson11-2.exe
+#1322491266
+ma
+#1322491325
+./lesson11-2.exe
+#1322492286
+cd linux/computor/grath/books/0D计算机图形学几何工具算法详解/
+#1322492291
+pdf 0D计算机图形学几何工具算法详解.pdf &
+#1322492867
+ma
+#1322492870
+ma
+#1322492872
+./lesson11-2.exe
+#1322492922
+ma
+#1322492923
+./lesson11-2.exe
+#1322492933
+ma
+#1322492934
+./lesson11-2.exe
+#1322493595
+ma
+#1322493598
+mc
+#1322494522
+ma
+#1322494526
+./lesson11-2.exe
+#1322494626
+ma
+#1322494628
+./lesson11-2.exe
+#1322494736
+ma
+#1322494738
+./lesson11-2.exe
+#1322494937
+ma
+#1322494939
+./lesson11-2.exe
+#1322494962
+ma
+#1322494963
+./lesson11-2.exe
+#1322495477
+ma
+#1322495478
+./lesson11-2.exe
+#1322495612
+ma
+#1322495613
+./lesson11-2.exe
+#1322495620
+ma
+#1322495621
+./lesson11-2.exe
+#1322495651
+`a
+#1322495655
+ma
+#1322495657
+./lesson11-2.exe
+#1322496173
+ma
+#1322496175
+./lesson11-2.exe
+#1322569498
+ma
+#1322569500
+./lesson11-2.exe
+#1322571225
+ma
+#1322571226
+./lesson11-2.exe
+#1322571263
+ma
+#1322571265
+./lesson11-2.exe
+#1322571286
+ma
+#1322571287
+./lesson11-2.exe
+#1322571420
+ma
+#1322571421
+./lesson11-2.exe
+#1322571629
+ma
+#1322571630
+./lesson11-2.exe
+#1322571645
+ma
+#1322571646
+./lesson11-2.exe
+#1322571748
+gvlc
+#1322571762
+echo "scale=4; sqrt(3)" | bc
+#1322571772
+echo "scale=4; sqrt(256*256/2)" | bc
+#1322571925
+ma
+#1322571927
+./lesson11-2.exe
+#1322572004
+ma
+#1322572005
+./lesson11-2.exe
+#1322572137
+ma
+#1322572138
+./lesson11-2.exe
+#1322572152
+ma
+#1322572153
+./lesson11-2.exe
+#1322572193
+ma
+#1322572195
+./lesson11-2.exe
+#1322572215
+ma
+#1322572216
+./lesson11-2.exe
+#1322572419
+gits
+#1322572468
+./lesson11-2.exe
+#1322572474
+ma
+#1322572511
+./lesson11-2.exe
+#1322573130
+ma
+#1322573132
+./lesson11-2.exe
+#1322573143
+ma
+#1322573144
+./lesson11-2.exe
+#1322573158
+ma
+#1322573159
+./lesson11-2.exe
+#1322573172
+ma
+#1322573177
+./lesson11-2.exe
+#1322573331
+ma
+#1322573332
+./lesson11-2.exe
+#1322573363
+ma
+#1322573364
+./lesson11-2.exe
+#1322573370
+ma
+#1322573371
+./lesson11-2.exe
+#1322573544
+ma
+#1322573548
+lla
+#1322573549
+ma
+#1322573552
+./lesson11-2.exe
+#1322574533
+m
+#1322574534
+ma
+#1322574537
+./lesson11-2.exe
+#1322574562
+mc
+#1322574562
+ma
+#1322574564
+./lesson11-2.exe
+#1322574753
+ma
+#1322574754
+./lesson11-2.exe
+#1322574987
+ma
+#1322574988
+./lesson11-2.exe
+#1322575062
+ma
+#1322575063
+./lesson11-2.exe
+#1322575072
+ma
+#1322575073
+./lesson11-2.exe
+#1322575080
+ma
+#1322575082
+./lesson11-2.exe
+#1322575090
+ma
+#1322575092
+./lesson11-2.exe
+#1322575501
+cdl
+#1322575505
+cdlc
+#1322575516
+s matrix
+#1322575526
+mkcd matrix
+#1322575581
+mkdir 2D-Transformt
+#1322575584
+cd 2D-Transformt/
+#1322575595
+g 2dtransf.c
+#1322576356
+gcc 2dtransf.c 
+#1322576402
+m 3 cos
+#1322576413
+gcc -lm 2dtransf.c 
+#1322576416
+./a.out 
+#1322576436
+ma
+#1322576439
+gcc -lm 2dtransf.c 
+#1322576441
+./a.out 
+#1322576861
+gcc -g -lm 2dtransf.c 
+#1322576938
+./a.out 
+#1322577125
+gcc -g -lm 2dtransf.c 
+#1322577143
+gcc -Wall -g -lm 2dtransf.c 
+#1322577146
+./a.out 
+#1322577426
+gcc -Wall -g -lm 2dtransf.c 
+#1322577428
+./a.out 
+#1322577595
+ma
+#1322577597
+gcc -Wall -g -lm 2dtransf.c 
+#1322577598
+./a.out 
+#1322577633
+gcc -Wall -g -lm 2dtransf.c 
+#1322577635
+./a.out 
+#1322577940
+ma
+#1322577944
+./lesson11-2.exe
+#1322578053
+ma
+#1322578055
+./lesson11-2.exe
+#1322578126
+ma
+#1322578127
+./lesson11-2.exe
+#1322578146
+ma
+#1322578148
+./lesson11-2.exe
+#1322578158
+ma
+#1322578159
+./lesson11-2.exe
+#1322578664
+ma
+#1322578666
+./lesson11-2.exe
+#1322578859
+ma
+#1322578861
+./lesson11-2.exe
+#1322579697
+ma
+#1322579707
+./lesson11-2.exe
+#1322579719
+./lesson11-2.exema
+#1322579720
+ma
+#1322579721
+./lesson11-2.exema
+#1322579724
+./lesson11-2.exe
+#1322579740
+./lesson11-2.exe > out
+#1322579743
+g out 
+#1322579959
+./lesson11-2.exe
+#1322580486
+cdx
+#1322580488
+cd gs
+#1322580490
+cd git
+#1322580499
+find . | grep NAL
+#1322580502
+find . | grep nal
+#1322580506
+find . | grep nal_
+#1322580511
+find . | grep debug
+#1322580527
+.s
+#1322580540
+fich NALW
+#1322580547
+fichi NALW
+#1322580557
+fichi NAL
+#1322580565
+fich NAL
+#1322580822
+ma
+#1322580825
+ma
+#1322580827
+./lesson11-2.exe
+#1322580858
+./lesson11-2.exe > out
+#1322580908
+./lesson11-2.exe
+#1322581068
+cdsls
+#1322581077
+locate 3dai
+#1322581101
+mkdir zzb
+#1322581102
+cd zzb/
+#1322581115
+ll /var/svn/
+#1322581137
+loacate nal_
+#1322581145
+locate nal_
+#1322581152
+locate nal_d
+#1322581515
+ma
+#1322581517
+./lesson11-2.exe
+#1322581525
+./lesson11-2.exe > out
+#1322581764
+ma
+#1322581766
+./lesson11-2.exe > out
+#1322581775
+g out 
+#1322581973
+ma
+#1322581975
+./lesson11-2.exe > out
+#1322581981
+g out 
+#1322582044
+ma
+#1322582046
+./lesson11-2.exe > out
+#1322582051
+g out 
+#1322582070
+ma
+#1322582071
+./lesson11-2.exe > out
+#1322582073
+g out 
+#1322582131
+./lesson11-2.exe > out
+#1322582159
+gits
+#1322582161
+gitl
+#1322582164
+gitlo.
+#1322582172
+gits
+#1322582173
+mc
+#1322582192
+gits
+#1322582196
+git add lesson11-2.cpp 
+#1322582205
+git commit -m 'save'
+#1322582208
+gitlo.
+#1322582220
+cdlc
+#1322582221
+svns
+#1322582228
+cd matrix/2D-Transformt/
+#1322582230
+rm a.out 
+#1322582241
+svns
+#1322582243
+svn add matrix/
+#1322582217
+git push origin master
+#1322582269
+svn commit -m '2D坐标系间的转换'
+#1322582275
+gits
+#1322582278
+rm out 
+#1322582279
+gits
+#1322582282
+git pull origin master
+#1322582344
+g lesson11-2.cpp 
+#1322582356
+ma
+#1322582358
+./lesson11-2.exe > out
+#1322582364
+ma
+#1322582365
+./lesson11-2.exe > out
+#1322582369
+ma
+#1322582371
+./lesson11-2.exe > out
+#1322582375
+ma
+#1322582376
+./lesson11-2.exe > out
+#1322582404
+gits
+#1322659439
+cdx
+#1322659495
+git pull origin master
+#1322659872
+ff http://gcc.gnu.org/onlinedocs/gcc-4.6.2/gcc/Statement-Exprs.html
+#1322659878
+keynav 
+#1322382885
+mutt
+#1322660500
+cdvcrt
+#1322660501
+gits
+#1322660512
+gvlc
+#1322660517
+gvht
+#1322660574
+ma
+#1322660579
+mc
+#1322660579
+ma
+#1322660585
+./lesson11-2.exe 
+#1322660588
+./lesson11.exe 
+#1322660721
+g
+#1322660769
+mc
+#1322660770
+ma
+#1322660773
+./lesson11-2.exe 
+#1322660889
+ma
+#1322660891
+./lesson11-2.exe 
+#1322661145
+ma
+#1322661147
+./lesson11-2.exe 
+#1322661160
+./lesson11-2.exe > out
+#1322661162
+g out 
+#1322661191
+ma
+#1322661193
+./lesson11-2.exe > out
+#1322661198
+ex .
+#1322661257
+ma
+#1322661258
+./lesson11-2.exe > out
+#1322661291
+cat out 
+#1322661294
+rm out 
+#1322661297
+./lesson11-2.exe 
+#1322661369
+ma
+#1322661430
+./lesson11-2.exe 
+#1322661614
+bch2c 36
+#1322661624
+wh bch2c
+#1322661634
+wh bch2b
+#1322661702
+./lesson11-2.exe 
+#1322661772
+MA
+#1322661774
+ma
+#1322661775
+./lesson11-2.exe 
+#1322661792
+ma
+#1322661794
+./lesson11-2.exe 
+#1322661815
+ma
+#1322661817
+./lesson11-2.exe 
+#1322661836
+ma
+#1322661838
+./lesson11-2.exe 
+#1322661850
+bch2c 36
+#1322661905
+ma
+#1322661907
+./lesson11-2.exe 
+#1322661941
+ma
+#1322661942
+./lesson11-2.exe 
+#1322662114
+ma
+#1322662116
+./lesson11-2.exe 
+#1322662127
+ma
+#1322662128
+./lesson11-2.exe 
+#1322662285
+ma
+#1322662286
+./lesson11-2.exe 
+#1322662523
+ma
+#1322662526
+./lesson11-2.exe 
+#1322662588
+ma
+#1322662590
+./lesson11-2.exe 
+#1322662632
+ma
+#1322662632
+mc
+#1322662633
+ma
+#1322662635
+./lesson11-2.exe 
+#1322662671
+ma
+#1322662674
+./lesson11-2.exe 
+#1322662682
+ma
+#1322662684
+./lesson11-2.exe 
+#1322662721
+ma
+#1322662723
+./lesson11-2.exe 
+#1322662732
+ma
+#1322662770
+file nal_2.raw 
+#1322662842
+mc
+#1322662843
+ma
+#1322662854
+./lesson11-2.exe 
+#1322662886
+ma
+#1322662887
+./lesson11-2.exe 
+#1322663014
+file nal_2.
+#1322663016
+file nal_2.bmp 
+#1322663034
+/bin/ls -l .
+#1322663045
+bch2c 36
+#1322663130
+ma
+#1322663173
+/bin/ls -l .
+#1322663235
+bce 64*64*3
+#1322663251
+bce 91*91*3
+#1322663275
+g o
+#1322663345
+bce 24570/3
+#1322663349
+bce 24570/3/91
+#1322663362
+ma
+#1322663364
+./lesson11-2.exe 
+#1322663442
+ma
+#1322663444
+./lesson11-2.exe 
+#1322663471
+ma
+#1322663473
+./lesson11-2.exe 
+#1322663499
+bce 24570/3
+#1322663502
+bce 24570/3/90
+#1322663538
+ma
+#1322663540
+./lesson11-2.exe 
+#1322663605
+361
+#1322663633
+gitlo.
+#1322663649
+git checkout d6d8 lesson11-2.cpp 
+#1322663653
+ma
+#1322663654
+./lesson11-2.exe 
+#1322663662
+./lesson11-2.exe | w
+#1322663663
+./lesson11-2.exe | wc
+#1322663672
+bce 363/4
+#1322663787
+ma
+#1322663789
+./lesson11-2.exe | wc
+#1322663900
+ma
+#1322663905
+./lesson11-2.exe | wc
+#1322663919
+./lesson11-2.exe 
+#1322663923
+./lesson11-2.exe > out
+#1322663926
+g out 
+#1322663968
+bce 363*3/4
+#1322663992
+ma
+#1322663993
+./lesson11-2.exe > out
+#1322664156
+ma
+#1322664157
+./lesson11-2.exe > out
+#1322664169
+ma
+#1322664171
+./lesson11-2.exe > out
+#1322664297
+ma
+#1322664298
+./lesson11-2.exe > out
+#1322664581
+ma
+#1322664583
+./lesson11-2.exe > out
+#1322664692
+ma
+#1322664694
+./lesson11-2.exe > out
+#1322664724
+ma
+#1322664726
+./lesson11-2.exe > out
+#1322664734
+ma
+#1322664735
+./lesson11-2.exe > out
+#1322664739
+gitd
+#1322664776
+gits
+#1322664782
+git add lesson11-2.cpp 
+#1322664785
+git commit -m 'save'
+#1322664790
+gitlo.
+#1322664796
+gits
+#1322664806
+cdvcrtbot
+#1322664812
+cd vercol/git/notes/
+#1322664815
+g 02.txt 
+#1322664846
+git commit --amend
+#1322664874
+fg
+#1322664889
+gitl.
+#1322664892
+gitlo.
+#1322664897
+ma
+#1322664905
+gitl
+#1322665062
+ma
+#1322665087
+mc
+#1322665087
+ma
+#1322665093
+./lesson11-2.exe > out
+#1322665224
+ma
+#1322665231
+./lesson11-2.exe > out
+#1322665279
+a
+#1322665280
+ma\
+#1322665282
+ma
+#1322665297
+cdvcl
+#1322665304
+cd books/c/graph/NeHe/LESSON11
+#1322665305
+ma
+#1322665306
+./lesson11-2.exe > out
+#1322665356
+ma
+#1322665357
+./lesson11-2.exe > out
+#1322665382
+ma
+#1322665383
+./lesson11-2.exe > out
+#1322665410
+ma
+#1322665412
+./lesson11-2.exe > out
+#1322665436
+ma
+#1322665437
+./lesson11-2.exe > out
+#1322665529
+ma
+#1322665530
+./lesson11-2.exe > out
+#1322665563
+gitd
+#1322665569
+ma
+#1322665574
+mc
+#1322665575
+ma
+#1322665583
+./lesson11-2.exe > out
+#1322665643
+a
+#1322665644
+ma
+#1322665645
+./lesson11-2.exe > out
+#1322665704
+ma
+#1322665711
+gitd
+#1322665749
+gits
+#1322665755
+git add lesson11-2.cpp 
+#1322665761
+git commit
+#1322665828
+gitlo.
+#1322665830
+mc
+#1322665831
+ma
+#1322665832
+./lesson11-2.exe > out
+#1322665873
+ma
+#1322665874
+./lesson11-2.exe > out
+#1322665997
+gitlo lesson11.cpp 
+#1322666004
+mc
+#1322666007
+ma
+#1322666013
+./lesson11.exe 
+#1322666539
+cdx
+#1322666548
+unzip RotateByShear_src.zip 
+#1322666553
+g RotateByShear
+#1322666898
+gits
+#1322666905
+gvht
+#1322666957
+cdvcrt
+#1322666959
+gits
+#1322666963
+gitd
+#1322666983
+git commit -m '2D与3D坐标系变换公式' 
+#1322666986
+gits
+#1322666994
+gitd
+#1322667005
+ma
+#1322667006
+./lesson11.exe 
+#1322667010
+./lesson11-2.exe > out
+#1322667015
+gits
+#1322667021
+rm nal_2.*  out 
+#1322667022
+gits
+#1322667036
+git checkout lesson11-2.cpp 
+#1322667037
+gits
+#1322667048
+git add naldebug.cpp naldebug.h
+#1322667049
+gits
+#1322667067
+git commit -m 'for 64 bits system'
+#1322667077
+pwdp
+#1322667084
+gvlc
+#1322667098
+wh gvlc
+#1322667122
+cd /home/scr/.rt/linux/computor/tools/devel/cmd
+#1322667124
+pwdp
+#1322667147
+cdvcrt
+#1322667135
+gits
+#1322667148
+gits
+#1322667194
+cdvcrt
+#1322667199
+gits
+#1322667205
+gitd
+#1322667212
+git add 
+#1322667214
+git add .
+#1322667215
+gits
+#1322667233
+git commit -m '2D与3D坐标系变换公式'
+#1322667235
+gitl
+#1322667249
+cdrt
+#1322667265
+cdvcl
+#1322667266
+gits
+#1322667262
+git push origin master
+#1322667269
+git push origin master
+#1322667279
+gitlo.
+#1322667290
+gitl.
+#1322667295
+ma
+#1322746321
+ff&
+#1322746340
+git pull origin master
+#1322747087
+gits
+#1322747095
+cd books/c/graph/NeHe/LESSON11
+#1322747097
+gits
+#1322747098
+mc
+#1322747099
+ma
+#1322747113
+gcc -Wall -g naldebug.cpp 
+#1322747116
+./a.out 
+#1322749948
+ma
+#1322749950
+./a.out 
+#1322749959
+locate bmp
+#1322749968
+locate .bmp
+#1322749992
+cp /usr/share/doc/bcel-5.2/verifier/chap1.bmp .
+#1322749995
+ex .
+#1322750009
+file chap1.bmp 
+#1322750021
+mv chap1.bmp cute1.bmp
+#1322750024
+./a.out 
+#1322750033
+mv cute1.bmp cube1.bmp
+#1322750035
+./a.out 
+#1322750042
+gcc -Wall -g naldebug.cpp 
+#1322750045
+./a.out 
+#1322750059
+g naldebug.cpp 
+#1322750140
+/bin/ls -l .
+#1322750260
+m file
+#1322750273
+file chap1.bmp 
+#1322750279
+file cube1.bmp 
+#1322750398
+xxd -l 100 cube1.bmp 
+#1322750502
+bch2c 0b79f6
+#1322750507
+/bin/ls -l .
+#1322750511
+/bin/ls -l cube1.bmp 
+#1322750525
+xxd -l 100 cube1.bmp 
+#1322750530
+bch2c 0b79f6
+#1322750670
+bch2c 03e8
+#1322750691
+bch2c 28
+#1322750709
+bch2c 0004
+#1322750794
+cdb
+#1322750801
+vim xxd.sh
+#1322751049
+chx xxd.sh 
+#1322751059
+ xxd.sh cube1.bmp 
+#1322751097
+locate .bmp
+#1322751130
+xxd.sh cube1.bmp 
+#1322751137
+xxd.sh /usr/share/doc/db4-devel-4.8.30/csharp/ExpandAll.bmp
+#1322751146
+bch2c 18
+#1322751158
+locate .bmp
+#1322751166
+xxd.sh /usr/lib64/openoffice.org/basis3.3/share/template/wizard/bitmap/down.bmp
+#1322751351
+cp /home/scr/.rt/lang/books/c/cguo-e3/ch8/environment_map/b1.bmp .
+#1322751366
+file b1.bmp 
+#1322751383
+xxd.sh b1.bmp 
+#1322751391
+bch2c 18
+#1322751399
+mv b1.bmp cube1.bmp 
+#1322751403
+./a.out 
+#1322751458
+gcc -Wall -g naldebug.cpp 
+#1322751489
+./a.out 
+#1322751504
+cp /usr/share/doc/bcel-5.2/verifier/chap1.bmp .
+#1322751520
+gcc -Wall -g naldebug.cpp 
+#1322751521
+./a.out 
+#1322751544
+gcc -Wall -g naldebug.cpp 
+#1322751546
+./a.out 
+#1322751960
+gcc -Wall -g naldebug.cpp 
+#1322751987
+./a.out 
+#1322752048
+rm chap1.bmp 
+#1322752051
+xxd.sh cube1.bmp 
+#1322752055
+xxd.sh sf.bmp 
+#1322752147
+bch2c b12
+#1322752213
+xxd sf.bmp 
+#1322752220
+xxd sf.bmp > xf.out
+#1322752226
+xxd cube1.bmp cu.out
+#1322752231
+diff cu.out sf.bmp 
+#1322752238
+diff cu.out xf.out 
+#1322752248
+gvimdiff *.out
+#1322752263
+gvimdiff xf.out cu.out 
+#1322752559
+xxd.sh sf.bmp 
+#1322752563
+xxd.sh cube1.bmp 
+#1322752712
+gvimdiff xf.out cu.out 
+#1322752715
+gcc -Wall -g naldebug.cpp 
+#1322752727
+./a.out 
+#1322752739
+xxd.sh sf.bmp 
+#1322752741
+xxd.sh cube1.bmp 
+#1322752792
+gcc -Wall -g naldebug.cpp 
+#1322752794
+./a.out 
+#1322752796
+xxd.sh cube1.bmp 
+#1322752799
+xxd.sh sf.bmp 
+#1322752923
+gcc -Wall -g naldebug.cpp 
+#1322752924
+./a.out 
+#1322753164
+m fread
+#1322753313
+xxd.sh sf.bmp 
+#1322753314
+xxd.sh cube1.bmp 
+#1322753463
+xxd -l 1000 cube1.bmp 
+#1322753472
+xxd -l 4000 cube1.bmp 
+#1322753475
+xxd -l 400 cube1.bmp 
+#1322753488
+gvimdiff xf.out cu.out 
+#1322754046
+gcc -Wall -g naldebug.cpp 
+#1322754048
+./a.out 
+#1322754096
+gvimdiff xf.out cu.out 
+#1322754201
+./a.out 
+#1322754328
+gvimdiff xf.out cu.out 
+#1322754331
+gcc -Wall -g naldebug.cpp 
+#1322754362
+./a.out 
+#1322754370
+/bin/ls -l .
+#1322754402
+xxd.sh cube1.bmp 
+#1322754422
+xxd sf.bmp > xf.out
+#1322754433
+xxd cube1.bmp > cu.out
+#1322754457
+/bin/ls -l .
+#1322754476
+bce 19664/3
+#1322754488
+bce 19664/256
+#1322754495
+bce 19664-54
+#1322754502
+bce 19610/256
+#1322754523
+xxd.sh cube1.bmp 
+#1322754539
+bch2c 030038
+#1322754564
+bce 19664-54
+#1322754586
+bce 19608/256
+#1322754602
+bce 256*256
+#1322754619
+bce 256*256*3
+#1322754634
+/bin/ls -l .
+#1322754665
+gitd
+#1322754684
+gcc -Wall -g naldebug.cpp 
+#1322754686
+./a.out 
+#1322754688
+/bin/ls -l .
+#1322754707
+xxd.sh cube1.bmp 
+#1322754717
+xxd.sh sf.bmp 
+#1322754738
+gitd
+#1322754812
+gits
+#1322754817
+git add naldebug.cpp 
+#1322754864
+git commit -m '修改bug: 读取一行时, 注意一行的大小应用字节计算'
+#1322754866
+gits
+#1322754869
+git push origin master
+#1322754882
+gitlo.
+#1322754884
+ma
+#1322754901
+./lesson11.exe 
+#1322754903
+mc
+#1322754904
+ma
+#1322754918
+gits
+#1322754933
+su
+#1322754940
+lla .aMule/
+#1322754979
+chmod 777 .aMule/
+#1322754968
+su
+#1322754983
+cd .aMule/
+#1322754986
+ex .
+#1322756819
+chmod 000 .aMule/
+#1322756813
+su
+#1322827868
+git pull origin master
+#1322827873
+svn up
+#1322827877
+cdvcl
+#1322827864
+git pull origin master
+#1322827882
+cdv
+#1322827885
+svns
+#1322827897
+cdvcrc
+#1322827888
+svn up
+#1322827903
+gits
+#1322827911
+git pull origin master
+#1322827923
+p www.code.google.com
+#1322827934
+gits
+#1322827942
+git add rt/home/scr/.kde/
+#1322827943
+gits
+#1322827952
+git commit -m 'pdf bookmark' 
+#1322827961
+mc
+#1322827956
+git pull origin master
+#1322827964
+ma
+#1322827998
+./a.out 
+#1322828003
+rm a.out 
+#1322828003
+mc
+#1322828005
+ma
+#1322828008
+./endian_test.exe 
+#1322828541
+ma
+#1322828544
+vi makefile 
+#1322828552
+ma
+#1322828558
+fg
+#1322828593
+ma
+#1322828603
+mc
+#1322828611
+rm cube1.bmp sf.bmp 
+#1322828612
+gits
+#1322828617
+rm xf.out cu.out 
+#1322828619
+gits
+#1322828625
+git pull origin master
+#1322828709
+gitlo.
+#1322828715
+gitls
+#1322828726
+ma
+#1322828731
+./lesson11-2.exe 
+#1322829501
+./lesson11.exe 
+#1322829567
+ma
+#1322829580
+gitls
+#1322829583
+gitls.
+#1322829612
+mc
+#1322829618
+gitlo.
+#1322829625
+mc
+#1322829627
+gits
+#1322829628
+ma
+#1322829633
+g endian_test.c
+#1322829656
+ma
+#1322829694
+./lesson11.exe 
+#1322829697
+./endian_test.exe 
+#1322829733
+ma
+#1322829735
+./endian_test.exe 
+#1322829742
+ma
+#1322829744
+./endian_test.exe 
+#1322829748
+ma
+#1322829757
+./endian_test.exe 
+#1322830049
+ma
+#1322830051
+./endian_test.exe 
+#1322830230
+uname -a
+#1322830256
+ma
+#1322830259
+./endian_test.exe 
+#1322830340
+ma
+#1322830345
+vi makefile 
+#1322830347
+fg
+#1322830356
+mc
+#1322830356
+ma
+#1322830368
+./endian_test.exe 
+#1322830396
+gitd
+#1322830431
+gits
+#1322830435
+git add endian_test.c
+#1322830439
+git commit
+#1322830443
+uname -a
+#1322830449
+fg
+#1322830492
+gits
+#1322834836
+cdm
+#1322834840
+ex .
+#1322834864
+cd TOOLS/1music/
+#1322839263
+ma
+#1322839264
+mc
+#1322839265
+ma
+#1322839268
+gits
+#1322839271
+mc
+#1322839273
+ma
+#1322839280
+./endian_test.exe 
+#1322840814
+a
+#1322840814
+ma
+#1322840819
+gitlo.
+#1322839347
+mutt
+#1322840832
+gitlo.
+#1322840840
+gits
+#1322840860
+git checkout a821
+#1322840876
+git branch
+#1322840884
+gits
+#1322840885
+gitd
+#1322840889
+rm makefile 
+#1322840893
+git checkout .
+#1322840895
+gits
+#1322840896
+ma
+#1322840898
+mc
+#1322840899
+ma
+#1322840904
+mc
+#1322840907
+gitlo.
+#1322840909
+git checkout .
+#1322840916
+git checkout a821 .
+#1322840917
+gits
+#1322840933
+gitl lesson11.cpp 
+#1322840949
+ma
+#1322840953
+./lesson11.exe 
+#1322840983
+gitls .
+#1322841004
+git checkout .
+#1322841005
+gits
+#1322841010
+gitd
+#1322841013
+gits
+#1322841017
+gitd
+#1322841018
+mc
+#1322841019
+ma
+#1322841020
+./lesson11.exe 
+#1322841029
+git checkout HEAD
+#1322841031
+gits
+#1322841034
+ma
+#1322841043
+gvlc
+#1322841079
+gitlo.
+#1322841088
+git checkout 9871 .
+#1322841089
+gits
+#1322841091
+mc
+#1322841092
+ma
+#1322841100
+./lesson11.exe 
+#1322841172
+ma
+#1322841190
+cdvcrtbot
+#1322841196
+cd vercol/git/notes/
+#1322841199
+g 03git常用指令.txt 
+#1322841262
+gits
+#1322841269
+git checkout a821 .
+#1322841270
+gits
+#1322841271
+mc
+#1322841271
+ma
+#1322841274
+./lesson11.exe 
+#1322841282
+git checkout HEAD .
+#1322841283
+gits
+#1322841286
+ma
+#1322841287
+./lesson11.exe 
+#1322841344
+gits
+#1322841350
+git checkout a821 .
+#1322841351
+gits
+#1322841370
+gitdl
+#1322841381
+gvbs
+#1322841403
+gvlc
+#1322841448
+.s
+#1322841453
+gvbs
+#1322841461
+.s
+#1322841464
+gitdc
+#1322841488
+mc
+#1322841490
+gits
+#1322841493
+git checkout HEAD .
+#1322841494
+gits
+#1322841497
+gitlo.
+#1322841509
+git checkout 3df5 .
+#1322841510
+mc
+#1322841513
+ma
+#1322841516
+gits
+#1322841520
+./lesson11.exe 
+#1322841533
+gitdc
+#1322841537
+git checkout HEAD .
+#1322841538
+mc
+#1322841539
+gits
+#1322841543
+gitlo
+#1322841546
+gitlo.
+#1322841560
+gitd 3df5 a821
+#1322841706
+mc
+#1322841709
+./lesson11.exe 
+#1322841712
+ma
+#1322841713
+mc
+#1322841720
+ii
+#1322841729
+cdvcrc
+#1322841731
+gits
+#1322841741
+.s
+#1322841743
+gitdc
+#1322841758
+gits
+#1322841767
+gitdc
+#1322841774
+git pull origin master
+#1322841795
+git add rt/home/scr/.kde/
+#1322841796
+gits
+#1322841813
+git reset rt/home/scr/.bashrc 
+#1322841814
+gits
+#1322841828
+git commit -m 'pdf bookmark'
+#1322841833
+gitlo.
+#1322841836
+gits
+#1322841839
+gitd
+#1322841847
+gits
+#1322841854
+git add rt/home/scr/.bashrc 
+#1322841855
+gits
+#1322841865
+git commit -m 'new alias for git'
+#1322841867
+gits
+#1322841881
+ma
+#1322841900
+g bmprw.cpp 
+#1322838972
+mutt
+#1322915944
+date
+#1322924445
+cdx
+#1322924447
+ex .
+#1322924455
+cdvcrtbo
+#1322924457
+cd grath/
+#1322924459
+cd opengl/
+#1322924464
+cd books/
+#1322924497
+mkdir 0H游戏编程精粹
+#1322924499
+cd 0H游戏编程精粹/
+#1322924502
+mkdir 1
+#1322924503
+cd 1
+#1322924512
+mv /home/scr/xiazai/游戏编程精粹1.pdf 
+#1322924514
+mv /home/scr/xiazai/游戏编程精粹1.pdf .
+#1322924578
+ii
+#1322924623
+lla
+#1322924707
+gits
+#1322925019
+,y
+#1322925022
+cdvcrt
+#1322925024
+gits
+#1322925108
+ds .git
+#1322925112
+lla
+#1322925119
+rm .gitignore 
+#1322925120
+gits
+#1322925129
+git checkout HEAD .
+#1322925156
+gits
+#1322925158
+lla
+#1322925170
+ds address-book/
+#1322925175
+cat address-book/tx.txt 
+#1322925183
+cat address-book/changyongzi/
+#1322925186
+cat address-book/changyongzi/3500.txt 
+#1322925198
+lll
+#1322925265
+5ll
+#1322925268
+cdrt
+#1322925274
+cd linux/computor/grath/
+#1322925278
+mkdir books
+#1322925280
+cd books/
+#1322925306
+mkdir 0H游戏编程精粹/1 -p
+#1322925309
+cd 0H游戏编程精粹/1/
+#1322925335
+mv 游戏编程精粹1.pdf 0H游戏编程精粹1.pdf 
+#1322925343
+mv 0H游戏编程精粹1.pdf ~
+#1322925349
+mv ~/0H游戏编程精粹1.pdf .
+#1322925350
+,y
+#1322925358
+g
+#1322925381
+ln -s /home/scr/.rt/linux/computor/grath/books/0H游戏编程精粹/1/0H游戏编程精粹1.pdf 0H游戏编程精粹1.pdf 
+#1322925393
+lla
+#1322925408
+pdf 0H游戏编程精粹1.pdf &
+#1322925417
+gits
+#1322925433
+git add linux/computor/bookmark/
+#1322925439
+gits
+#1322925446
+git linux/computor/grath/books/0H游戏编程精粹/
+#1322925453
+git add linux/computor/grath/books/0H游戏编程精粹/
+#1322925455
+gits
+#1322925485
+git -m '游戏编程精粹-卷1'
+#1322925491
+git commit -m '游戏编程精粹-卷1'
+#1322925498
+gtils.
+#1322925501
+gitls.
+#1322925502
+.s
+#1322925505
+gitls.
+#1322925515
+gits
+#1322925548
+ds .git
+#1322925552
+lla
+#1322925557
+vi .gitignore 
+#1322925562
+gits
+#1322925575
+cd-
+#1322925578
+gits
+#1322925588
+git add books/
+#1322925592
+gits
+#1322925609
+g opengl/nehe/dev-src-html/resource/DevCpp/Makefile.win 
+#1322925628
+git checkout opengl/nehe/dev-src-html/resource/DevCpp/
+#1322925629
+gits
+#1322925654
+git commit -m '游戏编程精粹-卷1'
+#1322925658
+gits
+#1322925661
+git push origin master
+#1322925671
+git remote 
+#1322925678
+git remote -v
+#1322925689
+ds /home/scr/.rt/vercol-hub/
+#1322834868
+mpg123 --title -C -Z *
+#1322929961
+cdm
+#1322929966
+cd LA/
+#1322929969
+cd LC
+#1322929972
+cd RT/
+#1322929979
+cd home/scr/
+#1322929983
+cd .aMule/
+#1322929987
+ex .
+#1322932935
+ex 
+#1322964855
+lla
+#1322964858
+ff&
+#1322969050
+cdvcl
+#1322969057
+cd books/c/graph/NeHe/LESSON11
+#1322969058
+ma
+#1322969062
+./lesson11-2.exe 
+#1322969067
+g lesson11.cpp 
+#1322969107
+ma
+#1322969117
+./lesson11-2.exe 
+#1322969284
+ma
+#1322969286
+./lesson11-2.exe 
+#1322969589
+ma
+#1322969591
+./lesson11-2.exe 
+#1322969595
+ex .
+#1322969900
+ma
+#1322969902
+./lesson11-2.exe 
+#1322969952
+ma
+#1322969953
+./lesson11-2.exe 
+#1322969961
+ma
+#1322969963
+./lesson11-2.exe 
+#1322969968
+ma
+#1322969972
+./lesson11-2.exe 
+#1322969979
+ma
+#1322969981
+./lesson11-2.exe 
+#1322970001
+ma
+#1322970002
+./lesson11-2.exe 
+#1322970023
+ma
+#1322970024
+./lesson11-2.exe 
+#1322972416
+ma
+#1322972418
+./lesson11-2.exe 
+#1322979112
+ma
+#1322979113
+./lesson11-2.exe 
+#1322979157
+ma
+#1322979172
+.ma
+#1322979173
+ma
+#1322979174
+.ma
+#1322979176
+./lesson11-2.exe 
+#1322979186
+ma
+#1322979188
+./lesson11-2.exe 
+#1322979428
+ma
+#1322979430
+./lesson11-2.exe 
+#1322979438
+ma
+#1322979439
+./lesson11-2.exe 
+#1322979442
+ma
+#1322979444
+./lesson11-2.exe 
+#1322979754
+s destroy
+#1322981631
+ma
+#1322982094
+./lesson11-2.exe 
+#1322982122
+ma
+#1322982123
+./lesson11-2.exe 
+#1322982142
+ma
+#1322982151
+./lesson11-2.exe 
+#1322982160
+ma
+#1322982162
+./lesson11-2.exe 
+#1322982168
+ma
+#1322982208
+./lesson11-2.exe 
+#1322982243
+ma
+#1322982245
+./lesson11-2.exe 
+#1322982253
+gdb ./lesson11-2.
+#1322982257
+gdb ./lesson11-2.exe 
+#1322982569
+ma
+#1322982571
+./lesson11-2.exe 
+#1322982586
+ma
+#1322982587
+./lesson11-2.exe 
+#1322982595
+ma
+#1322982602
+./lesson11-2.exe 
+#1322983337
+ma
+#1322983339
+./lesson11-2.exe 
+#1322983364
+ma
+#1322983365
+./lesson11-2.exe 
+#1322983422
+ma
+#1322983423
+./lesson11-2.exe 
+#1322983431
+ma
+#1322983432
+./lesson11-2.exe 
+#1322983512
+ma
+#1322983598
+./lesson11-2.exe 
+#1322983604
+./lesson11.exe 
+#1322983658
+gitd
+#1322983731
+mc
+#1322983733
+git
+#1322983735
+gits
+#1322983742
+git add bmprw.cpp bmprw.h
+#1322983743
+gits
+#1322983748
+git commit
+#1322983774
+gitlo.
+#1322983782
+gitls.
+#1322983786
+gitlo
+#1322983791
+gitlo.
+#1322983800
+ma
+#1322983809
+mc
+#1322983815
+cat README 
+#1322983819
+gits
+#1322983822
+gitd
+#1322983844
+git add .
+#1322983845
+gits
+#1322983851
+git reset nal-1.bmp 
+#1322983852
+gits
+#1322983890
+git commit -m '把rgb数据保存到bmp文件'
+#1322983892
+ma
+#1322983894
+mc
+#1322983920
+ma
+#1322983922
+./lesson11.exe 
+#1322983982
+ma
+#1322983984
+./lesson11.exe 
+#1322984013
+ma
+#1322984014
+./lesson11.exe 
+#1322984020
+ma
+#1322984030
+./lesson11.exe 
+#1322984044
+./lesson11-2.exe 
+#1322984150
+file nal-1.bmp 
+#1322984154
+xxd.sh nal-1.bmp 
+#1322984192
+bch2c 18
+#1322984212
+gits
+#1322984222
+gitd
+#1322984227
+gits
+#1322984228
+gitd
+#1322984231
+gits
+#1322984233
+ma
+#1322984234
+./lesson11-2.exe 
+#1322984239
+ex .
+#1322984299
+gits
+#1322984300
+mc
+#1322984958
+ma
+#1322984961
+./endian_test.exe 
+#1322984975
+gitlo endian_test.
+#1322984977
+gitlo endian_test.c 
+#1322984980
+gitlo endian_test.c endian_test.h 
+#1322991634
+ll ..
+#1322991645
+ls zip
+#1322991656
+cp zip/lesson27.tar.gz .
+#1322991662
+tar xvzf lesson27.tar.gz 
+#1322991669
+cd ztv5E/
+#1322991672
+cd Lesson27/
+#1322991675
+file Lesson27 
+#1322991678
+tar xvf Lesson27 
+#1322991685
+mv Lesson27/ ../../
+#1322991704
+mv Lesson27/ LESSON27/
+#1322991714
+rm lesson27.tar.gz ztv5E/ -rf
+#1322991719
+touch LESSON
+#1322991724
+touch LESSON27/
+#1322991730
+rm LESSON
+#1322991732
+gits
+#1322991735
+cd LESSON
+#1322991737
+cd LESSON27/
+#1322991741
+ma
+#1322991750
+g Lesson27.cpp 
+#1322991766
+ma
+#1322991801
+./Lesson27 
+#1322991842
+ll Data/
+#1322991847
+touch *
+#1322991863
+gits
+#1322991866
+mc
+#1322991868
+ma
+#1322991892
+mc
+#1322991892
+ma
+#1322991898
+mc
+#1322991903
+cat README 
+#1322991910
+gits
+#1322991913
+git add LESSON27
+#1322991915
+gits
+#1322991926
+git commit -m 'LESSON27'
+#1322991931
+mc
+#1322991934
+cd-
+#1322991941
+ma
+#1322991991
+ctagsc.sh 
+#1322992018
+./Lesson27 
+#1322992359
+ma
+#1322992361
+./Lesson27 
+#1322992383
+ma
+#1322992384
+./Lesson27 
+#1322997499
+cdm
+#1322997503
+ex .
+#1322997540
+cd TOOLS/1music/
+#1323008301
+date
+#1323010739
+gits
+#1323010741
+mc
+#1323010743
+gits
+#1323010744
+gitd
+#1323010760
+git commit -m 'some comment' 
+#1323010767
+cdl
+#1323010785
+cd books/c/opengl/opengl-blue/e4/src/examples/projects/linux/chapt09
+#1323010764
+git push origin master
+#1323010792
+cd sphereworld/
+#1323010794
+ma
+#1323010803
+./sphereworld 
+#1323010875
+cd chapt14
+#1323010877
+cd shadowmap/
+#1323010879
+ma
+#1323010885
+./shadowmap 
+#1323010975
+,y
+#1323011026
+cd,y
+#1323011027
+....
+#1323011033
+cd src/chapt14
+#1323011035
+cd shadowmap/
+#1323011038
+svnlv
+#1323011046
+svnlv .
+#1323011054
+svnlv
+#1323011069
+g shadowmap.cpp 
+#1323087226
+gits
+#1323087233
+gitdl
+#1323087249
+gits
+#1323087260
+cdl
+#1323087262
+cd books/
+#1323087254
+git push origin master
+#1323087269
+cd c/opengl/opengl-blue/
+#1323087275
+gits
+#1323087271
+svn up
+#1323087277
+gitlo.
+#1323087287
+cd LESSON27
+#1323087290
+gitd
+#1323087293
+ma
+#1323087298
+./Lesson27 
+#1323087873
+cd e4/src/examples/src/chapt14
+#1323087875
+,y
+#1323087876
+cd shadowmap/
+#1323087880
+cd,y
+#1323087881
+....
+#1323087888
+cd examples/projects/linux/chapt14
+#1323087890
+cd shadowmap/
+#1323087893
+mc
+#1323087894
+ma
+#1323087897
+./shadowmap 
+#1323088189
+svnlv
+#1323088198
+g shadowmap.cpp 
+#1323090644
+keynav 
+#1322997553
+mpg123 --title -C -Z *
+#1323099671
+gitd
+#1323099713
+git push origin master
+#1323099675
+svndl
+#1323099775
+vi co.log
+#1323099827
+svn commit -F ./co.log shadowmap.cpp 
+#1323099866
+fg
+#1322966669
+screen
+#1322984945
+mutt
+#1322984944
+screen
+#1323099882
+halt
+#1323176823
+ff&
+#1323176824
+keynav 
+#1323176856
+cdm
+#1323176858
+ex .
+#1323176871
+cd TOOLS/
+#1323176873
+cd 1music/
+#1323176877
+cd mp3
+#1323176909
+gvlc
+#1323176914
+gvht
+#1323177344
+scr
+#1323177351
+cdvcl
+#1323177357
+cdl
+#1323177362
+cd books/
+#1323177353
+git pull origin master
+#1323177364
+svn up
+#1323177377
+cd books/c/graph/NeHe/
+#1323177380
+cd LESSON
+#1323177383
+cd LESSON27/
+#1323177386
+gitlo.
+#1323177390
+ma
+#1323177391
+mc
+#1323177399
+cd c
+#1323177401
+cd opengl/
+#1323177404
+cd opengl-blue/
+#1323177410
+cd e4/src/examples/
+#1323177414
+,y
+#1323177415
+cd,y
+#1323177423
+cd projects/linux/chapt14
+#1323177425
+cd shadowmap/
+#1323177432
+cd src/chapt14/shadowmap/
+#1323177434
+ma
+#1323177438
+cat co.log 
+#1323177440
+mc
+#1323177441
+ma
+#1323177443
+./shadowmap 
+#1323177462
+g shadowmap.cpp 
+#1323177718
+cd chapt14
+#1323177722
+cd ../chapt12
+#1323177726
+cd select/
+#1323177727
+ma
+#1323177733
+./select 
+#1323177756
+cd moons/
+#1323177757
+ma
+#1323177762
+./moons 
+#1323177783
+s mars
+#1323177788
+cd planets/
+#1323177792
+ma
+#1323177797
+./planets 
+#1323177820
+,y
+#1323177491
+svnlv
+#1323177823
+jj
+#1323177828
+cd chapt12
+#1323177832
+cd planets/
+#1323177834
+g planets.cpp 
+#1323177934
+./planets 
+#1323178067
+cd moons/
+#1323178069
+./moons 
+#1323178317
+9ll
+#1323178327
+cp zip/lesson32.tar.gz .
+#1323178332
+tar xvzf lesson32.tar.gz 
+#1323178342
+mv lesson32 LESSON32
+#1323178345
+touch *
+#1323178349
+rm lesson32.tar.gz 
+#1323178351
+cd LESSON
+#1323178353
+cd LESSON32
+#1323178355
+ma
+#1323178374
+g lesson32.cpp 
+#1323178676
+ex .
+#1323178866
+cdx
+#1323178878
+mkdir LoveMyHome
+#1323178879
+cd LoveMyHome/
+#1323178886
+mv LoveMyHome/ ILoveMyHome/
+#1323178887
+cd ILoveMyHome/
+#1323178888
+ex .
+#1323178914
+chmodf .
+#1323178918
+ls src
+#1323178925
+cscopec.sh 
+#1323178926
+ctagsc.sh 
+#1323178931
+g -t main
+#1323178937
+g
+#1323179266
+file SetViewByMouse
+#1323179272
+fich SetViewByMouse
+#1323179342
+fich PositionCamera
+#1323179432
+fich ScreenToClient
+#1323179471
+fich GetCursorPos
+#1323176881
+mpg123 --title -C -Z *
+#1323179546
+cd mp3/
+#1323179596
+cscopecpp.sh 
+#1323179611
+ctagscpp.sh 
+#1323179727
+ex .
+#1323179844
+mc
+#1323179851
+chxx .
+#1323179859
+chmodd .
+#1323179862
+chmodf .
+#1323179865
+cd LESSON32
+#1323179868
+gits
+#1323179874
+gitd
+#1323179885
+gits
+#1323179889
+git add LESSON27
+#1323179890
+gits
+#1323179893
+git commit -m 'some comment' 
+#1323179895
+gits
+#1323179897
+git add .
+#1323179897
+gits
+#1323179908
+git commit -m 'LESSON32' 
+#1323179921
+cd LESSON11
+#1323179929
+ma
+#1323179933
+g endian_test.
+#1323179936
+g endian_test.c 
+#1323179948
+mc
+#1323179948
+ma
+#1323179953
+gits
+#1323179960
+rm endian_test.
+#1323179961
+rm endian_test.c
+#1323179962
+mc
+#1323179963
+ma
+#1323179965
+mc
+#1323179965
+ma
+#1323179971
+gits
+#1323179979
+git checkout endian_test.c
+#1323179980
+mc
+#1323179981
+ma
+#1323179982
+mc
+#1323179982
+ma
+#1323179989
+./lesson11-2.exe 
+#1323179997
+ex .
+#1323180003
+mc
+#1323180079
+cp lesson11.cpp fold-up.c
+#1323180082
+g fold-up.c 
+#1323183444
+fich glMatrixMode
+#1323183684
+ex ..
+#1323179553
+mpg123 --title -C -Z *
+#1323184005
+ff http://www.eecs.harvard.edu/~michaelm/postscripts/streamhash-Jul07.pdf
+#1323269825
+cdvcl
+#1323269829
+git pull origin master
+#1323269865
+cd books/c/graph/NeHe/LESSON11
+#1323269866
+ma
+#1323269868
+gits
+#1323269893
+rm fold-up.c 
+#1323269894
+gits
+#1323269896
+rm nal-1.bmp 
+#1323269897
+gits
+#1323269898
+mc
+#1323269902
+git pull origin master
+#1323269914
+git push origin master
+#1323270015
+ma
+#1323270020
+./fold_up.exe 
+#1323270034
+g fold_up.c
+#1323270122
+./fold_up.exe 
+#1323270151
+ma
+#1323270153
+./fold_up.exe 
+#1323270304
+ma
+#1323270305
+./fold_up.exe 
+#1323270318
+ma
+#1323270320
+./fold_up.exe 
+#1323270402
+ma
+#1323270403
+./fold_up.exe 
+#1323270475
+gitlo.
+#1323270486
+gitlo fold_up.c 
+#1323271767
+gitl
+#1323271804
+gitd b13a 71fd
+#1323271865
+gitls
+#1323271878
+mc
+#1323271881
+gitl
+#1323271889
+mc
+#1323271893
+gits
+#1323271896
+ma
+#1323271898
+./fold_up.exe 
+#1323274828
+ma
+#1323274832
+mc
+#1323274833
+ma
+#1323274838
+./fold_up.exe 
+#1323274889
+gits
+#1323274890
+mc
+#1323274891
+gits
+#1323274894
+git add fold_up.c 
+#1323274899
+git commit -m 'save' 
+#1323274906
+cdvcrc
+#1323274903
+git push origin master
+#1323274914
+cdvcl
+#1323274910
+git pull origin master
+#1323274916
+git push origin master
+#1323274938
+rm rt/home/scr/.kde/share/apps/okular/bookmarks.xml*
+#1323274939
+gits
+#1323274950
+gits
+#1323274944
+git pull origin master
+#1323274977
+gits
+#1323275002
+git add rt/home/scr/.kde/share/apps/okular/docdata/33162590.0H游戏编程精粹1.pdf.xml 
+#1323275003
+gits
+#1323275024
+git rt/home/scr/.kde/share/apps/okular/docdata/35858406.0D计算机图形学几何工具算法详解.pdf.xml 
+#1323275026
+gits
+#1323275034
+git commit -m 'pdf bookmark'
+#1323275047
+gits
+#1323275070
+g rt/home/scr/.kde/share/apps/okular/docdata/35858406.0D计算机图形学几何工具算法详解.pdf.xml 
+#1323275081
+rm rt/home/scr/.kde/share/apps/okular/docdata/35858406.0D计算机图形学几何工具算法详解.pdf.xml 
+#1323275085
+gits
+#1323275087
+git commit -m 'pdf bookmark'
+#1323275092
+gits
+#1323275101
+rm rt/home/scr/.kde/share/apps/okular/docdata/35858406.0D计算机图形学几何工具算法详解.pdf.xml 
+#1323275125
+git add rt/home/scr/.kde/share/apps/okular/docdata/35858406.0D计算机图形学几何工具算法详解.pdf.xml 
+#1323275133
+git checkout rt/home/scr/.kde/share/apps/okular/docdata/35858406.0D计算机图形学几何工具算法详解.pdf.xml 
+#1323275138
+gits
