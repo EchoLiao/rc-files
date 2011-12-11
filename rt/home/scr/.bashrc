@@ -12,7 +12,7 @@ fi
 #export CLASSPATH=$CLASSPATH:/media/N/l2this/.rt/book/lang/java/JSP/JSP_wlkfrmysj/src/chap07/mysql/mysql_gjt.jar
 
 ## 对所有用户都有效的环境变量保存在 /etc/profile 中.
-export PATH=$HOME/bin/rox-filer/ROX-Filer:$HOME/bin:$PATH
+export PATH=$HOME/bin/rox-filer/ROX-Filer:$HOME/bin:$PATH:$HOME/bin/nb
 export CATALINA_HOME=/usr/share/tomcat6/
 export EDITOR=vim #set for svn
 export SVN_EDITOR=vim #set for svn
@@ -261,8 +261,6 @@ alias lt='ls -ltr'              # sort by date
 alias lu='ls -lur'		# sort by access time
 alias lx='ls -X'
 alias mab='make -B'
-alias mab='make -B'
-alias mab='make -B'
 alias mac2='ifconfig eth0 down; ifconfig eth0 hw ether 00:1E:90:13:e0:26; ifconfig eth0 up'
 alias mac='sudo ifconfig eth0 down; ifconfig eth0 hw ether 00:1E:90:13:e0:25; ifconfig eth0 up; sudo service network restart; mentohust'
 alias mai='make install'
@@ -327,7 +325,6 @@ alias vht='vim /media/N/l2this/.rt/notes/note/bookmark/html.txt'
 alias vife00='vim /etc/sysconfig/network-scripts/ifcfg-eth0:0'
 alias vife0='vim /etc/sysconfig/network-scripts/ifcfg-eth0'
 alias vife1='vim /etc/sysconfig/network-scripts/ifcfg-eth1'
-alias vi='vim'
 alias vi='vim'
 alias vlc='vim /home/scr/.rt/linux/computor/tools/devel/cmd/cmd.txt'
 alias vns='vim /media/N/l2this/.rt/notes/note/lang/java/struts/struts-note.txt'
