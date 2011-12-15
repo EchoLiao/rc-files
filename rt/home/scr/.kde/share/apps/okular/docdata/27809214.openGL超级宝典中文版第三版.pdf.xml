@@ -231,21 +231,21 @@
  </pageList>
  <generalInfo>
   <history>
-   <oldPage viewport="617;C2:0.497433:0.79:1"/>
-   <oldPage viewport="618;C2:0.497433:0.209286:1"/>
-   <oldPage viewport="617;C2:0.497433:0.79:1"/>
-   <oldPage viewport="618;C2:0.497433:0.79:1"/>
-   <oldPage viewport="619;C2:0.497433:0.79:1"/>
-   <oldPage viewport="620;C2:0.497428:0.209286:1"/>
-   <oldPage viewport="619;C2:0.497433:0.209286:1"/>
    <oldPage viewport="618;C2:0.497433:0.375714:1"/>
    <oldPage viewport="617;C2:0.499487:0.79:1"/>
    <oldPage viewport="618;C2:0.49846:0.79:1"/>
-   <current viewport="619;C2:0.497433:0.537857:1"/>
+   <oldPage viewport="619;C2:0.496407:0.537857:1"/>
+   <oldPage viewport="611;C2:0.499487:0.649286:1"/>
+   <oldPage viewport="612"/>
+   <oldPage viewport="613"/>
+   <oldPage viewport="614"/>
+   <oldPage viewport="615"/>
+   <oldPage viewport="616"/>
+   <current viewport="617"/>
   </history>
   <views>
    <view name="PageView">
-    <zoom mode="0" value="1.22807"/>
+    <zoom mode="0" value="1.2281"/>
    </view>
   </views>
  </generalInfo>
