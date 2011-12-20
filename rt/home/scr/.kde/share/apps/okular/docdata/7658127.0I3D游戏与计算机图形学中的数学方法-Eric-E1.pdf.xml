@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/scr/.rt-notes/linux/computor/grath/books/0I3D游戏与计算机图形学中的数学方法/0I3D游戏与计算机图形学中的数学方法-Eric-E1.pdf">
+ <pageList>
+  <page number="162">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2011-12-20T22:39:51" uniqueName="okular-162-1" author="scr.Li" modifyDate="2011-12-20T22:39:51" color="#007eee">
+      <boundary l="0.721649" r="0.862014" b="0.879687" t="0.878567"/>
+     </base>
+     <line closed="1">
+      <point x="0.721649" y="0.879687"/>
+      <point x="0.862014" y="0.878567"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2011-12-20T22:39:54" uniqueName="okular-162-2" author="scr.Li" modifyDate="2011-12-20T22:39:54" color="#007eee">
+      <boundary l="0.0785091" r="0.103093" b="0.908226" t="0.907666"/>
+     </base>
+     <line closed="1">
+      <point x="0.0785091" y="0.907666"/>
+      <point x="0.103093" y="0.908226"/>
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+  <page number="163">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2011-12-20T22:41:17" uniqueName="okular-163-1" author="scr.Li" modifyDate="2011-12-20T22:41:17" color="#007eee">
+      <boundary l="0.398853" r="0.461916" b="0.231076" t="0.231076"/>
+     </base>
+     <line closed="1">
+      <point x="0.398853" y="0.231076"/>
+      <point x="0.461916" y="0.231076"/>
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
+ </pageList>
+ <generalInfo>
+  <history>
+   <oldPage viewport="168;C2:0.49959:0.980658:1"/>
+   <oldPage viewport="169;C2:0.499563:1.00624:1"/>
+   <oldPage viewport="170;C2:0.499524:0.0340314:1"/>
+   <oldPage viewport="169;C2:0.499563:0.00861045:1"/>
+   <oldPage viewport="168;C2:0.49959:0.0106813:1"/>
+   <oldPage viewport="167;C2:0.49959:0.00262544:1"/>
+   <oldPage viewport="166;C2:0.499529:0.974472:1"/>
+   <oldPage viewport="167;C2:0.49959:0.00262544:1"/>
+   <oldPage viewport="166;C2:0.499529:0.0237676:1"/>
+   <oldPage viewport="165;C2:0.5:0.995604:1"/>
+   <current viewport="166;C2:0.499529:0.763204:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="0" value="1.5"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>
