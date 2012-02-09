@@ -47,7 +47,7 @@ else
 fi
 ## history
 # see: bash_history.txt
-export HISTSIZE=100000
+export HISTSIZE=1000000
 export HISTTIMEFORMAT='%F %T ' #命令历史前显示时间
 export HISTFILE=/home/scr/.bash_history #设置历史命令存储的文件
 export HISTIGNORE='pwd:ls:lx:ls -ltr:ll:la:du:ds:df:h:..:l:j:sl:ip a:' #使用 HISTIGNORE 忽略历史中的特定命令
