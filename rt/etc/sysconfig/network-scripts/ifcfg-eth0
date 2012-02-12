@@ -1,0 +1,47 @@
+## Networking Interface
+#DEVICE='eth0'
+#BOOTPROTO=none
+#TYPE=Ethernet
+#DEFROUTE=yes
+#ONBOOT=yes
+
+##HWADDR=00:1E:90:13:E0:25
+#IPADDR=192.168.1.139
+
+#NETMASK=255.255.255.0
+#GATEWAY=192.168.1.1
+##DNS1=211.64.120.2
+#DNS1=8.8.8.8
+#DNS2=168.96.1.1
+#PREFIX=24
+##SEARCH=nuoerlz.com
+##DOMAIN=nuoerlz.com
+##NAME="System eth0"
+##UUID=5fb06bd0-0bb0-7ffb-45f1-d6edd65f3e03
+
+
+
+###################### 各变量详解 ####################################
+# DEVICE=name       其中, name是物理设备名.
+# TYPE=Ethernet     其中, 表示网络类型
+# DEFROUTE=yes
+# HWADDR=00:1E:90:13:E0:25
+# IPADDR=addr       其中, addr是IP地址.
+# NETMASK=mask      其中, mask是网络掩码值.
+# NETWORK=addr      其中, addr是网络地址.
+# BROADCAST=addr    其中, addr是广播地址.
+# GATEWAY=addr      其中, addr是网关地址.
+# ONBOOT=answer     其中, answer是yes(引导时激活设备)或no(引导时不激活设备)
+# USERCTL=answer    其中, answer是yes(非root用户可以控制该设备)或no
+# DNS1=8.8.8.8
+# DNS2=168.96.1.1
+# PREFIX=24
+# SEARCH=nuoerlz.com
+# DOMAIN=nuoerlz.com
+# NAME="System eth0"
+# UUID=5fb06bd0-0bb0-7ffb-45f1-d6edd65f3e03
+# BOOTPROTO=proto   其中, proto取下列值之一: none, 引导时不使用协议;
+                                        #    static 静态分配地址;
+                                        #    bootp, 使用BOOTP协议;
+                                        #    dhcp, 使用DHCP协议.
+######################################################################
