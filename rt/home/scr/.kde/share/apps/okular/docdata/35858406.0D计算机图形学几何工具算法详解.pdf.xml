@@ -4,21 +4,21 @@
  <pageList/>
  <generalInfo>
   <history>
-   <oldPage viewport="509;C2:0.49923:1:1"/>
-   <oldPage viewport="510;C2:0.49923:0.654139:1"/>
-   <oldPage viewport="511;C2:0.49923:0.654139:1"/>
-   <oldPage viewport="512;C2:0.49923:0.654139:1"/>
-   <oldPage viewport="513;C2:0.49923:0:1"/>
-   <oldPage viewport="512;C2:0.49923:0.654139:1"/>
-   <oldPage viewport="513;C2:0.49923:0:1"/>
-   <oldPage viewport="512;C2:0.499446:0.75098:1"/>
-   <oldPage viewport="513;C2:0.499446:0:1"/>
-   <oldPage viewport="512;C2:0.499446:1:1"/>
-   <current viewport="513;C2:0.499446:0:1"/>
+   <oldPage viewport="3;C2:0.499542:0.972777:1"/>
+   <oldPage viewport="4;C2:0.499542:0.765275:1"/>
+   <oldPage viewport="5;C2:0.499542:0.958813:1"/>
+   <oldPage viewport="6;C2:0.499542:0.351482:1"/>
+   <oldPage viewport="5;C2:0.499542:0.158086:1"/>
+   <oldPage viewport="4;C2:0.499542:0.365396:1"/>
+   <oldPage viewport="3;C2:0.499542:0.173019:1"/>
+   <oldPage viewport="2;C2:0.499542:0.764744:1"/>
+   <oldPage viewport="3;C2:0.499547:0.967723:1"/>
+   <oldPage viewport="4;C2:0.499547:-0.00358637:1"/>
+   <current viewport="3;C2:0.49926:0.643555:1"/>
   </history>
   <views>
    <view name="PageView">
-    <zoom mode="1" value="1.51541"/>
+    <zoom mode="1" value="1.13571"/>
    </view>
   </views>
  </generalInfo>

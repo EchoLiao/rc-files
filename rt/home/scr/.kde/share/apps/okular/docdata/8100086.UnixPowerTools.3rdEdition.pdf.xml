@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE documentInfo>
-<documentInfo url="/home/sre/.rt/book/tools/shell/UPT/e3/UnixPowerTools.3rdEdition.pdf">
+<documentInfo url="/home/scr/.rt/linux/computor/lang/shell/UPT/e3/UnixPowerTools.3rdEdition.pdf">
  <pageList/>
  <generalInfo>
   <history>
-   <oldPage viewport="861;C2:0:0:2"/>
-   <oldPage viewport="618;C2:0.499294:0.695415:1"/>
-   <oldPage viewport="619;C2:0.499441:0.759067:1"/>
-   <oldPage viewport="620;C2:0.499441:0.240069:1"/>
-   <oldPage viewport="619;C2:0.499441:1:1"/>
-   <oldPage viewport="620;C2:0.499441:0:1"/>
-   <oldPage viewport="619;C2:0.499441:0.240069:1"/>
-   <oldPage viewport="618;C2:0.499441:0.759067:1"/>
-   <oldPage viewport="619;C2:0.499441:0.759067:1"/>
-   <oldPage viewport="620;C2:0.499441:0:1"/>
-   <current viewport="619;C2:0.499441:1:1"/>
+   <oldPage viewport="620;C2:0.499529:0.849451:1"/>
+   <oldPage viewport="621;C2:0.499529:1.00484:1"/>
+   <oldPage viewport="622;C2:0.499529:0.615867:1"/>
+   <oldPage viewport="623;C2:0.499529:0.999619:1"/>
+   <oldPage viewport="624;C2:0.499529:0.0333333:1"/>
+   <oldPage viewport="623;C2:0.499529:-0.00800305:1"/>
+   <oldPage viewport="622;C2:0.499529:0.0269373:1"/>
+   <oldPage viewport="621;C2:0.499529:0.00782414:1"/>
+   <oldPage viewport="620;C2:0.499529:0.987179:1"/>
+   <oldPage viewport="621;C2:0.499529:0.0227273:1"/>
+   <current viewport="620;C2:0.499529:0.796703:1"/>
   </history>
   <views>
    <view name="PageView">
-    <zoom mode="1" value="1.46242"/>
+    <zoom mode="1" value="1.73366"/>
    </view>
   </views>
  </generalInfo>
