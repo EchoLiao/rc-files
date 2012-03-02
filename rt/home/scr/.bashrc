@@ -190,6 +190,7 @@ alias g='gvim 2>/dev/null'
 alias gitbc='git checkout'
 alias gitbcm='git checkout master'
 alias gitb='git branch'
+alias gitca='git commit --amend -F ./commit.log'    # 无须add即可提交最后一次修改, 若无修改则可重新编辑提交log.
 alias gitdc='git diff --cached'
 alias gitdc.='git diff --cached .'
 alias gitdf='git diff'
