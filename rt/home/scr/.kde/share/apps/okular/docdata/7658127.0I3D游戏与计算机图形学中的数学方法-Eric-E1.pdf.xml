@@ -40,7 +40,6 @@
  </pageList>
  <generalInfo>
   <history>
-   <oldPage viewport="168;C2:0.49959:0.980658:1"/>
    <oldPage viewport="169;C2:0.499563:1.00624:1"/>
    <oldPage viewport="170;C2:0.499524:0.0340314:1"/>
    <oldPage viewport="169;C2:0.499563:0.00861045:1"/>
@@ -50,7 +49,8 @@
    <oldPage viewport="167;C2:0.49959:0.00262544:1"/>
    <oldPage viewport="166;C2:0.499529:0.0237676:1"/>
    <oldPage viewport="165;C2:0.5:0.995604:1"/>
-   <current viewport="166;C2:0.499529:0.763204:1"/>
+   <oldPage viewport="166;C2:0.499529:0.763204:1"/>
+   <current viewport="163;C2:0.50041:0.175768:1"/>
   </history>
   <views>
    <view name="PageView">
