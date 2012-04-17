@@ -1,30 +1,31 @@
 #=========================================================================
 # http://dreamland.blog.51cto.com/417830/87510
 # http://home.ustc.edu.cn/~lixuebai/GNU/MuttConfig.html
+# man /usr/share/doc/mutt-1.5.21/manual.txt
 
 
-macro generic ,sm ":source $HOME/.muttrc\r"
-macro generic ,vm "!xterm -bg wheat -e gvim $HOME/.muttrc\r"
 
 # user
-set realname = "erlz nuo"
+set realname = "erlz.nuo"
 
 # folder & spool
-set spoolfile = ~/.Mail/inbox/nuoerlz.gmail/
-set folder    = ~/.Mail
-set tmpdir    = ~/.mutt/tmp
+set spoolfile = ~/.Mail/inbox/thunder/default/      # 启动mutt默认进入的邮箱
+set folder    = ~/.Mail                             # 信箱根目录
+set tmpdir    = ~/.mutt/tmp                         #
 
-set mbox_type = Maildir
-set mbox      = +inbox
-set record    = +sent
-set postponed = +postponed
+set mbox_type = Maildir                             # 设置为目录存储方式
+set mbox      = +inbox                              # 设置mbox(~/.Mail/inbox)
+set record    = +sent                               # 保存发送后的邮件(~/.Mail/sent)
+set postponed = +postponed                          #
 
-mailboxes \
-$MAIL \
-=inbox \
-=junkmail \
-=favorites \
-=archive
+#mailboxes \
+#$MAIL \
+#=inbox \
+#=junkmail \
+#=favorites \
+#=archive
+#mailboxes "=inbox/lcy3636.126"
+#mailboxes "=inbox/tge3636.126"
 
 # 退出时不在提示把信件从spool移动到的mbox文件
 set move = no
@@ -71,7 +72,7 @@ unignore headers from: to: cc: subject date reply-to:
 set header=no
 
 # set index
-set index_format="%4C %Z %{%y年%b%d}   %-20.20L (%?l?%4l&%4c?) %s"
+set index_format="%5C %Z %{%y年%b%d}   %-20.20L (%?l?%4l&%4c?) %s"
 
 #score
 #score "~N" +4    #新信件
@@ -83,7 +84,7 @@ set index_format="%4C %Z %{%y年%b%d}   %-20.20L (%?l?%4l&%4c?) %s"
 #sort
 set sort = 'threads'
 
-# 当用 thread 排序方式时, 我们对各个 thread 的相对排序顺序.
+# 当用 thread 排序方式时, 我们对各个 thread 的相对时间顺序.
 set sort_aux = 'reverse-last-date-received'
 
 # don't confirm when appending messages to a mailbox
@@ -92,6 +93,7 @@ set confirmappend = no
 # 禁止PAGE键切换到下一封信件
 set pager_stop = yes
 
+# 当行太长需要折行显示时, 按单词为边界折行, 而不是以屏幕边界为界限.
 set smart_wrap = yes
 
 # 当你在用 pager 看信件时, 在 index 留出多少行显示邮件列表?
@@ -162,56 +164,46 @@ set envelope_from = yes
 set encode_from = yes
 
 # send hook
-##所有我可能会用到的邮箱 
+##所有我可能会用到的邮箱
 send-hook  . 'set sendmail="/usr/local/msmtp/bin/msmtp"'
 alternates "nuoerlz@gmail.com|tge3636@126.com|lcy3636@126.com|liaocaiyuan@thunder.com.cn"
-set from="nuoerlz@gmail.com"    #默认的发信人 
-set use_from=yes                #mutt自动生成from地址 
-set use_from=yes                #mutt自动生成from地址 
-set reply_to=yes                #尽量使用原信中的reply-to, 对邮件列表尤其适用 
-set reverse_name=yes            #用哪个邮箱收的信, 就用哪个邮箱回信
-#send-hook  . 'set sendmail="/usr/local/msmtp/bin/msmtp"'
-### for tge3636@126.com
-#reply-hook '~t .*@126\.com$' 'my_hdr from:tge3636@126.com'
-#reply-hook '~t .*@126\.com$' 'my_hdr reply-to:tge3636@126.com'
-#send-hook  '~t .*@126\.com$' 'set sendmail="/usr/local/msmtp/bin/msmtp -a tge3636"'
-#send-hook  '~t .*@126\.com$' 'my_hdr from:tge3636@126.com'
-#send-hook  '~t .*@126\.com$' 'my_hdr reply-to:tge3636@126.com'
-### default
-#reply-hook . 'my_hdr from:nuoerlz@gmail.com'
-#reply-hook . 'my_hdr reply-to:nuoerlz@gmail.com'
-#send-hook  . 'set sendmail="/usr/local/msmtp/bin/msmtp"'
-#send-hook  . 'my_hdr from:nuoerlz@gmail.com'
-#send-hook  . 'my_hdr reply-to:nuoerlz@gmail.com'
+set from="nuoerlz@gmail.com"    # 默认的发信人
+set use_from=yes                # mutt自动生成from地址
+set reply_to=yes                # 尽量使用原信中的reply-to, 对邮件列表尤其适用
+set reverse_name=yes            # 用哪个邮箱收的信, 就用哪个邮箱回信
 
 # key binding
-macro index  ,ehd     ":set edit_headers=yes\r"
-macro index  ,ehn     ":set edit_headers=no\r"
-macro index  ,G       "!~/.getmail/getmail\n"   "Invoke getmail"
-macro pager  ,G       "!~/.getmail/getmail\n"   "Invoke getmail"
-macro index  ,gp      "c=postponed\r"
-macro index  ,gp      "c=postponed\r"
-macro index  ,gs      "c=sent\r"
-macro index  ,gs      "c=sent\r"
-macro index  ,gr      "c=trash\r"
-macro index  ,gr      "c=trash\r"
-macro index  ,gi      "c!\n:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz nuo\"\r"
-macro pager  ,gi      "c!\n:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz nuo\"\r"
-macro index  ,gl      "c=inbox/lcy3636.126\r:set from=lcy3636@126.com\r:set edit_headers=no\r:set realname=NuoErlz\r"
-macro pager  ,gl      "c=inbox/lcy3636.126\r:set from=lcy3636@126.com\r:set edit_headers=no\r:set realname=NuoErlz\r"
-macro index  ,gt      "c=inbox/tge3636.126\r:set from=tge3636@126.com\r:set edit_headers=no\r:set realname=NuoErlz\r"
-macro pager  ,gt      "c=inbox/tge3636.126\r:set from=tge3636@126.com\r:set edit_headers=no\r:set realname=NuoErlz\r"
-macro index  ,gh      "c=inbox/thunder\r:set from=liaocaiyuan@thunder.com.cn\r:set edit_headers=no\r:set realname=LiaoCaiYuan\r"
-macro pager  ,gh      "c=inbox/thunder\r:set from=liaocaiyuan@thunder.com.cn\r:set edit_headers=no\r:set realname=LiaoCaiYuan\r"
-
-macro index,pager ,ebl  ":set from=tge3636@126.com\r:set edit_headers=yes\r:set realname=NuoErlz\r"
-macro index,pager ,ebn  ":set from=nuoerlz@gmail.com\r:set edit_headers=yes\r:set realname=NuoErlz\r"
+macro index  ,gp                "c=postponed\r"
+macro index  ,gp                "c=postponed\r"
+macro index  ,gs                "c=sent\r"
+macro index  ,gs                "c=sent\r"
+macro index  ,gr                "c=trash\r"
+macro index  ,gr                "c=trash\r"
+macro index,pager ,G            "!~/.getmail/getmail\n"   "Invoke getmail"
+macro index,pager ,ebt          ":set from=tge3636@126.com\r:set edit_headers=yes\r:set realname=NuoErlz\r"
+macro index,pager ,ebn          ":set from=nuoerlz@gmail.com\r:set edit_headers=yes\r:set realname=erlz.nuo\r"
+macro index,pager ,ehd          ":set edit_headers=yes\r"
+macro index,pager ,ehn          ":set edit_headers=no\r"
+macro index,pager ,gdf          "c=inbox/default\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
+macro index,pager ,gid          "c=inbox/nuoerlz_gmail/default\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
+macro index,pager ,gig          "c=inbox/nuoerlz_gmail/news_G2G\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
+macro index,pager ,giv          "c=inbox/nuoerlz_gmail/list_devel\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
+macro index,pager ,gij          "c=inbox/nuoerlz_gmail/list_joke\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
+macro index,pager ,gld          "c=inbox/lcy3636_126/default\r:set from=lcy3636@126.com\r:set edit_headers=no\r:set realname=NuoErlz\r"
+macro index,pager ,gtd          "c=inbox/tge3636_126/default\r:set from=tge3636@126.com\r:set edit_headers=no\r:set realname=NuoErlz\r"
+macro index,pager ,ghd          "c=inbox/thunder/default\r:set from=liaocaiyuan@thunder.com.cn\r:set edit_headers=no\r:set realname=LiaoCaiYuan\r"
+macro index,pager ,gha          "c=inbox/thunder/anybody\r:set from=liaocaiyuan@thunder.com.cn\r:set edit_headers=no\r:set realname=LiaoCaiYuan\r"
+macro index,pager,generic ,sm   ":source $HOME/.muttrc\r"
+macro index,pager,generic ,vm   "!xterm -bg wheat -e gvim $HOME/.muttrc\r"
 
 ## 告诉 Mutt 你已经订阅了那些邮件列表(mailing-list).
 subscribe websites@lists.fedoraproject.org|chinese@lists.fedoraproject.org|linux-kernel@vger.kernel.org
 
-#End of muttrc, but it could be more and more and more:)
+#End of muttrc
 #=========================================================================
+
+
+
 
 #macro generic ,sm ":source $HOME/.muttrc\r"
 #set tmpdir = ~/.mutt/tmp/
