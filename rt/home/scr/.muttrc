@@ -33,6 +33,9 @@ set move = no
 # 当你按q退出时, 是否提示你(ask-yes,ask-no)
 set quit=ask-yes
 
+# 快捷键超时时间
+set timeout = 600
+
 # locale
 set charset = UTF-8
 set locale  = zh_CN.UTF-8
@@ -61,8 +64,6 @@ set to_chars=" +TCFL"
 # 增加垃圾箱, 虽然不是很完善
 folder-hook . 'macro index d "s$folder/trash\r"'
 folder-hook $folder/trash 'bind index d delete-message'
-
-alternative_order text/plain text/html *
 
 # Set header
 ignore headers *
@@ -123,7 +124,6 @@ set attach_format = "%u%D%I %t%4n %T%.40d%> [%.7m/%.10M, %.6e%?C?, %C?, %s] "
 set attach_sep = "\n"
 set attach_split = yes
 
-#alternative_order text/plain text/html *
 alternative_order text/enriched text/plain text application/postscript image/*
 
 # Colors
@@ -131,7 +131,7 @@ alternative_order text/enriched text/plain text application/postscript image/*
 #----- ------------ --------------- ---------
 #color hdrdefault   black           cyan     # 邮件头颜色
 #color quoted       blue            white    # 引文颜色
-#color signature    brightblack     white
+ color signature    brightgreen     white
  color indicator    brightwhite     magenta
  color attachment   black           green
 #color error        red             white
@@ -163,6 +163,9 @@ set include = yes
 set envelope_from = yes
 set encode_from = yes
 
+# signature
+set signature = ~/.mutt/.signature.nuoerlz.gmail
+
 # send hook
 ##所有我可能会用到的邮箱
 send-hook  . 'set sendmail="/usr/local/msmtp/bin/msmtp"'
@@ -185,10 +188,15 @@ macro index,pager ,ebn          ":set from=nuoerlz@gmail.com\r:set edit_headers=
 macro index,pager ,ehd          ":set edit_headers=yes\r"
 macro index,pager ,ehn          ":set edit_headers=no\r"
 macro index,pager ,gdf          "c=inbox/default\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
+macro index,pager ,gic          "c=inbox/nuoerlz_gmail/list_cpp\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
 macro index,pager ,gid          "c=inbox/nuoerlz_gmail/default\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
+macro index,pager ,gie          "c=inbox/nuoerlz_gmail/list_eng\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
+macro index,pager ,gif          "c=inbox/nuoerlz_gmail/list_fedora\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
 macro index,pager ,gig          "c=inbox/nuoerlz_gmail/news_G2G\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
-macro index,pager ,giv          "c=inbox/nuoerlz_gmail/list_devel\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
 macro index,pager ,gij          "c=inbox/nuoerlz_gmail/list_joke\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
+macro index,pager ,gim          "c=inbox/nuoerlz_gmail/list_vim\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
+macro index,pager ,gis          "c=inbox/nuoerlz_gmail/list_shlug\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
+macro index,pager ,giv          "c=inbox/nuoerlz_gmail/list_devel\r:set from=nuoerlz@gmail.com\r:set edit_headers=no\r:set realname=\"erlz.nuo\"\r"
 macro index,pager ,gld          "c=inbox/lcy3636_126/default\r:set from=lcy3636@126.com\r:set edit_headers=no\r:set realname=NuoErlz\r"
 macro index,pager ,gtd          "c=inbox/tge3636_126/default\r:set from=tge3636@126.com\r:set edit_headers=no\r:set realname=NuoErlz\r"
 macro index,pager ,ghd          "c=inbox/thunder/default\r:set from=liaocaiyuan@thunder.com.cn\r:set edit_headers=no\r:set realname=LiaoCaiYuan\r"
