@@ -221,7 +221,7 @@ alias gto='gnome-terminal --hide-menubar --geometry=100x32 --working-directory=~
 alias gtw='gnome-terminal --hide-menubar --geometry=100x32 --working-directory=~ --title=GOT'
 alias gvbkf='gvim /home/scr/bin/bk/app_new_filelists.txt'
 alias gvbs='gvim ~/.bashrc'
-alias gvfi='gvim /home/scr/.rt-notes/linux/computor/sysconf/02files_introduce.txt'
+alias gvfi='gvim /home/sre/.rt/vercol/git/rt-notes/linux/computor/sysconf/02files_introduce.txt'
 alias gvfl='gvim /media/N/l2this/.rt/notes/soft/yum/fedora_log.txt'
 alias gvhi='gvim ~/.bash_history'
 alias gvhosts='gvim /etc/hosts'
