@@ -1,0 +1,62 @@
+#!/bin/sh
+
+## 定时收取邮件
+# $ crontab -e
+#   0,10,20,32,40,50 * * * *  /home/scr/.getmail/getmail
+
+
+logf=~/.getmail/getmail.crontab.log
+logoutf=~/.getmail/getmail.out.log
+#datecmd=`date "+%Y-%m-%d %H:%M:%S %w"`
+delay=10
+nmaxwait=2
+ncurwait=0
+waitfile=/tmp/getmail_1234_3234_442_tmp_sf.lock.tmp.lock
+
+
+[ ! -e $waitfile ] && {
+    echo "$nmaxwait" > $waitfile
+}
+
+ncurwait=`head -1 $waitfile`
+pid=`ps aux | grep --color=never '/usr/bin/getmail.*getmailrc.*' | grep --color=never -v grep | awk '{print $2}'`
+if (( $ncurwait < $nmaxwait )); then    ## 等待上一次的getmail完成后, 才启动新的;
+    [[ ! -z $pid ]] && {
+        echo "[`date "+%Y-%m-%d %H:%M:%S %w"`]  lastpid:$pid, nwait:$ncurwait, nmaxwait:$nmaxwait, getmail is waiting last getmail exit!" | tee -a $logf
+        ((ncurwait++)) #ncurwait=$(($ncurwait+1)) #ncurwait=`expr $ncurwait + 1`
+        echo $ncurwait > $waitfile
+        exit 1
+    }
+else                                    ## 若上一次的getmail没完成, 则先kill掉然后启动新的.
+    [[ ! -z $pid ]] && {
+        kill -9 $pid
+        sleep 1
+        echo "[`date "+%Y-%m-%d %H:%M:%S %w"`]  lastpid:$pid, nwait:$ncurwait, nmaxwait:$nmaxwait, getmail will restart in $delay seconds ..." | tee -a $logf
+        echo "0" > $waitfile
+        sleep $delay
+    }
+fi
+
+[[ -z $pid ]] && {
+    echo "[`date "+%Y-%m-%d %H:%M:%S %w"`]  no getmail running, nwait:0, nmaxwait:$nmaxwait, getmail will start in $delay seconds ..." | tee -a $logf
+    echo "0" > $waitfile
+    sleep $delay
+}
+
+
+echo "==============================[`date "+%Y-%m-%d %H:%M:%S %w"`]=========================" >> $logoutf
+#/usr/bin/getmail -v -a \
+/usr/bin/getmail -v -n \
+        -r ~/.getmail/getmailrc.tge3636.126 \
+        -r ~/.getmail/getmailrc.lcy3636.126 \
+        -r ~/.getmail/getmailrc.nuoerlz.gmail \
+        >> $logoutf 2>&1
+        #-r ~/.getmail/getmailrc.thunder \
+
+[[ $? == 0 ]] && echo "[`date "+%Y-%m-%d %H:%M:%S %w"`]  current getmail session is terminal." | tee -a $logf
+[[ $? != 0 ]] && echo "[`date "+%Y-%m-%d %H:%M:%S %w"`]  current getmail session is abort!" | tee -a $logf
+echo "==================[END]=======[`date "+%Y-%m-%d %H:%M:%S %w"`]=========================" >> $logoutf
+echo "0" > $waitfile
+
+
+exit 0

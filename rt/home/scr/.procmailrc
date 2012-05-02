@@ -1,0 +1,139 @@
+############################################################
+############# Help #############
+#
+#  $ man procmailrc
+#
+############# Help #############
+
+
+
+
+PATH=/bin:/sbin:/usr/bin:/usr/sbin
+SHELL=/bin/bash
+MAILDIR=/home/scr/.Mail/inbox/
+DEFAULT=$MAILDIR/default/
+LOGFILE=$MAILDIR/.procmaillog
+#FORMAIL=/usr/bin/formail
+#VERBOSE=on     # 只在调试时使用
+
+
+
+
+############################################################
+############# @thunder.com.cn #############
+:0
+* ^From:.*jiaqiuling@thunder\.com\.cn.*
+thunder/anybody/
+
+:0
+* .*liaocaiyuan@thunder\.com\.cn.*
+thunder/default/
+
+
+
+############################################################
+############# @126.com #############
+:0
+* ^(To|Cc):.*lcy3636@126\.com.*
+lcy3636_126/default/
+
+:0
+* ^(To|Cc):.*tge3636@126\.com.*
+tge3636_126/default/
+
+:0
+* .*lcy3636@126\.com.*
+lcy3636_126/default/
+
+:0
+* .*tge3636@126\.com.*
+tge3636_126/default/
+
+
+
+############################################################
+############# @gmail.com #############
+:0
+* ^(To|Cc):.*(english365)@googlegroups\.com.*
+nuoerlz_gmail/list_eng/
+
+:0
+* ^(To|Cc):.*(dailyjoke|jackyqiu|truthlove)@googlegroups\.com.*
+nuoerlz_gmail/list_joke/
+
+:0
+* ^Reply-To:.*(googroup)@googlegroups\.com.*
+nuoerlz_gmail/news_G2G/
+:0
+* ^(To|Cc):.*(williamlong|bsxr0815|ebc-cm|googlebookworm|nkerick-daily|\
+        kalejin)@googlegroups\.com.*
+nuoerlz_gmail/news_G2G/
+
+:0
+* ^Subject: .*(HOT HOT |IMMED NEED|immed need).*
+nuoerlz_gmail/list_hot/
+:0
+* ^From: .*(hr|Hr|HR)\.(com|cn|org|us|uk|net).*
+nuoerlz_gmail/list_hot/
+
+:0
+* ^(To|Cc):.*shlug@googlegroups\.com.*
+nuoerlz_gmail/list_shlug/
+
+:0
+* ^(To|Cc):.*(comp.lang.c|de.comp.lang.iso-c++)@googlegroups\.com.*
+nuoerlz_gmail/list_cpp/
+
+:0
+* ^(To|Cc):.*vim\.org.*
+nuoerlz_gmail/list_vim/
+:0
+* ^(To|Cc):.*(vim_use|vim-cn)@googlegroups\.com.*
+nuoerlz_gmail/list_vim/
+:0
+* ^(To|Cc):.*(taglist)@yahoogroups\.com.*
+nuoerlz_gmail/list_vim/
+
+:0
+* ^(To|Cc):.*fedoraproject\.org.*
+nuoerlz_gmail/list_fedora/
+:0
+* ^(To|Cc):.*(xiyoulinux)@googlegroups\.com.*
+nuoerlz_gmail/list_fedora/
+
+:0
+* ^Reply-To:.*(yqing|fhxu)@googlegroups\.com.*
+nuoerlz_gmail/list_av/
+
+:0
+* ^From:.*service@51cto\.com.*
+nuoerlz_gmail/list_ad/
+
+:0
+* ^From: .*(xxx |support@eoemobile\.net|sap@mailsap\.com|educationfirst@ef\.com).*
+/dev/null
+:0
+* ^(To|Cc): .*(undisclosed-recipients:|undisclosed recipients:|minggong_jjz@hotmail\.com|\
+        unliste-recipients:).*
+/dev/null
+:0
+* ^Subject:.*(credit|cash|money|debt|sex|sale|loan)
+/dev/null
+
+:0
+* ^(To|Cc):.*(googlegroups\.com|mutt\.org|kernel\.org).*
+nuoerlz_gmail/list_devel/
+
+:0
+* .*nuoerlz@gmail\.com.*
+nuoerlz_gmail/default/
+
+
+
+############################################################
+############# default #############
+# 最后一条规则: 将到达这的邮件送到默认邮箱
+:0
+* .*
+default/
+
