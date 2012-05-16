@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE documentInfo>
-<documentInfo url="/home/scr/.rt/linux/computor/tools/editor/metapost/metapost.pdf">
+<documentInfo url="/home/sre/.rt/book/tools/metapost/metapost.pdf">
  <pageList/>
  <generalInfo>
   <history>
-   <oldPage viewport="254"/>
-   <oldPage viewport="10"/>
-   <oldPage viewport="18"/>
-   <oldPage viewport="55"/>
    <oldPage viewport="3;C2:0.499522:-0.000378215:1"/>
    <oldPage viewport="2;C2:0.499522:0.0802515:1"/>
    <oldPage viewport="1;C2:0.499522:0.130578:1"/>
-   <current viewport="0;C2:0.499522:0.233791:1"/>
+   <oldPage viewport="0;C2:0.499501:0.750196:1"/>
+   <oldPage viewport="1;C2:0.499501:0.750196:1"/>
+   <oldPage viewport="2;C2:0.499501:0.750196:1"/>
+   <oldPage viewport="3;C2:0.499501:0.750196:1"/>
+   <oldPage viewport="4;C2:0.499501:0.750196:1"/>
+   <oldPage viewport="5;C2:0.499501:0.750196:1"/>
+   <oldPage viewport="6;C2:0.499501:0.750196:1"/>
+   <current viewport="7;C2:0.499501:0.578947:1"/>
   </history>
   <views>
    <view name="PageView">
-    <zoom mode="1" value="1.75966"/>
+    <zoom mode="1" value="1.68403"/>
    </view>
   </views>
  </generalInfo>
