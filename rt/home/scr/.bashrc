@@ -74,6 +74,7 @@ export GREP_COLOR='1;32'
 #/media/N/l2this/.rt
 
 alias arp1='arp -n | sort | grep "1\."'
+alias c='cat'
 alias ,,='cd ..'
 alias ,,,='cd ../../'
 alias ,,,,='cd ../../../'
@@ -446,6 +447,20 @@ function bch2b()
 {
     hex=`echo "$1" | tr a-z A-Z`
     echo "ibase=16; obase=2; $hex" | bc
+}
+
+function mv2,y()
+{
+    dst=`head -1 /tmp/pwd2vim.tmp`
+
+    mv "$@" "$dst"
+}
+
+function cp2,y()
+{
+    dst=`head -1 /tmp/pwd2vim.tmp`
+
+    mv "$@" "$dst"
 }
 
 function chmodd()
