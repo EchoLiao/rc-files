@@ -164,6 +164,7 @@ alias df='date >> /tmp/df.tmp.log; df -h >> /tmp/df.tmp.log;echo >> /tmp/df.tmp.
 alias ds='du -hs'
 alias du='du -h'
 alias e='e.sh'
+alias exc='nautilus computer:///'
 alias ex='nautilus'
 alias exv='nautilus trash:'
 alias fd='fdisk -l'
