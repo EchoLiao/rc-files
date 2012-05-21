@@ -167,7 +167,7 @@ alias e='e.sh'
 alias ex='nautilus'
 alias exv='nautilus trash:'
 alias fd='fdisk -l'
-alias ffbs='firefox /home/scr/.rt/linux/computor/lang/shell/bash/abs-guide/abs-guide/HTML/index.html'
+alias ffbs='firefox /home/sre/.rt/notes/note/linux/note/cmd/shell/abs-guide/HTML/index.html'
 alias ff='firefox 2>/dev/null'
 alias fflatex='firefox /media/N/l2this/.rt/book/tools/latex/edt1023.sayya.org/tex/latex123/index.html'
 alias ffsvn='firefox /media/N/l2this/.rt/notes/note/develop/svn/svn-book-html/svn-book.html'
@@ -460,7 +460,7 @@ function cp2,y()
 {
     dst=`head -1 /tmp/pwd2vim.tmp`
 
-    mv "$@" "$dst"
+    cp "$@" "$dst"
 }
 
 function chmodd()
