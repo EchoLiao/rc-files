@@ -36,6 +36,12 @@ export  LC_MEASUREMENT="zh_CN.UTF-8";
 export  LC_IDENTIFICATION="zh_CN.UTF-8";
 export  LC_ALL=
 
+export  MY_RT="/home/scr/.rt"
+export  MY_VCRT="/home/scr/.vercol/git/rt-notes"
+export  MY_VCRC="/home/scr/.vercol/git/rc-files"
+export  MY_VCL="/home/scr/.vercol/git/lang"
+
+
 ## 命令提示符
 #export PS1='[\!\#\u\$\\\d\h\n\nnn\s\t\W\w]$'
 if [ `whoami` == "root" ]; then
@@ -140,16 +146,16 @@ alias cdtrash='cd /home/scr/.local/share/Trash/files'
 alias cdue3='cd /media/N/l2this/.rt/book/tools/shell/UPT/e3'
 alias cdun='cd /media/N/l2this/.rt/book/TCP-IP/unpv1/unpv13e/src/unpv13e'
 alias cdv='cd /usr/local/share/vim'
-alias cdvclbc='cd ~/.rt/vercol/git/lang/books/c/graph/CGwO.Hearn'
-alias cdvcl='cd ~/.rt/vercol/git/lang'
-alias cdvcrc='cd ~/.rt/vercol/git/rc-files'
-alias cdvcrtbo='cd /home/scr/.rt/vercol/git/rt-notes/linux/computor'
-alias cdvcrtbot='cd /home/scr/.rt/vercol/git/rt-notes/linux/computor/tools'
-alias cdvcrt='cd ~/.rt/vercol/git/rt-notes'
+alias cdvclbc='cd ~/.vercol/git/lang/books/c/graph/CGwO.Hearn'
+alias cdvcl='cd ~/.vercol/git/lang'
+alias cdvcrc='cd ~/.vercol/git/rc-files'
+alias cdvcrtbo='cd /home/scr/.vercol/git/rt-notes/linux/computor'
+alias cdvcrtbot='cd /home/scr/.vercol/git/rt-notes/linux/computor/tools'
+alias cdvcrt='cd ~/.vercol/git/rt-notes'
 alias cdvf='cd /usr/local/share/vim/vimfiles/'
 alias cdvmn='cd /media/N/l2this/.rt/book/tools/vm/note/'
 alias cdvp='cd /usr/local/share/vim/vimfiles/plugin/'
-alias cdvrf='cd /home/scr/.rt/vercol/git/rc-files'
+alias cdvrf='cd /home/scr/.vercol/git/rc-files'
 alias cdvt='cd /media/F/notes/blog/vim/01tutorial'
 alias cdx='cd /home/scr/xiazai'
 alias cd,y='cd `cat /tmp/pwd2vim.tmp`'
@@ -225,15 +231,15 @@ alias gto='gnome-terminal --hide-menubar --geometry=100x32 --working-directory=~
 alias gtw='gnome-terminal --hide-menubar --geometry=100x32 --working-directory=~ --title=GOT'
 alias gvbkf='gvim /home/scr/bin/bk/app_new_filelists.txt'
 alias gvbs='gvim ~/.bashrc'
-alias gvfi='gvim /home/sre/.rt/vercol/git/rt-notes/linux/computor/sysconf/02files_introduce.txt'
+alias gvfi='gvim /home/sre/.vercol/git/rt-notes/linux/computor/sysconf/02files_introduce.txt'
 alias gvfl='gvim /media/N/l2this/.rt/notes/soft/yum/fedora_log.txt'
 alias gvhi='gvim ~/.bash_history'
 alias gvhosts='gvim /etc/hosts'
 alias gvht='gvim /home/scr/.rt/linux/computor/bookmark/html.txt'
 alias gvim='gvim 2>/dev/null'
 alias gvip='gvim /etc/sysconfig/network-scripts/ifcfg-eth0'
-alias gvlc='gvim /home/scr/.rt/linux/computor/tools/devel/cmd/cmd.txt'
-alias gvnbl='gvim /home/scr/.rt/vercol/git/lang/blog/nb-viki.list'
+alias gvlc='gvim /home/scr/.vercol/git/rt-notes/linux/computor/tools/devel/cmd/cmd.txt'
+alias gvnbl='gvim /home/scr/.vercol/git/lang/blog/nb-viki.list'
 alias gvnbt='gvim /home/scr/.rt/lang/shell/nb/nb-create_tag.sh'
 alias gvnc='gvim /media/N/l2this/.rt/notes/note/network/cmd_network.txt'
 alias gvns='gvim /media/N/l2this/.rt/notes/note/lang/java/struts/struts-note.txt'
@@ -337,7 +343,7 @@ alias vife0='vim /etc/sysconfig/network-scripts/ifcfg-eth0'
 alias vife1='vim /etc/sysconfig/network-scripts/ifcfg-eth1'
 alias vi='vim'
 alias vlc='vim /home/scr/.rt/linux/computor/tools/devel/cmd/cmd.txt'
-alias vnbl='vim /home/scr/.rt/vercol/git/lang/blog/nb-viki.list'
+alias vnbl='vim /home/scr/.vercol/git/lang/blog/nb-viki.list'
 alias vnbt='vim /home/scr/.rt/lang/shell/nb/nb-create_tag.sh'
 alias vns='vim /media/N/l2this/.rt/notes/note/lang/java/struts/struts-note.txt'
 alias vnt='vim /home/scr/.rt/linux/note.txt'
@@ -548,6 +554,59 @@ function dtree()
     dir=${1:-.}
     (cd $dir; pwd)
     find $dir -type d -print 2>/dev/null | awk '!/\.$/ {for (i=1;i<NF;i++){d=length($i);if ( d < 5 && i != 1 )d=5;printf("%"d"s","|")}print "---"$NF}' FS='/'
+}
+
+function rt2vcrt()
+{
+    local i max
+    max=$#
+    opwd=`pwd -P`
+
+    for (( i=1; i <= $max; i++ )); do
+        srcfile1=$opwd/$1
+        srcfile1=${srcfile1%/}
+        srcfile2=${srcfile1#*/\.rt/}
+        dstfile1=$MY_VCRT/$srcfile2
+        dstpath1=${dstfile1%/*}
+        mkdir -p "$dstpath1"
+        ln -s "$srcfile1" "$dstfile1"
+        echo "$srcfile1     ==>    $dstfile1"
+        shift
+    done
+}
+
+function vcrt2rt()
+{
+    local i max
+    max=$#
+    opwd=`pwd -P`
+
+    for (( i=1; i <= $max; i++ )); do
+        srcfile1=$opwd/$1
+        srcfile1=${srcfile1%/}
+        srcfile2=${srcfile1#*.vercol/git/rt-notes/}
+        dstfile1=$MY_RT/$srcfile2
+        dstpath1=${dstfile1%/*}
+        mkdir -p "$dstpath1"
+        mv "$srcfile1" "$dstfile1"
+        ln -s "$dstfile1" "$srcfile1"
+        echo "$dstfile1     ==>    $srcfile1"
+        shift
+    done
+}
+
+function togrtvcrt()
+{
+    opwd=`pwd -P`
+    path1="$opwd"
+    path2=${path1#*.vercol/git/rt-notes/}
+    if [[ $path1 != $path2 ]]; then # now, in vcrt
+        cd "$MY_RT/$path2"
+    else                            # new, in rt
+        path2=${path1#*/\.rt/}
+        cd "$MY_VCRT/$path2"
+    fi
+    pwd -P
 }
 
 function repeat()       # repeat n times command
