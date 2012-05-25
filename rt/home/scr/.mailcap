@@ -5,3 +5,8 @@ text/html; lynx --dump %s; nametemplate=%s.html; copiousoutput
 # 在 mutt 中查看 msword
 application/msword; wvHtml --charset=gb2312 %s - | lynx --dump -stdin; nametemplate=%s.html; copiousoutput
 
+
+# 图片
+#image/*;        xv %s
+image/*;        eog %s
+
