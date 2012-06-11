@@ -20,7 +20,7 @@ export SVN_EDITOR=vim #set for svn
 export XMODIFIERS="@im=fcitx"
 export GTK_IM_MODULE=xim
 export VIM=/usr/local/share/vim
-
+export PYTHONPATH=/home/scr/.vercol/git/django/root/Django-1.0.4
 export  LANG=zh_CN.UTF-8;
 export  LC_CTYPE="zh_CN.UTF-8";
 export  LC_NUMERIC="zh_CN.UTF-8";
@@ -196,6 +196,7 @@ alias gedit='gedit 2>/dev/null'
 alias ge='gedit 2>/dev/null'
 alias g='gvim 2>/dev/null'
 alias gita='git add'
+alias gita.='git add .'
 alias gitbc='git checkout'
 alias gitbcm='git checkout master'
 alias gitb='git branch'
@@ -307,6 +308,7 @@ alias po='popd'
 alias p='ping'
 alias pu='pushd'
 alias pwdp='pwd -P'
+alias py='python'
 alias r6='route -A inet6'
 alias rasun='route add -net 172.18.13.0/24 gw sun'
 alias rn6='route -n -A inet6'
