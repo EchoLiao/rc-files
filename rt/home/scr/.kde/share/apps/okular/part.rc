@@ -117,5 +117,6 @@
   <Action shortcut="V" name="mouse_textselect"/>
   <Action shortcut="G" name="first_page"/>
   <Action shortcut="Ctrl+B" name="go_previous"/>
+  <Action shortcut="S" name="mouse_drag"/>
  </ActionProperties>
 </kpartgui>
