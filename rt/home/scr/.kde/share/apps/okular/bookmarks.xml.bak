@@ -452,7 +452,7 @@
    </info>
   </bookmark>
   <bookmark href="file:///home/scr/.vercol/git/rt-notes/linux/computor/lang/python/04Django-Web%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf#136">
-   <title>#137</title>
+   <title>#137--7</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name="application-pdf"/>
@@ -904,6 +904,17 @@
   </bookmark>
   <bookmark href="file:///home/scr/.vercol/git/rt-notes/linux/computor/OS/ios/01iPhone%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/iPhone%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf#390">
    <title>#391-Book</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/sre/.vercol/git/rt-notes/linux/computor/lang/python/10%E4%B8%AD%E6%96%87%E7%89%88django-book.pdf">
+  <title>/home/sre/.vercol/git/rt-notes/linux/computor/lang/python/10中文版django-book.pdf</title>
+  <bookmark href="file:///home/sre/.vercol/git/rt-notes/linux/computor/lang/python/10%E4%B8%AD%E6%96%87%E7%89%88django-book.pdf#31">
+   <title>#32</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name="application-pdf"/>

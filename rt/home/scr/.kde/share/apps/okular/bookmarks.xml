@@ -911,4 +911,23 @@
    </info>
   </bookmark>
  </folder>
+ <folder href="file:///home/sre/.vercol/git/rt-notes/linux/computor/lang/python/10%E4%B8%AD%E6%96%87%E7%89%88django-book.pdf">
+  <title>/home/sre/.vercol/git/rt-notes/linux/computor/lang/python/10中文版django-book.pdf</title>
+  <bookmark href="file:///home/sre/.vercol/git/rt-notes/linux/computor/lang/python/10%E4%B8%AD%E6%96%87%E7%89%88django-book.pdf#31">
+   <title>#32</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/sre/.vercol/git/rt-notes/linux/computor/lang/python/10%E4%B8%AD%E6%96%87%E7%89%88django-book.pdf#37">
+   <title>#38</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name="application-pdf"/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
 </xbel>
