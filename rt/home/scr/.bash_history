@@ -100274,3 +100274,49796 @@ git add rt/home/scr/.kde/share/apps/okular/docdata/35858406.0D计算机图形学
 git checkout rt/home/scr/.kde/share/apps/okular/docdata/35858406.0D计算机图形学几何工具算法详解.pdf.xml 
 #1323275138
 gits
+#1323275147
+git commit -a -m 'pdf bookmark'
+#1323275149
+gits
+#1323275156
+git pull origin master
+#1323275165
+gits
+#1323275169
+git push origin master
+#1323275182
+gitlo.
+#1323275197
+mc
+#1323275216
+cd .aMule/
+#1323275229
+chmod 777 .aMule/
+#1323275234
+cd .aMule/
+#1323275236
+ex .
+#1323276451
+chmod 000 .aMule/
+#1323275217
+su
+#1323347848
+ex .
+#1323347970
+cd tmp/
+#1323347994
+mkdir ruijie2XuSuoBo
+#1323347996
+cd ruijie2XuSuoBo/
+#1323347998
+ex .
+#1323348004
+lll
+#1323348007
+ll ccproxy/
+#1323348011
+ll mentohust/
+#1323348017
+ex .
+#1323348053
+rm -rf mentohust/
+#1323348059
+cd ruijie2XuSuoBo/
+#1323348109
+mkdir A-破解锐捷-共享上网方案
+#1323348115
+mv * A-破解锐捷-共享上网方案/
+#1323348131
+zip A-破解锐捷-共享上网方案.zip A-破解锐捷-共享上网方案/*
+#1323348139
+g A-破解锐捷-共享上网方案.zip 
+#1323348153
+ll A-破解锐捷-共享上网方案
+#1323349001
+pg send
+#1323351730
+fcitx --version
+#1323351736
+m fcitx
+#1323351771
+cdvcrtbot 
+#1323351775
+cd input/
+#1323351778
+cd fcitx/
+#1323351791
+vi install-
+#1323351795
+vi install-readme 
+#1323351806
+cdrt
+#1323351816
+cd linux/computor/tools/input/fcitx/
+#1323351847
+cat tables.conf 
+#1323351849
+vi tables.conf 
+#1323351856
+vi config 
+#1323351864
+fcitx -h
+#1323351875
+fcitx -v
+#1323353492
+git pull origin master
+#1323353534
+cp zip/lesson39.tar.gz .
+#1323353543
+tar xvzf lesson39.tar.gz 
+#1323353549
+rm lesson39.tar.gz 
+#1323353556
+mv lesson39/ LESSON39/
+#1323353558
+touch *
+#1323353561
+cd LESSON
+#1323353564
+gits
+#1323353574
+cd LESSON39
+#1323353578
+chxx .
+#1323353583
+chx LESSON39
+#1323353585
+cd -
+#1323353589
+chxx *
+#1323353591
+ma
+#1323353599
+g lesson39.c 
+#1323353682
+ma
+#1323353753
+gits
+#1323353756
+touch *
+#1323353758
+gits
+#1323353762
+vi NeHe\'s\ Readme.txt 
+#1323353768
+cat NeHe\'s\ Readme.txt 
+#1323353779
+gits
+#1323353781
+git add .
+#1323353815
+git commit -m 'LESSON39,  '  
+#1323353821
+gits
+#1323353824
+gitlo.
+#1323353854
+vbs
+#1323353869
+git commit --amend
+#1323353914
+gitlo
+#1323353917
+gitlo.
+#1323353922
+gits
+#1323353928
+gitl lesson39.c 
+#1323353939
+git commit --amend
+#1323353946
+gitlo.
+#1323353955
+ma
+#1323353962
+vi makefile 
+#1323354011
+ma
+#1323354016
+./lesson39 
+#1323354049
+gits
+#1323354059
+mv lesson39 lesson39.exe
+#1323354060
+gits
+#1323354065
+vi makefile 
+#1323354068
+fg
+#1323354119
+ma
+#1323354120
+mc
+#1323354121
+ma
+#1323354126
+fg
+#1323354132
+mc
+#1323354136
+fg
+#1323354149
+mc
+#1323354152
+fg
+#1323354185
+mc
+#1323354189
+fg
+#1323354213
+mc
+#1323354218
+fg
+#1323354228
+mc
+#1323354230
+ma
+#1323354235
+fg
+#1323354244
+mc
+#1323354244
+ma
+#1323354250
+fg
+#1323354255
+mc
+#1323354255
+ma
+#1323354268
+fg
+#1323354269
+mc
+#1323354270
+ma
+#1323354273
+fg
+#1323354287
+mc
+#1323354287
+ma
+#1323354292
+fg
+#1323354335
+mc
+#1323354335
+ma
+#1323354340
+fg
+#1323354371
+ma
+#1323354372
+mc
+#1323354373
+ma
+#1323354382
+fg
+#1323354434
+ma
+#1323354435
+mc
+#1323354436
+ma
+#1323354442
+fg
+#1323354494
+mc
+#1323354495
+ma
+#1323354505
+fg
+#1323354513
+ma
+#1323354514
+mc
+#1323354514
+ma
+#1323354515
+fg
+#1323354560
+mc
+#1323354561
+ma
+#1323354564
+fg
+#1323354587
+mc
+#1323354588
+ma
+#1323354615
+mc
+#1323354616
+ma
+#1323354632
+mc
+#1323354633
+ma
+#1323354641
+fg
+#1323354644
+vi makefile 
+#1323354681
+ma
+#1323354682
+mc
+#1323354682
+ma
+#1323354685
+fg
+#1323354695
+mc
+#1323354696
+ma
+#1323354698
+fg
+#1323354727
+mc
+#1323354727
+ma
+#1323354730
+fg
+#1323354742
+mc
+#1323354742
+ma
+#1323354744
+fg
+#1323354746
+mc
+#1323354747
+ma
+#1323354748
+fg
+#1323354804
+mc
+#1323354807
+ma
+#1323354810
+rm lesson39.exe 
+#1323354811
+ma
+#1323354812
+fg
+#1323354821
+rm lesson39.exe 
+#1323354822
+ma
+#1323354829
+fg
+#1323354861
+mc
+#1323354863
+ma
+#1323354869
+fg
+#1323354903
+mc
+#1323354905
+rm lesson39.exe 
+#1323354907
+ma
+#1323354916
+fg
+#1323354933
+mc
+#1323354933
+ma
+#1323354938
+fg
+#1323354980
+mc
+#1323354981
+ma
+#1323354988
+fg
+#1323354990
+mc
+#1323354991
+ma
+#1323354993
+gits
+#1323354995
+gitd
+#1323355017
+git commit -m '使编译通过'
+#1323355021
+gits
+#1323355023
+git add .
+#1323355024
+gits
+#1323355026
+git commit -m '使编译通过'
+#1323355028
+gitlo
+#1323355031
+gitlo.
+#1323355034
+ma
+#1323355058
+./lesson39.exe 
+#1323355139
+s gravitation
+#1323355168
+ma
+#1323355214
+./lesson39.exe 
+#1323355358
+ma
+#1323355384
+cdvcl
+#1323355385
+gits
+#1323355390
+git push origin master
+#1323433984
+cal
+#1323440239
+cal -a
+#1323440242
+cal -1
+#1323440244
+cal -12
+#1323440246
+cal -13
+#1323440250
+cal -3
+#1323440253
+cal -f
+#1323440255
+cal -V
+#1323440261
+cal -s
+#1323440264
+cal -m
+#1323440268
+cal -mj
+#1323440272
+cal -y
+#1323440275
+cal -ys
+#1323440278
+cal -ysaf
+#1323442720
+ex .
+#1323444340
+cdvcrt
+#1323444347
+cd linux/computor/
+#1323444349
+cd grath/
+#1323444352
+cd opengl/
+#1323444356
+cd note/
+#1323444365
+g 01阴影技术的理解和使用.txt 
+#1323444381
+ex .
+#1323445663
+ftp 221.1.217.92
+#1323445725
+vi index.html 
+#1323445734
+ftp 221.1.217.92
+#1323445739
+rm index.html 
+#1323445884
+vi index.html 
+#1323446049
+cd note/
+#1323446052
+g 
+#1323446077
+e ftp 221.1.217.92
+#1323446126
+,y
+#1323446143
+chx ftp-up-down.sh 
+#1323446147
+./ftp-up-down.sh 
+#1323446163
+wh ftp
+#1323446176
+./ftp-up-down.sh 
+#1323446604
+ftp -h
+#1323446621
+s inhibit
+#1323446638
+./ftp-up-down.sh 
+#1323447527
+m ftp
+#1323447543
+./ftp-up-down.sh 
+#1323447597
+ma
+#1323447598
+./ftp-up-down.sh 
+#1323447683
+m ftp
+#1323447687
+./ftp-up-down.sh 
+#1323447870
+ftp 221.1.217.92
+#1323447897
+./ftp-up-down.sh 
+#1323448025
+cat ftp-up-down.sh 
+#1323448029
+./ftp-up-down.sh 
+#1323448067
+gits
+#1323448082
+gits.
+#1323448085
+gits .
+#1323448090
+rm 1*
+#1323448095
+cat > sldfjslf.file
+#1323448103
+./ftp-up-down.sh 
+#1323448136
+ftp 221.1.217.92
+#1323448160
+./ftp-up-down.sh 
+#1323448196
+ftp 221.1.217.92
+#1323448294
+cdx
+#1323448298
+cat ftp-up-down.sh 
+#1323448516
+gits.
+#1323448519
+gits .
+#1323448531
+cat > saldfjslf.file
+#1323448542
+./ftp-up-down.sh 
+#1323448578
+cat > 12昌不柬晨不.txt
+#1323448586
+cat > 13昌不柬晨不.txt
+#1323448608
+./ftp-up-down.sh 
+#1323448751
+mv 12昌不柬晨不.txt 12.txt
+#1323448762
+mv 13昌不柬晨不.txt 13.txt
+#1323448764
+./ftp-up-down.sh 
+#1323449050
+mv 12.txt  234.txt
+#1323449058
+mv 13.txt 232.txt
+#1323449065
+mv saldfjslf.file jsaldfjslf.file 
+#1323449072
+mv sldfjslf.file jsldfjslf.file 
+#1323449087
+./ftp-up-down.sh 
+#1323449136
+mv jsaldfjslf.file hfjslf.file 
+#1323449144
+mv jsldfjslf.file hslf.file 
+#1323449296
+p 221.1.217.92
+#1323449278
+ssh 221.1.217.92
+#1323449352
+pg ftp
+#1323449364
+kill -9 19358
+#1323449149
+./ftp-up-down.sh 
+#1323449528
+mv ftp-up-down.sh ~/bin/
+#1323449531
+cdb
+#1323449533
+svns
+#1323449543
+head ftp-up-down.sh 
+#1323449555
+svn add ftp-up-down.sh 
+#1323449574
+svn commit -m '批量自动上传文件脚本'
+#1323449593
+svns
+#1323449596
+svn add xxd.sh 
+#1323449648
+svn commit -m '以十六进制输出文件的前100字节, 并加上列号以便于阅读'
+#1323449686
+rm *
+#1323449694
+cp /bin/netstat .
+#1323449698
+rm netstat 
+#1323449702
+gits
+#1323449705
+gits .
+#1323449714
+git checkout HEAD .
+#1323449715
+gits
+#1323449717
+gits.
+#1323449720
+gits .
+#1323449729
+cdx
+#1323449737
+cd nehe/
+#1323449754
+mv %E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E7%B2%BE%E7%B2%B91%EF%BC%88%E5%85%89%E7%9B%98%E4%BB%A3%E7%A0%81%EF%BC%89.zip jf.zip
+#1323449756
+g jf.zip 
+#1323449779
+cp ~/bin/ftp-up-down.sh .
+#1323449781
+g f
+#1323449785
+g ftp-up-down.sh 
+#1323449803
+jj j*
+#1323449819
+chx ftp-up-down.sh 
+#1323449825
+./ftp-up-down.sh 
+#1323454990
+ex .
+#1323496756
+g ftp-up-down.sh 
+#1323496772
+cp f.txt index.html
+#1323496785
+./ftp-up-down.sh 
+#1323496810
+ex.
+#1323496813
+ex .
+#1323496826
+cd
+#1323496831
+mkdir vmware
+#1323496833
+cd vmware/
+#1323496876
+ex .
+#1323496929
+cdx
+#1323496932
+vi index.html 
+#1323498602
+cdvcl
+#1323498615
+cdl
+#1323498617
+cd books/
+#1323498625
+cdvcrt
+#1323498619
+svn up
+#1323498605
+git pull origin master
+#1323498633
+cdvcrc
+#1323498654
+cdl
+#1323498655
+cdv
+#1323498636
+git pull origin master
+#1323498629
+git pull origin master
+#1323498663
+.s
+#1323498665
+gits.
+#1323498659
+svn up
+#1323498679
+g linux/computor/bookmark/html.txt 
+#1323498687
+gits
+#1323498690
+gitd
+#1323498704
+gits.
+#1323498706
+.s
+#1323498707
+gits.
+#1323498718
+git add linux/computor/bookmark/
+#1323498720
+gits
+#1323498726
+git commit -m '34.1.2 矩阵相关' 
+#1323498744
+cd books/c/graph/NeHe/LESSON11
+#1323498744
+ma
+#1323498735
+git pull origin master
+#1323498755
+.s
+#1323498758
+gitlo.
+#1323498771
+gits.
+#1323498774
+ma
+#1323498775
+./fold_up.exe 
+#1323498912
+gits.
+#1323498935
+git add linux/computor/bookmark/html.txt 
+#1323498936
+gits
+#1323498950
+git commit -m 'merge' 
+#1323498952
+gits
+#1323498956
+git pull origin master
+#1323498977
+gits
+#1323498981
+.s
+#1323498982
+gitl.
+#1323498989
+ii
+#1323498990
+gits
+#1323498996
+git push origin master
+#1323499008
+ma
+#1323499024
+gitlo
+#1323499036
+gitlo
+#1323499052
+./fold_up.exe 
+#1323499073
+g fold_up.c
+#1323499270
+ma
+#1323499294
+./fold_up.exe 
+#1323499319
+ma
+#1323499320
+./fold_up.exe 
+#1323499601
+ma
+#1323499602
+./fold_up.exe 
+#1323499649
+ma
+#1323499650
+./fold_up.exe 
+#1323499714
+ma
+#1323499715
+./fold_up.exe 
+#1323499745
+ma
+#1323499746
+./fold_up.exe 
+#1323499945
+ma
+#1323499946
+./fold_up.exe 
+#1323499967
+ma
+#1323499969
+./fold_up.exe 
+#1323500006
+ma
+#1323500007
+./fold_up.exe 
+#1323500017
+ma
+#1323500019
+./fold_up.exe 
+#1323500033
+./fold_up.exe &
+#1323500042
+ma
+#1323500044
+./fold_up.exe &
+#1323501884
+ma
+#1323501886
+./fold_up.exe &
+#1323501913
+ma
+#1323501914
+./fold_up.exe &
+#1323502003
+mma
+#1323502004
+ma
+#1323502005
+./fold_up.exe &
+#1323502028
+ma
+#1323502030
+./fold_up.exe &
+#1323502036
+ma
+#1323502037
+./fold_up.exe &
+#1323502053
+ma
+#1323502054
+./fold_up.exe &
+#1323502065
+ma
+#1323502066
+./fold_up.exe &
+#1323502114
+ma
+#1323502115
+./fold_up.exe &
+#1323502118
+gitd
+#1323502126
+ma
+#1323502131
+./fold_up.exe &
+#1323502149
+gitdl
+#1323502153
+gits.
+#1323502154
+git add .
+#1323502201
+git commit -m '使所有的页的贴图都是正着的'
+#1323502350
+bce 4500/21.5
+#1323502353
+bce 4500/21.5*2
+#1323502434
+ma
+#1323502481
+cat README 
+#1323502500
+./fold_up.exe &
+#1323502771
+ma
+#1323502817
+./fold_up.exe &
+#1323502833
+fich CCW
+#1323502838
+cdl
+#1323502845
+cd books/c/opengl/opengl-red/
+#1323502847
+ff&
+#1323502857
+fich CCW
+#1323502862
+fich CW
+#1323502876
+g texgen.c 
+#1323502902
+ma
+#1323502903
+./fold_up.exe &
+#1323502900
+ma
+#1323503165
+ma
+#1323503167
+./fold_up.exe &
+#1323503190
+ma
+#1323503192
+./fold_up.exe &
+#1323503212
+gitd
+#1323503218
+git add .
+#1323503219
+gits
+#1323503291
+git commit -m '因为我们是按顺时针方向指定顶点的, 所以我们设置把顶点顺序为顺时针方向的面是正面'
+#1323503296
+gitlo.
+#1323503307
+ma
+#1323503308
+./fold_up.exe &
+#1323503310
+mc
+#1323503310
+ma
+#1323503312
+./fold_up.exe &
+#1323503434
+.
+#1323503437
+./lesson11.exe 
+#1323503447
+./lesson11-2.exe 
+#1323503576
+cd MP3_2/
+#1323176832
+mutt
+#1323503795
+./fold_up.exe &
+#1323505776
+ma
+#1323505777
+./fold_up.exe &
+#1323505829
+ma
+#1323505831
+./fold_up.exe &
+#1323505981
+ma
+#1323506037
+./fold_up.exe &
+#1323506119
+ma
+#1323506126
+./fold_up.exe &
+#1323506377
+ma
+#1323506378
+./fold_up.exe &
+#1323506457
+ma
+#1323506459
+./fold_up.exe &
+#1323506552
+gitd
+#1323506632
+ma
+#1323506633
+./fold_up.exe &
+#1323506654
+gitd
+#1323506684
+gits.
+#1323506689
+rm nal-1.bmp 
+#1323506691
+git add .
+#1323506695
+git commit
+#1323506921
+ma
+#1323506921
+mc
+#1323506922
+ma
+#1323506923
+./fold_up.exe &
+#1323507042
+ma
+#1323507044
+./fold_up.exe &
+#1323507086
+ma
+#1323507087
+./fold_up.exe &
+#1323507101
+ma
+#1323507102
+./fold_up.exe &
+#1323507112
+ma
+#1323507113
+./fold_up.exe &
+#1323507147
+ma
+#1323507148
+./fold_up.exe &
+#1323507247
+gitd
+#1323507250
+gits.
+#1323507251
+ma
+#1323507252
+./fold_up.exe &
+#1323507301
+ma
+#1323507306
+mc
+#1323507306
+ma
+#1323507310
+./endian_test.exe 
+#1323507317
+ma
+#1323507319
+gits
+#1323507320
+mc
+#1323507320
+ma
+#1323507324
+vi endian_test.c
+#1323507330
+mc
+#1323507331
+./en
+#1323507336
+ma
+#1323507354
+./fold_up.exe &
+#1323507408
+ma
+#1323507409
+./fold_up.exe &
+#1323507497
+gitd
+#1323507498
+./fold_up.exe &
+#1323507517
+ma
+#1323507519
+./fold_up.exe &
+#1323507574
+ma
+#1323507576
+./fold_up.exe &
+#1323507592
+ma
+#1323507593
+./fold_up.exe &
+#1323507611
+ma
+#1323507612
+./fold_up.exe &
+#1323507867
+ma
+#1323507868
+./fold_up.exe &
+#1323507895
+ma
+#1323507897
+./fold_up.exe &
+#1323507910
+ma
+#1323507911
+./fold_up.exe &
+#1323507932
+ma
+#1323507934
+gitd
+#1323507946
+ma
+#1323507948
+./fold_up.exe &
+#1323508278
+ma
+#1323508279
+./fold_up.exe &
+#1323508347
+ma
+#1323508349
+./fold_up.exe &
+#1323508359
+ma
+#1323508360
+./fold_up.exe &
+#1323508370
+ma
+#1323508371
+./fold_up.exe &
+#1323508423
+ma
+#1323508424
+./fold_up.exe &
+#1323508431
+ma
+#1323508433
+./fold_up.exe &
+#1323508459
+ma
+#1323508460
+./fold_up.exe &
+#1323508635
+ma
+#1323508636
+./fold_up.exe &
+#1323508652
+ma
+#1323508654
+./fold_up.exe &
+#1323508687
+ma
+#1323508688
+./fold_up.exe &
+#1323523702
+gits
+#1323523704
+gitd
+#1323523733
+./fold_up.exe &
+#1323503580
+mpg123 --title -C -Z *
+#1323526686
+s last
+#1323526755
+ma
+#1323526960
+./fold_up.exe &
+#1323528699
+ma
+#1323528701
+./fold_up.exe &
+#1323528738
+ma
+#1323528739
+./fold_up.exe &
+#1323528794
+ma
+#1323528796
+./fold_up.exe &
+#1323528875
+ma
+#1323528877
+./fold_up.exe &
+#1323529245
+ma
+#1323529254
+./fold_up.exe &
+#1323529341
+ma
+#1323529342
+./fold_up.exe &
+#1323529426
+ma
+#1323529428
+./fold_up.exe &
+#1323529494
+ma
+#1323529495
+./fold_up.exe &
+#1323529676
+ma
+#1323529677
+./fold_up.exe &
+#1323529959
+ma
+#1323529961
+./fold_up.exe &
+#1323530326
+ma
+#1323530328
+./fold_up.exe &
+#1323530360
+ma
+#1323530361
+./fold_up.exe &
+#1323530753
+cd
+#1323530759
+ex vmware/
+#1323530850
+ma
+#1323530853
+./fold_up.exe &
+#1323531052
+g l.c
+#1323531067
+ma
+#1323531069
+./fold_up.exe &
+#1323531096
+ma
+#1323531097
+./fold_up.exe &
+#1323531118
+ma
+#1323531119
+./fold_up.exe &
+#1323531138
+ma
+#1323531139
+./fold_up.exe &
+#1323531237
+ma
+#1323531238
+./fold_up.exe &
+#1323532721
+ma
+#1323532722
+./fold_up.exe &
+#1323532782
+ma
+#1323532783
+./fold_up.exe &
+#1323532822
+ma
+#1323532823
+./fold_up.exe &
+#1323532854
+ma
+#1323532855
+./fold_up.exe &
+#1323532867
+ma
+#1323532868
+./fold_up.exe &
+#1323532928
+ma
+#1323532929
+./fold_up.exe &
+#1323532976
+ma
+#1323532977
+./fold_up.exe &
+#1323533075
+ma
+#1323533077
+./fold_up.exe &
+#1323533121
+ma
+#1323533123
+./fold_up.exe &
+#1323533154
+gitdl
+#1323533167
+ma
+#1323533168
+./fold_up.exe &
+#1323533199
+ma
+#1323533200
+./fold_up.exe &
+#1323533249
+gitd
+#1323533285
+gits
+#1323533287
+git add .
+#1323533311
+git commit -m '基本实现折纸动画'
+#1323533314
+jj
+#1323533321
+mc
+#1323533321
+ma
+#1323533673
+./fold_up.exe &
+#1323533719
+ma
+#1323533723
+./fold_up.exe &
+#1323533795
+ma
+#1323533797
+./fold_up.exe &
+#1323533982
+ma
+#1323533983
+./fold_up.exe &
+#1323534182
+ma
+#1323534184
+./fold_up.exe &
+#1323534408
+ma
+#1323534410
+./fold_up.exe &
+#1323534718
+ma
+#1323534719
+./fold_up.exe &
+#1323534827
+ma
+#1323534828
+./fold_up.exe &
+#1323534869
+ma
+#1323534870
+./fold_up.exe &
+#1323534929
+ma
+#1323534930
+./en
+#1323534932
+./fold_up.exe &
+#1323534957
+ma
+#1323534958
+./fold_up.exe &
+#1323534962
+gitd
+#1323535049
+ma
+#1323535051
+gits
+#1323535053
+git add .
+#1323535076
+git commit -m '使从右到左也能实现折纸动画'
+#1323535084
+./fold_up.exe &
+#1323535216
+ma
+#1323535217
+./fold_up.exe &
+#1323535235
+ma
+#1323535237
+./fold_up.exe &
+#1323535274
+ma
+#1323535275
+./fold_up.exe &
+#1323535380
+mc
+#1323535381
+ma
+#1323535552
+gitdl
+#1323535563
+ma
+#1323535565
+./fold_up.exe &
+#1323535621
+ma
+#1323535623
+./fold_up.exe &
+#1323535637
+ma
+#1323535639
+gitd
+#1323535646
+git add .
+#1323535646
+gits
+#1323535671
+git commit -m '删除一些无用的代码'
+#1323535676
+gitlo fold_up.
+#1323535678
+gitlo fold_up.c
+#1323535690
+gitlo
+#1323535694
+gitlo fold_up.c
+#1323535881
+ma
+#1323535882
+./fold_up.exe &
+#1323535986
+\
+#1323535993
+bce 700/3
+#1323535997
+bce 700/3*20.5
+#1323536026
+4500/21.5
+#1323536030
+bce 4500/21.5
+#1323536033
+bce 4500/21.5*2
+#1323536044
+bce 700/3*21.5
+#1323536070
+bce 5000/21.5
+#1323536088
+ma
+#1323536092
+./fold_up.exe &
+#1323536331
+gits
+#1323537978
+./fold_up.exe &
+#1323580605
+ss
+#1323580625
+ex .
+#1323580781
+gitd
+#1323580799
+mc
+#1323580800
+gitd
+#1323581354
+./fold_up.exe &
+#1323581359
+ma
+#1323581362
+./fold_up.exe &
+#1323583285
+ma
+#1323583287
+./fold_up.exe &
+#1323583549
+ma
+#1323583551
+./fold_up.exe &
+#1323583618
+ma
+#1323583619
+./fold_up.exe &
+#1323583863
+ma
+#1323583866
+./fold_up.exe &
+#1323583881
+ma
+#1323583882
+./fold_up.exe &
+#1323583892
+ma
+#1323583893
+./fold_up.exe &
+#1323583898
+ma
+#1323583899
+./fold_up.exe &
+#1323583904
+ma
+#1323583905
+./fold_up.exe &
+#1323583949
+a
+#1323583950
+ma
+#1323583955
+ii
+#1323583962
+t
+#1323583972
+ma
+#1323583974
+./fold_up.exe &
+#1323583999
+ma
+#1323584002
+./fold_up.exe &
+#1323584015
+gitd
+#1323584126
+ma
+#1323584129
+ii
+#1323584134
+i
+#1323584135
+ii
+#1323584298
+ma
+#1323584300
+./fold_up.exe &
+#1323584415
+ma
+#1323584419
+./fold_up.exe &
+#1323584452
+ma
+#1323584454
+./fold_up.exe &
+#1323584459
+ma
+#1323584461
+./fold_up.exe &
+#1323584603
+ma
+#1323584604
+./fold_up.exe &
+#1323584610
+ma
+#1323584611
+./fold_up.exe &
+#1323584645
+ma
+#1323584646
+./fold_up.exe &
+#1323584819
+s
+#1323584886
+./fold_up.exe &
+#1323584977
+,y
+#1323584982
+cd,y
+#1323584988
+cd LESSON27
+#1323584990
+ma
+#1323584992
+./fold_up.exe 
+#1323584996
+./Lesson27 
+#1323585000
+g Lesson27.cpp 
+#1323585029
+m glFlush
+#1323585036
+m glGet
+#1323585059
+fich glGet
+#1323585070
+fich glGete
+#1323585078
+cdl
+#1323585084
+cd books/c/opengl/opengl-blue/
+#1323585092
+fich glGet
+#1323585101
+fich glGete
+#1323585113
+wh fich
+#1323585122
+fichi glGete
+#1323585126
+fichi glGeterr
+#1323585157
+cd ./e4/src/examples/src/chapt14
+#1323585159
+cd shadowmap/
+#1323585161
+g shadowmap.cpp 
+#1323585205
+ma
+#1323585208
+ma
+#1323585210
+./fold_up.exe &
+#1323585218
+ma
+#1323585220
+./fold_up.exe &
+#1323585232
+ma
+#1323585233
+./fold_up.exe &
+#1323585243
+ma
+#1323585245
+./fold_up.exe &
+#1323585273
+ma
+#1323585275
+./fold_up.exe &
+#1323585310
+ma
+#1323585312
+gitd
+#1323585739
+ma
+#1323585741
+./fold_up.exe &
+#1323585754
+ma
+#1323585756
+./fold_up.exe &
+#1323585761
+ma
+#1323585763
+./fold_up.exe &
+#1323585807
+ma
+#1323585808
+./fold_up.exe &
+#1323585824
+ma
+#1323585826
+./fold_up.exe &
+#1323585830
+ma
+#1323585832
+./fold_up.exe &
+#1323585930
+ma
+#1323585931
+./fold_up.exe &
+#1323585935
+ma
+#1323585936
+./fold_up.exe &
+#1323586122
+ma
+#1323586461
+./fold_up.exe &
+#1323586473
+ma
+#1323586475
+./fold_up.exe &
+#1323586508
+ma
+#1323586509
+./fold_up.exe &
+#1323586527
+ma
+#1323586528
+./fold_up.exe &
+#1323586563
+ma
+#1323586564
+./fold_up.exe &
+#1323586630
+ma
+#1323586632
+./fold_up.exe &
+#1323586674
+ma
+#1323586675
+./fold_up.exe &
+#1323586680
+ma
+#1323586681
+./fold_up.exe &
+#1323586763
+gitd
+#1323586803
+ma
+#1323586804
+./fold_up.exe &
+#1323586807
+gits
+#1323586817
+git checkout HEAD fold_up.c
+#1323586819
+gits
+#1323586820
+gits.
+#1323586853
+gitdl
+#1323586855
+gits
+#1323586856
+gits.
+#1323586862
+git add .
+#1323586863
+gits.
+#1323586869
+git commit -m 'some comments'
+#1323586875
+gitlo.
+#1323586883
+gitlo fold_up.c
+#1323586920
+git checkout 30a9 fold_up.c
+#1323586923
+ma
+#1323586924
+./fold_up.exe &
+#1323586939
+ma
+#1323586940
+./fold_up.exe &
+#1323586961
+ma
+#1323586963
+./fold_up.exe &
+#1323587002
+gitlo fold_up.c
+#1323587010
+wh gitlo
+#1323587030
+git checkout e1f8 fold_up.c
+#1323587031
+ma
+#1323587032
+./fold_up.exe &
+#1323587061
+ma
+#1323587063
+./fold_up.exe &
+#1323587082
+ma
+#1323587083
+./fold_up.exe &
+#1323587097
+gits
+#1323587100
+gits.
+#1323587104
+git checkout HEAD fold_up.c
+#1323587106
+gits.
+#1323587111
+ma
+#1323587112
+./fold_up.exe &
+#1323587151
+ma
+#1323587152
+./fold_up.exe &
+#1323587301
+ma
+#1323587303
+./fold_up.exe &
+#1323587309
+ma
+#1323587311
+./fold_up.exe &
+#1323587320
+ma
+#1323587321
+./fold_up.exe &
+#1323587327
+ma
+#1323587328
+./fold_up.exe &
+#1323587348
+ma
+#1323587354
+gitdl
+#1323587380
+ma
+#1323587382
+gitd
+#1323587383
+ma
+#1323587387
+./fold_up.exe &
+#1323587418
+ma
+#1323587419
+./fold_up.exe &
+#1323587442
+ma
+#1323587443
+./fold_up.exe &
+#1323587445
+gitd
+#1323587448
+git add .
+#1323587450
+gits.
+#1323587460
+git commit -m 'add Assert! '
+#1323587466
+gitlo fold_up.c
+#1323587472
+ma
+#1323587481
+mc
+#1323587486
+ma
+#1323587491
+./fold_up.exe &
+#1323587503
+ma
+#1323587504
+./fold_up.exe &
+#1323587654
+ma
+#1323587656
+./fold_up.exe &
+#1323587746
+ma
+#1323587747
+./fold_up.exe &
+#1323587810
+ma
+#1323587812
+./fold_up.exe &
+#1323587849
+ma
+#1323587851
+./fold_up.exe &
+#1323587902
+git checkout HEAD fold_up.c
+#1323587927
+ma
+#1323587928
+./fold_up.exe &
+#1323587947
+ma
+#1323587948
+./fold_up.exe &
+#1323587962
+ma
+#1323587967
+.ma
+#1323587967
+ma
+#1323587968
+.ma
+#1323587973
+ma
+#1323587975
+./fold_up.exe &
+#1323588136
+m calloc
+#1323588288
+ma
+#1323588290
+./fold_up.exe &
+#1323588334
+ma
+#1323588335
+./fold_up.exe &
+#1323588340
+jj
+#1323588342
+ii
+#1323588343
+t
+#1323588442
+ma
+#1323588444
+./fold_up.exe &
+#1323588501
+ma
+#1323588668
+./fold_up.exe &
+#1323588684
+kill 614
+#1323588822
+ma
+#1323588824
+./fold_up.exe &
+#1323588846
+ma
+#1323588847
+./fold_up.exe &
+#1323588865
+ma
+#1323588866
+./fold_up.exe &
+#1323588910
+ma
+#1323588911
+./fold_up.exe &
+#1323588919
+ma
+#1323588920
+./fold_up.exe &
+#1323588944
+ma
+#1323589054
+mc
+#1323589055
+ma
+#1323589069
+./fold_up.exe &
+#1323589078
+ma
+#1323589080
+./fold_up.exe &
+#1323589088
+ma
+#1323589089
+./fold_up.exe &
+#1323589105
+ma
+#1323589107
+./fold_up.exe &
+#1323589169
+ma
+#1323589170
+mc
+#1323589186
+gits
+#1323589189
+ma
+#1323589192
+gits
+#1323589194
+gitdl
+#1323589221
+gits.
+#1323589223
+git add .
+#1323589246
+git commit -m '修改初始化部分, 使更通用'
+#1323589250
+ma
+#1323589251
+./fold_up.exe &
+#1323589258
+ma
+#1323589259
+./fold_up.exe &
+#1323589322
+jjk
+#1323589345
+gits
+#1323589348
+gitlo.
+#1323589361
+gits.
+#1323589365
+git push origin master
+#1323589392
+gvbo
+#1323589401
+gvbs
+#1323589407
+gvbkf 
+#1323589412
+vbs
+#1323589596
+fg
+#1323589615
+gvht
+#1323589727
+cdvcbo
+#1323589733
+cdvcrtbo
+#1323589736
+cd grath/
+#1323589739
+cd books/
+#1323589743
+gits.
+#1323589745
+.s
+#1323589746
+gits.
+#1323589758
+ll 0H游戏编程精粹/
+#1323589760
+ll 0H游戏编程精粹/1/0H游戏编程精粹1.pdf 
+#1323589771
+scr
+#1323589776
+cdrt
+#1323589789
+cd linux/computor/grath/
+#1323589791
+cd books/
+#1323589796
+gits.
+#1323589810
+cdx
+#1323589823
+ex .
+#1323589861
+mkdir 0I3D游戏与计算机图形学中的数学方法
+#1323589865
+cd 0I3D游戏与计算机图形学中的数学方法/
+#1323589894
+mv ~/xiazai/Charles.River.Media%2C.Mathematics.for.3D.Game.Programming.and.Computer.Graphics.%282004%29%2C.2Ed.LRN.LotB.pdf  .
+#1323589898
+ex .
+#1323590338
+mkdir 0J曲线与曲面的数学,贝济埃模型,B-样条模型、NURBS模型
+#1323590345
+mv 0J曲线与曲面的数学,贝济埃模型,B-样条模型、NURBS模型.pdf 0J曲线与曲面的数学,贝济埃模型,B-样条模型、NURBS模型
+#1323590349
+cd 0J曲线与曲面的数学,贝济埃模型,B-样条模型、NURBS模型/
+#1323590368
+ll 0E计算机图形学的算法基础/
+#1323590375
+cd 0H游戏编程精粹/
+#1323590377
+ll 1
+#1323590402
+cdvcrtbo
+#1323590404
+cd grath/
+#1323590406
+cd books/
+#1323590410
+mkdir 0J曲线与曲面的数学,贝济埃模型,B-样条模型、NURBS模型
+#1323590414
+cd 0J曲线与曲面的数学,贝济埃模型,B-样条模型、NURBS模型/
+#1323590449
+ln -s /home/scr/.rt/linux/computor/grath/books/0J曲线与曲面的数学,贝济埃模型,B-样条模型、NURBS模型/0J曲线与曲面的数学,贝济埃模型,B-样条模型、NURBS模型.pdf .
+#1323590461
+ll 0H游戏编程精粹/1/
+#1323590464
+cd-
+#1323590475
+mkdir 0I3D游戏与计算机图形学中的数学方法
+#1323590480
+cd 0I3D游戏与计算机图形学中的数学方法/
+#1323590488
+,y
+#1323590492
+cd,y
+#1323590493
+kk
+#1323590524
+ln -s /home/scr/.rt/linux/computor/grath/books/0I3D游戏与计算机图形学中的数学方法/0I3D游戏与计算机图形学中的数学方法-Eric.pdf  .
+#1323590547
+cdvcrt
+#1323590553
+cdvcrc
+#1323590553
+gits
+#1323590549
+gits
+#1323590557
+gitd
+#1323590572
+gitd
+#1323590586
+gits
+#1323590588
+git add .
+#1323590592
+git commit
+#1323590616
+gits
+#1323590628
+pdf 0I3D游戏与计算机图形学中的数学方法-Eric.pdf &
+#1323590619
+git push origin master
+#1323590650
+ex .
+#1323590819
+llll
+#1323590822
+ex .
+#1323590851
+cd 0I3D游戏与计算机图形学中的数学方法/
+#1323590857
+pdf 0I3D游戏与计算机图形学中的数学方法-Eric.pdf &
+#1323591553
+ex .
+#1323593639
+cd..
+#1323594239
+cd
+#1323594240
+cd-
+#1323594243
+ma
+#1323594244
+./fold_up.exe &
+#1323594251
+gitd
+#1323594277
+git checkout HEAD fold_up.c
+#1323594278
+ma
+#1323594291
+./fold_up.exe &
+#1323596238
+s Legacy
+#1323607643
+ii
+#1323607647
+keynav 
+#1323607660
+ff&
+#1323611671
+cd .getmail/
+#1323611678
+vi getmailrc.lcy3636.126 
+#1323613845
+cdx
+#1323613855
+tar xvzf nanoblogger-3.5-rc1.tar.gz 
+#1323613859
+cd nanoblogger-3.5-rc1
+#1323613863
+vi README 
+#1323613987
+vi nb
+#1323613997
+vi nb.conf 
+#1323614006
+g README 
+#1323614012
+vi welcome-to-nb.txt 
+#1323614024
+ll docs/
+#1323614027
+ll lang/
+#1323614073
+cdb
+#1323614080
+mdkir nb
+#1323614082
+cd nb
+#1323614093
+cp -rf ~/xiazai/nanoblogger-3.5-rc1/* .
+#1323614101
+vbs
+#1323614136
+.s
+#1323614138
+nb 
+#1323614152
+cd ILoveMyHome/
+#1323614189
+nb --interactive 0 -b newblog add weblog
+#1323614191
+.s
+#1323614193
+nb --interactive 0 -b newblog add weblog
+#1323614217
+cd newblog/
+#1323614221
+ff index.html 
+#1323614260
+cd ne
+#1323614262
+cd newblog/
+#1323614265
+ll data/
+#1323614304
+nb -b newblog/ configure update all
+#1323614408
+ff newblog/index.html 
+#1323614495
+nb [--title 'Example Article'] add article
+#1323614512
+nb --title 'Example xx  Article' add article
+#1323614538
+cd newblog/
+#1323614540
+nb --title 'Example xx  Article' add article
+#1323614731
+nb add entry
+#1323614898
+gvlc
+#1323614903
+gvnt
+#1323614923
+nb --title 'Notes For linux' add article
+#1323614971
+ll articles/
+#1323614977
+ll archives/
+#1323614983
+ll cache/
+#1323614985
+ll data/
+#1323615083
+vi index.html 
+#1323615107
+nb --title ' For linux' add article
+#1323615247
+nb add entry
+#1323615364
+CST)</font><br>
+#1323615364
+<font color="#a52a2a">&nbsp;&nbsp; 7 </font><font color="#0000ff">#=============================================================================</font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp;  </font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp; </font><font color="#ff00ff"><b>7.1.1&nbsp;&nbsp;现在我们一起来看一下神秘的配置文件</b></font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp; </font>打开配置文件, 可以看到类似下面几行:<br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp; </font><font color="#0000ff"># Runas alias specification# User privilege specification</font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp;8 </font>root ALL=<font color="#ff00ff">(ALL)</font>&nbsp;ALL<br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp; </font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp;90 </font>表明root有所有权限. <font color="#ff00ff">(用tab作为空白)</font>:<br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp;91 </font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp;92 </font><font color="#ff00ff"><b>7.1.2 修改</b></font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp;93 </font>foobar&nbsp;&nbsp;localhost=&nbsp;&nbsp;/sbin/ifconfig,&nbsp;&nbsp; /bin/ls<br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp;94 </font>再来执行命令:<br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp;95 </font><font color="#a52a2a"><b>[foobar@localhost ~]$ sudo head -5 /etc/shadow</b></font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp;96 </font>| Password:Sorry, user foobar is not allowed to execute '/usr/bin/head -5 |<br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp;97 </font>| /etc/shadow' as root on localhost.localdomain.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+#1323615365
+<font color="#a52a2a">&nbsp;&nbsp;9</font><font color="#ff00ff"><b>7.1.3 再修改</b></font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;109 </font>&nbsp;&nbsp;&nbsp;&nbsp;foobar&nbsp;&nbsp;linux=<font color="#ff00ff">(jimmy,rene)</font>&nbsp;&nbsp; /bin/kill<br>
+#1323615365
+<font color="#a52a2a">&nbsp;110 </font>&nbsp;&nbsp;&nbsp;&nbsp;Defaults:foobar runas_default=rene&nbsp;&nbsp;#默认为rene执行<br>
+#1323615365
+<font color="#a52a2a">&nbsp;111 </font>&nbsp;&nbsp;&nbsp;&nbsp;foobar&nbsp;&nbsp;localhost=NOPASSWD:&nbsp;&nbsp;&nbsp;&nbsp; /bin/cat, /bin/ls&nbsp;&nbsp; #不用每次都执行密码<br>
+#1323615365
+<font color="#a52a2a">&nbsp;112 </font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;113 </font>再来sudo一下:<br>
+#1323615365
+<font color="#a52a2a">&nbsp;114 </font><font color="#a52a2a"><b>[foobar@localhost ~]$ sudo ls /rootanaconda-ks.cfg&nbsp;&nbsp;Desktop&nbsp;&nbsp;install.log</b></font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;115 </font>install.log.syslog<br>
+#1323615365
+<font color="#a52a2a">&nbsp;116 </font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;117 </font><font color="#ff00ff"><b>7.2 日志与安全</b></font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;11</font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;129 </font>把得到的syslogd进程的PID<font color="#ff00ff">(输出的第二列是PID)</font>填入下面:<br>
+#1323615365
+<font color="#a52a2a">&nbsp;130 </font>&nbsp;&nbsp;&nbsp;&nbsp;kill -HUP PID<br>
+#1323615365
+<font color="#a52a2a">&nbsp;131 </font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;132 </font>这样, sudo就可以写日志了:<br>
+#1323615365
+<font color="#a52a2a">&nbsp;133 </font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;134 </font><font color="#a52a2a"><b>[foobar@localhost ~]$ sudo ls /rootanaconda-ks.cfg&nbsp;&nbsp;Desktop&nbsp;&nbsp;install.log</b></font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;135 </font>install.log.syslog$cat /var/log/sudoJul 2</font>不过, 有一个小小的&quot;<font color="#2esudo记录日志并不是很忠实:<br>
+<font color="#a52a2a">&nbsp;139 </font><font color="#a52a2a"><b>[foobar@localhost ~]$ sudo cat /etc/shadow &gt; /dev/null</b></font><br>
+<font color="#a52a2a">&nbsp;140 </font><font color="#a52a2a"><b>[foobar@localhost ~]$ cat /var/log/sudo</b></font><br>
+<font color="#a52a2a">&nbsp;141 </font>&nbsp;&nbsp; Jul 2</font>sudo 有自己的方式来保护安全. 以root的身份执行sudo -V, 查看一下sudo的设置. 因为<br>
+<font color="#a52a2a">&nbsp;149 </font>考虑到安全问题, 一部分环境变量并没有传递给sudo后面的命令, 或者被检查后再传递的<br>
+<font color="#a52a2a">&nbsp;150 </font>, 比如: PATH, HOME,&nbsp;&nbsp;SHELL等. 当然, 你也可以通过sudoers来配置这些环境变量.<br>
+<font color="#a52a2a">&nbsp;151 </font><br>
+<fo2a2a">&nbsp;15</font>Cmnd_Alias MYFILE=A和B要运行的程序路径<br>
+#1323615365
+<font color="#a52a2a">&nbsp;169 </font>MYUSER MYHOST=NOPASSWD: MYFILE<br>
+#1323615365
+<font color="#a52a2a">&nbsp;170 </font>注意大小写, 以后要增加新的程序或用户时, 直接更改前三行即可. 如果要让某个不知道<br>
+#1323615365
+<font color="#a52a2a">&nbsp;171 </font>root密码的用户具有全部权限, 除了运行某些危险程序<font color="#ff00ff">(如格式化)</font>, 只需增加:<br>
+#1323615365
+<font color="#a52a2a">&nbsp;172 </font>Cmnd_Alias DANGER=危险程序的路径<br>
+#1323615365
+<font color="#a52a2a">&nbsp;174 </font>设置完成后, 和vi一样保存退出, 编辑器会自动检查你的语法是否正确, 如果出错按 e 可<br>
+#1323615365
+<font color="#a52a2a">&nbsp;175 </font>以回去修改. 然后该用户即可以&quot;<font color="#2e<font color="#ff00ff">(佚名)</font><br>
+<font color="#a52a2a">&nbsp;176 </font><br>
+<font color="#a52a2a">&nbsp;177 </font><br>
+<font color="#a52a2a">&nbsp;17 </font>mac-3.99-linux.tar.gz文件, 然后开始解压编译<font color="#ff00ff">(在命令终端中)</font>:<br>
+<font color="#a52a2a">&nbsp;1 </font><font color="#0000ff"># tar xzvf libxmms_mac-0.2.0.tar.gz</font><br>
+<font color="#a52a2a">&nbsp;1 </font><font color="#0000ff"># tar xzvf mac-3.99-linux.tar.gz</font><br>
+<font color="#a52a2a">&nbsp;1 </font><font color="#0000ff"># cd mac-3.99</font><br>
+<font color="#a52a2a">&nbsp;18 </font><font color="#0000ff"># ./configure</font><br>
+<font color="#a52a2a">&nbsp;1 </font>如果系统提示少了nasm,加载FC2-i3-disc2.iso<font color="#ff00ff">(或第2张系统安装盘)</font>装上它:<br>
+<font color="#a52a2a">&nbsp;190 </font><font color="#0000ff"># rpm -ivh nasm-0.93</font><font color="#0000ff"># make</font><br>
+<font color="#a52a2a">&nbsp;199 </font><font color="#0000ff"># sudo make install</font><br>
+<font color="#a52a2a">&nbsp;200 </font><br>
+<font color="#a52a2a">&nbsp;201 </font><br>
+<font color="#a52a2a">&nbsp;202 </font><font color="#ff00ff">(2010?? 03?? 14?? ?????? 23:01:53 CST)</font><br>
+<font color="#a52a2a">&nbsp;203 </font><font color="#0000ff">#=============================================================================</font><br>
+<font color="#a52a2a">&nbsp;204 </font><font color="#ff00ff"><b>9. ?????? root ????</b></font><br>
+<font color="#a52a2a">&nbsp;205 </font>Fedora 11 ?????????????? GDM ???? root ????, ??????????????????????????????????<br>
+<font color="#a52a2a">&nbsp;206 </font>?? root ????. ???????????????????? root ????. ??????????????????????????????.<br>
+<font color="#a52a2a">&nbsp;207 </font>???????????????????? root ????????????????????, ????????????????????????, ????<br>
+<font color="#a52a2a">&nbsp;20</font><br>
+<font color="#a52a2a">&nbsp;219 </font><font color="#ff00ff">(2010?? 03?? 21?? ?????? 13:05:42 CST)</font><br>
+<font color="#a52a2a">&nbsp;220 </font><font color="#0000ff">#=============================================================================</font><br>
+<font color="#a52a2a">&nbsp;221 </font><font color="#ff00ff"><b>10. smplayer??????????????</b></font><br>
+<font color="#a52a2a">&nbsp;222 </font>smplaye ????: ??????????????????????????pulse, ??????alsa??????, ????????avi??<br>
+<font color="#a52a2a">&nbsp;223 </font>rmvb??????????.<br>
+<font color="#a52a2a">&nbsp;224 </font>??????????<font color="#a52a2a">&nbsp;175 </font>以回去修改. 然后该用户即可以&quot;<font color="#2e<font color="#ff00ff">(佚名)</font><br>
+<font color="#a52a2a">&nbsp;176 </font><br>
+<font color="#a52a2a">&nbsp;177 </font><br>
+<font color="#a52a2a">&nbsp;17 </font>mac-3.99-linux.tar.gz文件, 然后开始解压编译<font color="#ff00ff">(在命令终端中)</font>:<br>
+<font color="#a52a2a">&nbsp;1 </font><font color="#0000ff"># tar xzvf libxmms_mac-0.2.0.tar.gz</font><br>
+<font color="#a52a2a">&nbsp;1 </font><font color="#0000ff"># tar xzvf mac-3.99-linux.tar.gz</font><br>
+<font color="#a52a2a">&nbsp;1 </font><font color="#0000ff"># cd mac-3.99</font><br>
+<font color="#a52a2a">&nbsp;18 </font><font color="#0000ff"># ./configure</font><br>
+<font color="#a52a2a">&nbsp;1 </font>如果系统提示少了nasm,加载FC2-i3-disc2.iso<font color="#ff00ff">(或第2张系统安装盘)</font>装上它:<br>
+<font color="#a52a2a">&nbsp;190 </font><font color="#0000ff"># rpm -ivh nasm-0.93</font><font color="#0000ff"># make</font><br>
+<font color="#a52a2a">&nbsp;199 </font><font color="#0000ff"># sudo make install</font><br>
+<font color="#a52a2a">&nbsp;200 </font><br>
+<font color="#a52a2a">&nbsp;201 </font><br>
+<font color="#a52a2a">&nbsp;202 </font><font color="#ff00ff">(2010?? 03?? 14?? ?????? 23:01:53 CST)</font><br>
+<font color="#a52a2a">&nbsp;203 </font><font color="#0000ff">#=============================================================================</font><br>
+<font color="#a52a2a">&nbsp;204 </font><font color="#ff00ff"><b>9. ?????? root ????</b></font><br>
+<font color="#a52a2a">&nbsp;205 </font>Fedora 11 ?????????????? GDM ???? root ????, ??????????????????????????????????<br>
+<font color="#a52a2a">&nbsp;206 </font>?? root ????. ???????????????????? root ????. ??????????????????????????????.<br>
+<font color="#a52a2a">&nbsp;207 </font>???????????????????? root ????????????????????, ????????????????????????, ????<br>
+<font color="#a52a2a">&nbsp;20</font><br>
+<font color="#a52a2a">&nbsp;219 </font><font color="#ff00ff">(2010?? 03?? 21?? ?????? 13:05:42 CST)</font><br>
+<font color="#a52a2a">&nbsp;220 </font><font color="#0000ff">#=============================================================================</font><br>
+<font color="#a52a2a">&nbsp;221 </font><font color="#ff00ff"><b>10. smplayer??????????????</b></font><br>
+<font color="#a52a2a">&nbsp;222 </font>smplaye ????: ??????????????????????????pulse, ??????alsa??????, ????????avi??<br>
+<font color="#a52a2a">&nbsp;223 </font>rmvb??????????.<br><br>
+#1323615365
+<font color="#a52a2a">&nbsp;225 </font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;226 </font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;227 </font><font color="#ff00ff">(2010?? 03?? 21?? ?????? 17:5<font color="#a52a2a">&nbsp;22CST)</font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;235 </font><font color="#0000ff">#=============================================================================</font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;236 </font><font color="#ff00ff"><b>12. minix study googlecode</b></font><br>
+#1323615365
+<font color="#a52a2a">&nbsp;237 </font>Zp3mQ2Cg2Zd3<br>
+#1323615365
+<font color="#a52a2a">&nbsp;23</font><br>
+#1323611713
+mutt
+#1323607665
+mutt
+#1323615400
+ii
+#1323615406
+pg scre
+#1323615408
+pg nb
+#1323615419
+kill 3134
+#1323615424
+kill 3133
+#1323607655
+screen
+#1323615424
+/font><font color="#ff00ff"><b>100.3.2 经测试得出必须要有的包为:</b></font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;479 </font>&nbsp;&nbsp;&nbsp;&nbsp;myfaces-api-2.0.0.jar<br>
+#1323615424
+<font color="#a52a2a">&nbsp;480 </font>&nbsp;&nbsp;&nbsp;&nbsp;myfaces-impl-2.0.0.jar<br>
+#1323615424
+<font color="#a52a2a">&nbsp;481 </font>&nbsp;&nbsp;&nbsp;&nbsp;jstl.jar<br>
+#1323615424
+<font color="#a52a2a">&nbsp;482 </font>&nbsp;&nbsp;&nbsp;&nbsp;standard.jar<br>
+#1323615424
+<font color="#a52a2a">&nbsp;483 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;484 </font>javac -classpath \<br>
+#1323615424
+<font color="#a52a2a">&nbsp;485 </font>/usr/share/tomcat6/lib/jsp-api.jar:/usr/share/tomcat6/lib/servlet-api.jar:\<br>
+#1323615424
+<font color="#a52a2a">&nbsp;486 </font>/home/scr/book/JSP/Pro_JSP_e3/code-e4/jsf/myfaces-impl-2.0.0.jar:\<br>
+#1323615424
+<font color="#a52a2a">&nbsp;487 </font>/home/scr/book/JSP/Pro_JSP_e3/code-e4/jsf/myfaces-api-2.0.0.jar:\<br>
+#1323615424
+<font color="#a52a2a">&nbsp;488 </font>&nbsp;-d WEB-INF/classes/ src/com/apress/projsp/*.java<br>
+#1323615424
+<font color="#a52a2a">&nbsp;489 </font>*/<br>
+#1323615424
+<font color="#a52a2a">&nbsp;490 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;491 </font><font color="#ff00ff"><b>100.3.3 FAQ</b></font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;492 </font><span style="background-color: #ff0000"><font color="#ffffff">Error</font></span>:<br>
+#1323615424
+<font color="#a52a2a">&nbsp;493 </font>HTTP Status 404 - Servlet Faces Servlet is not available<br>
+#1323615424
+<font color="#a52a2a">&nbsp;494 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;495 </font>type Status report<br>
+#1323615424
+<font color="#a52a2a">&nbsp;496 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;497 </font>message Servlet Faces Servlet is not available<br>
+#1323615424
+<font color="#a52a2a">&nbsp;498 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;499 </font>description The requested resource <font color="#ff00ff">(Servlet Faces Servlet is not available)</font>&nbsp;is not available.<br>
+#1323615424
+<font color="#a52a2a">&nbsp;500 </font>Apache Tomcat/6.0.20<br>
+#1323615424
+<font color="#a52a2a">&nbsp;501 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;502 </font><span style="background-color: #ffff00"><font color="#0000ff">Analysis</font></span>:<br>
+#1323615424
+<font color="#a52a2a">&nbsp;503 </font><span style="background-color: #ffff00"><font color="#0000ff">Note</font></span>: 用目录的软链接方式是无效的!!!!!<br>
+#1323615424
+<font color="#a52a2a">&nbsp;504 </font><font color="#a52a2a"><b>[scr WEB-INF]$ pwd</b></font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;505 </font>/home/scr/book/JSP/Pro_JSP_e3/code-e4/Chapter05/Jsf02/WEB-INF<br>
+#1323615424
+<font color="#a52a2a">&nbsp;506 </font><font color="#a52a2a"><b>[scr WEB-INF]$ ln -s ../../Jsf01/WEB-INF/lib/ lib</b></font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;507 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;508 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;509 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;510 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;511 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;512 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;513 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;514 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;515 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;516 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;517 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;518 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;519 </font><font color="#ff00ff"><b>100.20 编译出错处理记录</b></font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;520 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;521 </font><font color="#ff00ff"><b>100.20.1 软件包 javax.servlet 不存在</b></font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;522 </font><span style="background-color: #ff0000"><font color="#ffffff">Error</font></span>:<br>
+#1323615424
+<font color="#a52a2a">&nbsp;523 </font>[<font color="#008b8b">javac</font>] /home/scr/projsp/ErrorServlet.java:4:软件包javax.servlet 不存在<br>
+#1323615424
+<font color="#a52a2a">&nbsp;524 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;525 </font><span style="background-color: #ffff00"><font color="#0000ff">Analysis</font></span>:<br>
+#1323615424
+<font color="#a52a2a">&nbsp;526 </font>Linux中安装的tomcat6的servlet包是tomcat6-servlet-2.5-api-6.0.20.jar, 而不是<br>
+#1323615424
+<font color="#a52a2a">&nbsp;527 </font>servlet-api.jar<br>
+#1323615424
+<font color="#a52a2a">&nbsp;528 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;529 </font><span style="background-color: #ffff00"><font color="#0000ff">Solution</font></span>&nbsp;1:
+#1323615424
+<font color="#a52a2a">&nbsp;530 </font><span style="background-color: #bebebe"><font col
+#1323615424
+<font color="#a52a2a">&nbsp;531 </font><font color="#a52a2a"><b>[root lib]$ pwd</b></font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;532 </font>/usr/share/tomcat6/lib<br>
+#1323615424
+<font color="#a52a2a">&nbsp;533 </font><font color="#a52a2a"><b>[root lib]$ ln -s to
+#1323615424
+<font color="#a52a2a">&nbsp;534 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;535 </font><br>
+#1323615424
+<font color="#a52
+<font color="#a52a2a">&nbsp;537 </font><font color="#a52a2a"><b>[scr ~]$ javac -classpath /usr/share/tomcat6/lib/jsp-a
+<font color="#a52a2a">&nbsp;538 </font><br>
+<font color="#a52a2a">&nbsp;539 </font><br>
+<font color="#a52a2a">&nbsp;540 </font><font color="#ff00ff"><b>100.20.2 软件包 javax.servlet.jsp 不存在</b></font><br>
+<fon
+<font color="#a52a2a">&nbsp;542 </font>[<font color="#008b8b">javac</font>] /home/scr/book/Functi
+<font color="#a52a2a">&nbsp;543 </font><br>
+<
+<font color="#a52a2a">&nbsp;545 </font><spa
+<font color="#a52a2a">&nbsp;546 </font><font color="#a52a2a"><b>[root lib]$ pwd</b></font>
+<font color="#a52a2a">&nbsp;547 </font>/usr/share/tomcat6/lib<br>
+<font color="#a52a2a">&nbsp;548 </font><font color="#a52a2a
+#1323615424
+<font color="#a52a2a">&nbsp;549 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;550 </font><span style="background-color: #bebebe"><font color="#00008b">2)</font></span>&nbsp;&nbsp;使用 javac 的 -classpath 选项:<br>
+#1323615424
+<font color="#a52a2a">&nbsp;551 </font><font color="#a52a2a"><b>[scr ~]$ javac -classpath /usr/share/tomcat6/lib/jsp-api.jar:/
+#1323615424
+<font color="#a52a2a">&nbsp;552 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;553 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;554 </font><font color="#ff00ff"><b>100.20.3 java.lang.NoClassDefFoundError: javax/ &gt; &gt; el/ELResolver 04/13/2009</b></font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;555 </font><span style="background-color: #ff0000"><font color="#ffffff">Error</font></span>:<br>
+#1323615424
+<font color="#a52a2a">&nbsp;556 </font>javax.servlet.ServletException: java
+#1323615424
+<font color="#a52a2a">&nbsp;557 </font>&nbsp;0 <span style="background-color: #ffff00"><font color="#0000ff">Comment</font></span><font color="#ff00ff">(s)</font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;558 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;559 </font><span style="background-color: #ffff00"><font color="#0000ff">Analysis</font></span><br>
+#1323615424
+<font color="#a52a2a">&nbsp;560 <
+#1323615424
+<font color="#a52a2a">&nbsp;561 </font>fresh copy of tomcat 6.0.18. When I ran the server this was what I was getting<br>
+#1323615424
+<font 
+#1323615424
+<font color="#a52a2a">&nbsp;563 </font>this
+#1323615424
+<font color="#a52a2a">&nbsp;564 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;565 </font><span style="background-color: #ffff00"><font co
+#1323615424
+<font color="#a52a2a">&nbsp;566 </font>So, 
+#1323615424
+<font color="#a52a2a">&nbsp;567 </font>to c
+#1323615424
+<font color="#a52a2a">&nbsp;568 </font><spa
+#1323615424
+<font color="#a52a2a">&nbsp;569 </font><span style="background-color: #bebebe"><font color="#00008b">2)</font></span>&nbsp;You have
+#1323615424
+<font color="#a52a2a">&nbsp;570 </font><spa
+#1323615424
+<font color="#a52a2a">&nbsp;571 </font>&nbs
+#1323615424
+<font color="#a52a2a">&nbsp;572 </font><span style="background-color: #bebebe"><font color="#00008b">4)</font>
+#1323615424
+<font color="#a52a2a">&nbsp;573 </font>&nbsp;&nbsp; These are all the things that You need to check and most of the times, You<br>
+#1323615424
+<font color="#a52a2a">&nbsp;574 </
+#1323615424
+<font color="#a52a2a">&nbsp;575 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;576 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;577 </fon
+#1323615424
+<font color="#a52a2a">&nbsp;578 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;579 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;580 </font><br>
+#1323615424
+<font color="#a52
+<font color="#a52a2a">&nbsp;582 </font><br>
+<font color="#a52a2a">&nbsp;583 </font><font color="#ff00ff"><b>1000. last</b></font><br>
+<font color="#a52a2a">&nbsp;584 </font><font color="#ff00ff"><b>1000.1 开机启动项</b></font><br>
+<font color="#a52a2a">&nbsp;585 </font><font color="#ff00ff"><b>1000.1.1 新增</b></font><br>
+<font color="#a52a2a">&nbsp;5
+<font color="#a52a2a">&nbsp;587 </font>qbit
+<font color="#a52a2a">&nbsp;588 </font>stardict<br>
+<font color="#a52a2a">&nbsp;589 </font><br>
+<font color="#a52a2a">&nbsp;590 </font><font color="#0000ff">#==============================================================
+<font color="#a52a2a">&nbsp;591 </font><font color="#0000ff">#=============================================================================</font><br>
+<font color="#a52a2a">&nbsp;592 </font><span style="background-color: #ffff00"><font color="#0000ff">note</font></span>:<br>
+#1323615424
+<font color="#a52a2a">&nbsp;593 </font><font color="#0000
+#1323615424
+<font color="#a52a2a">&nbsp;594 </font><font color="#0000ff">#=============================================================================</font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;595 </font><font color="#ff00ff">(2010年 03月 05日 星期五 20:46:38 CST)</font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;596 </font><font color="#0000ff">#=========================
+#1323615424
+<font color="#a52a2a">&nbsp;597 </font><font color="#ff00ff"><b>1001. Bash Shell 快捷键</b></font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;598 </font>CTRL 键<br>
+#1323615424
+<font color="#a52a2a">&nbsp;599 </font>Ctrl + b - Move back a char<br>
+#1323615424
+<font color="#a52a2a">&nbsp;600 </font>Ctrl + f - Move forward a char<br>
+#1323615424
+<font color="#a52a2a">&nbsp;601 </font>Ctrl + h - 删除当前字符<br>
+#1323615424
+<font color="#a52a2a">&nbsp;
+#1323615424
+<font color="#a52a2a">&nbsp;603 </font>Ctrl + xx - Move between EOL and current cursor position<br>
+#1323615424
+<font color="#a52a2a">&nbsp;604 </font>&nbsp;&nbsp;&nbsp;&nbsp;Ctrl + a - Jump to the start of the line<br>
+#1323615424
+<font color="#a52a2a">&nbsp;605 </font>&nbsp;&nbsp;&nbsp;&nbsp;Ctrl + c - Terminate the command&nbsp;&nbsp;<font color="#0000ff">//
+#1323615424
+<font color="#a52a2a">&nbsp;606 </font>&nbs
+#1323615424
+<font color="#a52a2a">&nbsp;607 </font>&nbs
+#1323615424
+<font color="#a52a2a">&nbsp;608 </font>&nbsp;&nbsp;&nbsp;&nbsp;Ctrl + k - Delete to EOL<br>
+#1323615424
+<font color="#a52a2a">&nbsp;609 </font>&nbsp;&nbsp;&nbsp;&nbsp;Ctrl + l - Clear the screen&nbsp;&nbsp;<font color="#0000ff">//清屏, 类似 clear 命令</font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;610 </font>&nbsp;&nbsp;&nbsp;&nbsp;Ctrl + R - Search the history backwards wit
+#1323615424
+<font color="#a52a2a">&nbsp;611 </font>&nbsp;&nbsp;&nbsp;&nbsp;Ctrl + r - Search the history backwards&nbsp;&nbsp;<font color="#0000ff">//查找历史命令</font><br
+#1323615424
+<font color="#a52a2a">&nbsp;612 </font>&nbsp;&nbsp;&nbsp;&nbsp;Ctrl + w - 删除最后输入的单词<br>
+#1323615424
+<font color="#a52a2a">&nbsp;613 </font>&nbsp;&nbsp;&nbsp;&nbsp;Ctrl + z - Suspend/ Stop the command<br>
+#1323615424
+<font color="#a52a2a">&nbsp;614 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ctrl + x @ - Show possible hostname c
+#1323615424
+<font color="#a52a2a">&nbsp;615 </font><br>
+#1323615424
+<font color="#a52a2a">&nbsp;616 </font>ALT 键<br>
+#1323615424
+<font color="#a52a2a">&nbsp;617 </font>Alt + b - Move backward<br>
+#1323615424
+<font color="#a52a2a">&nbsp;618 </font>Alt + c - Capitalize the word <font color="#0000ff">(^ 首字
+�<font color="#a52a2a">&nbsp;619 </font>Alt + d - Delete word<br>
+<font color="#a52a2a">&nbsp;620 </font>Alt + f - Move forward<br>
+<font color="#a52a2a">&nbsp;621 </font>Alt +
+<font color="#a52a2a">&nbsp;622 </font>Alt + r - Recall command <font color="#0000ff">(
+<font color="#a52a2a">&nbsp;623 </font>Alt + t - Move words around <font color="#0000ff">(^ Esc + t ^)</font><br>
+<font color="#a52a2a">&nbsp;624 </font>Alt + u - Make word uppercase<br>
+<font color="#a52a2a">&nbsp;625 </font>Alt + . - Yank last argument to previous command<b
+<font color="#a52a2a">&nbsp;626 </font>&nbs
+<font color="#a52a2a">&nbsp;627 </font>&nbs
+<font color="#a52a2a">&nbsp;628 </fon
+<font color="#a52a2a">&nbsp;629 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alt + &lt;<font color="#008b8b">&nbsp;- Move to the first line in the history</font><br>
+<font color="#a52a2a">&nbsp;630 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alt + &gt; - Move to the last line in the history<br>
+<font color="#a52a2a">&nbsp;631 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alt + n - Search the history forwards non-incremental<br>
+<font color="#a52a2a">&nbsp;632 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alt + p - Search the history backwards non-incremental<br>
+<font color="#a52a2a">&nbsp;633 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alt + ? - Show current completion list<br>
+<font color="#a52a2a">&nbsp;634 </font><br>
+<font color="#a52a2a">&nbsp;635 </font><font color="#0000ff">// SecureCRT 如果没有配置好, 这个就很管用了.</font><br>
+<font color="#a52a2a">&nbsp;636 </font><br>
+<font color="#a52a2a">&nbsp;637 </font>其他特定的键绑定:<br>
+<font color="#a52a2a">&nb
+<font color="#a52a2a">&nbsp;639 </font>Here &quot;<font color="#2e8b57"><b>2T</b></font>&quot; means Press TAB twice<br>
+<font color="#a52a2a">&nbsp;640 </font><font color="#a52a2a"><b>$ 2T - All available co
+<font color="#a52a2a">&nbsp;641 </font><font color="#a52a2a"><b>$ (string)2T - All available commands starting with (string)</b></font><br>
+<font color="#a52a2a">&nbsp;642 </font><font color="#a52a2a"><b>
+<font color="#a52a2a">&nbsp;643 </font><font color="#a52a2a"><b>$ ./2T - Only Sub Dirs inside including H
+<font color="#a52a2a">&nbsp;644 </font><font color="#a52a2a"><b>$ *2T - Only Sub Dirs inside without Hidden one</b></font><br>
+<font color="#a52a2a">&nbsp;645 </font><font color="#a52a2a"><b>$ ~2T - All Present Users on system from &quot;/etc/passwd&quot; //第一次
+�<font color="#a52a2a">&nbsp;646 </font><font color="#a52a2a"><b>$ $2T - All Sys variables //写Shell脚本的时候很实用</b></font><br>
+<font color="#a52a2a">&nbsp;647 </font><font color="#a52a2a"><b>$ @2T - Entries from &quot;/etc/
+<font color="#a52a2a">&nbsp;648 </font><font color="#a52a2a"><b>$ =2T - Output like ls or dir //好像还不如 ls 快捷</b></font
+<font color="#a52a2a">&nbsp;649 </font>补
+�<font color="#a52a2a">&nbsp;650 </font>Esc 
+<font color="#a52a2a">&nbsp;651 </font><br>
+<font color="#a52a2a">&nbsp;652 </font><font color="#ff00ff">(2010年 03月 07日 星期日 02:17:29 CST)</font><br>
+<font color="#a52a2a">&nbsp;653 </font><font color="#0000ff">#=============================================================================</font><br>
+<font color="#a52a2a">&nbsp;654 </font>fcitx 开机自动启动的方法:<font color="#ff00ff">(还没有测试)</font><br>
+<font color="#a52a2a">&nbsp;655 </font>新建:<br>
+<font color="#a52a2a">&nbsp;656 </font>~/.x
+<font color="#a52a2a">&nbsp;657 </font>在其中输入:<br>
+<font color="#a52a2a">&nbsp;658 </font>XMODIF
+<font color="#a52a2a">&nbsp;659 </font>XIM=fcitx<br>
+<font color="#a52a2a">&nbsp;660 </font>XIM_PROGRAM
+<font color="#a52a2a">&nbsp;661 </font><br>
+<font color="#a52a2a">&nbsp;662 </font><br>
+<font color="#a52a2a">&nbsp;663 </fo
+<font color="#a52a2a">&nbsp;664 </font><br>
+<font color="#a52a2a">&nbsp;665 </font><br>
+<font color="#a52a2a">&nbsp;666 </font><br>
+<font color="#a52a2a">&nbsp;6
+<font color="#a52a2a">&nbsp;668 </font><br>
+<font color="#a52a2a">&nbsp;669 </font><br>
+<font color="#a52a2a">&nbsp;670 </font><br>
+<font color="#a52a2a">&nbsp;671 </font><br>
+<font color="#a52a2a">&nbsp;672 </font><br>
+<font color="#a52a2a">&nbsp;673 </font><font color="#ff00ff"><b>1002. Oracle 10g linux 安装笔记</b></font><br>
+<font color="#a52a2a">&nbsp;67
+<font color="#a52a2a">&nbsp;675 </font><br>
+<font color="#a52a2a">&nbsp;676 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;&nbsp;1.</font></span>&nbsp;新建用户组<br>
+<font color="#a52a2a">&nbsp;677 </font>&nbsp;# /usr/sbin/groupadd oinstall<br>
+<font color="#a52a2a">&nbsp;678 </font>&nbsp;# /usr/sbin/groupadd dba<br>
+<font color="#a52a2a">&nbsp;679 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;&nbsp;2.</font></span>&nbsp;新建用户并设置密码<br>
+<font color="#a52a2a">&nbsp;680 </font>&nbsp;# /usr/sbin/useradd -g oinstall -G dba oracle<br>
+<font color="#a52a2a">&nbsp;681 </font>&nbsp;# passwd oracle<br>
+<font color="#a52a2a">&nbsp;682 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;&nbsp;3.</font></span>&nbsp;建立目录<font color="#ff00ff">(以可以在一个目录下分两个子目录)</font><br>
+<font color="#a52a2a">&nbsp;683 </font>&nbsp;/ora10g/app/oracle<br>
+<font color="#a52a2a">&nbsp;684 </font>&nbsp;/ora10b/oradata<br>
+<font color="#a52a2a">&nbsp;685 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;&nbsp;4.</font></span>设置目录权权限<br>
+<font color="#a52a2a">&nbsp;686 </font>&nbsp;# chown -R oracle:oinstall /ora10g/app/oracle /ora10b/oradata<br>
+<font color="#a52a2a">&nbsp;687 </font>&nbsp;# chmod -R 775 /ora10g/app/oracle /ora10b/oradata<br>
+<font color="#a52a2a">&nbsp;688 </font><br>
+<font color="#a52a2a">&nbsp;689 </font><font color="#ff00ff"><b>二. 配置内核参数</b></font><br>
+<font color="#a52a2a">&nbsp;690 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;&nbsp;1.</font></span>&nbsp;&nbsp;检查内核参数如下表, 当前系统参数值因该大于等于:<br>
+<font color="#a52a2a">&nbsp;691 </font>================================================================================================<br>
+<font color="#a52a2a">&nbsp;692 </font>&nbsp;&nbsp;Parameter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Value&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;File&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; 查看命令<br>
+<font color="#a52a2a">&nbsp;693 </font>-----------------+---------------+-
+<font color="#a52a2a">&nbsp;694 </font>&nbsp;semmsl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 250&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;/proc/sys/kernel/sem&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;#/sbin/sysctl -a | grep sem<br>
+<font color="#a52a2a">&nbsp;695 </font>&nbsp;semmns&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 32000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&
+<font color="#a52a2a">&nbsp;696 </font>&nbsp;semopm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+<font color="#a52a2a">&nbsp;697 </font>&nbsp;semmni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color="#a52a2a">&nbsp;698 </font>-----------------+---------------+-------
+<font color="#a52a2a">&nbsp;699 </font>&nbsp;&nbsp;shmall&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color="#a52a2a">&nbsp;700 </font>-----------------+---------------+-------------------------------+-----------------------------<br>
+<font color="#a52a2a">&nbsp;701 </font>&nbsp;&nbsp;shmmax&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 物理内存的一半&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp; /proc/sys/kernel/shmmax&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<br>
+<font color="#a52a2a">&nbsp;702 </font>-----------------+---------------+-------------------------------+-----------------------------<br>
+<font color="#a52a2a">&nbsp;703 </font>&nbsp;&nbsp;shmmni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 4096&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| /proc/sys/kernel/shmmni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+<font color="#a52a2a">&nbsp;704 </font>
+<font color="#a52a2a">&nbsp;705 </font>&nbsp;&nbsp;file-max&nbsp;&nbsp;| 65536&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | /proc/sys/fs/file-max&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; # /sbin/sysctl -a | grep file-max<br>
+<font color="#a52a2a">&nbsp;706 </font>-----------------+---------------+-------------------------------+-----------------------------<br>
+<font color="#a52a2a">&nbsp;707 </font>&nbsp;&nbsp;ip_local_port_range | 1024&nbsp;&nbsp;65000&nbsp;&nbsp;| /proc/sys/net/ipv4/ip_local_port_range&nbsp;&nbsp; | #sysctl&nbsp;&nbsp;-a&nbsp;&nbsp;|&nbsp;&nbsp;grep&nbsp;&nbsp;ip_local_port_range<br>
+<font color="#a52a2a">&nbsp;708 </font>=================+===============+=============================================================<br>
+<font color="#a52a2a">&nbsp;709 </font>&nbsp;&nbsp;如果有任何的不同, 修改内核配置文件/etc/sysctl.conf ,运行#/sbin/sysctl -p 使配置立即生效.<br>
+<font color="#a52a2a">&nbsp;710 </font><br>
+<font color="#a52a2a">&nbsp;711 </font><font color="#ff00ff"><b>三. 设置Oracle用户的Shell限制</b
+<font color="#a52a2a">&nbsp;712 </font>=============================================+===============+=================<br>
+<font color="#a52a2a">&nbsp;713 </font>Shell Limit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Item in limits.conf&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;Hard Limit<br>
+<font color="#a52a2a">&nbsp;714 </font>---------------------------------------------+---------------+-----------------<br>
+<font color="#a52a2a">&nbsp;715 </font>&nbsp;Maximum number of open file descriptors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nofile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 65536<br>
+<font color="#a52a2a">&nbsp;716 </font>---------------------------------------------+---------------+-----------------<br>
+<font color="#a52a2a">&nbsp;717 </font>&nbsp;Maximum number of processes available to a single user&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nproc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 16384<br>
+<font color="#a52a2a">&nbsp;718 </font>=============================================+===============+=================<br>
+<font color="#a52a2a">&nbsp;719 </font>将下列配置加到 /etc/security/limits.conf 文件中:<br>
+<font color="#a52a2a">&nbsp;720 </font>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;soft&nbsp;&nbsp;&nbsp;&nbsp;nproc&nbsp;&nbsp; 2047<br>
+<font col
+<font color="#a52a2a">&nbsp;722 </font>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;soft&nbsp;&nbsp;&nbsp;&nbsp;nofile&nbsp;&nbsp;1024<br>
+<font color="#a52a2a">&nbsp;723 </font>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hard&nbsp;&nbsp;&nbsp;&nbsp;nofile&nbsp;&nbsp;65536<br>
+<font color="#a52a2a">&nbsp;724 </font>增加下列配置到 /etc/pam.d/login&nbsp;&nbsp;文件中:<br>
+<font color="#a52a2a">&nbsp;725 </font>session&nbsp;&nbsp;&nbsp;&nbsp;required&nbsp;&nbsp;&nbsp;&nbsp; /lib/security/pam_limits.so<br>
+<font color="#a52a2a">&nbsp;726 </font>对于单独使用Oracle用户的shell,增加下列脚本到配置文件/etc/profile 中:<br>
+<font color="#a52a2a">&nbsp;727 </font>if [<font color="#008b8b">&nbsp;$USER = &quot;oracle&quot; </font>]; then<br>
+<font color="#a52a2a">&nbsp;728 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if [<font color="#008b8b">&nbsp;$SHELL = &quot;/bin/ksh&quot; </font>]; then<br>
+<font color="#a52a2a">&nbsp;729 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ulimit -p 16384<br>
+<font color="#a52a2a">&nbsp;730 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ulimit -n 65536<br>
+<font color="#a52a2a">&nbsp;731 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;else<br>
+<font color="#a52a2a">&nbsp;732 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
+<font color="#a52a2a">&nbsp;733 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fi<br>
+<font color="#a52a2a">&nbsp;734 </font>fi<br>
+<font color="#a52a2a">&nbsp;735 </font><br>
+<font color="#a52a2a">&nbsp;736 </font><font color="#ff00ff"><b>四. 设置用户oracle的环境变量</b></font><br>
+<font color="#a52a2a">&nbsp;737 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;1.</font></span>&nbsp;以用户oracle登录:<br>
+<font color="#a52a2a">&nbsp;738 </font>&nbsp;&nbsp;&nbsp;&nbsp;在配置文件.bash_profile文件中增加: umask 022&nbsp;&nbsp;设置该用户的默认umask<br>
+<font color="#a52a2a">&nbsp;739 </font>&nbsp;&nbsp;&nbsp;&nbsp;执行$ . ./.bash_profile 配置生效.<br>
+<font color="#a52a2a">&nbsp;740 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;2.</font></span>&nbsp;设置临时文件目录<br>
+<font color="#a52a2a">&nbsp;741 </font>&nbsp;&nbsp;&nbsp;&nbsp;$ TEMP=/directory<br>
+<font color="#a52a2a">&nbsp;742 </font>&nbsp;&nbsp;&nbsp;&nbsp;$ TMPDIR=/directory<br>
+<font color="#a52a2a">&nbsp;743 </font>&nbsp;&nbsp;&nbsp;&nbsp;$ export TEMP TMPDIR<br>
+<font color="#a52a2a">&nbsp;744 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;3.</font></span>&nbsp;如果不是本地安装, 设置DISPLAY变量, 使X窗口能显示在当前系统中<br>
+<font color="#a52a2a">&nbsp;745 </font>&nbsp;&nbsp;&nbsp;&nbsp;$ DISPLAY=your IP:0.0 ; export DISPLAY<br>
+<font color="#a52a2a">&nbsp;746 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;4.</font></span>&nbsp;设置ORACLE_BASE和ORACLE_SID变量<br>
+<font color="#a52a2a">&nbsp;747 </font>&nbsp;&nbsp;&nbsp;&nbsp;$ ORACLE_BASE= /ora10g/app/oracle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#0000ff">//这是在前面建立的Oracle的主程序目录</font><br>
+<font color="#a52a2a">&nbsp;748 </font>&nbsp;&nbsp;&nbsp;&nbsp;$ ORACLE_SID=sales<br>
+<font color="#a52a2a">&nbsp;749 </font>&nbsp;&nbsp;&nbsp;&nbsp;$ export ORACLE_BASE ORACLE_SID<br>
+<font color="#a52a2a">&nbsp;750 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;5.</font></span>&nbsp;确认ORACLE_HOME和TNS_ADMIN环境变量没有设置, 如有设置用 unset ORACLE_HOME 删除<br>
+<font color="#a52a2a">&nbsp;751 </font><br>
+<font color="#a52a2a">&nbsp;752 </font>五. 开始吧, 前面的活不能白干吧<br>
+<font color="#a52a2a">&nbsp;753 </font>&nbsp;运行runInstaller开始安装<br>
+<font color="#a52a2a">&nbsp;754 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装FAQ: 如果提示权限不够, 直接用oracel用户登录启动X, 不要用root启动在su -oracle的方式切换用户.<br>
+<font color="#a52a2a">&nbsp;755 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;提示不能显示X窗口这样提示, 检查前面的DISPLAY设置.<br>
+<font color="#a52a2a">&nbsp;756 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当出现的窗口显示的是乱码时, 改下列环境变量:<br>
+<font color="#a52a2a">&nbsp;757 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $ export LANG=en_US.UTF-8<br>
+<font color="#a52a2a">&nbsp;758 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $ export LC_CTYPE=en_US.UTF-8<br>
+<font color="#a52a2a">&nbsp;759 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装Oracle 10g对linux的版本有要求, 可用下面的参数跳过10g对支持系统的检查:<br>
+<font color="#a52a2a">&nbsp;760 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; runInstall -ignoreSysPrereqs<br>
+<font color="#a52a2a">&nbsp;761 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ps:开始在FC5上安装不知道这个参数, 过不去, 又重装了一个红旗DC4, 才装上了 ^
+<font color="#a52a2a">&nbsp;762 </font><br>
+<font color="#a52a2a">&nbsp;763 </font><font color="#ff00ff"><b>六. 开始安装</b></font><br>
+<font color="#a52a2a">&nbsp;764 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;&nbsp;&nbsp;&nbsp;1.</font></span>&nbsp;输入cd-key以后选择安装目录和用户组, 如果前面的环境变量设置正确, 这是目录应该在设定的Oracle目录下, 用户组为oinstall.<br>
+<font color="#a52a2a">&nbsp;765 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;&nbsp;&nbsp;&nbsp;2.</font></span>点下一步后会弹出一个窗口提示运行orainstRoot.sh的脚本. 这时开一个终端以root运行后, 点继续<br>
+<font color="#a52a2a">&nbsp;766 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;&nbsp;&nbsp;&nbsp;3.</font></span>&nbsp;点两次next, 出现选择安装类型, 在点next, 开始检查安装需要的条件, 完成后点next.<br>
+<font color="#a52a2a">&nbsp;767 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;&nbsp;&nbsp;&nbsp;4.</font></span>选择建立一个一般数据库, 在点next.<br>
+<font color="#a52a2a">&nbsp;768 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;&nbsp;&nbsp;&nbsp;5.</font></span>&nbsp;前面我们设的ORACLE_SID出现在数据库名中, 选择相应的字符集后next.在这里我们选上建立一个例子数据库.<br>
+<font color="#a52a2a">&nbsp;769 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;&nbsp;&nbsp;&nbsp;6.</font></span>&nbsp;点两次next,选择安装数据库的位置, 选择我们前面建立的/ora10g/oradata<br>
+<font color="#a52a2a">&nbsp;770 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;&nbsp;&nbsp;&nbsp;7.</font></span>点两次next输入管理用户的密码后next.<br>
+<font color="#a52a2a">&nbsp;771 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;&nbsp;&nbsp;&nbsp;8.</font></span>确认选择无误后点install,开始安装<br>
+<font color="#a52a2a">&nbsp;772 </font><span style="background-color: #bebebe"><font color="#00008b">&nbsp;&nbsp;&nbsp;&nbsp;9.</font></span>&nbsp;安装完成后弹出一个窗口, 其中显示用管理工具的URL, 点OK后弹出一个提示要求运行root.sh脚本.<br>
+<font color="#a52a2a">&nbsp;773 </font>&nbsp;&nbsp;OK, 安装结束<br>
+<font color="#a52a2a">&nbsp;774 </font><br>
+<font color="#a52a2a">&nbsp;775 </font><br>
+<font color="#a52a2a">&nbsp;776 </font>安装完成后会显示类式下面的
+�<font color="#a52a2a">&nbsp;777 </font>Ultra Search URL:<br>
+<font color="#a52a2a">&nbsp;778 </font><font color="#6a5acd"><u><a href="http://localhost.localdomain:5620/ultrasearch">http://localhost.localdomain:5620/ultrasearch</a></u></font><br>
+<font color="#a52a2a">&nbsp;779 </font><br>
+<font color="#a52a2a">&nbsp;780 </font>Ultra Search Administration Tool URL:<br>
+<font color="#a52a2a">&nbsp;781 </font><font color="#6a5acd"><u><a href="http://localhost.localdomain:5620/ultrasearch/admin">http://localhost.localdomain:5620/ultrasearch/admin</a></u></font><br>
+<font color="#a52a2a">&nbsp;782 </font><br>
+<font color="#a52a2a">&nbsp;783 </font>iSQL*Plus URL:<br>
+<font color="#a52a
+<font color="#a52a2a">&nbsp;785 </font><br>
+<font color="#a52a2a">&nbsp;786 </font>Enteprise Manager 10g Database Control URL:<br>
+<font color="#a52a2a">&nbsp;787 </font><font color="#6a5acd"><u><a href="http://localhost.localdomain:5500/em">http://localhost.localdomain:5500/em</a></u></font><br>
+<font color="#a52a2a">&nbsp;788 </font><br>
+<font color="#a52a2a">&nbsp;789 </font><br>
+<font color="#a52a2a">&nbsp;790 </font><font color="#ff00ff"><b>七. 启动和停止数据库及工具</b></font><br>
+<font color="#a52a2a">&nbsp;791 </font>用oracle用户登录后设置下列变量<br>
+<font color="#a52a2a">&nbsp;792 </font>export ORACLE_BASE=/ora10g/app/oracle<br>
+<font color="#a52a2a">&nbsp;793 </font>export ORACLE_SID=sales<br>
+<font color="#a52a2a">&nbsp;794 </font>export ORACLE_HOME=$ORACLE_BASE/product/10.1.0/db_1<br>
+<font color="#a52a2a">&
+<font color="#a52a2a">&nbsp;796 </font><br>
+<font color="#a52a2a">&nbsp;797 </font>启动和停
+�<font color="#a52a2a">&nbsp;798 </font>&nbsp;&nbsp;&nbsp;&nbsp;lsnrctl start<br>
+<font color="#a52a2a">&nbsp;799 </font>&nbsp;&nbsp;&nbsp;&nbsp;lsnrctl stop<br>
+<font color="#a52a2a">&nbsp;800 </font><br>
+<font color="#a52a2a">&nbsp;801 </font>启动和停止Oracle Enterprise Manager:<br>
+<font color="#a52a2a
+<font color="#a52a2a">&nbsp;803 </font>&nbsp;&nbsp; emctl stop dbconsole<br>
+<font color="#a52a2a">&nbsp;804 </font><br>
+<font color="#a52a2a">&nbsp;805 </font>启动和停止iSQL*Plus<br>
+<font color="#a52a2a">&nbsp;806 </font>&nbsp;&nbsp;&nbsp;&nbsp;isqlplusctl start<br>
+<font color="#a52a2a">&nbsp;807 </font>&nbsp;&nbsp;&nbsp;&nbsp;isqlplusctl stop<br>
+<font color="#a52a2a">&nbsp;808 </font><br>
+<font color="#a52a2a">&nbsp;809 </font>启动和停止数据库<br>
+<font color="#a52a2a">&nbsp;810 </font>&nbsp;&nbsp;启动:<br>
+<font color="#a52a2a">&nbsp;811 </font>&nbsp;&nbsp; sqlplus<br>
+<font color="#a52a2a">&nbsp;812 </font>&nbsp;&nbsp; Enter usr-name: / as syadba<br>
+<font color="#a52a2a">&nbsp;813 </font>&nbsp;&nbsp; SQL&gt;startup<br>
+<font color="#a52a2a">&nbsp;814 </font>&nbsp;&nbsp;停止:<br>
+<font color="#a52a2a">&nbsp;815 </font>&nbsp;&nbsp; SQL&gt;shutdown immediate<br>
+<font color="#a52a2a">&nbsp;816 </font><br>
+<font color="#a52a2a">&nbsp;817 </font><br>
+<font color="#a52
+<font color="#a52a2a">&nbsp;819 </font><br>
+<font color="#a52a2a">&nbsp;820 </font><br>
+<font color="#a52a2a">&nbsp;821 </font><br>
+<font color="#a52a2a">&nbsp;822 </font>&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;<br>
+<font color="#a52a2a">&nbsp;823 </font>常用基本命令<br>
+<font color="#a52a2a">&nbsp;824 </font>一,注销, 关机, 重启<br>
+<font color="#a52a2a">&nbsp;825 </font><br>
+<font color="#a52a2a">&nbsp;826 </font>注销系统的logout命令<br>
+<font color="#a52a2a">&nbsp;827 </font><br>
+<font color="#a52a2a">&nbsp;828 </font>1, Logout 注销是登陆的相对操作, 登陆系统后, 若要离开系统, 用户只要直接下达logout命令即可:<br>
+<font color="#a52a2a">&nbsp;829 </font>[<font color="#008b8b">root@localhost root</font>]#logout<br>
+<font color="#a52a2a">&nbsp;830 </font>Red Hat Linuxrelease 9<font color="#ff00ff">(Shike)</font><br>
+<font color="#a52a2a">&nbsp;831 </font>Kernel 2.4.20.8 on an i686<br>
+<font color="#a52a2a">&nbsp;832 </font>Login: &lt;-- 回到登陆的画面<br>
+<font color="#a52a2a">&nbsp;833 </font><br>
+<font color="#a52a2a">&nbsp;834 </font><br>
+<font color="#a52a2a">&nbsp;835 </font>2, 关机或重新启动的shutdown命令<br>
+<font color="#a52a2a">&nbsp;836 </font>Shutdown命令可以关闭所有程序, 依照用户的需要, 重新启动或关机.<br>
+<font color="#a52a2a">&nbsp;837 </font>参数说明如下:<br>
+<font color="#a52a2a">&nbsp;838 </font>立即关机:-h 参数让系统立即关机. 范例如下:<br>
+<font color="#a52a2a">&nbsp;839 </font>[<font color="#008b8b">root@localhost root</font>]#shutdown -h now &lt;-- 要求系统立即关机<br>
+<font color="#a52a2a">&nbsp;840 </font>指定关机时间:time参数可指定关机的时间;或设置多久时间后运行shutdown命令, 范例如下:<br>
+<font color="#a52a2a">&nbsp;841 </font>[<font color="#008b8b">root@localhost root</font>]#shutdown now &lt;-- 立刻关机<br>
+<font color="#a52a2a">&nbsp;842 </font>[<font color="#008b8b">root@localhost root</font>]#shutdown +5 &lt;-- 5分钟后关机<br>
+<font color="#a52a2a">&nbsp;843 </font>[<font color="#008b8b">root@localhost root</font>]#shutdown 10:30 &lt;-- 在10:30时关机<br>
+<font color="#a52a2a">&nbsp;844 </font>关机后自动重启:-r 参数设置关机后重新启动. 范例如下:<br>
+<font color="#a52a2a">&nbsp;845 </f
+<font color="#a52a2a">&nbsp;846 </font>[<font color="#008b8b">root@localhost root</font>]#shutdown -r 23:59 &lt;-- 指定在23:59时重启动<br>
+<font color="#a52a2a">&nbsp;847 </font><br>
+<font color="#a52a2a">&nbsp;848 </font><br>
+<font color="#a52a2a">&nbsp;849 </font>3, 重新启动计算机的reboot命令<br>
+<font color="#a52a2a">&nbsp;850 </font>顾名思义, reboot命令是
+�<font color="#a52a2a">&nbsp;851 </font>-f 参数:不依正常的程序运行关机, 直接关闭系统并重新启动计算机.<br>
+<font col
+<font color="#a52a2a">&nbsp;853 </font>虽然reboot命令有个参数可以使用, 但是一般只需要单独运行reboot命令就可以了<br>
+<font c
+<font color="#a52a2a">&nbsp;855 </font><br>
+<font color="#a52a2a">&nbsp;856 </font><br>
+<font color="#a52a2a">&nbsp;857 </font>&nbsp;&nbsp;&nbsp;&nbsp; 列出文件列表的ls命令<br>
+<font color="#a52a2a">&nbsp;858 </font>&nbsp;&nbsp;&nbsp;&nbsp; 1, ls<font color="#ff00ff">(list)</font>命令是非常有用的命令, 用来显示当前目录中的文件和子目录列表. 配合参数的使用, 能以不同的方式显示目录内容. 范例如下:<br>
+<font color="#a52a2a">&nbsp;859 </font>&nbsp;&nbsp;&nbsp;&nbsp; 显示当前目录的内容:<br>
+<font color="#a52a2a">&nbsp;860 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ ls</b></font><br>
+<font color="#a52a2a">&nbsp;
+<font color="#a52a2a">&nbsp;862 </font><br>
+<font color="#a52a2a">&nbsp;863 </font><br>
+<font color="#a52a2a">&nbsp;864 </font>&nbsp;&nbsp;&nbsp;&nbsp; 当运行ls命令时, 并不会显示名称以&quot;<font color="#2e8b57"><b>.</b></font>&quot;开头的文件. 因此可加上&quot;<font color="#2e8b57"><b>-a</b></font>&quot;参数指定要列出这些文件. 范例如下:<br>
+<font color="#a52a2a">&nbsp;865 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ ls -a</b></font><br>
+<font color="#a52a2a">&nbsp;866 </font>&nbsp;&nbsp;&nbsp;&nbsp; 以&quot;<font color="#2e8b57"><b>-s</b></font>&quot;参数显示每个文件所有的空间, 并以&quot;<font color="#2e8b57"><b>-S</b></font>&quot;参数指定按所有占用空间的大小排序. 范例如下:<br>
+<font color="#a52a2a">&nbsp;867 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ ls -s -S</b></font><br>
+<font color="#a52a2a">&nbsp;868 </font>&nbsp;&nbsp;&nbsp;&nbsp;总计36<br>
+<font color="#a52a2a">&nbsp;869 </font>&nbsp;&nbsp;&nbsp;&nbsp; 4 Desktop 4 mail 24 myinstall.log 4 test.txt<br>
+<font color="#a52a2a">&nbsp;870 </font>&nbsp;&nbsp;&nbsp;&nbsp; 在ls命令后直接加上欲显示的目录路径, 就会列出该
+<font color="#a52a2a">&nbsp;871 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ ls -l/usr/games</b></font><br>
+<font color="#a52a2a">&nbsp;872 </font>&nbsp;&nbsp;&nbsp;&nbsp; 2, 切换目录的cd命令<br>
+<font color="#a52a2a">&nbsp;873 </font>&nbsp;&nbsp;&nbsp;&nbsp; cd<font color="#ff00ff">(change directory)</font>命令可让用户切当前所在的目录. 范例如下:<br>
+<font color="#a52a2a">&nbsp;874 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free home]$ cd tony &lt;-- 切换到当前目录下的tony子目录</b></font><br>
+<font color="#a52a2a">&nbsp;875 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ cd .. &lt;-- 切换到上一层目录</b></font><br>
+<font color="#a52a2a">&nbsp;876 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free home]$ cd / &lt;-- 切换到系统根目录</b></font><br>
+<font col
+<font color="#a52a2a">&nbsp;878 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ cd /usr/bin &lt;-- 切换到/usr/bin目录</b></font><br>
+<font color="#a52a2a">&nbsp;879 </font>&nbsp;&nbsp;&nbsp;&nbsp; 3, 创建目录的mkdir命
+�<font color="#a52a2a">&nbsp;880 </font>&nbsp;&nbsp;&nbsp;&nbsp; Mkdir<font color="#ff00ff">(make directory)</font>命令可用来创建子目录. 下面的范例会在所在目录下创建tool子目录.<br>
+<font color="#a52a2a">&nbsp;881 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ mkdir tool</b></font><br>
+<font color="#a52a2a">&nbsp;882 </font>&nbsp;&nbsp;&nbsp;&nbsp; 4, 删除目录的rmdir命令<br>
+<font color="#a52a2a">&nbsp;883 </font>&nbsp;&nbsp;&nbsp;&nbsp; rmdir<font color="#ff00ff">(remove directory)</font>命令可用来删除&quot;<font color="#2e8b57"><b>空</b></font>&quot;的子目录. 范例如下:<br>
+<font color="#a
+<font color="#a52a2a">&nbsp;885 </font><br>
+<font color="#a52a2a">&nbsp;886 </font>&nbsp;&nbsp;5, 复制文件的cp命令<br>
+<font color="#a
+<font color="#a52a2a">&nbsp;888 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ cp data1.txt data2.txt &lt;-- 将data1.txt复制成data2.txt</b></font><br>
+<font color="#a52a2a">&nbsp;889 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ cp data3.txt /tmp/data &lt;-- 将data3复制到/tmp/data目录中</b></font><br>
+<font color="#a52a2a">&nbsp;890 </font><br>
+<font color="#a52a2a">&nbsp;891 </font><br>
+<font color="#a52a2a">&nbsp;892 </font>&nbsp;&nbsp;&nbsp;&nbsp; 显示复制过程:加入-v参数可显示命令执行过程. 范例如下:<br>
+<font color="#a52a2a">&nbsp;893 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ cp zip.txt zip2.txt &lt;-- 一般状态下不会显示复制过程</b></font><br>
+<font color="#a52a2a">&nbsp;894 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ cp -v zi
+<font color="#a52a2a">&nbsp;895 </font>&nbsp;&nbsp;&nbsp;&nbsp; zip.txt - &gt;zip3.txt<br>
+<font color="#a52a2a">&nbsp;896 </font>&nbsp;&nbsp;&nbsp;&nbsp; 递回复制:加入&quot;<font color="#2e8b57"><b>-R</b></font>&quot;参数可同时复制目录下的所有文件及子目录. 范例如下:<br>
+<font color="#a52a2a">&nbsp;897 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ cp -v -R * backup &lt;-- 将所有文件(含子目录文件)复制到backup目录</b></font><br>
+<font color="#a52a2a">&nbsp;898 </font>&nbsp;&nbsp;&nbsp;&nbsp; 6, 删除文件或目录的rm命令<br>
+<font color="#a52a2a">&nbsp;899 </font>&nbsp;&nbsp;&nbsp;&nbsp; rm<font color="#ff00ff">(remove)</font>命令可以删除文件或目录. 范例如下:<br>
+<font color="#a52a2a">&nbsp;900 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ rm myfile &lt;-- 删除指定的文件</b></font><br>
+<font color="#a52a2a">&nbsp;901 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ rm * &lt;-- 删除当前目录中的所有文件</b></font><br>
+<font color="#a52a2a">&nbsp;902 </font>&nbsp;&nbsp;&nbsp;&nbsp; rm命令的常用参数如下:<br>
+<fo
+<font color="#a52a2a">&nbsp;904 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ rm -f *.txt &lt;-- 强迫删
+�<font color="#a52a2a">&nbsp;905 </font>&nbsp;&nbsp;&nbsp;&nbsp; 递回删除:-r 也是一个相当常用的参数, 使用此参数可同时删除指定目录下的所有文件及子目录. 范例如下:<br>
+<font color="#a52a2a">&nbsp;906 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ rm -r data &lt;-- 删除data目录(含data目录下所有文件和子目录)</b></font><br>
+<font color="#a52a2a">&nbsp;907 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ rm -r * &lt;-- 删除所有文件(含当前目录所有文件, 所有子目录和子目录下的文件)</b></font><br>
+<font color="#a52a2a">&nbsp;908 </font>&nbsp;&nbsp;&nbsp;&nbsp; 强制删除指定目录:当使用-r参数删除目录时, 若该目录下有许多子目录及文件, 则系统会不间断地询问, 以确认您的确要删除目录或文件. 若已确定要删除所存目录及文件, 则可以使用-rf参数, 如此一来, 系统将直接删除该目录中所有的文件及子目录, 不再询问. 范例如下:<br>
+<font color="#a52a2a">&nbsp;909 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ rm -rf tmp 强制删除tmp目录及该目录下所有文件及子目录</b></font><br>
+<font color="#a52a2a">&nbsp;910 </font>&nbsp;&nbsp;&nbsp;&nbsp; 显示删除过程:使用-v 参数. 范例如下:<br>
+<font color="#a52a2a">&nbsp;911 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ rm -v</b></font><br>
+<font color="#a52a2a">&nbsp;912 </font><br>
+<font color="#a52a2a">&nbsp;913 </font>7, 让显示画面暂停的more命令<br>
+<font color="#a52a2a">&nbsp;914 </font>&nbsp;&nbsp;&nbsp;&nbsp; 为了避免画面显示瞬间就闪过去, 用户可以使用more命
+<font color="#a52a2a">&nbsp;915 </font>&nbsp;&nbsp;&nbsp;&nbsp; 当使用ls命令查看文件列表时, 若文件太多则可以配合more命令使用. 范例如下:<br>
+<font color="#a52a2a">&nbsp;916 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free bin]$ ls -
+<font color="#a52a2a">&nbsp;917 </font>&nbsp;&nbsp;&nbsp;&nbsp; more<br>
+<font color="#a52a2a">&nbsp;918 </font>&nbsp;&nbsp;&nbsp;&nbsp; 单独使用more命令时, 可用来显示文字文件的内容. 范例如下:<br>
+<font color="#a52a2a">&nbsp;919 </font><br>
+<font color
+<font color="#a52a2a">&nbsp;921 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ more data.txt</b></font><br>
+<font c
+<font color="#a52a2a">&nbsp;923 </font>&nbsp;&nbsp;&nbsp;&nbsp; cat<font color="#ff00ff">(concatenate)</font>&nbsp;命令可以显示文件的内容<font color="#ff00ff">(经常和more命
+�<font color="#a52a2a">&nbsp;924 </font>&nbsp;&nbsp;&nbsp;&nbsp; 逐页显示 preface.txt的内容:<br>
+<font color="#a52a2a">&nbsp;925 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ cat preface.txt</b></font><br>
+<font color="#a52a2a">&nbsp;926 </font>&nbsp;&nbsp;&nbsp;&nbsp; more<br>
+<font color="#a52a2a">&nbsp;927 </font>&nbsp;&nbsp;&nbsp;&nbsp; 将preface.txt 附加到outline.txt文件之后:<br>
+<font color="#a52a2a">&nbsp;928 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ cat preface.txt &gt;&gt; outline.txt</b></font><br>
+<font color="#a52a2a">&nbsp;929 </font>&nbsp;&nbsp;&nbsp;&nbsp; 将new.txt和info.txt合并成readme.txt文件:<br>
+<font color="#a52a2a">&nbsp;930 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ cat new.txt info.txt &gt;readme.txt</b></font><br>
+<font color="#a52a2a">&nbsp;931 </font>&nbsp;&nbsp;&nbsp;&nbsp; 9,移动或更换文件, 目录名称的mv命令<br>
+<font color="#a52a2a">&nbsp;932 </font>&nbsp;&nbsp;&nbsp;&nbsp; mv <font color="#ff00ff">(move)</font>命令可以将文件及目录移动到另一个目录下面, 或更换文件及目录的名称. 范例如下:<br>
+<font color="#a52a2a">&nbsp;933 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free backup]$ mv a.txt .. &lt;-- 将a.txt文件移到上层目录</b></font><br>
+<font color="#a52a2a">&nbsp;934 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nb
+<font color="#a52a2a">&nbsp;935 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free backup]$ cd.. &lt;-- 切换到上一层目录</b></font><br>
+<font color="#a52a2a">&nbsp;936 </font><font 
+<font color="#a52a2a">&nbsp;937 </font><br>
+<font color="#a52a2a">&nbsp;938 </font>10, 显示当前所在目录的pwd命令<br>
+<font color="#a52a2a">&nbsp;939 </font>&nbsp;&nbsp;&nbsp;&nbsp; pwd<font color="#ff00ff">(print working directory)</font>命令可显示用户当前所在的目录. 范例如下:<br>
+<font color="#a52a2a">&nbsp;940 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ pwd</b></font><br>
+<font color="#a52a2a">&nbsp;941 </font>&nbsp;&nbsp;&nbsp;&nbsp; /home/tony &lt;-- 当前所在目录为&quot;<font color="#2e8b57"><b>/home/tony</b></font>&quot;<br>
+<font color="#a52a2a">&nbsp;942 </font>&nbsp;&nbsp;&nbsp;&nbsp; 11,查找文件的locate命令<br>
+<font color="#a52a2a">&nbsp;943 </font>&nbsp;&nbsp;&nbsp;&nbsp; locate 命令可用来搜索包含指定条件字符串的文件或目录. 范例如下:<br>
+<font color="#a52a2a">&nbsp;944 </font><br>
+<font color="#a52a2a">&nbsp;945 </font><br>
+<font color="#a52a2a">&nbsp;946 </font><br>
+<font color="#a52a2a">&nbsp;947 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ locate zh_CN 列出所有包含&quot;zh_CN&quot;字符串的文件和目录.</b></font><br>
+<font color="#a52a2a">&nbsp;948 </font>&nbsp;&nbsp;&nbsp;&nbsp;由于locate命令是从系统中保存文件及目录名称的数据库中搜索文件, 虽然系统会定时更新数据库, 但对于刚新增或删除的文件,目录, 仍然可能会因为数据库尚未更新而无法查得, 此时可用root身份运行updatedb命令更新, 为此数据库得内容正确.<br>
+<font color="#a52a2a">&nbsp;949 </font>&nbsp;&nbsp;&nbsp;&nbsp; 12, 搜索字符串得grep命令<br>
+<font color="#a52a2a">&nbsp;950 </font>&nbsp;&nbsp;&nbsp;&nbsp; grep 命令可以搜索特定字符串来并显示出来, 一般用来过滤先前得结果, 避免显示太多不必要得信息. 范例如下:<br>
+<font color="#a52a2a">&nbsp;951 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free etc]$ grep text *.conf &lt;-- 搜索当前目录中扩展名为.conf且包含&quot;text&quot;字符串得文件.</b></font><br>
+<font color="#a52a2a">&nbsp;952 </font>&nbsp;&nbsp;&nbsp;&nbsp; grep:amd.conf: &lt;-- 拒绝不符权限得操作<br>
+<font color="#a52a2a">&nbsp;953 </font>&nbsp;&nbsp;&nbsp;&nbsp; grep:diskcheck.conf: &lt;-- 拒绝不符权限得操作<br>
+<font color="#a52a2a">&nbsp;954 </font>&nbsp;&nbsp;&nbsp;&nbsp; grep:grub.conf &lt;-- 拒绝不符权限得操作<br>
+<font color="#a52a2a">&nbsp;955 </font>&nbsp;&nbsp;&nbsp;&nbsp; 若您是使用一般权限的用户运行, 上例的输出结果会包含很多如&quot;拒绝不符权限的操作之类的错误信息, 可使用-s参数消除.<br>
+<font color="#a52a2a">&nbsp;956 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free etc]$ grep -s text *.conf</b></font><br>
+<font color="#a52a2a">&nbsp;957 </font>&nbsp;&nbsp;&nbsp;&nbsp; 13, 重导与管道<br>
+<font color="#a52a2a">&nbsp;958 </font>&nbsp;&nbsp;&nbsp;&nbsp;重导<font color="#ff00ff">(redirect)</font>可将某命令的结果输出导文件中, 它有两中命令:&quot;<font color="#2e8b57"><b>&nbsp;&gt;</b></font>&quot;和&quot;<font color="#2e8b57"><b>&gt;&gt;</b></font>&quot;. &quot;<font color="#2e8b57"><b>&gt;</b></font>&quot;可将结果输出到文件中, 该文件原有的内容会被删除:&quot;<font color="#2e8b57"><b>&gt;&gt;</b></font>&quot;则将结果附加到文件中, 原文件内容不会被清除. 范例如下:<br>
+<font color="#a52a2a">&nbsp;959 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ ls -a &gt;dir.txt &lt;-- 将ls -a命令执行结果输出到dir.txt文件.</b></font><br>
+<font color="#a52a2a">&nbsp;960 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ cat data1.txt &gt;&gt;
+<font color="#a52a2a">&nbsp;961 </font>&nbsp;&nbsp;&nbsp;&nbsp;通道<font color="#ff00ff">(pipe)</font>命令的符号是&quot;<font color="#2e8b57"><b>&nbsp;&nbsp;</b></font>&quot;, 可将某命令的结果输出给另一命令, 一下范例将ls命令的输出结果传给grep命令过滤:<br>
+<font color="#a52a2a">&nbsp;962 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free etc]$ ls</b></font><br>
+<font color="#a52a2a">&nbsp;963 </font>&nbsp;&nbsp;&nbsp;&nbsp; gerp conf &lt;-- 搜索并显示ls命令运行结果中包含有&quot;<font color="#2e8b57"><b>conf</b></font>&quot;字符串<br>
+<font color="#a52a2a">&nbsp;964 </font>&nbsp;&nbsp;&nbsp;&nbsp;在举一个删除文件或目录的例子, 可以利用yes命令重复输出&quot;<font color="#2e8b57"><b>y</b></font>&quot;字符的特性, 将结果传给rm命令, 如此即可避免重复输入&quot;<font color="#2e8b57"><b>y</b></font>&quot;:<br>
+<font color="#a52a2a">&nbsp;965 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ yes</b></font><br>
+<font color="#a52a2a">&nbsp;966 </font>&nbsp;&nbsp;&nbsp;&nbsp; rm -r mydir<br>
+<font color="#a52a2a">&nbsp;967 </font>三,使用光盘及软盘<br>
+<font color="#a52a2a">&nbsp;968 </font><br>
+<font color="#a52a2a">&nbsp;969 </font><br>
+<font color="#a52a2a">&nbsp;970 </font>&nbsp;&nbsp;&nbsp;&nbsp;在Linux的文字模式下要使用光盘或软盘, 并不是只将光盘或软盘放入即可, 用户需要运行加
+�<font color="#a52a2a">&nbsp;971 </font>&nbsp;&nbsp;&nbsp;&nbsp; 1, 加载的mount命令<br>
+<font color="#a52a2a">&nbsp;972 </font>&nbsp;&nbsp;&nbsp;&nbsp;要使用光盘时先把光盘放入光驱, 然后执行加载的mount命令, 将光盘加载至系统中:<br>
+<font color="#a52a2a">&nbsp;973 </font><br>
+<font color="#a52a2a">&nbsp;974 </font><br>
+<font color="#a52a2a">&nbsp;975 </font><br>
+<font color="#a52a2a">&nbsp;976 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]# mount/dev/cdrom/mut/cdrom &lt;-- 加载光盘</b></font><br>
+<font color="#a52a2a">&nbsp;977 </font>&nbsp;&nbsp;&nbsp;&nbsp;同理, 使用软盘之前也需要和光盘一样, 必须先加载后才能使用:<br>
+<font color="#a52a2a">&nbsp;978 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]# mount/dev/fd0/mut/floppy &lt;-- 加载软盘</b></font><br>
+<font color="#a52a2a">&nbsp;979 </font>&nbsp;&nbsp;&nbsp;&nbsp; 2, 卸载的umount命令<br>
+<font color="#a52a2a">&nbsp;980 </font>&nbsp;&nbsp;&nbsp;&nbsp;如果不需要使用光盘或软盘, 则需先执行卸载命令之后, 才能将光盘或软盘退出. 范例如下:<br>
+<font color="#a52a2a">&nbsp;981 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]# umount / mnt/cdrom &lt;-- 光盘卸载</b></font><br>
+<font color="#a52a2a">&nbsp;982 </font>&nbsp;&nbsp;&nbsp;&nbsp;在不使用软盘时执行umount 命令卸载软盘, 再将软盘拿出<br>
+<font color="#a52a2a">&nbsp;983 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]# umount / mnt/ &lt;-- 软盘卸载</b></font><br>
+<font color="#a52a2a">&nbsp;984 </
+<font color="#a52a2a">&nbsp;985 </font>&nbsp;&nbsp;&nbsp;&nbsp;用户有时的程序有
+<font color="#a52a2a">&nbsp;986 </font>&nbsp;&nbsp;&nbsp;&nbsp; 1, 在后台运行程序的 &amp;,bg命令<br>
+<font color="#a52a2a">&nbsp;987 </font>&nbsp;&nbsp;&nbsp;&nbsp;将程序放到后台运行的最简单方法就是在命令最后加上&quot;<font color="#2e8b57"><b>&nbsp;&amp;</b></font>&quot;,范例如下:<br>
+<font color="#a52a2a">&nbsp;988 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free root]# updatedb &amp; &lt;-- 在后台执行 locate 数据库更新命令</b></font><br>
+<font color="#a52a2a">&nbsp;989 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free root]# bg &lt;-- 将更新操作放到后台运行</b></font><br>
+<font color="#a52a2a">&nbsp;990 </font>&nbsp;&nbsp;&nbsp;&nbsp; 2, 前台运行的程序fg命令<br>
+<font color="#a52a2a">&nbsp;991 </font>&nbsp;&nbsp;&nbsp;&nbsp;如果用户当前已有程序
+�<font color="#a52a2a">&nbsp;992 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free root]# fg &lt;-- 放到前台执行的命令会显示出来</b></font><br>
+<font color="#a52a2a">&nbsp;993 </font>&nbsp;&nbsp;&nbsp;&nbsp; 3, 在退出后让程序继续运行的nohup命令<br>
+<font color="#a52a2a">&nbsp;994 </font>&nbsp;&nbsp;&nbsp;&nbsp;此命令可使用户退出系统后, 程序继续运行. 范例如下:<br>
+<font color="#a52a2a">&nbsp;995 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free rony]$ nohup myserver &amp;</b></font><br>
+<font color="#a52a2a">&nbsp;996 </font>&nbsp;&nbsp;&nbsp;&nbsp;然后用户就可以退出了, 当再次登录的时候, 可以用ps -aux命令看到程序仍在后台中运行.<br>
+<font color="#a52a2a">&nbsp;997 </font>五,任务调度命令<br>
+<font color="#a52a2a">&nbsp;998 </font><br>
+<font color="#a52a2a">&nbsp;999 </font><br>
+<font color="#a52a
+<font color="#a52a2a">1001 </font>&nbsp;&nbsp;&nbsp;&nbsp;任务调度的crond常驻命令<br>
+<font color="#a52a2a">1002 </font>&nbsp;&nbsp;&nbsp;&nbsp; crond 是Linux用来定期执行程序的命令. 当安装完成操作系统后, 默认便会启动此任务调动命令. crond命令每分钟会定期检查是否
+�<font color="#a52a2a">1003 </font><br>
+<font color="#a52a2a">1004 </font><br>
+<font color="#a52a2a">1005 </font><br>
+<font color="#a52a2a">1006 </font>&nbsp;&nbsp;&nbsp;&nbsp; Minute Hour Day Month DayOfWeek Command<br>
+<font color="#a52a2a">1007 </font>&nbsp;&nbsp;&nbsp;&nbsp;在这段文字中除了&quot;<font color="#2e8b57"><b>Command</b></font>&quot;是每次都必须指定的字段以外, 其他自动皆可视需求自行决定是否指定.<br>
+<font color="#a52a2a">1008 </font>六,任务调度的系统工作<br>
+<font color="#a52a2a">1009 </font><br>
+<font color="#a52a2a">1010 </font><br>
+<font color="#a52a2a"
+<font color="#a52a2a">1012 </font>&nbsp;&nbsp;&nbsp;&nbsp; SHELL=/bin/bash &lt;-- 指定执行任务调度工作时所使用的SHELL<br>
+<font color="#a52a2a">1013 </f
+<font color="#a52a2a">1014 </font>&nbsp;&nbsp;&nbsp;&nbsp; MAILTO=root &lt;-- 指定将输出结果给root用户<br>
+<font color="#a52a2a">1015 </font>&nbsp;&nbsp;&nbsp;&nbsp; HOME=/ &lt;-- 指定跟目录<br>
+<font color="#a52a2a">1016 </font>七,任务调度的个人工作<br>
+<font color="#a52a2a">1017 </font><br>
+<font color="#a52a2a">1018 </font><br>
+<font color="#a52a2a">1019 </font>&nbsp;&nbsp;&nbsp;&nbsp; 除了上述任务调度的系统工作外, 一般用户则可利用crintab命令, 自行设置要定期执行的工作.<br>
+<font color="#a52a2a">1020 </font>&nbsp;&nbsp;&nbsp;&nbsp;每个用户可执行crontab -e命令, 编辑自己的任务调度设置文件, 并在此文件加入要定期执行的工作. 以下范例为tony用户编辑的任务调度设置文件:<br>
+<font color="#a52a2a">1021 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free rony]$ crontab -e</b></font><br>
+<font color="#a52a2a">1022 </font>&nbsp;&nbsp;&nbsp;&nbsp;执行上述命令后, 即会进入VI文本编辑器自行编辑任务调度的工作.<br>
+<font color="#a52a2a">1023 </font><br>
+<font color="#a52a2a">1024 </font>八,删除调度工作任务<br>
+<font color="#a52a2a">1025 </font><br>
+<font color="#a52a2a">1026 </font><br>
+<font color="#a52a2a">1027 </font>&nbsp;&nbsp;&nbsp;&nbsp;如果不想再定期执行任务调动中的工作, 则可执行crontab -r命令删除所有任务调度的工作. 范例如下:<br>
+<font color="#a52a2a">1028 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free rony]$ crontab -r &lt;-- 删除任务调度中的工作</b></font><br>
+<font color="#a52a2a">1029 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free rony]$ crontab -1 &lt;-- 再查看一次任务调度中的工作</b></font><br>
+<font color="#a52a2a">1030 </font>&nbsp;&nbsp;&nbsp;&nbsp; no crontab for tony &lt;-- 已经没有任何任务调度工作<br>
+<font color="#a52a2a">1031 </font>九,打包,压缩与解压缩<br>
+<font color="#a52a2a">1032 </font><br>
+<font color="#a52a2a">1033 </font><br>
+<font color="#a52a2a">1034 </font>&nbsp;&nbsp;&nbsp;&nbsp;由于这是每一个Linux用户都会经常用到的基本功能, 因此我们将介绍最常见到的打包,压缩和解压缩程序.<br>
+<font color="#a52a2a">1035 </font>&nbsp;&nbsp;&nbsp;&nbsp; 1, 打包文件的tar命令<br>
+<font color="#a52a2a">1036 </font>&nbsp;&nbsp;&nbsp;&nbsp; tar命令位于/bin目录中, 它能将用户所指定的文件或目录打包成一个文件, 不过它并不做压缩. 一般Unix上常用的压缩方式是先用tar命令将许多文件打包成一个文件, 再以gzip等压缩命令压缩文件. tar命令参数繁多, 以下举例常用参数作说明:<br>
+<font color="#a52a2a">1037 </font>&nbsp;&nbsp;&nbsp;&nbsp; -c:创建一个新的tar文件;<br>
+<font color="#a52a2a">1038 </font>&nbsp;&nbsp;&nbsp;&nbsp; -v:显示运作过程信息;<br>
+<font color="#a52a2a">1039 </font>&nbsp;&nbsp;&nbsp;&nbsp; -f:在:指定文件名称;<br>
+<font color="#a52a2a">1040 </font>&nbsp;&nbsp;&nbsp;&nbsp; -z:调用gzip压缩命
+�<font color="#a52a2a">1041 </font>&nbsp;&nbsp;&nbsp;&nbsp; -j:调用bzip2压缩命令执行压缩;<br>
+<font color="#a52a2a">1042 </font>&nbsp;&nbsp;&nbsp;&nbsp; -t:参看压缩文件内容;<br>
+<font color="#a52a2a">1043 </font>&nbsp;&nbsp;&nbsp;&nbsp; -x:解开tar文件.<br>
+<font color="#a52a2a">1044 </font>&nbsp;&nbsp;&nbsp;&nbsp;在
+�<font color="#a52a2a">1045 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free data]# tar cvf data.tar * &lt;-- 将目录下所有文件打包成data.tar</b></font><br>
+<font color="#a52a2a">1046 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free data]# tar cvf data.tar.gz * &lt;-- 将目录所有文件打包成data.tar再用gzip命令压缩</b></font><br>
+<font color="#a52a2a">1047 </font><font color="#a52a2a
+<font color="#a52a2a">1048 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free data]# tar xvf data.tar * &lt;-- 将data.tar解开</b></font><br>
+<font color="#a52a2a">1049 </font>&nbsp;&nbsp;&nbsp;&nbsp; 2, 压缩与解压缩<br>
+<font color="#a52a2a">1050 </font>&nbsp;&nbsp;&nbsp;&nbsp; tar命令本身没有压缩能力, 但是可以在产生的tar文件后, 立即使用其他压缩命令来压缩, 省区需要输入两次命令的麻烦.<br>
+<font color="#a52a2a">1051 </font>&nbsp;&nbsp;&nbsp;&nbsp; 使用-z参数来解开最常见的.tar.gz文件:<br>
+<font color="#a52a2a">1052 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free data]# tar -zxvf foo.tar.gz &lt;--将文件解开至当前目录下</b></font><br>
+<font color="#a52a2a">1053 </font>&nbsp;&nbsp;&nbsp;&nbsp; 使用-j参数解开tar.bz2压缩文件:<br>
+<font color="#a52a2a">1054 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free data]# tar -jxvf linux-2.4.20tar.bz2 &lt;--将文件解开至当前目录下</b></font><br>
+<font color="#a52a2a">1055 </font>&nbsp;&nbsp;&nbsp;&nbsp; 使用-Z参数指定以compress命令压缩<br>
+<font color="#a52a2a">1056 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free data]# tar -cZvf prcture.tar.Z*.tif 将该目录下所有.tif打包并命令压缩成.tar.Z文件</b></font><br>
+<font color="#a52a2a">1057 </font>十,其他常用命令<br>
+<font color="#a52a2a">1058 </font><br>
+<font color="#a52a2a">1059 </font><br>
+<font color="#a52a2a">1060 </font>&nbsp;&nbsp;&nbsp;&nbsp; Linux可用的命令相当多, 本章我们只举例几个常用的命令进行说明, 在以后的章节中, 还会接触到许多其他命令.<br>
+<font color="#a52a2a">1061 </font>&nbsp;&nbsp;&nbsp;&nbsp; 1, 修改密码的passwd命令<br>
+<font color="#a52a2a">1062 </font>&nbsp;&nbsp;&nbsp;&nbsp; passwd<font color="#ff00ff">(password)</font>命令可让用户变更密码. 范例如下:<br>
+<font color="#a52a2a">1063 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free tony]$ passwd</b></font><br>
+<font color="#a52a2a">1064 </font>&nbsp;&nbsp;&nbsp;&nbsp; C
+<font color="#a52a2a">1065 </font>&nbsp;&nbsp;&nbsp;&nbsp; Changing password for tony<br>
+<font color="#a52a2a">1066 </font><br>
+<font color="#a5
+<font color="#a52a2a">1068 </font><br>
+<font color="#a52a2a">1069 </font>&nbsp;&nbsp;&nbsp;&nbsp; <font color="#ff00ff">(current)</font>UNIX password: &lt;-- 输入原密码<br>
+<font color="#a52a2a">1070 </font>&nbsp;&nbsp;&nbsp;&nbsp; New password: &lt;-- 输入新密码<br>
+<font colo
+<font color="#a52a2a">1072 </font>&nbsp;&nbsp;&nbsp;&nbsp; passwd: all authentication tokens updated successfully &lt;-- 密码修改成功<br>
+<font color="#a52a2a">1073 </font>&nbsp;&nbsp;&nbsp;&nbsp; 2, 创建引导盘的mkbootdisk命令<br>
+<font color="#a52a2a">1074 </font>&nbsp;&nbsp;&nbsp;&nbsp;如果安装系统时, 并没有制作引导盘, 或者引导盘已经损害, 可以在安装系统之后, 利用mkbootdisk命令创建一张新的引导盘:<br>
+<font color="#a52a2a">1075 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [root@fr
+<font color="#a52a2a">1076 </font>&nbsp;&nbsp;&nbsp;&nbsp;执行上述指令便可以成功的创建一张引导盘了. 请保存好出盘, 已备紧急之用.<br>
+<font color="#a52a2a">1077 </font>&nbsp;&nbsp;&nbsp;&nbsp; 3, 显示与设置时间的date,clock和ntpdate命令<br>
+<font color="#a52a2a">1078 </font>&nbsp;&nbsp;&nbsp;&nbsp; date 命令可以显示当前日期时间. 范例如下:<br>
+<font color="#a52a2a">1079 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [tony@free rony]$ date</b></font><br>
+<font color="#a52a2a">1080 </font>&nbsp;&nbsp;&nbsp;&nbsp; -9月 8 10:00:00 CST 2006<br>
+<font color="#a52a2a">1081 </font>&nbsp;&nbsp;&nbsp;&nbsp; CST为中部标准时间<br>
+<font color="#a52a2a">1082 </font>&nbsp;&nbsp;&nbsp;&nbsp; clock命令也可以显示出系统当前的日期与时间, 不过clock命令默认不允许一般用户执行, 请用root账号执行:<br>
+<font color="#a52a2a">1083 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [root@free root]# clock</b></font><br>
+<font color="#a52a2a">1084 </font>&nbsp;&nbsp;&nbsp;&nbsp;公元2006年9月8日<font color="#ff00ff">(周五)</font>10时00分00秒 0.112604 seconds<br>
+<font color="#a52a2a">1085 </fo
+<font color="#a52a2a">1086 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [root@free root]# date 09091200 &lt;-- 将时间设定为9月9日12点00分</b></font><br>
+<font color="#a52a2a">1087 </font>&nbsp;&n
+<font color="#a52a2a">1088 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [root@free root]# ntpdate stdtime.microsoft.com &lt;-- 与微软校时服务器校时.</b></font><br>
+<font color="#a52a2a">1089 </font>&nbsp;&nbsp;&nbsp;&nbsp;然后再执行一次date命令, 就会发现系统时间已经更改. 不过这样还没有结束, 还需要执行clock -w 命令将更改的时间写入计算机的CMOS中, 这样下次启动时才会使用更改过的时间.&nbsp;&nbsp;范例如下:<br>
+<font color="#a52a2a">1090 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [root@free root]# clock -w</b></font><br>
+<font color="#a52a2a">1091 </font><br>
+<font color="#a52a2a">1092 </font>&nbsp;&nbsp;常用的基本命令我们就先介绍到这里, 现在我们来讲些新手在使用过程中遇到的一些疑难问题的解决方法以及在操作过程中的一些应用技巧.<br>
+<font color="#a52a2a">1093 </font>一,如何进入文字模式<br>
+<font color="#a52a2a">1094 </font>&nbsp;&nbsp;&nbsp;&nbsp;当安装Linux时, 可选择自动后要进入文字模式或时图形模式. 如果选择的时文字模式则可略过此说明;若是直接进入X Window的图形模式, 仍可以使用下列方式, 进入文字模式:<br>
+<font color="#a52a2a">1095 </font>&nbsp;&nbsp;&nbsp;&nbsp; 1, 在X Window中打开文
+�<font color="#a52a2a">1096 </font>&nbsp;&nbsp;&nbsp;&nbsp;在默认的GNOME窗口环境为例, 在X Windows 下进入文字模式最简单的方式, 就是在桌面空白处单击鼠标右键, 执行&quot;<font color="#2e8b57"><b>新增终端命令</b></font>&quot;, 打开文
+�<font color="#a52a2a">1097 </font><br>
+<font color="#a52a2a">1098 </font><br>
+<font color="#a52a2a">1099 </font>&nbsp;&nbsp;&nbsp;&nbsp; 2, 切换虚拟主控制台进入文字模式<br>
+<font color="#a52a2a">1100 </font>&nbsp;&nbsp;&nbsp;&nbsp; Linux主机在主控制台<font color="#ff00ff">(console)</font>下提供了7个虚拟主控台, 在每一个虚拟主控台中可以运行各自的程序. 可以在登陆X Window系统后的任何时间, 按下Ctrl+Alt+Fn键来切换到
+�<font color="#a52a2a">1101 </font>&nbsp;&nbsp;&nbsp;&nbsp; 3, 启动直接进入文字模式<br>
+<font color="#a52a2a">1102 </font>&nbsp;&nbsp;&nbsp;&nbsp;要设置启动时直接进入文字模式, 可以使用任何一个文本编辑器, 打开/etc/init
+<font color="#a52a2a">1103 </font>二,etc/inittab设置错误, 导致无法启动<br>
+<font color="#a52a2a">1104 </font>&nbsp;&nbsp;&nbsp;&nbsp;若修改/etc/inittab后无法正常启动, 则可以在启动时采用单人模式进入系统, 重新修改inittab设置文件以解决问题.<br>
+<font color="#a52a2a">1105 </font>&nbsp;&nbsp;&nbsp;&nbsp;若使用GRUB为引导装载程序时, 只要在启动显示菜单画面时, 按a键, 并在命令行输入一下参数以进入单人模式:<br>
+<font color="#a52a2a">1106 </font>&nbsp;&nbsp;&nbsp;&nbsp; grub append &gt; ro root=LABEL=/s &lt;-- 只要在命令行原来的语句后, 加&quot;<font color="#2e8b57"><b>S</b></font>&quot;即可<br>
+<font color="#a
+<font color="#a52a2a">1108 </font>&nbsp;&nbsp;&nbsp;&nbsp; boot: linux s &lt;-- 表示系统直接讲进入单人模式<br>
+<font color="#a52a2a">1109 </font>三,如何查询命令的用法<br>
+<font color="#a52a2a">1110 </font>&nbsp;&nbsp;&nbsp;&nbsp;在linux系统中, 如果用户某命令的功能不大清楚, 可以使用man命令查询帮助:<br>
+<font color="#a52a2a">1111 </font><font color="#a52a2a"><b>&nbsp;&nbsp;&nbsp;&nbsp; [root@free root]# man shutdown &lt;-- 以man命令查询稍后要介绍的shutdown命令的用法.</b></font><br>
+<font color="#a52a2a">1112 </font>&nbsp;&nbsp;&nbsp;&nbsp;大多数命令的语法, 还可以通过-h或-help参数查询. 例如shutdown命令的语法可以运行shutdown -h或上述的man shutdown 命令查得.<br>
+<font color="#a52a2a">1113 </font>四,避免按Ctrl+Alt+Del重新启动系统<br>
+<font color="#a52a2a">1114 </font>&nbsp;&nbsp;&nbsp;&nbsp;在linux中直接按下Ctrl+Alt+Del三个键后就会重新启动, 如果不希望任何人利用这组组合键随意重新启动计算机, 请用文本编辑器修改/etc/inittab文件:<br>
+<font color="#a52a2a">1115 </font>&nbsp;&nbsp;&nbsp;&nbsp; #ca::ctrlaltdel:/sbin/shut down -t3 -r now &lt;-- 在此之前加上&quot;<font color="#2e8b57"><b>#</b></font>&quot;.<br>
+#1323615426
+ss                                                                                        88 838282828jj
+#1323615426
+:
+#1323615439
+cd xiazai/newblog/
+#1323615465
+.s
+#1323615471
+cdx
+#1323615474
+cd newblog/
+#1323615527
+gvht
+#1323615478
+nb add entry
+#1323615566
+ff&
+#1323615627
+nb --title ' linux' add article
+#1323615704
+nb add entry
+#1323615714
+nb --title ' s linux' add article
+#1323615911
+cdb
+#1323615913
+svns
+#1323615919
+svn add nb
+#1323615921
+svns
+#1323615955
+cdvcrc
+#1323615959
+gitd
+#1323615964
+gits
+#1323615968
+gitd
+#1323615978
+gits
+#1323615985
+git add rt/home/scr/.bashrc 
+#1323616016
+git commit -m '一个可以用命令行写博客的工具'
+#1323616019
+gits
+#1323616040
+git add rt/home/scr/.kde/share/apps/okular/
+#1323616041
+gits
+#1323616058
+cdvcbo
+#1323616062
+cdvcrtbo
+#1323616068
+cd grath/books/
+#1323616081
+git commit -m '3D游戏与计算机图形学中的数学方法'
+#1323616083
+gits
+#1323616100
+cdvcrt
+#1323616091
+git push origin master
+#1323616103
+gits
+#1323615948
+svn commit -m '一个用命令行写博客的工具'
+#1323616117
+git push origin master
+#1323616130
+cdl
+#1323616137
+cdv
+#1323616138
+svns
+#1323616154
+cdvcl
+#1323616155
+gits
+#1323616131
+svns
+#1323616161
+git push origin master
+#1323616238
+cdb
+#1323616240
+cd nb
+#1323616245
+vi README 
+#1323616273
+ZZZZZZzzzzzzzzz
+#1323616284
+ll plugins/
+#1323616292
+vi nb
+#1323616324
+lla
+#1323616377
+g welcome-to-nb.txt 
+#1323616385
+g README 
+#1323616400
+ll default/
+#1323616405
+ll docs
+#1323616413
+ff docs/nanoblogger.html 
+#1323616420
+nb
+#1323616427
+m nb
+#1323616503
+ff http://nanoblogger.sourceforge.net
+#1323616510
+lla
+#1323616515
+ll .svn
+#1323616518
+ds .svn
+#1323616739
+gits
+#1323616743
+gvht
+#1323616944
+gits
+#1323616946
+git add .
+#1323616947
+gits
+#1323616953
+git commit -m 'my blog'
+#1323616955
+git push origin master
+#1323691347
+vmware&
+#1323691349
+ii
+#1323691356
+i
+#1323700973
+cdx
+#1323700976
+cd newblog/
+#1323700978
+ff index.html 
+#1323701108
+ex.
+#1323702801
+date
+#1323783256
+cd 
+#1323783258
+cd tmp/
+#1323783261
+cd wget/
+#1323783266
+wget -c -p http://www.cnblogs.com/chesterlee/articles/2014331.html
+#1323784074
+cd www.cnblogs.com/
+#1323784091
+ff chesterlee/articles/2014331.html 
+#1323784120
+ll css
+#1323784123
+ll robots.txt 
+#1323784126
+ll skins/
+#1323784129
+ll skins/Cogitation/
+#1323784130
+ll skins/Cogitation/Images/
+#1323784134
+ex .
+#1323784210
+wget -f -c -p http://www.cnblogs.com/chesterlee/articles/2014331.html
+#1323784215
+wget -r -c -p http://www.cnblogs.com/chesterlee/articles/2014331.html
+#1323785041
+ds www.cnblogs.com/
+#1323788856
+llll
+#1323788884
+cd
+#1323788887
+cd .Mail/
+#1323789498
+ff http://saepy.sinaapp.com
+#1323789966
+ff http://www.acartoofar.co.uk/wp-content/uploads/2010/03/Teach-yourself-C++-in-21-days.png
+#1323870671
+cal
+#1323958310
+82ll
+#1323958316
+cdvcl
+#1323958322
+cdvcrt
+#1323958327
+cdvcrc
+#1323958319
+git pull origin master
+#1323958335
+cdl
+#1323958337
+cd books/
+#1323958343
+cdb
+#1323958324
+git pull origin master
+#1323958329
+git pull origin master
+#1323958345
+svn up
+#1323958340
+svn up
+#1323958373
+cdv
+#1323958374
+svn up
+#1323959246
+cdx
+#1323959250
+rar x volumeShadow.rar 
+#1323959254
+cd volumeShadow
+#1323959256
+ma
+#1323959260
+vi Util.
+#1323959264
+vi Util.h
+#1323959622
+gcc -c OpenGL.cpp 
+#1323959640
+fg
+#1323959656
+g++ -c VolumeShadow.cpp 
+#1323959669
+g++ -c Util.cpp 
+#1323959673
+g++ -c Util.cpp WinMain.cpp 
+#1323959689
+fg
+#1323959704
+k
+#1323959736
+ff http://www.cnblogs.com/gin_dl/archive/2009/08/25/1553636.html
+#1323960306
+cd books/c/graph/NeHe/LESSON27/
+#1323960307
+ma
+#1323960312
+gitlo.
+#1323960319
+./Lesson27 
+#1323960336
+ll Data/
+#1323960352
+diff Data/Object2.txt ~/xiazai/volumeShadow/Object2.txt 
+#1323960366
+g Lesson27.cpp 
+#1323960382
+ma
+#1323960383
+./Lesson27 
+#1323960425
+ma
+#1323960427
+./Lesson27 
+#1323960479
+ma
+#1323960481
+./Lesson27 
+#1323960512
+ma
+#1323960515
+vi README 
+#1324043007
+git pull origin master
+#1324045542
+gits.
+#1324045544
+gitdl
+#1324045551
+gits
+#1324045554
+gits.
+#1324045558
+rm * -rf
+#1324045660
+git checkout HEAD .
+#1324046715
+git pull origin master
+#1324047707
+ii
+#1324047715
+t
+#1324047834
+ii
+#1324133066
+cdx
+#1324133086
+ftp-up-down.sh 
+#1324133114
+cdb
+#1324133118
+cd newblog/
+#1324133126
+g ftp-up-down.sh 
+#1324133188
+ll archives/
+#1324133203
+,y
+#1324133218
+ftp-up-down.sh 
+#1324133360
+ex .
+#1324133384
+cdm
+#1324133387
+cd TOOLS/
+#1324133390
+cd 1music/
+#1324133767
+s rescu
+#1324133779
+s res
+#1324133791
+wh ff
+#1324133793
+wh ii
+#1324133800
+lowercase 
+#1324133807
+wh lowercase 
+#1324133910
+ftp-up-down.sh 
+#1324134069
+./Lesson27 
+#1324134071
+ftp-up-down.sh 
+#1324134326
+wh fif
+#1324134343
+fif for
+#1324134351
+wh fifw
+#1324134355
+fifw for
+#1324134387
+cd stsc/
+#1324134389
+fifw for
+#1324134425
+g ./list-glob.sh:1:
+#1324134668
+g ./12/12_12_script_detector.sh:15
+#1324135644
+fifw for
+#1324135710
+g ./symlinks2.sh:15:
+#1324135874
+find . -type
+#1324135876
+find . -type f
+#1324136276
+ftp-up-down.sh 
+#1324136306
+g /tmp/tmp_updown_ftp_23433435 
+#1324136468
+ftp-up-down.sh 
+#1324136504
+cat /tmp/tmp_updown_ftp_23433435 
+#1324136507
+ftp-up-down.sh 
+#1324136509
+cat /tmp/tmp_updown_ftp_23433435 
+#1324136511
+ftp-up-down.sh 
+#1324136514
+ftp-up-down.sh | wc
+#1324136519
+cat /tmp/tmp_updown_ftp_23433435  | wc
+#1324137617
+cdb
+#1324137620
+svn lv
+#1324137625
+svnlv
+#1324138318
+ffbs
+#1324138341
+wh ffbs
+#1324138514
+ftp-up-down.sh 
+#1324138744
+s strip
+#1324138766
+ftp-up-down.sh 
+#1324138798
+wh fif
+#1324138809
+fif '$.*##'
+#1324138819
+fif '\$.*##'
+#1324138875
+g ./rt2rtnote.sh:44
+#1324139231
+m mkdir
+#1324139295
+ftp-up-down.sh 
+#1324139465
+g index.html 
+#1324139488
+fg
+#1324139493
+kill 29936
+#1324139505
+ftp 221.1.217.92
+#1324140027
+ll articles/
+#1324140031
+ll articles/example
+#1324140035
+ll articles/for_linux
+#1324140040
+ll articles/
+#1324140045
+ll archives/
+#1324140047
+ll archives/2011/
+#1324140050
+ll archives/2011/12/
+#1324140067
+ff index.html 
+#1324140251
+m ftp
+#1324141294
+ftp-up-down.sh 
+#1324141833
+cat ~/ftp_updown_tmp_3232222.sh 
+#1324141844
+rm ~/ftp_updown_tmp_3232222.sh 
+#1324141890
+ftp-up-down.sh 
+#1324142056
+ftp-up-down.sh | less
+#1324142536
+ftp-up-down.sh 
+#1324142914
+g /tmp/tmp_updown_ftp_23433435 
+#1324142932
+g ~/.ftp_updown_tmp_3232222_tmp_1.sh 
+#1324142948
+ll styles/
+#1324142984
+ftp-up-down.sh 
+#1324143405
+fg
+#1324143412
+kill 4136
+#1324143418
+kill -9 4136
+#1324143423
+kill -9 29936
+#1324143462
+ftp-up-down.sh 
+#1324143581
+cd
+#1324143582
+cd tmp/
+#1324143585
+mkdir ftp
+#1324143587
+cd ftp/
+#1324143595
+cp ../lsd 
+#1324143597
+cp ../lsd  .
+#1324143602
+mkdir s
+#1324143607
+cat > lsd 
+#1324143618
+ftp-up-down.sh 
+#1324143666
+touch s/jj
+#1324143668
+ftp-up-down.sh 
+#1324143703
+cp lsd s/jj 
+#1324143705
+ll s
+#1324143707
+ftp-up-down.sh 
+#1324143747
+rm -rf s
+#1324143753
+ftp-up-down.sh 
+#1324144168
+mdkir s
+#1324144173
+cp lsd s
+#1324144175
+ftp-up-down.sh 
+#1324144333
+ll s
+#1324144392
+cd s
+#1324144400
+cp /etc/hosts .
+#1324144403
+cp hosts  jj
+#1324144405
+cp hosts  hh
+#1324144409
+ftp-up-down.sh 
+#1324144949
+svns
+#1324144995
+svn commit -m '实现ftp批量上传, 会自动创建目录(包括多层)'
+#1324133034
+screen
+#1324134866
+ftp
+#1323958509
+mutt
+#1323788888
+mutt
+#1323616051
+screen
+#1324133397
+mpg123 --title -C -Z *
+#1324179871
+reboot
+#1324189259
+cd .Mail/
+#1324189266
+cdx
+#1324189269
+cd newblog/
+#1324189278
+cdb
+#1324189281
+g ftp-up-down.sh 
+#1324189445
+ftp-up-down.sh 
+#1324189535
+svnd
+#1324189539
+cd
+#1324189542
+ex .
+#1324189551
+ff&
+#1324189556
+ii
+#1324189818
+cdm
+#1324189820
+cd TOOLS/
+#1324189822
+cd 1music/
+#1324189827
+mpg123 --title -C -Z *
+#1324189845
+cd mp3_2/
+#1324191502
+cd /.
+#1324191507
+cd /
+#1324191510
+cd .
+#1324191512
+cd ./
+#1324191514
+cd /.
+#1324191673
+svns
+#1324191675
+svndl
+#1324191684
+svns
+#1324191695
+svn commit -m '增加一些注释'
+#1324191731
+cdvcrt
+#1324191737
+cdvcrtbot
+#1324191746
+mkdir blog
+#1324191748
+cd blog/
+#1324191751
+mdkir nb
+#1324191752
+cd nb
+#1324191755
+pwdP
+#1324191756
+pwdp
+#1324191770
+nb -help
+#1324191773
+nb --help
+#1324191864
+ff http://nanoblogger.sourceforge.net
+#1324191874
+keynav 
+#1324191945
+svns
+#1324191950
+vi ftp-up-down.sh 
+#1324192454
+nb --version
+#1324192539
+bash --version
+#1324192577
+find . | grep nanoblogger
+#1324192589
+find . | grep nanoblogger.h
+#1324192592
+find . | grep nanoblogger.ht
+#1324192602
+ff ./archives/nanoblogger-help/index.html 
+#1324192650
+cdx
+#1324192663
+mkdir nuoerlz-blog
+#1324192691
+g nb.notes.txt
+#1324192738
+nb --blog-dir nuoerlz-blog add weblog
+#1324192747
+rmdir nuoerlz-blog/
+#1324192865
+cd
+#1324192878
+ll .nb
+#1324192945
+vi blog.conf 
+#1324192751
+nb --blog-dir nuoerlz-blog add weblog
+#1324192988
+date
+#1324193400
+echo $BROWSER
+#1324193530
+m date
+#1324193543
+date -u
+#1324193546
+date
+#1324193566
+date %Y-%m-%d %H:%M:%S
+#1324193572
+gvlc
+#1324193587
+date +%Y-%m-%d %H:%M:%S
+#1324193609
+date "+%Y-%m-%d %H:%M:%S"
+#1324193679
+date "%z"
+#1324193682
+date "+%z"
+#1324194027
+echo $USER
+#1324195170
+nb list 
+#1324195213
+nb list tag 1
+#1324192989
+fg
+#1324196751
+cd nuoerlz-blog/
+#1324196754
+ff index.html 
+#1324197124
+jj
+#1324197127
+vi blog.conf 
+#1324197246
+ll articles/
+#1324197251
+ll articles/example
+#1324197255
+ll archives/
+#1324197336
+ll tm
+#1324197338
+ll templates/
+#1324197344
+vi templates/archive_index.htm 
+#1324197377
+nb update
+#1324197389
+fg
+#1324197396
+nb update
+#1324197473
+nb add article
+#1324197518
+fg
+#1324197532
+nb update
+#1324197541
+nb add article
+#1324197696
+vi templates/entry.metadata 
+#1324197723
+fifw NB_EntryFormat
+#1324197731
+fg
+#1324197780
+nb add article
+#1324197852
+find . |grep raw.sh
+#1324197903
+nb add article
+#1324197954
+fg
+#1324197962
+nb add article
+#1324198096
+nb --help
+#1324198137
+5jll
+#1324198140
+cd
+#1324198161
+nb import article ~/yum_list.txt 
+#1324198214
+g y
+#1324198216
+c
+#1324198218
+cd
+#1324198219
+g yum_list.txt 
+#1324198205
+nb add article
+#1324198265
+nb import article ~/yum_list.txt 
+#1324198633
+ll articles/
+#1324198636
+ll articles/yum_list
+#1324198641
+ll articles/
+#1324198670
+vi blog.conf 
+#1324198745
+nb add entry
+#1324198845
+nb list
+#1324198909
+head yum_list.txt 
+#1324198920
+head yum_list.txt > t.txt
+#1324198938
+nb import entry ~/t.txt 
+#1324198946
+vi t.txt 
+#1324199012
+cat t.txt 
+#1324199032
+head -100 yum_list.txt 
+#1324199046
+head -400 yum_list.txt > t.txt 
+#1324199058
+vi t.txt 
+#1324199191
+nb draft
+#1324199199
+nb draft fs
+#1324199222
+ll cache/
+#1324199228
+ll data/
+#1324199235
+ll images/
+#1324199241
+ll parts/
+#1324199250
+ll plugins/
+#1324199253
+ll styles/
+#1324199259
+ll articles/
+#1324199266
+ll archives/
+#1324199291
+vi fs
+#1324199298
+nb import entry fs
+#1324199324
+vi fs
+#1324199328
+rm fs
+#1324199338
+git init
+#1324199341
+git add *
+#1324199344
+gits
+#1324199353
+git commit -m 'my blog'
+#1324199355
+gits
+#1324199365
+cp ~/.gitignore .
+#1324199366
+gits
+#1324199436
+nb add tag
+#1324199457
+nb update
+#1324199517
+gits
+#1324199523
+vi atom.xml 
+#1324199556
+gits
+#1324199563
+vi rss.xml 
+#1324199576
+gits
+#1324199587
+ll parts/
+#1324199616
+nb --tag 2 add entry
+#1324199774
+nb list
+#1324199784
+gits
+#1324199806
+fifw linux
+#1324199818
+fifw linux | grep -v yum_list
+#1324199873
+vi data/cat_2.db 
+#1324199880
+ll data/
+#1324199890
+cat data/cat_1.db 
+#1324199941
+cat data/2011-12-18T16_59_24.txt 
+#1324199952
+cat data/master.db 
+#1324199974
+nb list tags
+#1324200016
+nb add tag c
+#1324200027
+nb add tag 
+#1324200034
+nb list tags
+#1324200086
+nb update main
+#1324200120
+fg
+#1324200160
+cp t.txt 不.txt
+#1324200163
+vi 不.txt 
+#1324200272
+nb import --tag 3 entry ~/不.txt 
+#1324200290
+nb import entry --tag 3 ~/不.txt 
+#1324200312
+nb import entry  ~/不.txt 
+#1324200366
+ll articles/
+#1324200373
+ll archives/
+#1324200436
+nb list
+#1324200461
+nb --tag 3 tag-entry 1
+#1324203782
+nb import entry  ~/不.txt 
+#1324204511
+gits
+#1324204833
+g t.txt 
+#1324204842
+gvlc
+#1324204848
+gvnt
+#1324204907
+nb add tag 
+#1324204932
+nb update main
+#1324204951
+ff index.html 
+#1324204963
+nb add tag 
+#1324205126
+nb  --title yum edit tag 1
+#1324205206
+nb list
+#1324205209
+nb list tag
+#1324205245
+nb  --title jl edit tag 1
+#1324205340
+nb  --tag 1,2,3 tag-entry 1
+#1324205720
+svns
+#1324205728
+cd nb
+#1324205742
+ll lang/
+#1324205745
+ll moods/
+#1324205752
+ll nb.conf 
+#1324205780
+nb add tag 
+#1324205754
+vi nb.conf 
+#1324205797
+fg
+#1324205836
+path
+#1324205861
+cat TODO 
+#1324205864
+cat welcome-to-nb.txt 
+#1324205928
+g nb-txt2html.sh
+#1324206001
+nb add entry
+#1324216360
+vi blog.conf 
+#1324216480
+nb add entry --interactive
+#1324216488
+nb  --interactive
+#1324216491
+nb  --interactive d
+#1324216496
+nb  --interactive 1
+#1324216499
+nb add entry 
+#1324216508
+fg
+#1324216544
+nb add tag 
+#1324216566
+echo "fjj" | nb add tag 
+#1324216588
+ll data/
+#1324216599
+nb tag list
+#1324216603
+nb list tag
+#1324216620
+echo "Opengl" | nb add tag 
+#1324216625
+nb list tag
+#1324216634
+nb update main
+#1324216931
+cdvcrt
+#1324216939
+ll lang
+#1324216988
+ll books
+#1324216995
+ll lang/books/
+#1324216998
+ll lang/books/c/cguo-e3/ch
+#1324216999
+ll lang/books/c/cguo-e3/ch*
+#1324217005
+ll gs
+#1324217007
+ll lang
+#1324217040
+ll life
+#1324217053
+ll linux
+#1324217067
+cd li
+#1324217069
+ll system-install-notes/
+#1324217086
+cd linux/
+#1324217088
+ll computor/
+#1324217089
+cd computor/
+#1324217145
+ll network/
+#1324217160
+ll OS
+#1324217169
+ll sysconf/
+#1324217174
+cd tools/
+#1324217241
+ll devel/
+#1324217261
+s devel
+#1324217276
+s develop
+#1324217295
+echo "3d"       | nb add tag
+#1324217295
+echo "arm"       | nb add tag
+#1324217295
+echo "audio"       | nb add tag
+#1324217295
+echo "blog"       | nb add tag
+#1324217295
+echo "bookmark"       | nb add tag
+#1324217295
+echo "book"       | nb add tag
+#1324217296
+echo "centos"       | nb add tag
+#1324217296
+echo "c"            | nb add tag
+#1324217296
+echo "c++"       | nb add tag
+#1324217296
+echo "devel"       | nb add tag
+#1324217296
+echo "dev"       | nb add tag
+#1324217296
+echo "embedded"       | nb add tag
+#1324217297
+echo "encoding"       | nb add tag
+#1324217297
+echo "engs"       | nb add tag
+#1324217297
+echo "e-test"       | nb add tag
+#1324217297
+echo "fedora"       | nb add tag
+#1324217297
+echo "graph"       | nb add tag
+#1324217297
+echo "java"       | nb add tag
+#1324217298
+echo "life"       | nb add tag
+#1324217298
+echo "linux"       | nb add tag
+#1324217298
+echo "linux-tool"       | nb add tag
+#1324217298
+echo "mail"       | nb add tag
+#1324217298
+echo "matrix"       | nb add tag
+#1324217299
+echo "minix"       | nb add tag
+#1324217299
+echo "network"       | nb add tag
+#1324217299
+echo "open-lib"       | nb add tag
+#1324217299
+echo "sap"       | nb add tag
+#1324217299
+echo "sed/awk"       | nb add tag
+#1324217299
+echo "selinux"       | nb add tag
+#1324217300
+echo "shell"       | nb add tag
+#1324217300
+echo "sql"       | nb add tag
+#1324217300
+echo "strust"       | nb add tag
+#1324217300
+echo "tcp/ip"       | nb add tag
+#1324217300
+echo "terminal"       | nb add tag
+#1324217300
+echo "ubuntu"       | nb add tag
+#1324217301
+echo "viki"       | nb add tag
+#1324217301
+echo "vim"       | nb add tag
+#1324217301
+echo "vm"       | nb add tag
+#1324217305
+nb list tag
+#1324217310
+nb update main
+#1324217401
+ll 
+#1324217418
+s video
+#1324217429
+nb update main
+#1324217468
+s matrix
+#1324217438
+nb update main
+#1324217473
+jj
+#1324217559
+nb delete tag
+#1324217562
+nb delete tag *
+#1324217570
+nb --help
+#1324217595
+nb delete tag all
+#1324217604
+nb delete tag 1,2,3,4,5
+#1324217615
+nb delete tag 1..30
+#1324217620
+nb delete tag 1...3
+#1324217647
+nb delete tag 1,2,3,4,5,6,7,8,9,10,11
+#1324217764
+ll archives/c/index.html 
+#1324217793
+nb list tag
+#1324217803
+e nb delete tag 1,2,3,4,5,6,7,8,9,10,11
+#1324217901
+,y
+#1324217904
+cd,y
+#1324217907
+nb delete tag 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41
+#1324217928
+nb delete tag 12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41
+#1324218622
+nb list tag
+#1324218642
+ff index.html 
+#1324218660
+echo "3d"       | nb add tag
+#1324218661
+echo "arm"       | nb add tag
+#1324218661
+echo "audio"       | nb add tag
+#1324218661
+echo "blog"       | nb add tag
+#1324218661
+echo "bookmark"       | nb add tag
+#1324218661
+echo "book"       | nb add tag
+#1324218661
+echo "centos"       | nb add tag
+#1324218661
+echo "c"            | nb add tag
+#1324218662
+echo "c++"       | nb add tag
+#1324218662
+echo "devel"       | nb add tag
+#1324218662
+echo "dev"       | nb add tag
+#1324218662
+echo "embedded"       | nb add tag
+#1324218662
+echo "encoding"       | nb add tag
+#1324218662
+echo "engs"       | nb add tag
+#1324218663
+echo "e-test"       | nb add tag
+#1324218663
+echo "fedora"       | nb add tag
+#1324218663
+echo "graph"       | nb add tag
+#1324218663
+echo "java"       | nb add tag
+#1324218663
+echo "life"       | nb add tag
+#1324218663
+echo "linux"       | nb add tag
+#1324218664
+echo "linux-tool"       | nb add tag
+#1324218664
+echo "mail"       | nb add tag
+#1324218664
+echo "matrix"       | nb add tag
+#1324218664
+echo "minix"       | nb add tag
+#1324218664
+echo "network"       | nb add tag
+#1324218664
+echo "open-lib"       | nb add tag
+#1324218665
+echo "sap"       | nb add tag
+#1324218665
+echo "sed-awk"       | nb add tag
+#1324218665
+echo "selinux"       | nb add tag
+#1324218665
+echo "shell"       | nb add tag
+#1324218665
+echo "sql"       | nb add tag
+#1324218665
+echo "strust"       | nb add tag
+#1324218666
+echo "tcp-ip"       | nb add tag
+#1324218666
+echo "terminal"       | nb add tag
+#1324218666
+echo "ubuntu"       | nb add tag
+#1324218666
+echo "video"       | nb add tag
+#1324218666
+echo "viki"       | nb add tag
+#1324218667
+echo "vim"       | nb add tag
+#1324218667
+echo "vm"       | nb add tag
+#1324218680
+nb list tag
+#1324218737
+nb delete tag 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48
+#1324218747
+nb list tag
+#1324218762
+nb delete tag 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48
+#1324218770
+ll data/
+#1324218774
+ls data/
+#1324218786
+cat data/cat_22.db 
+#1324218796
+rm data/cat_*
+#1324218801
+nb list tag
+#1324218811
+nb update main
+#1324218834
+echo "3d"       | nb add tag
+#1324218834
+echo "arm"       | nb add tag
+#1324218834
+echo "audio"       | nb add tag
+#1324218834
+echo "blog"       | nb add tag
+#1324218834
+echo "bookmark"       | nb add tag
+#1324218835
+echo "book"       | nb add tag
+#1324218835
+echo "centos"       | nb add tag
+#1324218835
+echo "c"            | nb add tag
+#1324218835
+echo "c++"       | nb add tag
+#1324218835
+echo "devel"       | nb add tag
+#1324218835
+echo "dev"       | nb add tag
+#1324218835
+echo "embedded"       | nb add tag
+#1324218836
+echo "encoding"       | nb add tag
+#1324218836
+echo "engs"       | nb add tag
+#1324218836
+echo "e-test"       | nb add tag
+#1324218836
+echo "fedora"       | nb add tag
+#1324218836
+echo "graph"       | nb add tag
+#1324218836
+echo "java"       | nb add tag
+#1324218837
+echo "life"       | nb add tag
+#1324218837
+echo "linux"       | nb add tag
+#1324218837
+echo "linux-tool"       | nb add tag
+#1324218837
+echo "mail"       | nb add tag
+#1324218837
+echo "matrix"       | nb add tag
+#1324218837
+echo "minix"       | nb add tag
+#1324218838
+echo "network"       | nb add tag
+#1324218838
+echo "open-lib"       | nb add tag
+#1324218838
+echo "sap"       | nb add tag
+#1324218838
+echo "sed-awk"       | nb add tag
+#1324218838
+echo "selinux"       | nb add tag
+#1324218838
+echo "shell"       | nb add tag
+#1324218839
+echo "sql"       | nb add tag
+#1324218839
+echo "strust"       | nb add tag
+#1324218839
+echo "tcp-ip"       | nb add tag
+#1324218839
+echo "terminal"       | nb add tag
+#1324218839
+echo "ubuntu"       | nb add tag
+#1324218839
+echo "video"       | nb add tag
+#1324218840
+echo "viki"       | nb add tag
+#1324218840
+echo "vim"       | nb add tag
+#1324218840
+echo "vm"       | nb add tag
+#1324218843
+nb list tag
+#1324218871
+nb update main
+#1324218897
+ls data/
+#1324218922
+rm data/cat_*
+#1324218925
+ls data/
+#1324218931
+ls data/master.db 
+#1324218935
+cat data/master.db 
+#1324218964
+rm date/*.db
+#1324218974
+ls data/
+#1324218982
+rm data/*.db
+#1324218999
+echo "3d"       | nb add tag
+#1324218999
+echo "arm"       | nb add tag
+#1324219000
+echo "audio"       | nb add tag
+#1324219000
+echo "blog"       | nb add tag
+#1324219000
+echo "bookmark"       | nb add tag
+#1324219000
+echo "book"       | nb add tag
+#1324219000
+echo "centos"       | nb add tag
+#1324219000
+echo "c"            | nb add tag
+#1324219001
+echo "c++"       | nb add tag
+#1324219001
+echo "devel"       | nb add tag
+#1324219001
+echo "dev"       | nb add tag
+#1324219001
+echo "embedded"       | nb add tag
+#1324219001
+echo "encoding"       | nb add tag
+#1324219001
+echo "engs"       | nb add tag
+#1324219001
+echo "e-test"       | nb add tag
+#1324219002
+echo "fedora"       | nb add tag
+#1324219002
+echo "graph"       | nb add tag
+#1324219002
+echo "java"       | nb add tag
+#1324219002
+echo "life"       | nb add tag
+#1324219002
+echo "linux"       | nb add tag
+#1324219002
+echo "linux-tool"       | nb add tag
+#1324219003
+echo "mail"       | nb add tag
+#1324219003
+echo "matrix"       | nb add tag
+#1324219003
+echo "minix"       | nb add tag
+#1324219003
+echo "network"       | nb add tag
+#1324219003
+echo "open-lib"       | nb add tag
+#1324219003
+echo "sap"       | nb add tag
+#1324219004
+echo "sed-awk"       | nb add tag
+#1324219004
+echo "selinux"       | nb add tag
+#1324219004
+echo "shell"       | nb add tag
+#1324219004
+echo "sql"       | nb add tag
+#1324219004
+echo "strust"       | nb add tag
+#1324219004
+echo "tcp-ip"       | nb add tag
+#1324219005
+echo "terminal"       | nb add tag
+#1324219005
+echo "ubuntu"       | nb add tag
+#1324219005
+echo "video"       | nb add tag
+#1324219005
+echo "viki"       | nb add tag
+#1324219005
+echo "vim"       | nb add tag
+#1324219005
+echo "vm"       | nb add tag
+#1324219016
+nb list tag
+#1324219037
+rm data/*.db
+#1324219043
+echo "3d"       | nb add tag
+#1324219043
+echo "arm"       | nb add tag
+#1324219043
+echo "audio"       | nb add tag
+#1324219043
+echo "blog"       | nb add tag
+#1324219043
+echo "bookmark"       | nb add tag
+#1324219043
+echo "book"       | nb add tag
+#1324219044
+echo "centos"       | nb add tag
+#1324219044
+echo "c"            | nb add tag
+#1324219044
+echo "cpp"       | nb add tag
+#1324219044
+echo "devel"       | nb add tag
+#1324219044
+echo "dev"       | nb add tag
+#1324219044
+echo "embedded"       | nb add tag
+#1324219044
+echo "encoding"       | nb add tag
+#1324219045
+echo "engs"       | nb add tag
+#1324219045
+echo "e-test"       | nb add tag
+#1324219045
+echo "fedora"       | nb add tag
+#1324219045
+echo "graph"       | nb add tag
+#1324219045
+echo "java"       | nb add tag
+#1324219045
+echo "life"       | nb add tag
+#1324219045
+echo "linux"       | nb add tag
+#1324219046
+echo "linux-tool"       | nb add tag
+#1324219046
+echo "mail"       | nb add tag
+#1324219046
+echo "matrix"       | nb add tag
+#1324219046
+echo "minix"       | nb add tag
+#1324219046
+echo "network"       | nb add tag
+#1324219046
+echo "open-lib"       | nb add tag
+#1324219047
+echo "sap"       | nb add tag
+#1324219047
+echo "sed-awk"       | nb add tag
+#1324219047
+echo "selinux"       | nb add tag
+#1324219047
+echo "shell"       | nb add tag
+#1324219047
+echo "sql"       | nb add tag
+#1324219047
+echo "strust"       | nb add tag
+#1324219048
+echo "tcp-ip"       | nb add tag
+#1324219048
+echo "terminal"       | nb add tag
+#1324219048
+echo "ubuntu"       | nb add tag
+#1324219048
+echo "video"       | nb add tag
+#1324219048
+echo "viki"       | nb add tag
+#1324219049
+echo "vim"       | nb add tag
+#1324219049
+echo "vm"       | nb add tag
+#1324219054
+nb list tag
+#1324219068
+nb update main
+#1324219147
+s framebuffer
+#1324219153
+s frame
+#1324219167
+date
+#1324219216
+rm data/*.db
+#1324219221
+echo "3d"       | nb add tag
+#1324219221
+echo "arm"       | nb add tag
+#1324219222
+echo "audio"       | nb add tag
+#1324219222
+echo "blog"       | nb add tag
+#1324219222
+echo "bookmark"       | nb add tag
+#1324219222
+echo "book"       | nb add tag
+#1324219222
+echo "centos"       | nb add tag
+#1324219222
+echo "c"            | nb add tag
+#1324219222
+echo "cpp"       | nb add tag
+#1324219223
+echo "devel"       | nb add tag
+#1324219223
+echo "dev"       | nb add tag
+#1324219223
+echo "embedded"       | nb add tag
+#1324219223
+echo "encoding"       | nb add tag
+#1324219223
+echo "engs"       | nb add tag
+#1324219223
+echo "e-test"       | nb add tag
+#1324219223
+echo "fedora"       | nb add tag
+#1324219224
+echo "graph"       | nb add tag
+#1324219224
+echo "java"       | nb add tag
+#1324219224
+echo "life"       | nb add tag
+#1324219224
+echo "linux"       | nb add tag
+#1324219224
+echo "linux-tool"       | nb add tag
+#1324219224
+echo "mail"       | nb add tag
+#1324219225
+echo "matrix"       | nb add tag
+#1324219225
+echo "minix"       | nb add tag
+#1324219225
+echo "network"       | nb add tag
+#1324219225
+echo "open-lib"       | nb add tag
+#1324219225
+echo "sap"       | nb add tag
+#1324219225
+echo "sed-awk"       | nb add tag
+#1324219226
+echo "selinux"       | nb add tag
+#1324219226
+echo "shell"       | nb add tag
+#1324219226
+echo "sql"       | nb add tag
+#1324219226
+echo "strust"       | nb add tag
+#1324219226
+echo "tcp-ip"       | nb add tag
+#1324219226
+echo "terminal"       | nb add tag
+#1324219227
+echo "ubuntu"       | nb add tag
+#1324219227
+echo "video"       | nb add tag
+#1324219227
+echo "viki"       | nb add tag
+#1324219227
+echo "vim"       | nb add tag
+#1324219227
+echo "vm"       | nb add tag
+#1324219227
+echo "framebuffer"       | nb add tag
+#1324219276
+ds ar
+#1324219278
+ds ar*
+#1324219282
+ds cache/
+#1324219288
+ds data/
+#1324219291
+lla
+#1324219293
+ds .git
+#1324219329
+nb list tags
+#1324219372
+nb list
+#1324219385
+nb --tag 1,4,9 tag-entry 8,11
+#1324219525
+echo "y" | nb --tag 1,11,14,19 tag-entry 8,11,12
+#1324219732
+vi nb_edit-entry-2011-12-18T21_54_59.txt 
+#1324219737
+rm nb_edit-entry-2011-12-18T*
+#1324219744
+ll cache/
+#1324219746
+ll data/
+#1324219748
+ls data/
+#1324219753
+ll templates/
+#1324219763
+find index.html 
+#1324219778
+ll images/
+#1324219781
+ex images/
+#1324219808
+ls data/
+#1324219821
+ls parts/
+#1324219851
+ls archives/
+#1324219872
+ll parts/
+#1324219944
+svns
+#1324219948
+chx nb-*
+#1324219949
+svns
+#1324219958
+svn add nb-*
+#1324219959
+svns
+#1324219974
+svn commit -m 'nb tools for edit blog'
+#1324219991
+cd..
+#1324219992
+svns
+#1324220020
+svn mv ftp-up-down.sh nb/nb-ftp_updown.sh 
+#1324220022
+svns
+#1324220048
+svn commit -m 'mv ftp-up-down.sh TO nb/nb-ftp_updown.sh'
+#1324220065
+svns
+#1324220073
+cd bn
+#1324220075
+cd nb
+#1324220082
+vi nb
+#1324220165
+gits.
+#1324220208
+s syndicate
+#1324304306
+ff&
+#1324304502
+ex .
+#1324304528
+cdm
+#1324304531
+cd TOOLS/
+#1324304533
+cd 1music/
+#1324304537
+cd mp3_2/
+#1324385166
+s moderation
+#1324385232
+s Your comment is submitted and awaits moderation
+#1324385239
+s 'Your comment is submitted and awaits moderation'
+#1324389426
+ ll
+#1324389433
+cdvcrtbo
+#1324389435
+cd grath/
+#1324389437
+cd books/
+#1324389459
+cd 0I3D游戏与计算机图形学中的数学方法/
+#1324389463
+pdf 0I3D游戏与计算机图形学中的数学方法-Eric.pdf &
+#1324389988
+cdrt
+#1324389996
+cd linux/computor/grath/
+#1324389998
+cd books/
+#1324390005
+cd 0I3D游戏与计算机图形学中的数学方法/
+#1324391280
+;;
+#1324391285
+cdx
+#1324391307
+ex .
+#1324391318
+ex .
+#1324391336
+mv 19303937.pdf 0I3D游戏与计算机图形学中的数学方法-Eric-E1.pdf 
+#1324391345
+git add .
+#1324391370
+,y
+#1324391374
+cd,y
+#1324391449
+ln -s /home/scr/.rt/linux/computor/grath/books/0I3D游戏与计算机图形学中的数学方法/0I3D游戏与计算机图形学中的数学方法-Eric-E1.pdf  .
+#1324391453
+gits.
+#1324391386
+vbs
+#1324391490
+dfp 0I3D游戏与计算机图形学中的数学方法-Eric-E1.pdf &
+#1324391474
+gits
+#1324391496
+pdf 0I3D游戏与计算机图形学中的数学方法-Eric-E1.pdf &
+#1324391529
+git commit -m '<<3D游戏与计算机图形学中的数学方法>>' 
+#1324391533
+gits.
+#1324391540
+gits
+#1324391555
+gits.
+#1324391559
+git add .
+#1324391560
+gits
+#1324391588
+git commit -m '<<曲线与曲面的数学,贝济埃模型,B-样条模型、NURBS模型>>'
+#1324391591
+gits.
+#1324391592
+gits
+#1324391599
+gits
+#1324391603
+git add.
+#1324391606
+git add .
+#1324391609
+gits.
+#1324391632
+git commit -m '<<3D游戏与计算机图形学中的数学方法-Eric-E1>>'
+#1324391634
+gits
+#1324391638
+gitd
+#1324391655
+gits
+#1324391661
+git add ../../../bookmark/
+#1324391663
+gits
+#1324391678
+git commit -m '<<阴影锥原理与展望—真实的游戏效果的实现(转)>> 作者：王浩'
+#1324391680
+gits.
+#1324391682
+gits
+#1324391691
+cdvcrt
+#1324391694
+cdvcrc
+#1324391695
+gits
+#1324391709
+cdvcrt
+#1324391710
+gits.
+#1324391712
+gits
+#1324391718
+cdrt
+#1324391721
+cd linux/
+#1324391723
+gits
+#1324391715
+git push origin master
+#1324391727
+cd computor/
+#1324391728
+gits
+#1324391738
+cdl
+#1324391739
+svns
+#1324392485
+git add rt/home/scr/.kde/
+#1324392486
+gits
+#1324392496
+git commit -m '<<3D游戏与计算机图形学中的数学方法-Eric-E1>>'
+#1324392498
+gits
+#1324392501
+git pull origin master
+#1324392517
+git push origin master
+#1324469987
+git pull origin master
+#1324469983
+git pull origin master
+#1324469994
+cdvcl
+#1324469997
+git pull origin master
+#1324470004
+git pull origin master
+#1324470015
+cd books/c/graph/NeHe/LESSON27/
+#1324470018
+ma
+#1324470027
+./Lesson27 
+#1324470066
+g
+#1324470087
+ma
+#1324470088
+./Lesson27 
+#1324470206
+mc
+#1324470209
+gitlo.
+#1324470221
+gitl
+#1324470225
+gitl.
+#1324470236
+ma
+#1324470243
+mc
+#1324470248
+ds Data/
+#1324470250
+ll Data/
+#1324470254
+g Data/
+#1324475402
+cdvcrtbo
+#1324475405
+cd grath/
+#1324475408
+ds opengl/
+#1324475410
+cd books/
+#1324475417
+ll 0H游戏编程精粹/1/
+#1324475420
+ll 0A计算机图形学.D.Hearn/
+#1324475424
+ll 0D计算机图形学几何工具算法详解/
+#1324475426
+cdrt
+#1324475431
+cd linux/computor/grath/
+#1324475433
+pwdp
+#1324475442
+cd books/
+#1324475448
+ds opengl/
+#1324475450
+ll opengl/
+#1324475461
+gits opengl/
+#1324475474
+ex .
+#1324475529
+s grath
+#1324475540
+cdvcrtbo
+#1324475548
+s graph
+#1324475555
+ex .
+#1324475558
+ds books/
+#1324475577
+ll opengl/
+#1324475580
+ds opengl/
+#1324475583
+ll photoshop/
+#1324475586
+ds photoshop/
+#1324475617
+cdrt
+#1324475623
+cd linux/computor/grath/
+#1324475625
+cd opengl/
+#1324475627
+cd n
+#1324475629
+cd nehe/
+#1324475632
+cd dev-src-html/
+#1324475636
+ff index.htm 
+#1324475647
+keynav 
+#1324475685
+ex ..
+#1324475719
+ex .
+#1324475747
+ll resource/
+#1324475749
+ls images/
+#1324475752
+ll resource/
+#1324475754
+ll resource/lib/
+#1324475761
+ll resource/DevCpp/
+#1324475773
+cdvcrt
+#1324475774
+cdvcl
+#1324475779
+cd books/c/graph/NeHe/
+#1324475785
+ll zip
+#1324475795
+pwdp
+#1324475819
+cdrt
+#1324475860
+ex .
+#1324475877
+ll README 
+#1324475879
+cat README 
+#1324475886
+ds LESSON39
+#1324475890
+ll zip/
+#1324475933
+ff index.htm 
+#1324476032
+,y
+#1324476034
+cd,y
+#1324476042
+cp zip/lesson43.tar.gz .
+#1324476047
+unzip lesson43.tar.gz 
+#1324476053
+tar xvzf lesson43.tar.gz 
+#1324476056
+rm lesson43.tar.gz 
+#1324476066
+mv Lesson43/ LESSON43/
+#1324476072
+touch LESSON43
+#1324476078
+cat README 
+#1324476081
+gits.
+#1324476086
+cd LESSON
+#1324476093
+git add LESSON43/
+#1324476095
+gits.
+#1324476138
+git commit -m './LESSON43 <<在OpenGL中使用FreeType库'
+#1324476147
+git commit --amend
+#1324476157
+gitlo.
+#1324476165
+gits.
+#1324476167
+gitd
+#1324476185
+ma
+#1324476188
+./Lesson27 
+#1324476191
+gits
+#1324476192
+gitd
+#1324476212
+git checkout HEAD .
+#1324476213
+gits
+#1324476215
+ma
+#1324476216
+./Lesson27 
+#1324476222
+cd LESSON43
+#1324476224
+ma
+#1324476233
+g lesson43.cpp 
+#1324476287
+ma
+#1324476384
+./freetype 
+#1324476404
+ma
+#1324476441
+s sdl-config
+#1324476447
+m sdl-config
+#1324476451
+sdl-config 
+#1324476456
+sdl-config -help
+#1324476463
+sdl-config --version
+#1324476493
+wh sdl-config 
+#1324476516
+file sdl-config 
+#1324476524
+file /usr/bin/sdl-config 
+#1324476529
+v /usr/bin/sdl-config 
+#1324476685
+ma
+#1324476704
+mc
+#1324476705
+ma
+#1324476719
+sdl-config --cflags --libs
+#1324476731
+mc
+#1324476731
+ma
+#1324476741
+mc
+#1324476741
+ma
+#1324476745
+mc
+#1324476745
+ma
+#1324476781
+mc
+#1324476782
+ma
+#1324476785
+mc
+#1324476786
+touch *
+#1324476787
+mc
+#1324476788
+ma
+#1324476789
+mc
+#1324476790
+gits.
+#1324476792
+gitlo.
+#1324476801
+mc
+#1324476803
+git add .
+#1324476805
+gits.
+#1324476815
+git add freetype
+#1324476818
+gits
+#1324476827
+git add freetype
+#1324476829
+gits.
+#1324476835
+git rm freetype
+#1324476836
+gits.
+#1324476860
+git commit -m '使能编译通过'
+#1324476861
+mc
+#1324476862
+ma
+#1324476863
+./freetype 
+#1324477387
+ctagscpp.sh 
+#1324477437
+./freetype 
+#1324477521
+ma
+#1324477523
+./freetype 
+#1324477530
+ma
+#1324477531
+./freetype 
+#1324477534
+ma
+#1324477535
+./freetype 
+#1324477806
+ma
+#1324477809
+gitd.
+#1324477811
+ma
+#1324477813
+./freetype &
+#1324477821
+ma
+#1324477822
+./freetype &
+#1324477832
+ex .
+#1324477854
+ma
+#1324477855
+./freetype &
+#1324477859
+ma
+#1324477861
+./freetype &
+#1324477931
+ma
+#1324477950
+ii
+#1324477957
+ma
+#1324477961
+ii
+#1324477963
+./freetype &
+#1324477999
+ii
+#1324478367
+./freetype &
+#1324478452
+ma
+#1324478453
+./freetype &
+#1324478551
+ma
+#1324478553
+./freetype &
+#1324478596
+ma
+#1324478597
+./freetype &
+#1324478606
+ma
+#1324478608
+./freetype &
+#1324478614
+ma
+#1324478617
+./freetype &
+#1324478635
+ma
+#1324478636
+./freetype &
+#1324478829
+ma
+#1324478846
+vi Makefile 
+#1324478852
+mc
+#1324478853
+ma
+#1324478978
+mc
+#1324478978
+ma
+#1324479096
+m ascii
+#1324479782
+ma
+#1324479783
+./freetype &
+#1324479793
+ma
+#1324479794
+./freetype &
+#1324480105
+ma
+#1324480107
+./freetype &
+#1324480143
+ma
+#1324480144
+./freetype &
+#1324480205
+mc
+#1324480206
+ma
+#1324480207
+./freetype &
+#1324480225
+ma
+#1324480226
+./freetype &
+#1324480287
+ma
+#1324480322
+./freetype &
+#1324480328
+ma
+#1324480330
+./freetype &
+#1324480341
+ma
+#1324480364
+./freetype &
+#1324480418
+ma
+#1324480419
+./freetype &
+#1324480429
+ma
+#1324480430
+./freetype &
+#1324480503
+ma
+#1324480521
+./freetype &
+#1324480524
+gitd
+#1324480532
+mc
+#1324480533
+gitd.
+#1324480538
+gits.
+#1324480540
+fg
+#1324480555
+git add .
+#1324480556
+gits.
+#1324480563
+git commit -m 'save'
+#1324480565
+cdvcl
+#1324480566
+gits.
+#1324480570
+git push origin master
+#1324562656
+git pull origin master
+#1324562985
+cd books/c/graph/NeHe/
+#1324562987
+ma
+#1324562990
+cd LESSON3
+#1324562992
+cd LESSON43
+#1324562993
+ma
+#1324562995
+./freetype 
+#1324562998
+mc
+#1324562999
+gitlo.
+#1324563065
+cdb
+#1324563098
+nb
+#1324563100
+cd
+#1324563102
+cd tmp/
+#1324563117
+cd rt
+#1324563123
+ll rt-notes/
+#1324563127
+ll wget/
+#1324563130
+ll ii
+#1324563133
+cdx
+#1324563138
+cd nuoerlz-blog/
+#1324563209
+ff index.html 
+#1324563241
+cd nb
+#1324563245
+g nb*
+#1324563416
+nb list tag
+#1324563455
+cd
+#1324563463
+g  不.txt 
+#1324563499
+mv  不.txt  01不.txt
+#1324563509
+g
+#1324563532
+gvht
+#1324563558
+g 01不.txt 
+#1324563599
+nb list tag
+#1324563979
+head -1 01不.txt 
+#1324564136
+nb-txt2html.sh 01不.txt 
+#1324564194
+head -2 01不.txt 
+#1324564236
+m head
+#1324564323
+nb-txt2html.sh 01不.txt 
+#1324565716
+vi blog.conf 
+#1324565739
+date +%Y-%m-%d %H:%M:%S
+#1324565748
+date "+%Y-%m-%d %H:%M:%S"
+#1324565868
+ll *vim*
+#1324565991
+g doll
+#1324566022
+fg
+#1324566030
+rm *.html
+#1324566054
+nb-txt2html.sh 01不.txt 
+#1324566081
+lllg 
+#1324566083
+g 01不.txt
+#1324566099
+rm *.html
+#1324566125
+nb-txt2html.sh 01不.txt 
+#1324566248
+g
+#1324566280
+nb-txt2html.sh 01不.txt 
+#1324566294
+mv 01不.txt.html 01不.txt.html2
+#1324566297
+nb-txt2html.sh 01不.txt 
+#1324566304
+diff 01不.txt.html*
+#1324566309
+nb-txt2html.sh 01不.txt 
+#1324566446
+diff 01不.txt.html*
+#1324566501
+nb-txt2html.sh 01不.txt 
+#1324566585
+rm *.html
+#1324566590
+nb-txt2html.sh 01不.txt 
+#1324566592
+;;
+#1324566622
+diff 01不.txt.html*
+#1324566642
+ff 01不.txt.html
+#1324566654
+ff 01不.txt.html2
+#1324566675
+v 01不.txt
+#1324566713
+nb-txt2html.sh 01不.txt 
+#1324566730
+g 01不.txt
+#1324566739
+gvnt
+#1324566787
+rm *.html
+#1324566790
+rm 01不.txt.html2 
+#1324566793
+cat 01不.txt 
+#1324566803
+nb-txt2html.sh 01不.txt 
+#1324566807
+mv 01不.txt.html 01不.txt.html2
+#1324566810
+nb-txt2html.sh 01不.txt 
+#1324566813
+diff 01不.txt.html*
+#1324566816
+ff 01不.txt.html2
+#1324566837
+wh givm
+#1324566840
+wh gvim
+#1324566849
+nb-txt2html.sh 01不.txt 
+#1324566866
+diff 01不.txt.html*
+#1324566874
+ff 01不.txt.html
+#1324566930
+mv 01不.txt.html 01不.txt.html2
+#1324566933
+nb-txt2html.sh 01不.txt 
+#1324566970
+diff 01不.txt.html*
+#1324566973
+ff 01不.txt.html
+#1324567001
+diff 01不.txt.html*
+#1324567003
+nb-txt2html.sh 01不.txt 
+#1324567236
+ff 01不.txt.nb.html 
+#1324567253
+v 01不.txt.nb.html 
+#1324567353
+nb-txt2html.sh 01不.txt 
+#1324567389
+v 01不.txt.nb.html 
+#1324567441
+wh nb
+#1324567486
+nb-txt2html.sh ~/01不.txt
+#1324567509
+wh nb
+#1324567525
+nb-txt2html.sh ~/01不.txt
+#1324567773
+cdb
+#1324567775
+cdl
+#1324567778
+cd viki
+#1324567783
+cd txt2vikiORlatex2html/
+#1324567785
+ma
+#1324567826
+ll public_html/
+#1324567842
+ll public_html/note.html 
+#1324567845
+ff public_html/note.html 
+#1324567908
+ma
+#1324567914
+mc
+#1324567915
+ma
+#1324567966
+ll public_html/
+#1324567970
+ls public_html/
+#1324567973
+ff public_html/note.html 
+#1324568050
+mc
+#1324568060
+vi makefile 
+#1324568071
+viki_make.sh 
+#1324568075
+rm makefile 
+#1324568077
+rm Makefile 
+#1324568081
+viki_make.sh 
+#1324568085
+vi Makefile 
+#1324568130
+g note.txt 
+#1324568150
+fg
+#1324568267
+svnlv
+#1324568294
+wh svnlv
+#1324568301
+svn log -v . | less
+#1324568341
+mc
+#1324568344
+ma
+#1324568353
+viki_make.sh 
+#1324568354
+ma
+#1324568356
+svns
+#1324568396
+sed -f txt2viki.sed note.txt 
+#1324568402
+sed -f txt2viki.sed note.txt | less
+#1324568438
+sed -f txt2viki.sed note.txt > note.viki
+#1324568439
+ma
+#1324568450
+ll public_html/
+#1324568462
+ff public_html/\*.html 
+#1324568507
+cat las_txt2viki.sed 
+#1324568511
+cat pre_txt2viki.sed 
+#1324568527
+fif pre_txt
+#1324568534
+wh fif
+#1324568557
+sed -f pre_txt2viki.sed note.txt > note.txt_tem
+#1324568575
+sed -f txt2viki.sed note.txt_tem > note.viki
+#1324568582
+ma
+#1324568592
+mc
+#1324568593
+mca
+#1324568603
+sed -f pre_txt2viki.sed note.txt > note.txt_tem
+#1324568605
+sed -f txt2viki.sed note.txt_tem > note.viki
+#1324568607
+mc
+#1324568618
+viki_make.sh 
+#1324568619
+ma
+#1324568684
+ff public_html/note.html 
+#1324568777
+svns
+#1324568796
+svns
+#1324568799
+svndl
+#1324568851
+svn commit -m '初步实现把txt文件转换为nb所需要的文件格式'
+#1324645457
+ll public_html/
+#1324645474
+cp public_html/note.html ~
+#1324645477
+cd
+#1324645486
+fg
+#1324567905
+su
+#1324645488
+jj
+#1324645490
+cd txt2vikiORlatex2html/
+#1324645499
+cp public_html/note.html ~
+#1324645501
+ff noll
+#1324645509
+ff note.html 
+#1324645543
+cp public_html/bright.css ~
+#1324645553
+cp public_html/moon.css ~
+#1324645575
+ll public_html/
+#1324645619
+svns
+#1324645635
+g nb*
+#1324645669
+svns
+#1324645687
+svn mv nb-txt2html.sh nb-txt2nblog.sh 
+#1324645689
+svns
+#1324645699
+svn commit -m 'rename'
+#1324645730
+svns
+#1324645751
+chx nb-html2nblog.sh 
+#1324645778
+g ~/note.html 
+#1324645874
+gvlc
+#1324645963
+sed 'p' note.html 
+#1324645999
+cdl
+#1324646001
+cd shell/
+#1324646005
+cd sed-awk/
+#1324646007
+cd sed/
+#1324646009
+cd iw
+#1324646013
+cat iw.sed 
+#1324646027
+cat iw.out 
+#1324646031
+cat iw.sed 
+#1324646043
+g iw.sed 
+#1324646130
+sed -f iw.sed iw.out 
+#1324646145
+sed -n -f iw.sed iw.out 
+#1324646740
+cat README 
+#1324646875
+ll desktop/
+#1324646880
+touch desktop/
+#1324646902
+cp ~/note.html .
+#1324646924
+sed -n -f nb-html2nblog_priv.sed note.html 
+#1324647501
+e sed -n -f nb-html2nblog_priv.sed note.html 
+#1324647513
+sed -n -f nb-html2nblog_priv.sed note.html 
+#1324647517
+sed -n -f nb-html2nblog_priv.sed note.html | wc
+#1324647737
+sed -n -f nb-html2nblog_priv.sed note.html 
+#1324647817
+sed -n -f nb-html2nblog_priv.sed note.html | sort
+#1324647952
+nb-html2nblog.sh note.html 
+#1324648263
+diff note.html*
+#1324648291
+nb-html2nblog.sh ~/note.html 
+#1324648490
+cp ~/*.css archives/2011/12/23/notes/
+#1324648512
+cp ~/*.css .
+#1324648617
+gits.
+#1324648693
+rm archives/2011/12/23/notes/*.css
+#1324648813
+g archives/2011/12/23/notes/index.html 
+#1324648880
+ll archives/2011/12/23/notes/index.html 
+#1324648937
+ff index.html 
+#1324304540
+mpg123 --title -C -Z *
+#1324649406
+mpg123 --title -C  *
+#1324649429
+cd mp3
+#1324649437
+mpg123 --title -C  *
+#1324649457
+cd 1music/
+#1324649531
+cd
+#1324649612
+cd tmp/
+#1324649615
+mkdir teee
+#1324649617
+cd teee/
+#1324649622
+ln -s dfjj lsl
+#1324649648
+nb-ftp_updown.sh 
+#1324649666
+ftp 221.1.217.92
+#1324649705
+nb-ftp_updown.sh 
+#1324649737
+ftp 221.1.217.92
+#1324649918
+g archives/2011/12/23/notes/index.html 
+#1324650052
+cd styles/
+#1324650063
+mv print.css print.css.bk
+#1324650070
+mv nb_default.css nb_default.css.bk
+#1324650092
+mv ../*.css .
+#1324650133
+ln nb_default.css moon.css 
+#1324650144
+ln -s moon.css nb_default.css 
+#1324650155
+ln -s bright.css print.css
+#1324650240
+rm *
+#1324650244
+git checkout HEAD .
+#1324650249
+gits
+#1324650261
+git add .
+#1324650262
+gits.
+#1324650282
+git rm cache/
+#1324650287
+ll cache/
+#1324650294
+gits.
+#1324650309
+git commit -m 'save'
+#1324650310
+gits.
+#1324650378
+cp note.html note-yes-me.html
+#1324650393
+nb-html2nblog.sh ~/note-yes-me.html 
+#1324650519
+gits.
+#1324650542
+gits. | grep html
+#1324650567
+g parts/year_links.html
+#1324650585
+g archives/2011/12/index.html
+#1324650665
+g parts/cal.html
+#1324650692
+g archives/index.html
+#1324650712
+g archives/2011/12/index.html
+#1324650778
+fif nb
+#1324650807
+cat nb | grep nb_default
+#1324650816
+g nb
+#1324650861
+ll lib
+#1324650867
+ll default/
+#1324650871
+ll default/styles/
+#1324650916
+gits. | grep html
+#1324650951
+g archives/index.html
+#1324650967
+g archives/2011/index.html
+#1324650983
+g archives/2011/12/index.html
+#1324651003
+g parts/archive_links.html
+#1324651087
+g index.html
+#1324651215
+ll default/
+#1324651218
+ll default/styles/
+#1324651231
+fif nb_default.css
+#1324651247
+fif BLOG_CSS
+#1324651339
+gits.
+#1324651342
+git add .
+#1324651343
+gits.
+#1324651347
+git commit -m 'save'
+#1324651348
+gits.
+#1324651353
+gitlo.
+#1324651366
+ds .git
+#1324651371
+ds cache/
+#1324651375
+ds archives/
+#1324651380
+ds archives/ articles/
+#1324651384
+ll articles/
+#1324651388
+ll articles/2
+#1324651394
+ds plugins/
+#1324651398
+ll templates/
+#1324651413
+g note-yes-me.html
+#1324651490
+nb-html2nblog.sh ~/note-yes-me.html 
+#1324651672
+g  ./default/templates/permalink.htm 
+#1324651694
+fif permalink.htm
+#1324651708
+fif PERMALINK_TEMPLATE
+#1324651733
+g ./lib/archive.sh:278:
+#1324651790
+fif make_page
+#1324651917
+fif BLOG_CSS
+#1324651925
+fifw BASE_URL
+#1324651929
+fif BLOG_CSS
+#1324651933
+fifw BASE_URL
+#1324652383
+gits.
+#1324652399
+wh gits.
+#1324652404
+git status . 
+#1324652411
+git status . | grep '.html'
+#1324652470
+cdb
+#1324652472
+cdl
+#1324652475
+cd viki/
+#1324652501
+cd txt2vikiORlatex2html/
+#1324652641
+git status . | grep '.html' | sed 's/^#//'
+#1324652653
+git status . | grep '.html' | sed -e 's/^#//'
+#1324652680
+git status . | grep '.html' | sed -e 's/^#//' -e 's/^  *.*://
+'
+#1324652691
+git status . | grep '.html' | sed -e 's/^#//'
+#1324652714
+git status . | grep '.html' | sed -e 's/^#//' -e 's/^  *.*://'
+#1324652733
+git status . | grep '.html' | sed -e 's/^#//' -e 's/^ *.*://'
+#1324652792
+git status . | grep '.html' 
+#1324652803
+git status . | grep '.html' > out
+#1324652804
+g out 
+#1324652855
+chx nb-las_2nblog.sh 
+#1324652867
+nb-las_2nblog.sh 
+#1324652982
+g out 
+#1324652985
+nb-las_2nblog.sh 
+#1324653192
+m sed
+#1324653209
+info sed
+#1324653313
+nb-las_2nblog.sh 
+#1324653786
+g archives/2011/index.html
+#1324653796
+g archives/2011/12/index.html
+#1324695189
+gits.
+#1324695191
+ma
+#1324695194
+mc
+#1324695196
+ma
+#1324695201
+./Lesson27 
+#1324695663
+g Lesson27.cpp 
+#1324695687
+ma
+#1324695688
+./Lesson27 
+#1324695871
+gitd.
+#1324695874
+gits.
+#1324695884
+ma
+#1324695887
+./freetype 
+#1324696513
+nb-las_2nblog.sh 
+#1324696531
+g archives/2011/12/index.html
+#1324696651
+nb-las_2nblog.sh 
+#1324696980
+gits.
+#1324696989
+nb-las_2nblog.sh 
+#1324697000
+g archives/2011/12/23/notes/index.html 
+#1324697219
+g archives/2011/12/index.html
+#1324697246
+nb-las_2nblog.sh 
+#1324697249
+g index.html 
+#1324697270
+g archives/2011/12/23/notes_1/index.html
+#1324697279
+g archives/2011/12/index.html
+#1324697303
+nb-las_2nblog.sh 
+#1324697309
+g index.html
+#1324697334
+g archives/2011/12/index.html
+#1324697351
+g archives/2011/12/23/notes_1/index.html
+#1324697374
+nb-las_2nblog.sh 
+#1324698200
+g archives/2011/12/23/notes_1/index.html
+#1324698260
+nb-las_2nblog.sh 
+#1324698877
+ll styles/
+#1324698879
+ll ~
+#1324698887
+cp ~/*.css styles/
+#1324698960
+pwd -P
+#1324698990
+nb-las_2nblog.sh 
+#1324699072
+g styles/moon.css 
+#1324699182
+cd styles/
+#1324699191
+mv  moon.css moon.cssl
+#1324699202
+mv moon.cssl moon.css
+#1324699441
+git add .
+#1324699443
+gits.
+#1324699467
+git commit -m 'save'
+#1324699470
+gits.
+#1324704433
+svns
+#1324704455
+svn help
+#1324704470
+svns
+#1324704478
+ll public_html/
+#1324704480
+cd public_html/
+#1324704481
+svns
+#1324704490
+svn help
+#1324704510
+svn resolved ortho.cpp
+#1324704511
+svns
+#1324704522
+pre_note.txt
+#1324704530
+svn resolved pre_note.txt
+#1324704532
+svns
+#1324704549
+svn resolve pre_note.txt
+#1324704556
+svn ehp
+#1324704561
+svn help
+#1324704589
+svn revert pre_note.txt
+#1324704593
+s revert
+#1324704596
+svns
+#1324704610
+svn revert pre_note.viki makefile
+#1324704612
+svns
+#1324704615
+svndl
+#1324704627
+ll public_html/
+#1324704632
+rm -rf public_html/
+#1324704636
+su
+#1324704647
+svns
+#1324704655
+svn revert public_html
+#1324704658
+svns
+#1324704662
+svn revert public_html/*
+#1324704688
+svns
+#1324704689
+g
+#1324704807
+viki_make.sh 
+#1324704837
+cdb
+#1324704842
+g viki_*
+#1324705015
+ma
+#1324705065
+mc
+#1324705246
+svns
+#1324705259
+mv note.txt_tem ~
+#1324705261
+svns
+#1324705270
+ma
+#1324705276
+ll public_html/
+#1324705279
+ff public_html/note.html 
+#1324705299
+svns
+#1324705964
+diff *viki
+#1324705972
+ll *viki
+#1324706092
+ll *txt
+#1324706101
+svns
+#1324706104
+g upload.txt 
+#1324706109
+g test.txt 
+#1324706115
+g sytax.txt 
+#1324706128
+diff note.txt pre_note.txt 
+#1324706134
+diff note.txt pre_note.txt | less
+#1324706172
+ma
+#1324706249
+diff note.txt pre_note.txt | less
+#1324706279
+mv note.txt note.txt.bk
+#1324706285
+cdvcrt
+#1324706293
+cdvcrtbo
+#1324706295
+cd grath/
+#1324706298
+cd opengl/
+#1324706300
+cd note/
+#1324706306
+g 14-OpenGL片断测试.txt 
+#1324706344
+g 21-opengl2.0的拾取.txt 
+#1324706382
+gits.
+#1324706396
+cp 14-OpenGL片断测试.txt ~
+#1324706407
+mv /home/scr/14-OpenGL片断测试.txt note.txt
+#1324706409
+ma
+#1324706828
+g note.txt
+#1324707158
+ma
+#1324707994
+sed -f pre_txt2viki.sed note.txt > pre_note.txt
+#1324708190
+ii
+#1324708469
+sed -f pre_txt2viki.sed note.txt > pre_note.txt
+#1324708619
+ma
+#1324709794
+cdl
+#1324709798
+cd vi
+#1324709800
+cd viki/
+#1324709802
+cd hello/
+#1324709806
+m
+#1324709807
+svns
+#1324709807
+ma
+#1324709815
+mc
+#1324709816
+ma
+#1324709825
+ff public_html/hello.html 
+#1324709883
+g hello.viki 
+#1324709998
+ma
+#1324710041
+ff public_html/note.html 
+#1324710296
+ma
+#1324710297
+mc
+#1324710297
+ma
+#1324710410
+ma
+#1324711398
+mc
+#1324711406
+cat README 
+#1324711411
+ll public_html/
+#1324711435
+ma
+#1324711446
+g public_html/hello.html 
+#1324711575
+mc
+#1324711579
+cat MyHome.viki 
+#1324711589
+ ll
+#1324711591
+mc
+#1324711601
+ll *.sed
+#1324706169
+su
+#1324711627
+ll shell/
+#1324711654
+ll viki/txt2vikiORlatex2html/
+#1324711670
+ll viki/txt2vikiORlatex2html/*.sed shell/nb/
+#1324711677
+mv viki/txt2vikiORlatex2html/*.sed shell/nb/
+#1324711686
+cd viki/txt2vikiORlatex2html/
+#1324711687
+svns
+#1324711749
+mv  pre_txt2viki.sed txt2viki.sed las_txt2viki.sed ..
+#1324711751
+svns
+#1324711780
+cdl
+#1324711782
+cd shell/
+#1324711790
+mv *.sed ../viki/
+#1324711815
+mv las_txt2viki.sed viki-las_txt2viki.sed 
+#1324711841
+cd-
+#1324711846
+cdb
+#1324711848
+cd nb
+#1324711849
+svns
+#1324711868
+mv txt2viki.sed  viki-txt2viki.sed 
+#1324711875
+mv pre_txt2viki.sed viki-pre_txt2viki.sed 
+#1324711943
+cdvcl
+#1324711950
+mkdir blog
+#1324711955
+pwdp
+#1324711964
+cd blog/
+#1324711972
+mkdir nb
+#1324711974
+cd nb
+#1324711979
+mkdir nuoerlz
+#1324711981
+cd nuoerlz/
+#1324711982
+,y
+#1324711989
+e
+#1324711991
+wh e
+#1324712023
+rm nuoerlz/
+#1324712025
+rm nuoerlz/ -r
+#1324712038
+mv ~/xiazai/nuoerlz-blog/ .
+#1324712043
+mv nuoerlz-blog/ nuoerlz
+#1324712047
+cd nuoerlz/
+#1324712053
+,y
+#1324712120
+cd txt2vikiORlatex2html/
+#1324712276
+date
+#1324710294
+su
+#1324712303
+cdb
+#1324712314
+cdl
+#1324712323
+cd shell/
+#1324712338
+svn mv viki_make.sh ../viki/viki-make.sh
+#1324712358
+svn mv viki_upload.sh ../viki/viki-upload.sh
+#1324712377
+svn mv viki_update.sh ../viki/viki-update.sh
+#1324712380
+svns
+#1324712394
+cdl
+#1324712399
+cd viki
+#1324712400
+svns
+#1324712395
+svns
+#1324712457
+cdb
+#1324712458
+g
+#1324712511
+svns
+#1324712567
+g ruijie.sh 
+#1324712719
+chx nbviki-make.sh 
+#1324712722
+nbviki-make.sh 
+#1324712741
+nbviki-make.sh  ss
+#1324712745
+nbviki-make.sh  sss s
+#1324712915
+nbviki-make.sh  sss
+#1324713014
+nbviki-make.sh  sss >s
+#1324713017
+rm s
+#1324713104
+yy
+#1324713106
+,y
+#1324713180
+ff index.html 
+#1324714198
+mkdir viki
+#1324714200
+cd viki
+#1324714211
+mkdir nuoerlz
+#1324714214
+cd nuoerlz/
+#1324714216
+,y
+#1324714785
+cdl
+#1324714787
+cd viki/t
+#1324714789
+cd viki/txt2vikiORlatex2html/
+#1324714791
+svns
+#1324714814
+ln -s ../viki-las_txt2viki.sed las_txt2viki.sed 
+#1324714817
+svns
+#1324714845
+ln -s ../viki-pre_txt2viki.sed pre_txt2viki.sed 
+#1324714846
+svns
+#1324714862
+ln -s ../viki-txt2viki.sed txt2viki.sed 
+#1324714864
+ma
+#1324714879
+mc
+#1324714879
+ma
+#1324714896
+ff index.html 
+#1324714903
+ff public_html/note.html 
+#1324714944
+mc
+#1324714987
+svns
+#1324715027
+ma
+#1324715195
+m
+#1324715197
+mc
+#1324715203
+ma
+#1324715704
+mc
+#1324715705
+ma
+#1324715733
+g note.txt
+#1324715738
+ma
+#1324715809
+mc
+#1324715869
+ma
+#1324715961
+ll *.viki
+#1324715985
+mc
+#1324715986
+ma
+#1324716005
+mc
+#1324716031
+ma
+#1324716050
+ll public_html/
+#1324716055
+ls public_html/
+#1324716067
+g public_html/note_code_10.c
+#1324716076
+g public_html/note_code_10.html 
+#1324716182
+mc
+#1324716187
+ma
+#1324722658
+p www.code.google.com
+#1324722668
+vi /etc/resolv.conf
+#1324722677
+p www.baidu.com
+#1324722742
+p www.youku.com
+#1324729043
+ff&
+#1324729047
+ii
+#1324729091
+p www.youku.com
+#1324729106
+p 221.1.217.92
+#1324729144
+p www.youku.com
+#1324729197
+service network restart
+#1324729203
+p www.youku.com
+#1324729211
+p 192.168.1.139
+#1324729214
+p 192.168.1.1
+#1324729224
+p 192.168.1.2
+#1324729227
+p www.youku.com
+#1324729270
+vi /etc/resolv.conf
+#1324729276
+p 8.8.8.8
+#1324729286
+p 211.64.120.2
+#1324729289
+fg
+#1324729312
+p www.youku.com
+#1324729193
+su
+#1324731891
+ex .
+#1324731942
+cdb
+#1324731946
+cd nb
+#1324731948
+cdb
+#1324731950
+cd nb
+#1324731953
+cdl
+#1324731955
+cd vi
+#1324731957
+cd viki/
+#1324731977
+cat README 
+#1324731990
+g nbviki-make.sh 
+#1324732009
+cdl
+#1324732015
+cd viki/txt2vikiORlatex2html/
+#1324732018
+g makefile 
+#1324732028
+ma
+#1324732032
+ff public_html/note.html 
+#1324732037
+keynav 
+#1324732042
+keynav 
+#1324732097
+mc
+#1324732139
+svns
+#1324733064
+ll nbviki-make.sh 
+#1324733072
+nbviki-make.sh note.txt
+#1324733167
+mv makefile makefile.bk
+#1324733172
+mc
+#1324733210
+nbviki-make.sh note.txt
+#1324733220
+mc
+#1324733226
+mca
+#1324733241
+nbviki-make.sh note.txt
+#1324733277
+ma
+#1324733336
+nbviki-make.sh note.txt
+#1324733394
+ma
+#1324733418
+nbviki-make.sh note.txt
+#1324733422
+ma
+#1324733448
+cdvcl
+#1324733454
+cd blog/viki/nuoerlz/public_html/
+#1324733458
+ff note.html 
+#1324733480
+mc
+#1324733488
+mca
+#1324733495
+ma
+#1324733497
+mc
+#1324733501
+nbviki-make.sh note.txt
+#1324733504
+mc
+#1324733505
+ma
+#1324733529
+ll public_html/
+#1324733592
+mca
+#1324733605
+mkdir test/t/t -p
+#1324733611
+cp note.txt test/t/t/
+#1324733617
+nbviki-make.sh test/t/t/note.txt 
+#1324733650
+ma
+#1324733686
+ff note.html 
+#1324733691
+ff public_html/note.html 
+#1324733728
+vi test/t/t/note.txt 
+#1324733731
+ma
+#1324733908
+rm viki_txt2viki.o.tmp 
+#1324733909
+ma
+#1324735560
+mll
+#1324735561
+ff public_html/note.html 
+#1324735661
+g nb-viki.list
+#1324735671
+cdvcrt
+#1324735677
+cdvcrtbo
+#1324735679
+cd grath/
+#1324735680
+cd opengl/
+#1324735683
+cd note/
+#1324735956
+cp note.txt ~
+#1324735968
+cp note.txt /home/scr/
+#1324735977
+mv ~/note.txt .
+#1324735996
+mv note.txt 22-记录.txt
+#1324735997
+,y
+#1324736022
+nbviki-make.sh 22-记录.txt 
+#1324736025
+ma
+#1324736035
+rm Makefile 
+#1324736044
+nbviki-make.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt
+#1324736062
+ma
+#1324736086
+cd viki/nuoerlz/public_html/
+#1324736090
+ff 22-记录.html 
+#1324736336
+nbviki-make.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt
+#1324736347
+mc
+#1324736366
+mca
+#1324736395
+nbviki-make.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt
+#1324736410
+mc
+#1324736415
+ma
+#1324736440
+mca
+#1324736446
+nbviki-make.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt
+#1324736454
+,y
+#1324736459
+crontab -e
+#1324736470
+crontab -e
+#1324736491
+fg
+#1324736588
+ll public_html/
+#1324736598
+ff public_html/22-记录.html 
+#1324736620
+g do_with_vim.sh 
+#1324736649
+cd,y
+#1324736651
+make
+#1324736652
+mc
+#1324736658
+make
+#1324736662
+mca
+#1324736664
+nbviki-make.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt
+#1324736666
+ma
+#1324736672
+cat Makefile 
+#1324736674
+mc
+#1324736684
+ma
+#1324736689
+mca
+#1324736694
+mca
+#1324736704
+nbviki-make.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt
+#1324736705
+ma
+#1324736754
+mca
+#1324736759
+nbviki-make.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt
+#1324736760
+mc
+#1324736765
+mca
+#1324736765
+mc
+#1324736767
+mca
+#1324736768
+nbviki-make.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt
+#1324736771
+ma
+#1324736803
+fg
+#1324736816
+crontab -e
+#1324736481
+vi /etc/crontab 
+#1324736833
+crontab -e
+#1324736863
+mc
+#1324736864
+mca
+#1324736949
+cat make.log 
+#1324736954
+nbviki-make.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt
+#1324737000
+cat make.log 
+#1324737036
+vi make.log 
+#1324737063
+cdl
+#1324737066
+cd viki/
+#1324737069
+cd hello/
+#1324737074
+g README 
+#1324737123
+locate viki_index.html
+#1324737131
+ff /home/scr/bk/computor.git2/tools/editor/vim/viki/edyfox.codecarver.org/html/viki_index.html
+#1324737225
+wh gvim
+#1324737237
+crontab -e
+#1324737252
+vbs
+#1324737299
+mc
+#1324737314
+vi make.log 
+#1324737326
+g make.log 
+#1324737348
+ll public_html/
+#1324737351
+ff public_html/22-记录.html 
+#1324737359
+pg make
+#1324737418
+pg make
+#1324737432
+fg
+#1324737440
+pg make
+#1324737461
+kill 5456
+#1324737467
+pg make
+#1324737473
+mc
+#1324737480
+ll nuoerlz/
+#1324737505
+cd nuoerlz/
+#1324737522
+g do_with_vim.sh 
+#1324737594
+g make.log 
+#1324737669
+ff public_html/22-记录.html 
+#1324737734
+mc
+#1324737751
+cat make.log 
+#1324737858
+echo $DISPLAY
+#1324736644
+xterm 
+#1324738050
+mca
+#1324738244
+,y
+#1324738265
+g nb-viki.list 
+#1324738307
+nbviki-make.sh nb-viki.list 
+#1324739493
+g Makefile 
+#1324739525
+rm Makefile 
+#1324739612
+nbviki-make.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt
+#1324739616
+g Makefile 
+#1324740589
+nbviki-make.sh nb-viki.list 
+#1324740592
+g Makefile 
+#1324740614
+rm Makefile 
+#1324740617
+nbviki-make.sh nb-viki.list 
+#1324740619
+g Makefile 
+#1324740661
+nbviki-make.sh nb-viki.list 
+#1324740683
+ma
+#1324740692
+mc
+#1324740694
+mca
+#1324740700
+nbviki-make.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt
+#1324737393
+crontab -e
+#1324740741
+crontab -e
+#1324740805
+,y
+#1324740844
+mc
+#1324740848
+g Makefile 
+#1324740871
+rm Makefile 
+#1324740880
+nbviki-make.sh /home/scr/.rt/vercol/git/lang/blog/nb-viki.list
+#1324740886
+ma
+#1324740944
+cd viki/nuoerlz/public_html/
+#1324740948
+ff 22-记录.html 
+#1324740955
+ff note.txt.bk.html 
+#1324741001
+llll
+#1324741051
+nbviki-make.sh /home/scr/.rt/vercol/git/lang/blog/nb-viki.list
+#1324741054
+g Makefile 
+#1324741313
+,y
+#1324741317
+cd,y
+#1324741318
+.
+#1324741332
+,y
+#1324741440
+g makefile 
+#1324741443
+g Makefile 
+#1324741587
+nbviki-make.sh /home/scr/.rt/vercol/git/lang/blog/nb-viki.list
+#1324741589
+g Makefile 
+#1324741712
+nbviki-make.sh /home/scr/.rt/vercol/git/lang/blog/nb-viki.list
+#1324741819
+mc
+#1324741828
+mca
+#1324741830
+nbviki-make.sh /home/scr/.rt/vercol/git/lang/blog/nb-viki.list
+#1324741831
+ma
+#1324741892
+cd public_html/
+#1324741895
+ff note.txt.bk.html 
+#1324741912
+ff 22-记录.html 
+#1324742044
+ma
+#1324742047
+mc
+#1324742048
+ma
+#1324742114
+ll public_html/
+#1324742133
+g nb*
+#1324780193
+gvnt
+#1324780196
+gvht
+#1324780877
+nbviki-make.sh /home/scr/.rt/vercol/git/lang/blog/nb-viki.list
+#1324780879
+g Makefile 
+#1324780883
+ma
+#1324780974
+cd nb
+#1324780976
+cd nuoerlz/
+#1324781000
+nb --help
+#1324781114
+ll articles/
+#1324781119
+ll cache/
+#1324781147
+cdvcrtbot
+#1324781150
+cd nb
+#1324781154
+cd blog/nb/
+#1324781158
+g nb.notes.txt 
+#1324781319
+nb --help
+#1324781392
+nb edit note
+#1324781409
+nb edit NOTE
+#1324781428
+nb list
+#1324781436
+nb edit 1
+#1324781487
+nb edit entry NOTES
+#1324781494
+nb edit entry 1
+#1324781527
+nb list
+#1324781538
+ll data/
+#1324781541
+ls data/
+#1324781560
+gits.
+#1324781579
+git commit -a -m 'save'
+#1324781581
+gits.
+#1324732026
+su
+#1324781735
+cp note.txt ~
+#1324781740
+cd
+#1324781745
+g note.txt
+#1324781772
+mv note.txt test-opengl.txt
+#1324781802
+nb-html2nblog.sh ~/test-opengl.txt 
+#1324781838
+diff test-opengl.txt*
+#1324781883
+nb import entry ~/test-opengl.txt.nb.html 
+#1324781900
+g test-opengl.txt.nb.html 
+#1324781945
+rm test-opengl.txt.nb.html 
+#1324781968
+g test-opengl.txt 
+#1324781999
+nb-txt2nblog.sh ~/test-opengl.txt 
+#1324782023
+gits.
+#1324782031
+g nb_edit-entry-2011-12-25T11_00_00.txt 
+#1324782034
+rm nb_edit-entry-2011-12-25T11_00_00.txt 
+#1324782151
+gits.
+#1324782206
+nb-txt2nblog.sh ~/test-opengl.txt 
+#1324782226
+rm test-opengl.txt.*
+#1324782229
+gits.
+#1324782231
+nb-txt2nblog.sh ~/test-opengl.txt 
+#1324782456
+lll
+#1324782495
+rm test-opengl.txt.*
+#1324782635
+ma
+#1324782641
+,y
+#1324782645
+cd,y
+#1324782646
+...
+#1324782651
+cd viki/nuoerlz/
+#1324782656
+ll public_html/
+#1324782693
+g Makefile 
+#1324782770
+nbviki-make.sh /home/scr/.rt/vercol/git/lang/blog/nb-viki.list
+#1324782803
+g Makefile 
+#1324782845
+nbviki-make.sh /home/scr/.rt/vercol/git/lang/blog/nb-viki.list
+#1324782905
+mc
+#1324782913
+ff public_html/22-记录.html 
+#1324782973
+ma
+#1324782976
+a
+#1324782977
+ma
+#1324783053
+g Makefile 
+#1324783259
+g public_html/22-记录.html 
+#1324783668
+chx nb-html2nbmeta.sh 
+#1324783679
+,y
+#1324783726
+ma
+#1324783755
+mc
+#1324783757
+ma
+#1324783766
+cd public_html/
+#1324783774
+diff 22-记录.*
+#1324783781
+diff note.txt.bk.
+#1324783783
+diff note.txt.bk.*
+#1324783794
+,y
+#1324783817
+gits.
+#1324783822
+gits.
+#1324783835
+nb import entry /home/scr/.rt/vercol/git/lang/blog/viki/nuoerlz/public_html/note.txt.bk.nb.html
+#1324783938
+ll styles/
+#1324783982
+gits.
+#1324783995
+diff data/2011-12-25T11_30_35.txt /home/scr/.rt/vercol/git/lang/blog/viki/nuoerlz/public_html/note.txt.bk.nb.html
+#1324784040
+nb update entry
+#1324784064
+gits.
+#1324784067
+diff data/2011-12-25T11_30_35.txt /home/scr/.rt/vercol/git/lang/blog/viki/nuoerlz/public_html/note.txt.bk.nb.html
+#1324784124
+cp -f /home/scr/.rt/vercol/git/lang/blog/viki/nuoerlz/public_html/note.txt.bk.nb.html data/2011-12-25T11_30_35.txt 
+#1324784126
+diff data/2011-12-25T11_30_35.txt /home/scr/.rt/vercol/git/lang/blog/viki/nuoerlz/public_html/note.txt.bk.nb.html
+#1324784141
+nb update entry
+#1324784172
+gits.
+#1324784189
+rm -rf *
+#1324784191
+gits.
+#1324784198
+git checkout HEAD .
+#1324784200
+gits.
+#1324784205
+cp -f /home/scr/.rt/vercol/git/lang/blog/viki/nuoerlz/public_html/note.txt.bk.nb.html data/2011-12-25T11_30_35.txt 
+#1324784242
+nb update entry
+#1324784268
+gits.
+#1324784315
+nb update 
+#1324784684
+gits.
+#1324784821
+ls data/
+#1324784829
+rm -rf *
+#1324784832
+git checkout HEAD .
+#1324784833
+gits.
+#1324784836
+cp -f /home/scr/.rt/vercol/git/lang/blog/viki/nuoerlz/public_html/note.txt.bk.nb.html data/2011-12-25T11_30_35.txt 
+#1324784837
+gits.
+#1324784859
+nb --force update all
+#1324786409
+gits.
+#1324786460
+rm -rf *
+#1324786463
+git checkout HEAD .
+#1324786471
+cp -f /home/scr/.rt/vercol/git/lang/blog/viki/nuoerlz/public_html/note.txt.bk.nb.html data/2011-12-25T11_30_35.txt 
+#1324786474
+gits.
+#1324786596
+nb --force update articles/
+#1324786600
+nb --force update articles
+#1324786647
+gits.
+#1324786676
+rm -rf *
+#1324786678
+git checkout HEAD .
+#1324786687
+nb --force update archives
+#1324786710
+gits.
+#1324786716
+cp -f /home/scr/.rt/vercol/git/lang/blog/viki/nuoerlz/public_html/note.txt.bk.nb.html data/2011-12-25T11_30_35.txt 
+#1324786719
+gits.
+#1324786721
+nb --force update archives
+#1324786744
+gits.
+#1324786749
+nb --force update data
+#1324786772
+gits.
+#1324786778
+nb --force update DATE
+#1324786802
+nb --force update max
+#1324786870
+gits.
+#1324796285
+e nb --force update all
+#1324796319
+rm -rf *
+#1324796322
+git checkout HEAD .
+#1324796326
+cp -f /home/scr/.rt/vercol/git/lang/blog/viki/nuoerlz/public_html/note.txt.bk.nb.html data/2011-12-25T11_30_35.txt 
+#1324796328
+gits.
+#1324796573
+ff 22-记录.nb.html 
+#1324796342
+echo "y" | nb --force update all
+#1324796780
+gits.
+#1324796797
+git commit -a -m 'save'
+#1324796799
+gits.
+#1324796810
+git add *
+#1324796811
+gits.
+#1324796813
+git commit -a -m 'save'
+#1324796815
+gits.
+#1324796837
+date; echo "y" | nb --force update all; date
+#1324796958
+,y
+#1324796963
+cd,y
+#1324796968
+ls data
+#1324796973
+,y
+#1324797042
+ff data/2011-12-25T11_30_35.txt 
+#1324796959
+fg
+#1324797287
+gits
+#1324797289
+gits.
+#1324797308
+rm -rf *
+#1324797315
+git checkout HEAD .
+#1324797317
+gits.
+#1324797363
+pb nb
+#1324797365
+pg nb
+#1324797382
+t
+#1324797421
+ls data
+#1324797446
+date "+%Y-%m-%d %H:%M:%S"
+#1324797454
+date "+%Y-%m-%dT%H:%M:%S"
+#1324797468
+date "+%Y-%m-%dT_H_%M_%S"
+#1324797476
+date "+%Y-%m-%dT_%H_%M_%S"
+#1324797549
+date "+%Y-%m-%dT%H_%M_%S"
+#1324797582
+nb list
+#1324797323
+date; echo "y" | nb --force update all; date
+#1324797781
+gits.
+#1324797789
+nb list
+#1324797821
+ls data
+#1324797860
+head data/2011-12-25T11_30_35.txt 
+#1324797883
+git add .
+#1324797884
+gits.
+#1324797887
+git commit -a -m 'save'
+#1324797889
+gits.
+#1324797892
+ls data/
+#1324797920
+cp -f /home/scr/.rt/vercol/git/lang/blog/viki/nuoerlz/public_html/note.txt.bk.nb.html data/2011-12-25T12_05_55.txt 
+#1324797923
+gits.
+#1324797938
+nb list
+#1324797953
+head data/2011-12-25T12_05_55.txt 
+#1324797958
+date; echo "y" | nb --force update all; date
+#1324798329
+gits.
+#1324798397
+nb list
+#1324798417
+gits.
+#1324798442
+g archives/2011/12/25/notes_1/
+#1324798470
+g archives/2011/12/25/notes/index.html
+#1324798486
+g archives/2011/12/index.html
+#1324798681
+g nb
+#1324798892
+fifw BASE_URL
+#1324799269
+g styles/
+#1324799279
+ll templates/
+#1324799300
+g templates/makepage.htm 
+#1324799349
+g archives/2011/12/index.html
+#1324799389
+gits.
+#1324799397
+g archives/2011/12/25/notes/index.html
+#1324799694
+fifw NB_MetaBody
+#1324799716
+fifw NB_MetaBody
+#1324799804
+g ./lib/tools.sh:559:
+#1324799859
+g nb
+#1324799993
+fifw query_db
+#1324800040
+ls data/
+#1324800055
+g data/cat_16.db 
+#1324800145
+nb list tag
+#1324800335
+gits.
+#1324800434
+find archives/
+#1324800442
+find -type f archives/
+#1324800450
+find -type f  archives/
+#1324800459
+find archives/ -type f  
+#1324800477
+find archives/ -type f  | sort | less
+#1324800492
+g archives/3d/index.html
+#1324800517
+fg
+#1324800539
+g archives/2011/12/index.html
+#1324800544
+fg
+#1324800606
+gits.
+#1324800617
+gitlo.
+#1324800625
+rm -rf *
+#1324800626
+gits.
+#1324800629
+gitlo.
+#1324800638
+git checkout dc47 .
+#1324800652
+git checkout fd32 .
+#1324800654
+gits.
+#1324800663
+rm -rf *
+#1324800665
+git checkout fd32 .
+#1324800667
+gits.
+#1324800708
+git checkout HEAD .
+#1324800710
+git.
+#1324800711
+gits.
+#1324800716
+rm -rf *
+#1324800717
+gits.
+#1324800722
+git checkout HEAD .
+#1324800723
+gits.
+#1324800726
+rm -rf *
+#1324800729
+git checkout HEAD .
+#1324800730
+gits.
+#1324800747
+git checkout fd32 archives/
+#1324800748
+gits.
+#1324800812
+,y
+#1324801079
+date; echo "y" | nb --force update all; date
+#1324801085
+date "+%Y-%m-%dT%H_%M_%S"
+#1324801192
+,y
+#1324801194
+ls data/
+#1324801479
+ma
+#1324801619
+rm *_code_*
+#1324801633
+mc
+#1324801716
+cd data/
+#1324801730
+ff 2011-12-25T16_18_05.txt 
+#1324801761
+mv 2011-12-25T16_18_05.txt 2011-12-25T16_18_05.txt.html
+#1324801779
+mv 2011-12-25T16_18_23.txt 2011-12-25T16_18_23.txt.html
+#1324801786
+ff *.html
+#1324801817
+cp ../styles/moon.css ../styles/bright.css .
+#1324801854
+ff 2011-12-25T16_18_05.txt.html 
+#1324801956
+ma
+#1324801960
+mc
+#1324801964
+ma
+#1324802045
+mca
+#1324802055
+ma
+#1324802297
+mc
+#1324802299
+rm *_code_*
+#1324802322
+ff 2011-12-25T16_18_23.txt.html 
+#1324802333
+mca
+#1324802371
+ma
+#1324802450
+ff 2011-12-25T16_18_05.txt.html 
+#1324802481
+gits.
+#1324802972
+echo "/home/scr/.rt/lang/viki/txt2vikiORlatex2html/note.txt.bk.txt" 2011-12-25T16_123.txt"
+#1324803014
+cat nb-viki.list 
+#1324803042
+cat nb-viki.list | awk -F\t '{ print $1 }'
+#1324803054
+cat nb-viki.list | awk -F '{ print $1 }'
+#1324803062
+cat nb-viki.list | awk -F	 '{ print $1 }'
+#1324803105
+cat nb-viki.list | awk -F`echo -e "\t"` '{ print $1 }'
+#1324803112
+cat nb-viki.list | awk -F `echo -e "\t"` '{ print $1 }'
+#1324803116
+cat nb-viki.list | awk -F`echo -e "\t"` '{ print $1 }'
+#1324803124
+F`echo -e "\t"` 
+#1324803127
+`echo -e "\t"` 
+#1324803132
+echo -e "\t" 
+#1324803136
+echo -e "\t" > out
+#1324803137
+g out 
+#1324803151
+cat nb-viki.list | awk -F`echo -e "\t"` '{ print $1 }'
+#1324803187
+cat nb-viki.list | awk '{ print $1 }'
+#1324803192
+cat nb-viki.list | awk '{ print $2 }'
+#1324803719
+nbviki-make.sh /home/scr/.rt/vercol/git/lang/blog/nb-viki.list
+#1324803729
+dff Makefile*
+#1324803733
+diff Makefile*
+#1324803742
+g Makefile
+#1324803825
+nbviki-make.sh /home/scr/.rt/vercol/git/lang/blog/nb-viki.list
+#1324803843
+diff Makefile*
+#1324803930
+nbviki-make.sh /home/scr/.rt/vercol/git/lang/blog/nb-viki.list
+#1324803940
+diff Makefile*
+#1324804131
+chx nbviki-update.sh 
+#1324804155
+gits.
+#1324804402
+git status data
+#1324804417
+rm data/*.css
+#1324804419
+git status data
+#1324804422
+mca
+#1324804436
+mca -f Makefile.bk 
+#1324804451
+rm data/*.html
+#1324804457
+git status data
+#1324804482
+e git status data
+#1324804532
+git status data | grep "(working directory clean)"
+#1324804567
+nbviki-update.sh 
+#1324804585
+ls /tmp/nbviki_tmp_workdir/
+#1324804596
+nbviki-update.sh 
+#1324804615
+vrc
+#1324804776
+mc
+#1324804792
+gits.
+#1324804803
+4ll
+#1324804806
+cd nb/nuoerlz/
+#1324804808
+rm -rf *
+#1324804810
+git checkout HEAD .
+#1324804813
+gits.
+#1324804815
+ls data/
+#1324804842
+gits.
+#1324804858
+rm -rf *
+#1324804859
+gits.
+#1324804865
+git checkout HEAD .
+#1324804867
+gits.
+#1324804878
+git data/
+#1324804883
+gits. data/
+#1324804892
+gits data/
+#1324804901
+git add *
+#1324804902
+gits
+#1324804904
+git commit -a -m 'save'
+#1324804906
+gits.
+#1324804972
+nbviki-update.sh 
+#1324805769
+git data/
+#1324805773
+gits data/
+#1324805839
+g ..
+#1324805848
+g ..
+#1324805917
+find archives archives -type f 
+#1324805924
+find archives archives -type f | less
+#1324805931
+fg
+#1324805941
+find archives articles/ -type f | less
+#1324806407
+ls articles/
+#1324806414
+ls articles/2/index.html 
+#1324806427
+find archives articles/ -type f -name '*.html' | less
+#1324806448
+find archives/2011/ articles/ -type f -name '*.html' | less
+#1324806459
+g archives/2011/index.html
+#1324806575
+fg
+#1324806631
+find archives/2011/ archives/2012/articles/ -type f -name '*.html'
+#1324806651
+find archives/2011/ archives/2012/ articles/ -type f -name '*.html'
+#1324806660
+find archives/2011/ archives/2012/ articles/ -type f -name '*.html' > out
+#1324806761
+g nb-las_2nblog.sh 
+#1324806927
+find archives/2011/ archives/2012/ articles/ -type f -name '*.html' 
+#1324806936
+find archives/2011/ archives/2012/ articles/ -type f -name '*.html' 2>/dev/null
+#1324807347
+nbviki-update.sh 
+#1324807379
+chx nb-nblog3css.sh 
+#1324807385
+nbviki-update.sh 
+#1324807408
+ll styles/
+#1324807458
+g nbviki.log 
+#1324807794
+gits.
+#1324807824
+git help commit
+#1324807845
+gitsl
+#1324807884
+gits.
+#1324807886
+gitlo.
+#1324807888
+qll
+#1324807895
+ds archives/
+#1324807902
+ds .git
+#1324807961
+mkdir test
+#1324807989
+cp archives/ articles/ atom.xml  images/ index.html  rss.xml  styles/ test/ -rf
+#1324807999
+ls parts/
+#1324808004
+ls templates/
+#1324808010
+ff test/index.html 
+#1324808291
+ds te
+#1324808293
+ds test/
+#1324808301
+cd test/
+#1324808304
+ds archives/
+#1324808308
+ds articles/
+#1324808314
+ll archives/
+#1324808321
+cd archives/
+#1324808325
+cd articles/
+#1324808329
+lla
+#1324808332
+ll .svn
+#1324808338
+rm -rf .svn
+#1324808341
+lla
+#1324808351
+ll yum_list.txt 
+#1324808357
+rm -rf yum_list*
+#1324808364
+ds images/
+#1324808368
+ds styles/
+#1324808372
+lla
+#1324808375
+ll archives/
+#1324808379
+ds archives/
+#1324808390
+ll articles/
+#1324808400
+ll archives/
+#1324808407
+ls archives/
+#1324808411
+ls archives/3d
+#1324808656
+find . -name '*.html'
+#1324808674
+ll test/
+#1324808686
+cd test/
+#1324808693
+mv atom.xml atom.xml.bk
+#1324808708
+vi atom.xml.bk 
+#1324808749
+ff index.html 
+#1324808770
+mv atom.xml.bk atom.xml
+#1324808950
+find .
+#1324808959
+find . | grep svn
+#1324808972
+find . | grep svn | xargs rm -f
+#1324808973
+find . | grep svn | xargs rm -fr
+#1324808976
+find . | grep svn
+#1324809036
+find . | wc
+#1324809042
+find . -type f | wc
+#1324809571
+bce 359+89
+#1324809687
+bce 508-448
+#1324811129
+bce 359+89
+#1324811599
+mkdir ftpup
+#1324811775
+cd nuoerlz/
+#1324811904
+ll test
+#1324812345
+chx nbviki-ftpup.sh 
+#1324812355
+g rtlinkisvalid.sh 
+#1324812424
+file=/home/scr/book/TCP-IP_I1/bin/tdtraceroute.sh; echo ${file%/*}
+#1324812435
+file=/home/scr/book/TCP-IP_I1/bin/tdtraceroute.sh; echo ${line##*/}
+#1324812442
+file=/home/scr/book/TCP-IP_I1/bin/tdtraceroute.sh; echo ${file##*/}
+#1324812455
+file=/home/scr/book/TCP-IP_I1/bin/tdtraceroute.sh; echo ${line##*/}
+#1324812457
+file=/home/scr/book/TCP-IP_I1/bin/tdtraceroute.sh; echo ${file##*/}
+#1324812460
+file=/home/scr/book/TCP-IP_I1/bin/tdtraceroute.sh; echo ${file%/*}
+#1324812470
+gvlc
+#1324812501
+str
+#1324812568
+cdvcrc
+#1324812569
+gits.
+#1324812575
+cdvcrt
+#1324812576
+gits.
+#1324812591
+gitdl
+#1324812601
+cdb
+#1324812903
+cd ftpup/
+#1324812911
+nbviki-ftpup.sh 
+#1324812927
+g Makefile 
+#1324813056
+nbviki-ftpup.sh 
+#1324813059
+g Makefile 
+#1324813077
+nbviki-ftpup.sh 
+#1324813078
+g Makefile 
+#1324813123
+ma
+#1324813199
+nbviki-ftpup.sh 
+#1324813330
+mca
+#1324813341
+kill 606
+#1324813413
+kill -9 606
+#1324813449
+nbviki-ftpup.sh 
+#1324813572
+ma
+#1324813616
+nbviki-ftpup.sh 
+#1324813621
+ma
+#1324813693
+nbviki-ftpup.sh 
+#1324813694
+ma
+#1324813708
+ll index.html/
+#1324813711
+ll archives/
+#1324813714
+ls archives/
+#1324813718
+ma
+#1324813903
+nbviki-ftpup.sh 
+#1324813910
+ma
+#1324813916
+mca
+#1324813923
+mc
+#1324813925
+mca
+#1324813941
+ma
+#1324813959
+ll index.html/
+#1324814045
+nbviki-ftpup.sh 
+#1324814058
+ma
+#1324814067
+mca
+#1324814070
+nbviki-ftpup.sh 
+#1324814072
+ma
+#1324814170
+nbviki-ftpup.sh 
+#1324814176
+ma
+#1324814185
+ll articles/
+#1324814189
+ll archives/
+#1324814192
+ls 
+#1324814195
+ff index.html 
+#1324814255
+ll images/
+#1324814259
+ll styles/
+#1324814331
+ll test/
+#1324814342
+ma
+#1324814343
+mca
+#1324814377
+ll ..
+#1324814382
+nbviki-ftpup.sh 
+#1324814385
+ma
+#1324814390
+ff index.html 
+#1324814445
+ma
+#1324814447
+mc
+#1324814503
+nbviki-ftpup.sh 
+#1324814521
+mca
+#1324814523
+nbviki-ftpup.sh 
+#1324814524
+ma
+#1324814544
+g rss.xml 
+#1324814785
+g Makefile 
+#1324814858
+nbviki-ftpup.sh 
+#1324814887
+ma
+#1324814890
+mca
+#1324814891
+nbviki-ftpup.sh 
+#1324814892
+ma
+#1324814907
+chx nb-ftp_updown_onefile.sh 
+#1324814910
+mca
+#1324814912
+nbviki-ftpup.sh 
+#1324814913
+ma
+#1324814942
+jj
+#1324814994
+kill -9 2275
+#1324814995
+mca
+#1324815014
+nbviki-ftpup.sh 
+#1324815015
+ma
+#1324815167
+fg
+#1324815181
+kill -9 2443
+#1324815193
+p 221.1.217.92
+#1324815205
+mca
+#1324815206
+nbviki-ftpup.sh 
+#1324815210
+ma
+#1324815476
+fg
+#1324815487
+kill -9 2665
+#1324815492
+mca
+#1324815499
+nbviki-ftpup.sh 
+#1324815500
+ma
+#1324815673
+kill -9 3357
+#1324815687
+mca
+#1324818727
+mv nuoerlz/ nuoerlz.bak
+#1324818755
+g nb.notes.txt 
+#1324818789
+nb ll
+#1324818796
+mv nuoerlz.bak/  nuoerlz
+#1324818797
+cd nuoerlz/
+#1324818803
+date
+#1324818841
+nb list
+#1324819155
+echo "y" | nb --tag 3,12,13,29 tag-entry 1,2,3
+#1324819213
+chown scr:scr *
+#1324819209
+su
+#1324819220
+nb list
+#1324819227
+ff index.html 
+#1324819288
+echo "y" | nb --tag 3,12,13,29 tag-entry 1,2,3
+#1324819328
+ll  parts/cal.html 
+#1324819336
+fg
+#1324819345
+chown -R scr:scr *
+#1324819340
+su
+#1324819348
+echo "y" | nb --tag 3,12,13,29 tag-entry 1,2,3
+#1324819449
+nb list tag
+#1324819456
+nb list tag | grep svn
+#1324819472
+fg
+#1324819628
+nb list tag | grep svn
+#1324819631
+nb list tag 
+#1324819634
+e nb list tag 
+#1324819684
+nb list
+#1324819732
+gits.
+#1324819939
+nb list
+#1324820030
+ls data/
+#1324820038
+cat data/cat_14.db 
+#1324820070
+nb list
+#1324820079
+git add *
+#1324820097
+ds data/
+#1324820104
+ds cache/
+#1324820110
+ds .git
+#1324820119
+rm -rf te
+#1324820121
+rm -rf test/
+#1324820125
+ds ar*
+#1324820129
+ds images/
+#1324820133
+ds plugins/
+#1324820138
+gits.
+#1324820143
+git commit -a -m 'save'
+#1324820157
+cd .git
+#1324820165
+ll objects/
+#1324820166
+ls objects/
+#1324820169
+ll objects/
+#1324820173
+su
+#1324820184
+chown -R scr:scr *
+#1324820191
+git commit -a -m 'save'
+#1324820195
+gits.
+#1324820200
+nb list
+#1324820237
+echo "y" | nb --tag 31,32 tag-entry 4,5
+#1324820384
+gits.
+#1324820404
+g data/master.db 
+#1324820489
+git add *
+#1324820490
+gits.
+#1324820508
+git commit -a -m 'add tag to entyr'
+#1324820511
+gits.
+#1324820520
+nb update
+#1324820793
+gits.
+#1324820800
+rm -rf *
+#1324820802
+git checkout HEAD .
+#1324820803
+gits.
+#1324820809
+cd data/
+#1324820836
+cp 2011-12-25T18_18_23.txt 2011-12-25T21_12_09.txt 
+#1324820838
+gits.
+#1324820843
+g 2011-12-25T21_12_09.txt 
+#1324820865
+g master.db 
+#1324820928
+gits.
+#1324820936
+echo "y" | nb --force update all
+#1324820943
+gits.
+#1324820948
+git add *
+#1324820950
+gits.
+#1324820976
+git commit -a -m 'add new entry, and modify master.db'
+#1324820982
+echo "y" | nb --force update all
+#1324821446
+gits.
+#1324821464
+nb list
+#1324821529
+rm -rf *
+#1324821532
+git commit -a -m 'add new entry, and modify master.db'
+#1324821539
+gits.
+#1324821543
+git checkout HEAD .
+#1324821544
+gits.
+#1324821550
+git checkout HEAD^1 .
+#1324821552
+gitsl
+#1324821558
+gitlo.
+#1324821568
+git commit -a -m 'add new entry, and modify master.db'
+#1324821569
+gits.
+#1324821572
+gitlo.
+#1324821590
+gitd 1d5f ad61
+#1324821596
+gitlo.
+#1324821606
+cd data/
+#1324821609
+gitlo.
+#1324821616
+gitls.
+#1324821644
+gits.
+#1324821645
+cd data/
+#1324821647
+g master.db 
+#1324821670
+cp 2011-12-25T21_12_09.txt 2011-12-25T22_13_09.txt 
+#1324821772
+g 2011-12-25T22_13_09.txt 
+#1324821788
+gits.
+#1324821792
+git add *
+#1324821793
+gits.
+#1324821799
+git commit -a -m 'flag
+'
+#1324821802
+gitsl
+#1324821805
+gits
+#1324821816
+date; echo "y" | nb --force update all; date
+#1324822452
+nb list
+#1324822485
+gits.
+#1324822494
+cd data/
+#1324822505
+g master.db 
+#1324822555
+nbviki-make.sh 
+#1324822561
+nbviki-make.sh /home/scr/.rt/vercol/git/lang/blog/nb-viki.list
+#1324822563
+g Makefile
+#1324822628
+cd data/
+#1324822633
+fifw Tags
+#1324822650
+g ./2011-12-22T23_25_26.txt:17:
+#1324823165
+basename cat_22.db 
+#1324823203
+nb list tag
+#1324823319
+head -2 /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt
+#1324823326
+head -2 /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt | tail -1
+#1324823341
+head -2 /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt | tail -1 | sed 's/Tags: '//
+#1324823429
+head -2 /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt | tail -1 | sed 's/^[ ]*Tags: //'
+#1324823512
+nb list tag
+#1324823522
+nb list tag | grep -w opengl
+#1324823616
+head -2 /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt | tail -1 | sed 's/^[ ]*Tags: //'
+#1324823622
+nb list tag | grep -w c
+#1324823724
+chx nb-patch_tag.sh 
+#1324823730
+nb-patch_tag.sh 
+#1324823765
+nb-patch_tag.sh 2 j
+#1324823983
+gvlc
+#1324824037
+ffbs
+#1324824684
+nb-patch_tag.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt $(TARGET_DIR)/2011-12-25T17_105.txt
+#1324824728
+nb-patch_tag.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt /home/scr/.rt/vercol/git/lang/blog/nb/nuoerlz/data/2011-12-25T17_105.txt
+#1324825195
+nb list tag | grep -w c
+#1324825198
+nb list tag 
+#1324825212
+nb-patch_tag.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt /home/scr/.rt/vercol/git/lang/blog/nb/nuoerlz/data/2011-12-25T17_105.txt
+#1324825428
+ls data/
+#1324825433
+ll data/
+#1324825441
+cat data/master.db 
+#1324825524
+nb-patch_tag.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt /home/scr/.rt/vercol/git/lang/blog/nb/nuoerlz/data/2011-12-25T17_105.txt
+#1324825529
+cat data/master.db 
+#1324825569
+nb-patch_tag.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt /home/scr/.rt/vercol/git/lang/blog/nb/nuoerlz/data/2011-12-25T17_105.txt
+#1324825666
+cat data/master.db 
+#1324825669
+nb-patch_tag.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt /home/scr/.rt/vercol/git/lang/blog/nb/nuoerlz/data/2011-12-25T17_105.txt
+#1324825673
+cat data/master.db 
+#1324825744
+gits.
+#1324825746
+cat data/master.db 
+#1324825753
+nb-patch_tag.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt /home/scr/.rt/vercol/git/lang/blog/nb/nuoerlz/data/2011-12-25T17_105.txt
+#1324825782
+nb-patch_tag.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt /home/scr/.rt/vercol/git/lang/blog/nb/nuoerlz/data/2011-12-25T17_17_05.txt
+#1324825787
+cat data/master.db 
+#1324825832
+ll data/
+#1324825982
+rm -rf *
+#1324825987
+git checkout HEAD^1 .
+#1324825993
+rm -rf *
+#1324825997
+git checkout HEAD .
+#1324826001
+git.
+#1324826003
+gits.
+#1324826057
+ls date
+#1324826059
+ls data
+#1324826061
+ll data/
+#1324826091
+nb-patch_tag.sh /home/scr/.rt-notes/linux/computor/grath/opengl/note/22-记录.txt /home/scr/.rt/vercol/git/lang/blog/nb/nuoerlz/data/2011-12-25T17_17_05.txt
+#1324826095
+gits.
+#1324826108
+g data/cat_1.db 
+#1324782633
+su
+#1324826286
+rm Makefile
+#1324826303
+su
+#1324826332
+nbviki-make.sh /home/scr/.rt/vercol/git/lang/blog/nb-viki.list
+#1324826335
+g Makefile
+#1324826378
+nbviki-make.sh /home/scr/.rt/vercol/git/lang/blog/nb-viki.list
+#1324826574
+gits.
+#1324826578
+rm -rf *
+#1324826582
+git checkout HEAD .
+#1324826585
+gits.
+#1324826675
+ll nbviki.log 
+#1324826676
+cat nbviki.log 
+#1324826702
+cd nuoerlz/
+#1324826721
+gits.
+#1324826765
+g nbviki.log 
+#1324826844
+gits.
+#1324826864
+g nbviki.log 
+#1324826894
+locate deplateGvim.html
+#1324827240
+g nbviki.log 
+#1324826681
+nbviki-update.sh 
+#1324827326
+gits.
+#1324827330
+ff index.html 
+#1324827416
+nb list 
+#1324827425
+g data/master.db 
+#1324827534
+svns
+#1324827547
+cdl
+#1324827557
+cd books/c/opengl/opengl-red/
+#1324827558
+mc
+#1324827561
+svns
+#1324827570
+cd opengl-blue/
+#1324827581
+cdl
+#1324827582
+svns
+#1324827612
+svn add nbviki-*
+#1324827612
+svns
+#1324827648
+svnd nb/nb-ftp_updown.sh 
+#1324827656
+g nb/nb-ftp_updown.sh 
+#1324827674
+svnd nb/nb-ftp_updown.sh 
+#1324827677
+svns
+#1324729336
+mutt
+#1324729333
+screen
+#1324731936
+screen
+#1324902299
+reboot
+#1324902448
+cdb
+#1324902450
+cdnb
+#1324902452
+cd nb
+#1324902460
+ff&
+#1324902464
+ex .
+#1324902591
+g nb*
+#1324902606
+cdb
+#1324902611
+g nbviki-*
+#1324902719
+svns
+#1324902902
+cdvcl
+#1324902904
+cd blog/
+#1324902908
+cd nb
+#1324902910
+cd ftpup/
+#1324902921
+nbviki-ftpup-make.sh 
+#1324902924
+g Makefile 
+#1324903728
+nbviki-ftpup-make.sh 
+#1324903743
+ma
+#1324903779
+nbviki-ftpup-make.sh 
+#1324903804
+ma
+#1324903806
+mca
+#1324903808
+ma
+#1324903811
+nbviki-ftpup-make.sh 
+#1324903812
+ma
+#1324904153
+nbviki-ftpup-make.sh 
+#1324904193
+nbviki-ftpup-make.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324904205
+ll /tmp/nbviki_ftp_23432.24t.tmp
+#1324904207
+ma
+#1324904208
+mca
+#1324904210
+nbviki-ftpup-make.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324904211
+ma
+#1324904214
+ll /tmp/nbviki_ftp_23432.24t.tmp
+#1324904217
+v /tmp/nbviki_ftp_23432.24t.tmp
+#1324904278
+g Makefile 
+#1324904353
+nbviki-ftpup-make.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324904363
+mca
+#1324904368
+nbviki-ftpup-make.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324904370
+ma
+#1324904376
+v /tmp/nbviki_ftp_23432.24t.tmp
+#1324904380
+mca
+#1324904759
+chx nb-*
+#1324904768
+g nb-format.template 
+#1324904777
+chxx nb-format.template 
+#1324904821
+nb-ftp_upload_from_list.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324905007
+nb-ftp_upload_from_list.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324905225
+nbviki-ftpup-make.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324905228
+ma
+#1324905234
+nb-ftp_upload_from_list.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324905808
+ma
+#1324905815
+nbviki-ftpup-make.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324905818
+v /tmp/nbviki_ftp_23432.24t.tmp
+#1324905821
+mca
+#1324905824
+nbviki-ftpup-make.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324905825
+v /tmp/nbviki_ftp_23432.24t.tmp
+#1324905829
+ma
+#1324905831
+v /tmp/nbviki_ftp_23432.24t.tmp
+#1324905844
+cdvcl
+#1324905852
+cd blog/nb/ftpup/
+#1324905867
+g ftp_upload_out.log 
+#1324905838
+nb-ftp_upload_from_list.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324906231
+date "+%Y-%m-%dT%H_%M_%S"
+#1324906520
+ftp
+#1324906778
+g nb-ftp_upload_from_list.sh 
+#1324906801
+nbviki-ftpup-make.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324906805
+v /tmp/nbviki_ftp_23432.24t.tmp
+#1324906808
+mca
+#1324906809
+nbviki-ftpup-make.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324906810
+ma
+#1324906812
+v /tmp/nbviki_ftp_23432.24t.tmp
+#1324906828
+ma
+#1324906833
+nb-ftp_upload_from_list.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324906844
+kill 14877
+#1324906849
+ll log
+#1324906880
+mca
+#1324906883
+nbviki-ftpup-make.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324906884
+ma
+#1324906897
+ll log/
+#1324906992
+g ll
+#1324906995
+cd log
+#1324907009
+p 221.1.217.92
+#1324907048
+lla
+#1324906891
+nb-ftp_upload_from_list.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324907534
+kill -9 14877
+#1324907544
+kill -9 15969 
+#1324907557
+mca
+#1324907580
+nbviki-ftpup-make.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324907581
+ma
+#1324907263
+p 221.1.217.92
+#1324907597
+cd log/
+#1324907601
+g ftp_upload_out.2011-12-26T21_53_09.log 
+#1324907755
+lla
+#1324907830
+pg ftp
+#1324907589
+nb-ftp_upload_from_list.sh /tmp/nbviki_ftp_23432.24t.tmp
+#1324907909
+kill -9 17132
+#1324907927
+,y
+#1324907930
+cd,y
+#1324907954
+mv nuoerlz/ nuoerlz.bk
+#1324907962
+cdvcrtbot
+#1324907965
+cd blog/nb/
+#1324907967
+g nb.notes.txt 
+#1324907999
+echo "y" | nb -b nuoerlz add weblog
+#1324908015
+cd nuoerlz
+#1324908022
+ll blog.conf 
+#1324908087
+g blog.conf 
+#1324908100
+cdvcrc
+#1324908109
+cdvcrt
+#1324908114
+cdvcl
+#1324908107
+git pull origin master
+#1324908120
+cdl
+#1324908153
+,y
+#1324908112
+git pull origin master
+#1324908117
+git pull origin master
+#1324908124
+svn up
+#1324908205
+,y
+#1324908224
+cp -f /home/scr/.rt/vercol/git/rc-files/rt/home/scr/blog.conf .
+#1324908233
+g blog.conf 
+#1324908254
+rm -rf nuoerlz
+#1324908258
+echo "y" | nb -b nuoerlz add weblog
+#1324908272
+cd nuoerlz
+#1324908320
+git init
+#1324908324
+git add *
+#1324908326
+gits.
+#1324908338
+git commit -a -m 'init'
+#1324908340
+gits.
+#1324908352
+cp -f /home/scr/.rt/vercol/git/rc-files/rt/home/scr/blog.conf .
+#1324908356
+e cp -f /home/scr/.rt/vercol/git/rc-files/rt/home/scr/blog.conf .
+#1324908364
+gits.
+#1324908408
+gitd
+#1324908428
+git add *
+#1324908430
+gits.
+#1324908435
+git commit -a -m 'modify blog.conf fit to me'
+#1324908438
+gits.
+#1324908448
+nb list
+#1324908460
+nb list tag
+#1324908487
+keynav 
+#1324908489
+ff index.html 
+#1324908515
+ll articles/
+#1324908533
+rm -rf articles/*
+#1324908546
+gits.
+#1324908554
+e rm -rf articles/*
+#1324908584
+nb list tag
+#1324908592
+nb delete entry 1
+#1324908596
+nb list
+#1324908605
+nb list all
+#1324908609
+nb list tag
+#1324908620
+e nb delete entry 1
+#1324908675
+nb delete tag 1
+#1324908681
+nb list tag
+#1324908692
+e nb delete tag 1
+#1324908702
+gits.
+#1324908749
+git add *
+#1324908750
+gits.
+#1324908757
+git commit -a -m 'delete examples'
+#1324908759
+gits.
+#1324908781
+gitlo.
+#1324908813
+mca
+#1324908819
+cd ftpup/
+#1324908900
+cdrt
+#1324908906
+cd life/
+#1324908911
+cd linu
+#1324908914
+cd linux/
+#1324908920
+cd computor/
+#1324908978
+cd tools/
+#1324909048
+gits.
+#1324909050
+/home/scr/bin/nb/nb-create_tag.sh
+#1324909063
+nb list tag
+#1324909101
+gits.
+#1324909110
+rm -rf data/
+#1324909113
+git checkout HEAD .
+#1324909114
+gits.
+#1324909117
+/home/scr/bin/nb/nb-create_tag.sh
+#1324909127
+nb list tag
+#1324909139
+rm -rf data/
+#1324909143
+git checkout HEAD .
+#1324909145
+gits.
+#1324909148
+/home/scr/bin/nb/nb-create_tag.sh
+#1324909159
+nb list tag
+#1324909161
+gits
+#1324909165
+git add *
+#1324909166
+gits.
+#1324909181
+git commit -a -m 'add tags'
+#1324909186
+gits.
+#1324909188
+gitlo.
+#1324909210
+ll archives/
+#1324909213
+ll archives/2011/
+#1324909215
+ll archives/2011/12/
+#1324909217
+ll archives/2011/12/26/
+#1324909219
+ll archives/2011/12/26/welcome_to_nanoblogger_3_5/
+#1324909275
+gits.
+#1324909287
+gits.
+#1324909301
+git add linux/computor/bookmark/
+#1324909302
+gits.
+#1324909310
+git commit -a -m 'bookmark'
+#1324909313
+gits.
+#1324909319
+git pull origin master
+#1324909356
+gits.
+#1324909367
+cd linux/computor/grath/
+#1324909370
+cd opengl/
+#1324909373
+cd note/
+#1324910116
+g 21-opengl2.0的拾取.txt 
+#1324910125
+g 14-OpenGL片断测试.txt 
+#1324910298
+cd tools/audio/
+#1324910303
+cd mail/
+#1324910310
+cd vercol/
+#1324910312
+cd git/
+#1324910314
+cd notes/
+#1324910323
+g 02.txt 
+#1324910370
+cd svn
+#1324910375
+g 01建立服务器.txt 
+#1324910425
+nb list tag
+#1324910431
+nb list tag | grep open
+#1324910437
+nb list tag | grep linux
+#1324910544
+,y
+#1324910572
+vi README 
+#1324910581
+g 02svn服务配置和维护常用命令.txt 
+#1324910608
+cd input/
+#1324910611
+cd fcitx/
+#1324910617
+g install-readme 
+#1324910625
+g README 
+#1324910636
+g install.sh 
+#1324910671
+cd  browser/
+#1324910673
+cd firefox/
+#1324910675
+g firefox.notes.txt 
+#1324910849
+,y
+#1324910907
+crontab -e
+#1324911057
+gits.
+#1324911090
+g nbviki.log 
+#1324911106
+gits.
+#1324911111
+ff index.html 
+#1324911144
+gits.
+#1324911199
+jj
+#1324911243
+ff index.html 
+#1324911042
+nbviki-update.sh 
+#1324911387
+g log/ftp_upload_out.2011-12-26T22_52_38.log 
+#1324911414
+gits.
+#1324911417
+gitlo.
+#1324911437
+find . type d | grep svn
+#1324911501
+find . type d | grep '.'svn
+#1324911525
+find . type d | grep '.svn'
+#1324911547
+find . -type d | grep '.svn'
+#1324911556
+find . -type d | grep '\.svn'
+#1324911593
+find . -type d | grep '\.svn' | xargs rm -rf
+#1324911595
+gits.
+#1324911616
+git add *
+#1324911631
+git commit -a -m 'rm .svn/'
+#1324911633
+gits.
+#1324911636
+ff index.html 
+#1324911790
+cp /home/scr/.deplate/css/*.css styles/
+#1324911793
+ll styles/
+#1324911798
+e cp /home/scr/.deplate/css/*.css styles/
+#1324911849
+rm -rf *
+#1324911905
+nbviki-update.sh  &
+#1324911921
+gits.
+#1324911927
+cd ftpup/
+#1324912114
+gitlo.
+#1324912122
+ff index.html 
+#1324912464
+cd data/
+#1324912466
+g master.db 
+#1324912499
+g cat_26.db 
+#1324912632
+sed 'd1' master.db 
+#1324912638
+gvlc
+#1324912651
+sed '1d' master.db 
+#1324912656
+cat master.db 
+#1324912666
+cat cat_26.db 
+#1324912674
+sed '1d' cat_26.db 
+#1324912753
+sed '1d' cat_26.db | uniq
+#1324912771
+m uniq
+#1324912809
+gvlc
+#1324912855
+sed '1d' cat_26.db | sort | uniq
+#1324913052
+g master.db 
+#1324913149
+gits.
+#1324913155
+cat master.db 
+#1324913160
+gits.
+#1324913174
+cd data/
+#1324913178
+gits.
+#1324913183
+cat cat_26.db 
+#1324913187
+cat cat_41.db 
+#1324913192
+cat cat_27.db 
+#1324913202
+gits.
+#1324913257
+jj
+#1324913274
+g log/ftp_upload_out.2011-12-26T23_27_07.log 
+#1324913313
+cd log/
+#1324913326
+g ftp_upload_out.2011-12-26T23_27_07.log 
+#1324913374
+jll
+#1324913405
+jj
+#1324913437
+gitlo.
+#1324913451
+ma
+#1324913455
+vi Makefile 
+#1324913475
+mc
+#1324913476
+mca
+#1324913487
+ma
+#1324913488
+mai
+#1324913668
+cdl
+#1324913669
+svns
+#1324913691
+svns | grep -v books
+#1324913710
+svns | grep -v books | grep -v latex
+#1324913717
+svns | grep -v books | grep -latex
+#1324913720
+svns | grep -v books | grep latex
+#1324913744
+g viki/txt2vikiORlatex2html/note.txt
+#1324913756
+rm viki/txt2vikiORlatex2html/note.txt
+#1324913765
+rm viki/txt2vikiORlatex2html/Makefile
+#1324913776
+svns | grep -v books | grep latex
+#1324913787
+rm latex/metapost/Makefile
+#1324913790
+svns | grep -v books | grep latex
+#1324913800
+svns | grep  books 
+#1324913829
+cd books/c/cguo-e3/ch5/
+#1324913835
+rm -rf *
+#1324913839
+cd ch7
+#1324913843
+cd 7.13-CameraDemo/
+#1324913851
+rm *
+#1324913856
+cdl
+#1324913858
+svns | grep  books 
+#1324913871
+svns | grep -v books | grep -v latex
+#1324913885
+rm sed-awk/sed/iw/iw.sed
+#1324913895
+rm viki/hello/hello.viki
+#1324913942
+rm shell/nb/nb-txt2nblog.sh
+#1324913943
+svns | grep -v books | grep -v latex
+#1324915344
+svns | grep -v books | grep -v latex | grep viki-pre_txt2viki.sed
+#1324915354
+svn add viki/viki-pre_txt2viki.sed
+#1324915359
+svns | grep -v books | grep -v latex | grep viki-txt2viki.sed
+#1324915366
+svn add viki/viki-txt2viki.sed
+#1324915372
+svns | grep -v books | grep -v latex | grep viki-las_txt2viki.sed
+#1324915379
+svn add viki/viki-las_txt2viki.sed
+#1324915387
+svns | grep -v books | grep -v latex | grep nb-html2nbmeta.sh
+#1324915407
+svn add shell/nb/nb-html2nbmeta.sh
+#1324915415
+svns | grep -v books | grep -v latex | grep nb-html2nblog_priv.sed
+#1324915426
+svn add shell/nb/nb-html2nblog_priv.sed
+#1324915436
+svns | grep -v books | grep -v latex | grep nb-patch_tag.sh
+#1324915445
+svn add shell/nb/nb-patch_tag.sh
+#1324915455
+svns | grep -v books | grep -v latex | grep nb-nblog3css.sh
+#1324915461
+svn add shell/nb/nb-nblog3css.sh
+#1324915469
+svns | grep -v books | grep -v latex | grep nbviki-ftpup-make.sh
+#1324915489
+svns | grep -v books | grep -v latex | grep nb-ftp_upload_from_list.sh
+#1324915497
+svn add shell/nb/nb-ftp_upload_from_list.sh
+#1324915503
+svns | grep -v books | grep -v latex 
+#1324915599
+g shell/nb/nb-html2nblog.sh
+#1324915647
+svn commit -F commit.log 
+#1324915672
+svns
+#1324915692
+cd viki/txt2vikiORlatex2html/
+#1324915693
+svns
+#1324915705
+rm las_txt2viki.sed  txt2viki.sed  pre_txt2viki.sed 
+#1324915712
+svn commit -F commit.log 
+#1324915730
+svns
+#1324915737
+svns | grep -v books | grep -v latex 
+#1324915828
+gvnt
+#1324915755
+svn commit -F commit.log shell viki
+#1324915873
+svns
+#1324915877
+svn add shell/nb/nb-ftp_upload_from_list.sh
+#1324915890
+svns | grep -v books | grep -v latex 
+#1324993712
+cd
+#1324993714
+cd .Mail/
+#1324993727
+cdlc
+#1324993729
+svn up
+#1324993737
+cdvcrt
+#1324993743
+gits.
+#1324993749
+cd enc/
+#1324993752
+cd unicode_utf-8/
+#1324993753
+ma
+#1324993759
+...
+#1324993762
+cd-
+#1324993769
+./unicode_utf-8_test 
+#1324993797
+g unicode_utf-8_test.c
+#1324993829
+cdvcrc
+#1324993831
+gits.
+#1324993835
+cdvcl
+#1324993842
+cd books/c/graph/NeHe/LESSON11
+#1324993847
+ma
+#1324993855
+./endian_test.exe 
+#1324993936
+ma
+#1324993949
+./unicode_utf-8_test 
+#1324994129
+ma
+#1324994130
+./unicode_utf-8_test 
+#1324994134
+time ./unicode_utf-8_test 
+#1324994143
+./unicode_utf-8_test 
+#1324994260
+svns
+#1324994262
+mc
+#1324994267
+ma
+#1324994269
+./unicode_utf-8_test 
+#1324994294
+gvht
+#1324994300
+gvnt
+#1324994333
+ma
+#1324994351
+./unicode_utf-8_test 
+#1324994359
+ma
+#1324994361
+./unicode_utf-8_test 
+#1324994378
+ma
+#1324994379
+./unicode_utf-8_test 
+#1324994382
+ma
+#1324994401
+./unicode_utf-8_test 
+#1324994404
+ma
+#1324994446
+./unicode_utf-8_test 
+#1324994466
+ma
+#1324994467
+./unicode_utf-8_test 
+#1324994483
+svns
+#1324994484
+ma
+#1324994488
+./unicode_utf-8_test 
+#1324994490
+mc
+#1324994514
+cd linux/computor/grath/
+#1324994516
+cd opengl/
+#1324994519
+cd note/
+#1324994533
+cdvcl
+#1324994535
+cd blog/
+#1324994538
+g nb-viki.list 
+#1324994571
+nbviki-update.sh  &
+#1324994632
+cd nb/ftpup/
+#1324994646
+cd nuoerlz
+#1324994648
+gits.
+#1324994666
+cat out 
+#1324994668
+rm out 
+#1324994670
+cd nb
+#1324994673
+cd ftpup/
+#1324994682
+g log/ftp_upload_out.2011-12-26T23_27_07.log 
+#1324994939
+cdb
+#1324994951
+g nbviki-update.sh 
+#1324995002
+g log/ftp_upload_out.2011-12-27T22_04_51.log 
+#1324995041
+gits.
+#1324995044
+gitlo.
+#1324995048
+gitls.
+#1324995171
+g log/ftp_upload_out.2011-12-27T22_11_58.log 
+#1324995243
+g Makefile 
+#1324995413
+gitlo.
+#1324995416
+gitls
+#1324995438
+g nbviki.log 
+#1324995468
+ma
+#1324995608
+g /tmp/nbviki_ftp_23432.24t.tmp
+#1324995626
+nbviki-update.sh  &
+#1324995662
+pg ftp
+#1324995697
+g log/ftp_upload_out.2011-12-27T22_20_26.log 
+#1324995759
+lll
+#1324995760
+ma
+#1324995771
+nbviki-update.sh  &
+#1324995776
+pg ftp
+#1324995815
+g log/ftp_upload_out.2011-12-27T22_22_52.log 
+#1324995852
+pg nb
+#1324995859
+pg ftp
+#1324995887
+ma
+#1324995893
+g Makefile 
+#1324996023
+nbviki-update.sh  &
+#1324996030
+pg ftp
+#1324996034
+pg nb
+#1324996040
+nbviki-update.sh  &
+#1324996216
+gitlo.
+#1324996241
+ds .gits
+#1324996245
+ds .git
+#1324996255
+ds styles/
+#1324996258
+ds data/
+#1324996273
+g nbviki.log 
+#1324996424
+gitls.
+#1324996459
+ma
+#1324996618
+pg nb
+#1324996621
+nbviki-update.sh  &
+#1324996629
+gitlo.
+#1324996737
+pg ftp
+#1324996745
+gits.
+#1324996791
+pg nb
+#1324996804
+pg ftp
+#1324996806
+pg nb
+#1324996874
+pg ftp
+#1324996892
+g log/ftp_upload_out.2011-12-27T22_40_47.log 
+#1324996962
+svns
+#1324996966
+svndl
+#1324996983
+svns
+#1324997050
+svn commit -m '只有在源文件有改动的情况下, 我们有必要更新nb的*.html文件的css路径'
+#1324997111
+gitls
+#1324997170
+git *.html
+#1324997174
+gits *.html
+#1324997199
+g nbviki.log 
+#1324997202
+gits.
+#1324997206
+g index.html 
+#1324997251
+g nbviki.log 
+#1324997255
+gits.
+#1324997259
+git *.log
+#1324997262
+gits *.log
+#1324997294
+ll nbviki-*
+#1324997299
+g nbviki-*
+#1324997385
+svnlv
+#1324997422
+svn up
+#1324997955
+cdvcl
+#1324997957
+cd blog/
+#1324997429
+svnlv
+#1324998007
+chx nbviki-add-newfile-to-nbvikilist.sh 
+#1324998011
+ll nbviki-*
+#1324998024
+nbviki-add-newfile-to-nbvikilist.sh nb-viki.list 
+#1324998234
+pwpd
+#1324998235
+pwdp
+#1324998425
+e date "+%Y-%m-%dT%H_%M_%S"
+#1324998616
+gvlc
+#1324998635
+m sort
+#1324998667
+cat nb-viki.list | sort
+#1324998982
+cat nb-viki.list | awk '{ print $1 }'
+#1324998998
+cat nb-viki.list | awk '{ print $1 }' | sort
+#1324999033
+m uniq
+#1324999209
+cdrt
+#1324999215
+cdrtbo
+#1324999223
+cd linux/computor/
+#1324999225
+cd tools/
+#1324999228
+cd devel/
+#1324999232
+cd cmd/
+#1324999243
+cd  l
+#1324999246
+cd devel/
+#1324999282
+cd cmd/
+#1324999314
+cd lang/
+#1324999318
+cd  shell/
+#1324999322
+cd UPT/
+#1324999324
+cd e3
+#1324999163
+m sort
+#1324999547
+cat nb-viki.list | sort
+#1324999783
+cat nb-viki.list | sort -u
+#1324999794
+cat nb-viki.list | sort +0 -1 -u
+#1324999827
+cat nb-viki.list | sort | sort +0 -1 -u
+#1325000561
+gvlc
+#1325000587
+ffbs
+#1325000746
+nbviki-add-newfile-to-nbvikilist.sh nb
+#1325000774
+nbviki-add-newfile-to-nbvikilist.sh nb-viki.list 
+#1325000780
+nbviki-add-newfile-to-nbvikilist.sh 
+#1325000799
+nbviki-add-newfile-to-nbvikilist.sh nb-viki.list 
+#1325000803
+ffbs
+#1325000808
+jj
+#1325000834
+ll viki/nuoerlz/public_html/bright.css 
+#1325000848
+nbviki-add-newfile-to-nbvikilist.sh viki/nuoerlz/public_html/bright.css 
+#1325000880
+nbviki-add-newfile-to-nbvikilist.sh /viki/nuoerlz/public_html/bright.css 
+#1325000916
+nbviki-add-newfile-to-nbvikilist.sh /etc/resolv.conf
+#1325001079
+nbviki-add-newfile-to-nbvikilist.sh /viki/nuoerlz/public_html/bright.css 
+#1325001085
+nbviki-add-newfile-to-nbvikilist.sh viki/nuoerlz/public_html/bright.css 
+#1325001147
+nbviki-add-newfile-to-nbvikilist.sh nb-viki.list 
+#1325001151
+nbviki-add-newfile-to-nbvikilist.sh viki
+#1325001161
+nbviki-add-newfile-to-nbvikilist.sh /etc/hosts
+#1325001165
+nbviki-add-newfile-to-nbvikilist.sh d/etc/hosts
+#1325001169
+nbviki-add-newfile-to-nbvikilist.sh etc/hosts
+#1325001191
+nbviki-add-newfile-to-nbvikilist.sh /etc/hosts
+#1325001207
+nbviki-add-newfile-to-nbvikilist.sh viki/nuoerlz/public_html/bright.css 
+#1325001497
+nbviki-add-newfile-to-nbvikilist.sh /home/scr/.rt-notes/linux/computor/tools/vercol/svn/01建立服务器.txt
+#1325001683
+nbviki-add-newfile-to-nbvikilist.sh viki/nuoerlz/public_html/bright.css 
+#1325001708
+cd data/
+#1325001877
+nbviki-add-newfile-to-nbvikilist.sh /home/scr/.rt-notes/linux/computor/tools/vercol/svn/01建立服务器.txt
+#1325001901
+nbviki-add-newfile-to-nbvikilist.sh /etc/resolv.conf
+#1325001967
+nbviki-add-newfile-to-nbvikilist.sh /boot/config-2.6.35.6-45.fc14.x86_64 
+#1325001990
+svns
+#1325001996
+svn add nbviki-add-newfile-to-nbvikilist.sh 
+#1325001997
+svns
+#1325002103
+svn commit -m '用于把要发表到nb博客的文件加入到专门的列表文件'
+#1324999338
+pdf UnixPowerTools.3rdEdition.pdf 
+#1325002140
+jj
+#1325002147
+g nbviki-*
+#1325002272
+g nb-viki.list 
+#1325078952
+nbviki-add-newfile-to-nbvikilist.sh 
+#1325078982
+cdvcrt
+#1325078993
+cd linux/computor/
+#1325079001
+cd  tools/
+#1325079004
+cd devel/
+#1325079009
+cd gdb/
+#1325079014
+g 12gdb作用经验技巧.txt 
+#1325079079
+cdb
+#1325079090
+cd nb
+#1325079096
+g nb-create_tag.sh 
+#1325079112
+,y
+#1325079306
+gvbs
+#1325079362
+cdvcl
+#1325079365
+cd blog/
+#1325079367
+,y
+#1325079409
+gits.
+#1325079416
+gits.
+#1325079418
+gitdl
+#1325079438
+gvbs
+#1325079506
+,y
+#1325079556
+wh gvnt
+#1325079803
+mv 12gdb作用经验技巧.txt 12gdb使用经验技巧.txt 
+#1325079815
+g 12gdb使用经验技巧.txt 
+#1325079844
+nbviki-add-newfile-to-nbvikilist.sh 12gdb使用经验技巧.txt 
+#1325079874
+nbviki-update.sh  &
+#1325080469
+g log/ftp_upload_out.2011-12-28T21_46_52.log 
+#1325080504
+ds log/
+#1325080614
+pg ftp
+#1325080626
+g log/ftp_upload_out.2011-12-28T21_56_26.log 
+#1325080712
+g 2011-12-28T21_44_04.txt 
+#1325080806
+nb list tag | grep cpp
+#1325080810
+nb list tag | grep -w cpp
+#1325080896
+cdvcl
+#1325080901
+cdb
+#1325080908
+g nbviki-update.sh 
+#1325081021
+cdl
+#1325081023
+cd viki/
+#1325081049
+sed -f viki-txt2viki.sed /home/scr/.rt-notes/linux/computor/tools/devel/gdb/12gdb使用经验技巧.txt
+#1325081100
+svns viki-txt2viki.sed 
+#1325081106
+svnlv viki-txt2viki.sed 
+#1325081114
+svn up
+#1325081123
+svn log viki-txt2viki.sed 
+#1325081161
+sed -f viki-txt2viki.sed /home/scr/.rt-notes/linux/computor/tools/browser/firefox/firefox.notes.txt
+#1325081164
+sed -f viki-txt2viki.sed /home/scr/.rt-notes/linux/computor/tools/browser/firefox/firefox.notes.txt | less
+#1325081240
+sed -f viki-txt2viki.sed /home/scr/.rt-notes/linux/computor/tools/devel/gdb/12gdb使用经验技巧.txt
+#1325081290
+sed -f viki-txt2viki.sed /home/scr/.rt-notes/linux/computor/tools/browser/firefox/firefox.notes.txt
+#1325081294
+sed -f viki-txt2viki.sed /home/scr/.rt-notes/linux/computor/tools/browser/firefox/firefox.notes.txt | less
+#1325081334
+sed -f viki-txt2viki.sed /home/scr/.rt-notes/linux/computor/tools/devel/gdb/12gdb使用经验技巧.txt
+#1325081409
+nbviki-update.sh  &
+#1325081588
+pg ftp
+#1325081592
+pgll
+#1325081604
+g log/ftp_upload_out.2011-12-28T22_12_47.log 
+#1325081685
+cd data/
+#1325081695
+nb list
+#1325081702
+nb list tag | grep c
+#1325081711
+nb list tag | grep linux
+#1325081716
+cd data/
+#1325081719
+g cat_26.db 
+#1325081822
+sed '1d' cat_26.db | sort | uniq
+#1325082006
+pdf UnixPowerTools.3rdEdition.pdf &
+#1325082010
+fg
+#1325082096
+sed '1d' cat_26.db | sort -t> +0 -1
+#1325082108
+sed '1d' cat_26.db | sort -t> 
+#1325082112
+sed '1d' cat_26.db | sort -t\> 
+#1325082117
+sed '1d' cat_26.db | sort -t\> +0 -1
+#1325082141
+sed '1d' cat_26.db | sort -t">" +0 -1
+#1325082196
+sed '1d' cat_26.db | sort -t, +0 -1
+#1325082218
+sed '1d' cat_26.db | sort -t, +0 -1 -u
+#1325082227
+sed '1d' cat_26.db | sort -t\> +0 -1 -u
+#1325082230
+sed '1d' cat_26.db | sort -t\> +0 -1 
+#1325082237
+sed '1d' cat_26.db | sort -t\> +0 -1 -u
+#1325082251
+g tttt.sh
+#1325082270
+chx tttt.sh 
+#1325082275
+./tttt.sh cat_26.db 
+#1325082351
+gits.
+#1325082357
+rm -- +0 tttt.sh 
+#1325082359
+gits.
+#1325082367
+cat master.db 
+#1325082382
+gvlc
+#1325082493
+m sort
+#1325082550
+g file
+#1325082830
+chx tt.sh 
+#1325082832
+./tt.sh file 
+#1325082896
+gits.
+#1325082899
+rm file tt.sh 
+#1325082900
+gits.
+#1325082904
+gitlo
+#1325082946
+svns
+#1325082982
+nbviki-update.sh  &
+#1325082990
+svndl
+#1325083009
+svns
+#1325083021
+cdl
+#1325083021
+svns
+#1325083058
+rm nb/note.html*
+#1325083059
+svns
+#1325083066
+svn add nb
+#1325083069
+svn add nb/*
+#1325083070
+svns
+#1325083089
+cd nb
+#1325083090
+svns
+#1325083183
+pg ftp
+#1325083177
+svn commit -m '创建和维护nbviki-blog暂时没用到的脚本' nb-las_2nblog.sh nb-ftp_updown_onefile.sh nb-ftp_create_updown_cmd.sh nb-html2nblog.sh 
+#1325083189
+svns
+#1325083453
+gits.
+#1325083457
+gitls.
+#1325083480
+ls parts/
+#1325083484
+ds parts/
+#1325083498
+ds log/
+#1325083512
+ds archives/
+#1325083519
+cat Makefile 
+#1325083521
+ma
+#1325083522
+mc
+#1325083523
+mca
+#1325083525
+ma
+#1325083530
+gits.
+#1325083534
+fg
+#1325083601
+svndl
+#1325083603
+svnd
+#1325083657
+svn commit -m '修改bug: 用"sort -u"代替"uniq"'
+#1325083669
+svns
+#1325083858
+gits.
+#1325083866
+gitls.
+#1325083882
+wh gitls
+#1325083890
+git log --stat HEAD
+#1325083929
+git log --stat | sed '2d'
+#1325083933
+git log --stat | sed '2d' | less
+#1325083946
+git log --stat | less
+#1325083954
+git log --stat | sed '2d' | less
+#1325083964
+git log --stat | sed '1,2d' | less
+#1325083973
+git log --stat | sed '1,3d' | less
+#1325084024
+git log --stat | sed '1,3d' 
+#1325084073
+git log --stat | sed '1,3d' | sed '/Author: nuoerlz /q'
+#1325084095
+git log --stat | sed '1,3d' | sed '/Author: nuoerlz /p'
+#1325084116
+git log --stat | sed '1,3d' | sed '/Author: nuoerlz/q'
+#1325084148
+git conifg
+#1325084167
+gvlc
+#1325084197
+git config --global user.email nuoerlz@gmail.com
+#1325084202
+cat ~/.gitconfig 
+#1325084222
+git config --global user.name "nuoerlz"
+#1325084224
+cat ~/.gitconfig 
+#1325084245
+git log --stat | sed '1,3d' | sed '/Author: /q'
+#1325084282
+git log --stat | sed '/Author: /q' | sed '$d'
+#1325084292
+git log --stat | sed '/Author: /q' 
+#1325084303
+git log --stat | sed '1,3d' | sed '/Author: /q'
+#1325084315
+git log --stat | sed '1,3d' | sed '/Author: /q' | sed '$d'
+#1325084322
+gvlc
+#1325084350
+git log --stat | sed '1,3d' | sed '/Author: /q' | sed '$d' | sed '$d'
+#1325084370
+ll\
+#1325084379
+cdvcl
+#1325084384
+cd blog/nb/nuoerlz
+#1325084387
+git log --stat | sed '1,3d' | sed '/Author: /q' | sed '$d' | sed '$d'
+#1325084394
+cdvcrc
+#1325084395
+gits.
+#1325084397
+gitdl
+#1325084408
+gits
+#1325084415
+git add rt/home/scr/.bashrc 
+#1325084415
+gits
+#1325084426
+git commit -m 'new alias'
+#1325084429
+gits.
+#1325084486
+gitd add rt/home/scr/.bashrc 
+#1325084492
+gitd rt/home/scr/.bashrc 
+#1325084495
+gits.
+#1325084503
+gitlo.
+#1325084507
+gvlc
+#1325084515
+gits.
+#1325084554
+cdrt
+#1325084568
+cd linux/computor/tools/cmd
+#1325084574
+cd linux/computor/tools/devel/cmd/
+#1325084590
+cdrcrt
+#1325084594
+cdvcrt
+#1325084595
+gits.
+#1325084601
+git push origin master
+#1325084616
+gitd
+#1325084648
+gits.
+#1325084654
+git add linux/computor/tools/devel/
+#1325084655
+gits.
+#1325084680
+git reset linux/computor/tools/devel/gdb/12gdb使用经验技巧.txt 
+#1325084693
+gits.
+#1325084701
+gitdc
+#1325084721
+git commit -m 'sort, git log'
+#1325084724
+gits.
+#1325084728
+gitd
+#1325084738
+gits.
+#1325084753
+git add linux/computor/tools/devel/gdb/
+#1325084754
+gits.
+#1325084786
+git rm linux/computor/tools/devel/gdb/12gdb\344用经验技巧.txt 
+#1325084825
+git checkout HEAD .
+#1325084827
+gits.
+#1325084867
+cat 12gdb使用经验技巧.txt > 12gdb作用经验技巧.txt 
+#1325084871
+gts.
+#1325084873
+gits.
+#1325084886
+diff 12*
+#1325084891
+g 12gdb*
+#1325084929
+git mv 12gdb作用经验技巧.txt 12gdb使用经验技巧.txt 
+#1325084946
+rm 12gdb使用经验技巧.txt 
+#1325084948
+gits.
+#1325084958
+mv 12gdb作用经验技巧.txt 12gdb使用经验技巧.txt 
+#1325084959
+gits.
+#1325084964
+git add .
+#1325084965
+gits.
+#1325084976
+git rm 12gdb作用经验技巧.txt 
+#1325084978
+gits.
+#1325085000
+git commit -m '重新排版'
+#1325085006
+gits.
+#1325085012
+gitd
+#1325085047
+gits.
+#1325085061
+git checkout linux/computor/grath/
+#1325085062
+gits.
+#1325085071
+git add linux/computor/tools/vercol/
+#1325085079
+git add linux/computor/tools/browser/
+#1325085080
+gits.
+#1325085089
+git commit -m '
+重新排版'
+#1325085099
+gitlo.
+#1325085105
+gits.
+#1325085124
+g linux/computor/grath/opengl/note/22-记录.txt 
+#1325085131
+rm linux/computor/grath/opengl/note/22-记录.txt 
+#1325085148
+rm linux/computor/grath/opengl/note/viki_txtpre.o.tmp 
+#1325085149
+gits.
+#1325085152
+git add .
+#1325085154
+gits.
+#1325085162
+cd linux/computor/tools/blog/nb/
+#1325085164
+gits.
+#1325085171
+g t.txt 
+#1325085217
+gits.
+#1325085223
+git reset HEAD t.txt 
+#1325085224
+gits.
+#1325085226
+rm t.txt 
+#1325085231
+git add .
+#1325085232
+gits
+#1325085243
+git commit -m '<<NanoBlogger User Manual>>'
+#1325085245
+gits
+#1325085250
+cdvcrt
+#1325085253
+git pull origin master
+#1325085262
+cdvcl
+#1325085267
+gits
+#1325085269
+cdl
+#1325085270
+svns
+#1325085292
+cd viki/
+#1325085293
+svns
+#1325085282
+git push origin master
+#1325085304
+rm -rf *
+#1325085306
+su
+#1325085313
+svns
+#1325085317
+svn up
+#1325085334
+svns
+#1325081833
+m sort
+#1325163841
+git pull origin master
+#1325163878
+cdvcrtbot
+#1325163888
+nbviki-add-newfile-to-nbvikilist.sh server/apache/01Apache启动正常但无法访问.txt 
+#1325163906
+vnt
+#1325163910
+vns
+#1325163922
+gvbs
+#1325163953
+.s
+#1325163957
+gvnbl
+#1325163984
+nbviki-update.sh  &
+#1325165111
+pg ftp
+#1325165116
+cd-
+#1325165132
+date
+#1325165135
+pg ftp
+#1325165164
+ls log/
+#1325165177
+g log/ftp_upload_out.2011-12-29T21_08_54.log 
+#1325165287
+ma
+#1325165389
+cdvcrt
+#1325165391
+cd life/
+#1325165396
+mkdir blog
+#1325165397
+cd blog/
+#1325165430
+g 01新博客搭建中.txt
+#1325166521
+gits.
+#1325166524
+git add blog/
+#1325166526
+gits.
+#1325166546
+git commit -m '01新博客搭建中.txt'
+#1325166553
+git push origin master
+#1325166571
+nbviki-add-newfile-to-nbvikilist.sh blog/01新博客搭建中.txt 
+#1325166572
+fg
+#1325166587
+.s
+#1325166591
+gvnbl 
+#1325166600
+nbviki-update.sh  &
+#1325166740
+cat /etc/resolv.conf
+#1325166745
+p www.youku.com
+#1325166757
+vi /etc/resolv.conf
+#1325166773
+p www.youku.com
+#1325166790
+pg ftp
+#1325166852
+lla
+#1325166861
+gits.
+#1325166863
+gitls.
+#1325166888
+gitlo.
+#1325167749
+p www.youku.com
+#1325167756
+p nuoerlz.35free.net
+#1325250215
+cdl
+#1325250237
+ii
+#1325250217
+svns
+#1325250228
+svn up
+#1325250333
+p nuoerlz.35free.net
+#1325250403
+gvnbl
+#1325250454
+p nuoerlz.35free.net
+#1325250479
+svn up
+#1325250485
+svnlv
+#1325250503
+svn up
+#1325250509
+cdlc
+#1325250510
+svni
+#1325250512
+svnlv
+#1325250524
+cd enc/unicode_utf-8/
+#1325250526
+mc
+#1325250527
+ma
+#1325250551
+cdl
+#1325250555
+mkdir 0mystl/include 
+#1325250558
+mkdir 0mystl/include  -p
+#1325250561
+cd 0mystl/
+#1325250563
+mkdir lib
+#1325250621
+cdlc
+#1325250627
+cd mystl/
+#1325250633
+cd alg/alg_table/
+#1325250635
+ma
+#1325250638
+mai
+#1325250649
+llr
+#1325250673
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325250680
+time ./unicode_utf-8_test < gbk_code_file.txt 
+#1325250698
+mc
+#1325250702
+,y
+#1325250717
+ ll
+#1325250722
+cd,y
+#1325250745
+cd mystl/alg/alg_table/
+#1325250748
+ma
+#1325250749
+mai
+#1325250752
+ma
+#1325250755
+ma
+#1325250756
+mai
+#1325250767
+g unicode_utf-8.c
+#1325250778
+mc
+#1325250779
+ma
+#1325250814
+cd
+#1325250819
+cdvcl
+#1325250828
+cd books/c/graph/NeHe/LESSON11
+#1325250830
+ma
+#1325250831
+mc
+#1325250832
+mca
+#1325250835
+ma
+#1325250845
+svns
+#1325250847
+gits.
+#1325250849
+mc
+#1325250850
+mca
+#1325250852
+ma
+#1325250855
+g endian_test.c
+#1325250866
+mc
+#1325250867
+ma
+#1325250919
+./endian_test.exe 
+#1325251414
+mc
+#1325251415
+ma
+#1325251417
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325251445
+svnd
+#1325251649
+svns
+#1325251651
+svndl
+#1325251676
+mc
+#1325251678
+ma
+#1325251682
+mai
+#1325251683
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325251685
+svns
+#1325251708
+svn commit -m '使兼容于64位系统'
+#1325251719
+ma
+#1325251724
+g Makefile 
+#1325252161
+bch2c e05
+#1325252354
+ma
+#1325254147
+ma
+#1325254148
+mai
+#1325254150
+mc
+#1325254150
+ma
+#1325254220
+vi Makefile 
+#1325254266
+mc
+#1325254267
+ma
+#1325254320
+mc
+#1325254320
+ma
+#1325254321
+mai
+#1325254373
+mai
+#1325254374
+mc
+#1325254374
+ma
+#1325254389
+mc
+#1325254390
+ma
+#1325254407
+mc
+#1325254407
+ma
+#1325254478
+mc
+#1325254478
+ma
+#1325254480
+mai
+#1325254483
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325254528
+ma
+#1325254533
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325254552
+ma
+#1325254554
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325254561
+ma
+#1325254563
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325254565
+time ./unicode_utf-8_test < gbk_code_file.txt 
+#1325254574
+ma
+#1325254582
+time ./unicode_utf-8_test < gbk_code_file.txt 
+#1325254616
+ma
+#1325254618
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325254619
+time ./unicode_utf-8_test < gbk_code_file.txt 
+#1325254628
+ma
+#1325254630
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325254631
+time ./unicode_utf-8_test < gbk_code_file.txt 
+#1325254641
+ma
+#1325254643
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325254645
+time ./unicode_utf-8_test < gbk_code_file.txt 
+#1325254686
+ma
+#1325254688
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325254688
+time ./unicode_utf-8_test < gbk_code_file.txt 
+#1325254705
+ma
+#1325254707
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325254726
+ma
+#1325254728
+time ./unicode_utf-8_test < gbk_code_file.txt 
+#1325254760
+mc
+#1325254761
+ma
+#1325254774
+mc
+#1325254774
+ma
+#1325254921
+mc
+#1325254921
+ma
+#1325255006
+mc
+#1325255009
+mc
+#1325255009
+ma
+#1325255015
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325255070
+ma
+#1325255072
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325255085
+ma
+#1325255086
+mc
+#1325255087
+ma
+#1325255102
+mc
+#1325255102
+ma
+#1325255123
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325255128
+svns
+#1325255130
+svndl
+#1325255422
+svns
+#1325255424
+svndl
+#1325255476
+svn commit -m '增加一个debug用的函数: Table_debug_maxlen_bucket(T table)'
+#1325255487
+mc
+#1325255488
+ma
+#1325255490
+mai
+#1325255492
+ma
+#1325255493
+mc
+#1325255495
+mca
+#1325255496
+mai
+#1325255504
+mc
+#1325255505
+mca
+#1325255506
+ma
+#1325255525
+mc
+#1325255525
+ma
+#1325255582
+mc
+#1325255582
+ma
+#1325255885
+mc
+#1325255886
+ma
+#1325255888
+mc
+#1325255889
+mca
+#1325255890
+ma
+#1325255896
+mai
+#1325255904
+mc
+#1325255905
+ma
+#1325255914
+mc
+#1325255915
+mca
+#1325255916
+ma
+#1325255918
+mc
+#1325255920
+mca
+#1325255922
+svns
+#1325255924
+svndl
+#1325255964
+mc
+#1325255966
+ma
+#1325255969
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325255990
+mc
+#1325255990
+ma
+#1325255992
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325256014
+mc
+#1325256016
+mca
+#1325256019
+ma
+#1325256041
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325256046
+ma
+#1325256047
+mc
+#1325256049
+ma
+#1325256050
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325256066
+mc
+#1325256066
+mca
+#1325256067
+ma
+#1325256069
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325256071
+svndl
+#1325256075
+svns
+#1325256098
+svn commit -m '增加一些debug信息'
+#1325256105
+ma
+#1325256120
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325256157
+mc
+#1325256158
+mca
+#1325256159
+ma
+#1325256161
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325256176
+gvnbl
+#1325256193
+cdvcrt
+#1325256199
+cdvcrtbot
+#1325256204
+cd input/
+#1325256207
+ll fcitx/
+#1325256210
+cd fcitx/
+#1325256213
+g install
+#1325256217
+g install.sh 
+#1325256447
+cdb
+#1325256453
+g nbviki-update.sh 
+#1325256585
+svns
+#1325256734
+nbviki-update.sh  &
+#1325256746
+pg ftp
+#1325256764
+cd /tmp/nbviki_tmp_workdir/
+#1325256770
+g Makefile 
+#1325256830
+gits.
+#1325256845
+date
+#1325256870
+nbviki-add-newfile-to-nbvikilist.sh install-readme 
+#1325256878
+nbviki-update.sh  &
+#1325256886
+gits.
+#1325256895
+ff data/2011-12-30T22_54_30.txt 
+#1325256939
+cd data/
+#1325256941
+gits.
+#1325256950
+mv 2011-12-30T22_54_30.txt fff.html
+#1325256952
+ff fff.html 
+#1325256991
+rm fff.html 
+#1325256994
+gits.
+#1325257090
+mv 2011-12-30T22_54_30.txt fff.html
+#1325257092
+ff fff.html 
+#1325257145
+mv 2011-12-30T22_54_30.txt fff.html
+#1325257149
+ff fff.html 
+#1325257235
+mv 2011-12-30T22_54_30.txt fff.html
+#1325257238
+ff fff.html 
+#1325257289
+rm fff.html 
+#1325257291
+gits.
+#1325257336
+g nbviki-update.sh 
+#1325257340
+svns
+#1325257346
+rm nbviki-update.sh 
+#1325257359
+svn revert nbviki-update.sh 
+#1325257498
+ss
+#1325257502
+gits.
+#1324908103
+screen
+#1325257544
+fg
+#1325257553
+fg
+#1325257560
+fg
+#1325257990
+ff http://www.worldhello.net/gotgithub/
+#1325258076
+cdgit
+#1325258079
+cdvcrt
+#1325258085
+cdvcrtbot
+#1325258088
+cd devel/
+#1325258094
+cd vercol/
+#1325258098
+cd git/
+#1325258102
+cd books/
+#1325258105
+cd Pro-Git/
+#1325258117
+pw
+#1325258122
+cd git/
+#1325258125
+ll notes/
+#1325258127
+cd notes/
+#1325258128
+cd github/
+#1325258131
+cd help.github.com/
+#1325258137
+ff index.html 
+#1325258242
+ll books/
+#1325258244
+ll books/Pro-Git/README 
+#1325258248
+cat books/Pro-Git/README 
+#1325258258
+cd notes/
+#1325258260
+cd github/
+#1325258263
+cd help.github.com/
+#1325258268
+ff index.html 
+#1325258491
+gvht
+#1325258527
+cdvcrt
+#1325258528
+gits.
+#1325258546
+git add linux/computor/bookmark/
+#1325258547
+gitdc
+#1325258562
+git commit -m '<<GotGitHub>>'
+#1325258565
+gits.
+#1325258649
+gitls.
+#1325258667
+gitsl
+#1325258681
+git add linux/computor/tools/input/fcitx/install-readme 
+#1325258698
+git commit -m '重新排版'
+#1325258700
+gits.
+#1325258702
+gitd
+#1325258710
+git add .
+#1325258713
+git commit -m '重新排版'
+#1325258715
+gits.
+#1325258722
+svns
+#1325258725
+svns
+#1325258717
+git push origin master
+#1325258728
+mc
+#1325258729
+mca
+#1325258729
+svns
+#1325259157
+cdvcrc
+#1325259159
+gits.
+#1325259169
+gvnbl
+#1325259254
+gits.
+#1325259257
+g data/master.db 
+#1325259320
+cdb
+#1325259324
+g nbviki-update.sh 
+#1325259384
+gitls.
+#1325259389
+cd data/
+#1325259392
+gitls.
+#1325260200
+date
+#1325260202
+cal
+#1325260207
+cal 1
+#1325260215
+cal 2012
+#1325260255
+g templates/main_index.htm 
+#1325260283
+fif NB_MainLinks
+#1325260541
+nbviki-update.sh 
+#1325260575
+ma
+#1325260711
+gits.
+#1325260719
+gits.
+#1325260721
+svns
+#1325260724
+rm nbviki-update.sh 
+#1325260726
+svn revert nbviki-update.sh 
+#1325260728
+svns
+#1325260731
+svns
+#1325260733
+gits.
+#1324911895
+su
+#1324902454
+screen
+#1324993716
+screen
+#1325332154
+reboot
+#1324993717
+mutt
+#1325332591
+ff&
+#1325332739
+su
+#1325332745
+ex .
+#1325343320
+cdm
+#1325343330
+cd LA/LC/RT/home/scr/
+#1325343334
+cd .aMule/
+#1325343341
+cd Incoming/
+#1325343345
+cd k1/
+#1325343353
+cd sex2005/
+#1325343360
+ex .
+#1325345937
+cdm
+#1325345958
+cd LA/LC/RT/home/scr/
+#1325345962
+cd .aMule/
+#1325345964
+cd Incoming/
+#1325345967
+ex k
+#1325345970
+ex k1
+#1325346157
+g 1.txt
+#1325346215
+ex .
+#1325346425
+ex k1
+#1325348095
+cd
+#1325348099
+ex .
+#1325391481
+ping 192.168.1.1
+#1325391514
+iwconfig 
+#1325392378
+cd
+#1325392389
+\cll
+#1325392397
+cdvcrt
+#1325392403
+cdvcrtbot
+#1325392414
+gits.
+#1325392435
+ii
+#1325392457
+mkdir wifi
+#1325392459
+cd wifi/
+#1325392591
+g 
+#1325392619
+lla
+#1325392623
+wc 01Linux下无线配置.txt 
+#1325392648
+ether-wake 
+#1325392771
+dmsetup 
+#1325392775
+dmesg 
+#1325392779
+dmesg | less
+#1325392814
+dmesg | grep eth
+#1325392831
+dmesg | grep wlan
+#1325392837
+gvlc
+#1325392861
+m dmesg
+#1325392884
+keynav 
+#1325392996
+lsusb 
+#1325393172
+lspci 
+#1325393349
+dmesg | grep wlan
+#1325393359
+dmesg | grep eth0
+#1325393370
+dmesg | grep eth
+#1325393419
+dmidecode 
+#1325393477
+dmidecode | less
+#1325393583
+e dmidecode | less
+#1325393633
+cat /proc/net/wireless 
+#1325393700
+cat /proc/net/netlink 
+#1325393714
+cat /proc/net/protocols 
+#1325393749
+cat /proc/net/dev_mcast 
+#1325393763
+cat /proc/net/dev
+#1325394002
+lspci 
+#1325394011
+lspci | grep -i network
+#1325394302
+iwconfig 
+#1325394330
+lspci -v
+#1325397720
+cdm
+#1325397721
+ex .
+#1325398412
+pg cp
+#1325398443
+pg nau
+#1325398452
+kill -9 13058
+#1325398458
+pg nau
+#1325398464
+ex .
+#1325398778
+cdm
+#1325398781
+cd LA
+#1325398786
+cd WA/
+#1325398790
+cd softwares/
+#1325407368
+iwconfig 
+#1325407534
+vi /etc/wpa_supplicant/wpa_supplicant.conf 
+#1325407545
+wpa_passphrase 
+#1325407645
+lspci
+#1325407649
+lspci -v
+#1325407655
+lspci -v | less
+#1325482105
+reboot
+#1325393422
+su
+#1325333353
+screen
+#1325486898
+date
+#1325487641
+ex .
+#1325488399
+cdvcrtbot
+#1325488405
+cd wifi/
+#1325488407
+g 01Linux下无线配置.txt 
+#1325488442
+keynav 
+#1325488521
+lspci -v | less
+#1325488525
+lspci -vnn
+#1325488533
+lspci -vnn | les
+#1325488618
+g ~/yum_list.txt 
+#1325488706
+uname -a
+#1325488911
+cdx
+#1325488915
+mkdir wifi
+#1325488916
+cd wifi/
+#1325488927
+wget -c -p http://www.broadcom.com/docs/linux_sta/README.txt
+#1325488939
+wget -c -p http://www.broadcom.com/docs/linux_sta/hybrid-portsrc_x86_64-v5_100_82_112.tar.gz
+#1325488974
+cd www.broadcom.com/docs/linux_sta/
+#1325488989
+g README.txt 
+#1325489199
+gvlc
+#1325489219
+m rpm
+#1325488659
+yum install kernel-headers kernel-devel
+#1325489297
+rpm -Uvh
+#1325489298
+http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm
+#1325489317
+rpm -Uvh http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm http://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-stable.noarch.rpm
+#1325489539
+p www.youku.com
+#1325489348
+yum list > yum_list.txt 
+#1325489725
+uname -a
+#1325489811
+lspci -n | grep 14e4
+#1325489873
+lspci -n | less
+#1325489957
+ls /lib/modules/`uname -r`/build
+#1325490043
+lsmod
+#1325490076
+lsmod  | grep "b43\|ssb\|bcma\|wl"
+#1325490105
+gvlc
+#1325489761
+yum -y update
+#1325490128
+fg
+#1325490227
+kill -9 7710
+#1325490244
+yum -y install kmod-wl
+#1325490335
+fg
+#1325490344
+kill -9 10512
+#1325490401
+lspci -n | grep 14e4
+#1325490409
+lspci -n | less
+#1325490418
+lspci -vnn | less
+#1325490437
+lspci -vnn | grep 14e4
+#1325490449
+gvlc
+#1325490348
+yum -y install kmod-wl
+#1325490670
+lsmod 
+#1325489881
+lspci -vnn | less
+#1325492830
+dmidecode 
+#1325492834
+dmidecode | less
+#1325492927
+ifconfig 
+#1325492939
+reboot
+#1325488315
+screen
+#1325488655
+su
+#1325488536
+lspci -vnn | less
+#1325493112
+iwconfig 
+#1325493132
+dmesg | grep eth
+#1325493137
+dmesg | grep wlan
+#1325493144
+ff&
+#1325493146
+cdif
+#1325493160
+keynav 
+#1325493189
+vi ifup-wireless 
+#1325493285
+iwconfig 
+#1325493291
+iwlist 
+#1325493299
+iwlist eth1 scanning
+#1325493320
+iwlist eth0 scanning
+#1325493324
+iwconfig 
+#1325493336
+iwconfig eth1 essid 'hellome'
+#1325493438
+iwconfig 
+#1325493449
+iwconfig eth1 essid 'hellome'
+#1325493451
+iwconfig 
+#1325493463
+iwconfig eth1 key 9999999999
+#1325493519
+iwconfig 
+#1325493525
+iwconfig eth1 essid 'hellome'
+#1325493531
+iwconfig eth0 essid 'hellome'
+#1325495650
+screen
+#1325495698
+ifconfig 
+#1325495831
+iwconfig 
+#1325495836
+iwconfig eth0 essid 'hellome'
+#1325495854
+iwconfig eth1 essid 'hellome'
+#1325495856
+iwconfig 
+#1325496058
+ping 192.168.1.1
+#1325496064
+iwconfig 
+#1325496075
+iwconfig eth1 essid "hellome"
+#1325496076
+iwconfig 
+#1325496112
+iwlist 
+#1325496126
+iwlist eth1 scanning
+#1325496136
+iwlist eth0 scanning
+#1325496141
+iwlist 
+#1325498044
+iwconfig 
+#1325498060
+dmesg | grep wlan
+#1325498063
+dmesg | grep eth
+#1325498073
+dmesg | grep eth1
+#1325498079
+iwconfig 
+#1325498089
+iwconfig eth1 essid "hellome"
+#1325498098
+iwconfig wlan0 essid 'hellome'
+#1325498103
+iwconfig wlan essid 'hellome'
+#1325498107
+iwconfig wlan1 essid 'hellome'
+#1325498114
+iwconfig eth1 essid 'hellome'
+#1325498116
+iwconfig 
+#1325498137
+iwconfig eth1 key 9999999999
+#1325498902
+iwconfig 
+#1325498907
+iwconfig eth1 essid 'hellome'
+#1325498913
+iwconfig 
+#1325498929
+iwlist 
+#1325498931
+iwlist
+#1325498935
+iwlist eth1 scanning
+#1325498956
+iwconfig eth1 essid 'hellome'
+#1325498959
+iwlist 
+#1325509276
+cd
+#1325509279
+cd tmp/
+#1325509291
+mkdir XueChe
+#1325509293
+ex XueChe/
+#1325523815
+cd 
+#1325523822
+l.
+#1325523826
+cd .aMule/
+#1325523835
+chmod 777 .aMule/
+#1325523827
+su
+#1325523842
+ex .aMule/
+#1325565579
+reboot
+#1325493431
+su
+#1325495842
+su
+#1325566666
+ip 
+#1325566671
+iwconfig 
+#1325566676
+iwlist 
+#1325566683
+iwlist scnning
+#1325566688
+iwlist scanning
+#1325566704
+iwlist eth1 scanning
+#1325566709
+iwconfig 
+#1325567390
+keynav 
+#1325600732
+iwconfig eth1 essid 'hellome'
+#1325600740
+iwconfig 
+#1325600768
+iwconfig eth1 key 9999999999
+#1325600782
+iwconfig 
+#1325600840
+ex .
+#1325600885
+cdm
+#1325600893
+mount /dev/sdb5 wa/
+#1325601009
+pg play
+#1325601024
+smplayer &
+#1325601065
+cdm
+#1325601075
+cd wa/F/WA/H/vedio/mv
+#1325601080
+cd VIDEO/
+#1325565738
+screen
+#1325601084
+mpg123 --title -C  *
+#1325601116
+ex .
+#1325601147
+reboot
+#1325600734
+su
+#1325601287
+cdm
+#1325601288
+ex .\
+#1325601292
+ex WA/
+#1325601370
+ff&
+#1325601375
+cd
+#1325601380
+cdvcrt
+#1325601383
+cdvcrtbot
+#1325601392
+cdl
+#1325601415
+gvnbl
+#1325601400
+gits.
+#1325601394
+svn up
+#1325601528
+cdlc
+#1325601548
+cd enc/
+#1325601550
+cd unicode_utf-8/
+#1325601552
+ma
+#1325601560
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325601568
+g unicode_utf-8.c
+#1325601606
+cdvcrtbo
+#1325601611
+cd encoding/
+#1325601615
+g *.txt
+#1325602796
+keynav 
+#1325603495
+gits.
+#1325603499
+git add 13Unicode与UTF-8互转.txt 
+#1325603500
+gits
+#1325603504
+gits.
+#1325603518
+git commit -m '13Unicode与UTF-8互转.txt'
+#1325603527
+nbviki-add-newfile-to-nbvikilist.sh 13Unicode与UTF-8互转.txt 
+#1325603535
+cd
+#1325603538
+cd /home/scr/
+#1325603544
+cd t
+#1325603545
+cd tmp/
+#1325603552
+nbviki-update.sh 
+#1325603880
+pg ftp
+#1325605005
+gvnbl
+#1325680632
+iwconfig 
+#1325680638
+iwconfig eth1 key 9999999999
+#1325680644
+iwconfig eth1 essid 'hellome'
+#1325680648
+iwconfig 
+#1325680660
+rm *
+#1325680669
+ll sdfj 
+#1325680785
+lsmod 
+#1325681183
+ iwconfig eth1 mode Managed 
+#1325681185
+iwconfig 
+#1325681192
+iwconfig -v
+#1325681204
+iwconfig 
+#1325681277
+iwconfig eth1 key 1581037294
+#1325681292
+iwconfig eth1 essid 'hellome'
+#1325681294
+iwconfig 
+#1325681300
+iwconfig eth1 key 1581037294
+#1325681323
+ifconfig eth1 up
+#1325681327
+iwconfig eth1 essid 'hellome'
+#1325681329
+iwconfig 
+#1325681333
+iwconfig eth1 key 1581037294
+#1325681335
+iwconfig 
+#1325681423
+iwconfig eth1 essid 'hellome'
+#1325681429
+iwconfig eth1 key 1581037294
+#1325681886
+wpa_supplicant 
+#1325681907
+la /etc/wpa_supplicant/
+#1325681913
+vi /etc/wpa_supplicant/wpa_supplicant.conf 
+#1325681933
+wpa_supplicant 
+#1325682004
+iwconfig 
+#1325682006
+ifconfig 
+#1325682013
+ifconfig eth0 down
+#1325682015
+ifconfig 
+#1325682032
+iwconfig eth1 essid 'hellome'
+#1325682036
+iwconfig eth1 key 1581037294
+#1325682040
+iwconfig 
+#1325682056
+ifconfig eth0 up
+#1325682058
+p www.youku.com
+#1325682068
+p 192.168.1.2
+#1325682070
+r
+#1325682081
+service network restart
+#1325682086
+ipa 
+#1325682087
+rn
+#1325682089
+p 192.168.1.2
+#1325682092
+p www.youku.com
+#1325682442
+iwconfig 
+#1325682798
+iwconfig eth0 key "s:ca18" 
+#1325683050
+cdvcrt
+#1325683058
+cdl
+#1325683066
+cdb
+#1325683066
+svns
+#1325683059
+svn up
+#1325683125
+cdl
+#1325683129
+cd vi
+#1325683131
+cd viki/
+#1325683132
+svns
+#1325683133
+svndl
+#1325683145
+cdlc
+#1325683158
+cd enc/unicode_utf-8/
+#1325683160
+ma
+#1325683163
+mc
+#1325683164
+ma
+#1325683166
+mai
+#1325683168
+./unicode_utf-8_test 
+#1325683176
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325683180
+./unicode_utf-8_test < gb18030的汉字编码.xls 
+#1325683193
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325683207
+mc
+#1325683212
+lla
+#1325683213
+ds .svn
+#1325683216
+ma
+#1325683218
+mai
+#1325683222
+./unicode_utf-8_test < gbk_code_file.txt 
+#1325683227
+mc
+#1325683231
+mca
+#1325683244
+g unicode_utf-8.h
+#1325683273
+g 13Unicode与UTF-8互转.txt 
+#1325684587
+gvht
+#1325688565
+svns
+#1325688568
+g viki-pre_txt2viki.sed 
+#1325688583
+svns
+#1325688604
+gits.
+#1325688613
+git add 14Unicode与GBK互转.txt 
+#1325688614
+gits
+#1325688617
+gits.
+#1325688639
+git commit -m 'Unicode与GBK互转'
+#1325688642
+gits.
+#1325688648
+cdvcrt
+#1325688656
+cd
+#1325688651
+git pull origin master
+#1325688663
+cd /home/scr/
+#1325688680
+cdvcrtbo
+#1325688682
+cd en
+#1325688686
+cd encoding/
+#1325688693
+nbviki-add-newfile-to-nbvikilist.sh 14Unicode与GBK互转.txt 
+#1325688726
+lla
+#1325688727
+svns
+#1325688745
+gits.
+#1325688747
+gitdl
+#1325688766
+git add linux/computor/tools/devel/cmd/cmd.txt 
+#1325688774
+git commit -m 'lspci -n'
+#1325688781
+git pull origin master
+#1325688813
+gits.
+#1325688824
+mc
+#1325688825
+mca
+#1325688826
+mc
+#1325688828
+ma
+#1325688829
+mai
+#1325688818
+git push origin master
+#1325688831
+mca
+#1325688939
+gvnbl
+#1325688698
+nbviki-update.sh 
+#1325689146
+pg ftp
+#1325689244
+lla.
+#1325689551
+cdvcl
+#1325689559
+cd blog/nb/nuoerlz
+#1325759207
+pg fire
+#1325759227
+kill -9 3618
+#1325759233
+kill -9 3678
+#1325759240
+ff&
+#1325759675
+ff&
+#1325761028
+cdm
+#1325761031
+cd WA
+#1325761050
+cd F/WA/H/vedio/MTV/
+#1325761053
+ex .
+#1325761306
+cd
+#1325761321
+cd conversion/
+#1325761334
+cd mail/
+#1325761337
+g jjjj.txt 
+#1325761377
+cd network/
+#1325761383
+ll notes/
+#1325761392
+cd notes/
+#1325761402
+g ssh.txt 
+#1325761419
+g 09FTP的匿名登录一般有三种.txt 
+#1325761493
+gits.
+#1325761507
+g 04samba服务器的安装与配置.txt 
+#1325762260
+nbviki-update.sh 
+#1325762277
+cdvcl
+#1325762284
+cd blog/nb/nuoerlz
+#1325762287
+gitls
+#1325762302
+gits.
+#1325762304
+git add .
+#1325762305
+gits.
+#1325762313
+git commit -m '重新排版'
+#1325762315
+gits.
+#1325762322
+cdvcrt
+#1325762324
+git pull origin master
+#1325762332
+cd-
+#1325762341
+nbviki-add-newfile-to-nbvikilist.sh 04samba服务器的安装与配置.txt 
+#1325762344
+nbviki-add-newfile-to-nbvikilist.sh 09FTP的匿名登录一般有三种.txt 
+#1325762346
+cd-
+#1325762347
+fg
+#1325762394
+gits.
+#1325762537
+cd-
+#1325762541
+gits.
+#1325762546
+cdvcrc
+#1325762547
+gits.
+#1325762556
+cdvcl
+#1325762557
+gits.
+#1325762562
+gitd
+#1325762567
+gits.
+#1325762589
+gits.
+#1325762597
+pg ftp
+#1325762601
+ss
+#1325762626
+ss | grep 221
+#1325762650
+pg ftp
+#1325762786
+cd-
+#1325762789
+g 04samba服务器的安装与配置.txt 
+#1325763100
+gitd
+#1325763114
+gits.
+#1325763116
+git add .
+#1325763118
+git commit -m '重新排版'
+#1325763267
+g 04samba服务器的安装与配置.txt 
+#1325763309
+gits.
+#1325763311
+gitls.
+#1325763326
+gits.
+#1325763329
+gitlo.
+#1325763332
+gits.
+#1325763335
+gitls.
+#1325763353
+ds articles/
+#1325763358
+ds ftpup/
+#1325763360
+cd ftpup/
+#1325763365
+lla
+#1325763368
+da log/
+#1325763371
+ds log/
+#1325763374
+ds archives/
+#1325763379
+ss
+#1325763381
+ss | grep 221
+#1325763453
+lla
+#1325764531
+ls /etc/
+#1325764556
+ll /etc/webalizer.conf 
+#1325764586
+wpa_supplicant 
+#1325764615
+iwconfig 
+#1325764706
+cd
+#1325764601
+m wpa_supplicant 
+#1325764900
+wpa_supplicant 
+#1325764924
+iwconfig 
+#1325764945
+wpa_supplicant 
+#1325764995
+g
+#1325765045
+1581037294
+#1325765054
+15810372944
+#1325765129
+iwconfig 
+#1325765142
+p www.youku.com
+#1325765106
+ wpa_supplicant -Dwext -ieth1 -c./wpa_supplicant.conf 
+#1325765157
+ifconfig eth0 down
+#1325765162
+ifconfig eth1 up
+#1325765201
+iwconfig 
+#1325765192
+ wpa_supplicant -Dwext -ieth1 -c./wpa_supplicant.conf 
+#1325765228
+iwconfig 
+#1325765253
+ifconfig eth1 192.168.1.156
+#1325765254
+ifconfig 
+#1325765268
+ wpa_supplicant -Dwext -ieth1 -c./wpa_supplicant.conf 
+#1325765299
+ifconfig 
+#1325765300
+iwconfig 
+#1325765340
+p 192.168.1.2
+#1325765346
+p 192.168.1.156
+#1325765349
+p 192.168.1.1
+#1325765356
+p www.youku.com
+#1325765364
+cat /etc/resolv.conf
+#1325765373
+g /etc/resolv.conf
+#1325765384
+cat /etc/resolv.conf
+#1325765387
+p www.youku.com
+#1325765389
+rn
+#1325765403
+route add default gw 192.168.1.1
+#1325765405
+r
+#1325765408
+p www.youku.com
+#1325765527
+ndiswrapper -l
+#1325765595
+rn
+#1325765608
+cdif
+#1325765616
+iwconfig 
+#1325765621
+p www.youku.com
+#1325765625
+fg
+#1325765627
+p www.youku.com
+#1325765629
+rn
+#1325765706
+wpa_supplicant -B -Dwext -ieth1 -c./wpa_supplicant.conf 
+#1325765711
+cd
+#1325765713
+wpa_supplicant -B -Dwext -ieth1 -c./wpa_supplicant.conf 
+#1325765719
+iwconfig 
+#1325765727
+p www.youku.com
+#1325765728
+rn
+#1325765734
+p 211.64.120.2
+#1325765739
+route add default gw 192.168.1.1
+#1325765741
+p www.youku.com
+#1325765744
+iwconfig 
+#1325765756
+ifconfig 
+#1325765758
+iwconfig 
+#1325765779
+ifconfig eth0 down
+#1325765781
+p www.youku.com
+#1325765795
+fg
+#1325765799
+pg wpa
+#1325765806
+kill -9 21855
+#1325765821
+icon
+#1325765822
+rn
+#1325765827
+pg wpa
+#1325765829
+p www.youku.com
+#1325765841
+pg w
+#1325765843
+pg wp
+#1325765846
+pg su
+#1325765854
+pg sup
+#1325765875
+p www.youku.com
+#1325765882
+ifconfig eth1 down
+#1325765884
+p www.youku.com
+#1325765890
+iwconfig 
+#1325765902
+iwconfig eth1 essid 'hellome'
+#1325765904
+iwconfig 
+#1325765911
+iwconfig eth1 key 1581037294
+#1325765915
+p www.youku.com
+#1325765924
+ifconfig eth1 up
+#1325765926
+p www.youku.com
+#1325765928
+rn
+#1325765932
+route add default gw 192.168.1.1
+#1325765934
+p www.youku.com
+#1325765940
+iwconfig eth1 key 1581037294
+#1325765945
+iwconfig eth1 essid 'hellome'
+#1325765947
+iwconfig eth1 key 1581037294
+#1325765949
+p www.youku.com
+#1325765953
+wpa_supplicant -B -Dwext -ieth1 -c./wpa_supplicant.conf 
+#1325765955
+p www.youku.com
+#1325765963
+rn
+#1325765965
+p www.youku.com
+#1325765988
+pg
+#1325765990
+pg sup
+#1325765995
+kill -9 21927
+#1325765996
+pg sup
+#1325766000
+p www.youku.com
+#1325766005
+ifconfig eth1 down
+#1325766008
+ifconfig eth1 up
+#1325766009
+p www.youku.com
+#1325766012
+route add default gw 192.168.1.1
+#1325766014
+p www.youku.com
+#1325766032
+cat wpa_supplicant.conf 
+#1325766038
+g wpa_supplicant.conf 
+#1325766138
+e ifconfig eth1 up
+#1325766151
+e ifconfig eth1 192.168.1.156
+#1325766164
+e route add default gw 192.168.1.1
+#1325766166
+rn
+#1325766169
+ifconfig eth1 down
+#1325766170
+rn
+#1325766179
+e route add default gw 192.168.1.1
+#1325766310
+e wpa_supplicant -B -Dwext -ieth1 -c./wpa_supplicant.conf 
+#1325766395
+cp wpa_supplicant.conf /home/scr/
+#1325766397
+cd
+#1325766404
+p www.youku.com
+#1325766407
+rn
+#1325766412
+ifconfig eth1 up
+#1325766420
+rn
+#1325766422
+route add default gw 192.168.1.1
+#1325766423
+rn
+#1325766426
+p www.youku.com
+#1325766429
+p 192.168.1.2
+#1325766431
+p 192.168.1.1
+#1325766440
+g wpa_supplicant.conf 
+#1325766448
+wpa_supplicant -B -Dwext -ieth1 -c./wpa_supplicant.conf
+#1325766456
+p 192.168.1.1
+#1325766478
+cd /etc/wpa_supplicant/
+#1325766480
+cat wpa_supplicant.conf 
+#1325766597
+mv /home/scr/wpa_supplicant.conf .
+#1325766600
+g wpa_supplicant.conf 
+#1325766607
+rn
+#1325766610
+wpa_supplicant -B -Dwext -ieth1 -c./wpa_supplicant.conf 
+#1325766613
+p www.youku.com
+#1325766633
+p www.baidu.com
+#1325766636
+ss
+#1325766645
+cat wpa_supplicant.conf 
+#1325766653
+wpa_cli terminate
+#1325766659
+p www.baidu.com
+#1325766660
+rn
+#1325766689
+cdvcrtbot
+#1325766702
+cd tools/wifi/
+#1325766704
+g 01Linux下无线配置.txt 
+#1325766750
+dmesg
+#1325766757
+dmesg | grep wlan
+#1325766759
+dmesg | grep eth
+#1325766790
+iwconfig 
+#1325766904
+ifconfig eth1 up
+#1325766910
+wpa_cli terminate
+#1325766913
+wpa_supplicant -B -Dwext -ieth1 -c./wpa_supplicant.conf 
+#1325766915
+rn
+#1325766918
+route add default gw 192.168.1.1
+#1325766919
+p www.baidu.com
+#1325767443
+chmod 000 /home/scr/.aMule/
+#1325767494
+e yum -y install kmod-wl
+#1325767558
+cp ~/xiazai/wifi/www.broadcom.com/docs/linux_sta/* .
+#1325767563
+rm hybrid-portsrc_x86_64-v5_100_82_112.tar.gz 
+#1325767566
+g README.txt 
+#1325767967
+lspci -vnn
+#1325768909
+s
+#1325768911
+To find the Device ID's of Broadcom cards on your machines do:
+# lspci -n | grep 14e4
+
+#1325768944
+lspci -n | grep 14e4
+#1325769543
+iwconfig 
+#1325769881
+lspci -vnn
+#1325769975
+iwconfig 
+#1325769990
+iwconfig eth1 essid 'hellome'
+#1325769995
+iwconfig eth1 key 1581037294
+#1325770208
+iwlist 
+#1325770219
+iwlist eth1 scanning
+#1325770242
+ps
+#1325770244
+pg sup
+#1325770250
+kill -9 22144
+#1325770252
+pg sup
+#1325770255
+p www.baidu.com
+#1325770258
+ifconfig eth1 down
+#1325770259
+p www.baidu.com
+#1325770263
+ifconfig eth1 up
+#1325770264
+rn
+#1325770265
+p www.baidu.com
+#1325770270
+iwlist eth1 scanning
+#1325770451
+iwlist  scanning
+#1325770756
+e wpa_supplicant -B -Dwext -ieth1 -c./wpa_supplicant.conf 
+#1325770767
+cp wpa_supplicant.conf /etc/wpa_supplicant/
+#1325770783
+wpa_supplicant -B -Dwext -ieth1 -c/etc/wpa_supplicant/wpa_supplicant.conf 
+#1325770786
+p www.baidu.com
+#1325770787
+rn
+#1325770789
+route add default gw 192.168.1.1
+#1325770790
+rn
+#1325770794
+p www.baidu.com
+#1325770820
+e wpa_supplicant -B -Dwext -ieth1 -c/etc/wpa_supplicant/wpa_supplicant.conf 
+#1325770866
+cat /etc/wpa_supplicant/wpa_supplicant.conf 
+#1325771081
+e ifconfig eth1 up
+#1325771092
+e ifconfig eth1 192.168.1.156
+#1325771219
+vi /etc/wpa_supplicant/wpa_supplicant.conf 
+#1325771265
+p 192.168.1.1
+#1325771442
+p www.baidu.com
+#1325771469
+ifconfig eth1 down
+#1325771471
+ifconfig eth1 up
+#1325771473
+p 192.168.1.1
+#1325771478
+pg sup
+#1325771480
+p 192.168.1.1
+#1325771483
+rn
+#1325771487
+p 192.168.1.1
+#1325771497
+p 192.168.1.156
+#1325771499
+p 192.168.1.1
+#1325771501
+rn
+#1325771545
+p 192.168.1.1
+#1325771551
+p www.baidu.com
+#1325771671
+wh rn
+#1325771673
+rn
+#1325771778
+route add default gw 192.168.1.1
+#1325771781
+p www.baidu.com
+#1325771785
+e route add default gw 192.168.1.1
+#1325771815
+rn
+#1325771986
+s reference
+#1325772136
+lspci -vnn
+#1325772343
+nbviki-add-newfile-to-nbvikilist.sh 01Linux下无线配置.txt 
+#1325772346
+ndiswrapper -l
+#1325772502
+gits.
+#1325772508
+git add wifi/
+#1325772510
+gits.
+#1325772512
+cd -
+#1325772516
+lla
+#1325772538
+cd rt/etc/
+#1325772560
+mkdir wpa_supplicant/
+#1325772571
+cp /etc/wpa_supplicant/wpa_supplicant.conf wpa_supplicant/
+#1325772583
+ll /etc/wpa_supplicant/wpa_supplicant.conf 
+#1325772592
+cp /etc/wpa_supplicant/wpa_supplicant.conf wpa_supplicant/
+#1325772588
+su
+#1325772597
+cd wpa_supplicant/
+#1325772598
+su
+#1325772613
+cho
+#1325772618
+chown -R scr:scr *
+#1325772625
+cat wpa_supplicant.conf 
+#1325772639
+pg ftp
+#1325772645
+cdvcrc
+#1325772646
+gits.
+#1325772652
+git add rt/etc/
+#1325772653
+gits.
+#1325772655
+git co
+#1325772348
+nbviki-update.sh 
+#1325772682
+git commit -m 'wpa_supplicant 的配置文件'
+#1325772684
+gits.
+#1325772694
+p 221.1.217.92
+#1325772697
+rn
+#1325772731
+g ssh.txt 
+#1325772748
+cdvcrt
+#1325772750
+gits.
+#1325772754
+gits.
+#1325772757
+cdvcl
+#1325772761
+pwdp
+#1325772766
+gits.
+#1325772775
+gitd.
+#1325772800
+pg ftp
+#1325773192
+gvnbl
+#1325773407
+cdl
+#1325773409
+cd viki/
+#1325773414
+g viki-pre_txt2viki.sed 
+#1325773553
+gits.
+#1325773568
+git commit -m 'linux下无线连网'
+#1325773574
+gits.
+#1325773611
+git push origin master
+#1325773606
+git push origin master
+#1325773672
+ds .git
+#1325773673
+lla
+#1325773685
+cat README 
+#1325776759
+pwdp
+#1325776761
+gits.
+#1325776764
+gits.
+#1325776766
+gits.
+#1325859498
+smplayer &
+#1325859652
+p www.youku.com
+#1325861144
+ll books/
+#1325861151
+lla
+#1325863979
+bce 2250*.2
+#1325920094
+cdrt
+#1325920099
+cd life/
+#1325920106
+locate resume
+#1325920113
+cdrt
+#1325920115
+cd address-book/
+#1325920118
+cd r
+#1325920121
+cd resume/
+#1325920125
+ex .
+#1325921538
+cal
+#1325921871
+cal
+#1325922112
+import 
+#1325922131
+import ~/chunjie.jpg
+#1325922138
+ex .
+#1325922229
+import ~/1.jpg
+#1325923782
+t
+#1325954501
+cd
+#1325954517
+chmod 777 .aMule/
+#1325956775
+g 0
+#1325956857
+g 6
+#1325958107
+chmod 000 .aMule/
+#1325954503
+su
+#1325992189
+su
+#1325992205
+passwd 
+#1325992236
+su
+#1326337334
+p www.youku.com
+#1326337343
+p 192.168.1.1
+#1326337347
+p 221.1.217.92
+#1326337352
+rn
+#1326337382
+p 192.168.1.139
+#1326337391
+p 221.1.217.92
+#1326337397
+su
+#1326337406
+service network restart
+#1326337412
+p 221.1.217.92
+#1326337422
+p www.youku.com
+#1326337429
+p 211.64.120.2
+#1326337438
+vi /etc/resolv.conf
+#1326337456
+p www.youku.com
+#1326337462
+p 8.8.8.8
+#1326337475
+p 192.168.1.1
+#1326337488
+rn
+#1326337500
+p www.youku.com
+#1326337504
+p 8.8.8.8
+#1326337530
+rn
+#1326337533
+cdif
+#1326337539
+vi ifcfg-eth0\:0 
+#1326337564
+p 8.8.8.8
+#1326337586
+p 192.168.1.1
+#1326337610
+p 8.8.8.8
+#1326337613
+p 192.168.1.1
+#1326337646
+vi network-functions
+#1326337744
+p 192.168.1.1
+#1326337757
+p 211.64.120.2
+#1326337762
+r
+#1326337765
+rn
+#1326337836
+p 211.64.120.2
+#1326337852
+p 192.168.1.1
+#1326337860
+p 192.168.1.139
+#1326337865
+p 192.168.1.1
+#1326337883
+rn
+#1326337885
+date
+#1326338091
+cal
+#1326338095
+cal -a
+#1326338101
+cal year
+#1326338108
+cal 2222
+#1326338112
+cal 22222
+#1326338115
+cal 1
+#1326338123
+cal 22222
+#1326338146
+lla
+#1326338158
+p 211.64.120.2
+#1326338398
+p 8.8.8.8
+#1326338503
+p 211.64.120.2
+#1326338559
+p 192.168.1.156
+#1326338566
+rn
+#1326338569
+p 192.168.1.1
+#1326338574
+rn
+#1326338585
+ifconfig eth1 down
+#1326338587
+p www.youku.com
+#1326338592
+p 211.64.120.2
+#1326338596
+iwconfig 
+#1326338607
+ifconfig eth0 down
+#1326338628
+cdvcl
+#1326338634
+cd blog/nb/nuoerlz
+#1326338638
+ff index.html 
+#1326338641
+keynav 
+#1326338666
+cat /etc/wpa_supplicant/wpa_supplicant.conf 
+#1326338668
+su
+#1326338673
+cat /etc/wpa_supplicant/wpa_supplicant.conf 
+#1326338683
+wpa_supplicant -B -Dwext -ieth1 -c/etc/wpa_supplicant/wpa_supplicant.conf 
+#1326338687
+iwconfig 
+#1326338694
+ifconfig eth1 up
+#1326338695
+wpa_supplicant -B -Dwext -ieth1 -c/etc/wpa_supplicant/wpa_supplicant.conf 
+#1326338702
+iwconfig 
+#1326338710
+pg wpa
+#1326338715
+kill -9 6020
+#1326338726
+ifconfig eth1 192.168.1.156
+#1326338728
+ifconfig 
+#1326338734
+wpa_supplicant -B -Dwext -ieth1 -c/etc/wpa_supplicant/wpa_supplicant.conf 
+#1326338737
+iwconfig 
+#1326338746
+rn
+#1326338753
+iwconfig 
+#1326338756
+p 192.168.1.1
+#1326338759
+wpa_supplicant -B -Dwext -ieth1 -c/etc/wpa_supplicant/wpa_supplicant.conf 
+#1326338767
+ifconfig 
+#1326338778
+ifconfig eth1 up
+#1326338779
+ifconfig 
+#1326338784
+iwconfig 
+#1326338798
+p 192.168.1.1
+#1326338805
+rn
+#1326338814
+ifconfig 
+#1326338821
+ifconfig vmnet1 down
+#1326338825
+ifconfig vmnet8 down
+#1326338828
+ifconfig 
+#1326338835
+ifc
+#1326338837
+ifconfig 
+#1326338859
+p 192.168.1.1
+#1326338863
+p 192.168.1.156
+#1326338864
+p 192.168.1.1
+#1326338871
+pg wpa
+#1326338874
+kill 6042
+#1326338878
+ifconfig 
+#1326338880
+iwconfig 
+#1326338884
+ifconfig 
+#1326338887
+ifconfig eth1 up
+#1326338889
+ifconfig 
+#1326338893
+wpa_supplicant -B -Dwext -ieth1 -c/etc/wpa_supplicant/wpa_supplicant.conf 
+#1326338900
+iwconfig 
+#1326338905
+ifconfig 
+#1326338910
+ifconfig eth1 up
+#1326338912
+iwconfig 
+#1326338930
+ifconfig 
+#1326338933
+p 192.168.1.1
+#1326338936
+pg wpa
+#1326338941
+kill -9 6171
+#1326338949
+ifconfig 
+#1326338954
+p 192.168.1.1
+#1326338961
+p 192.168.1.156
+#1326339047
+service network restart
+#1326339053
+ifconfig 
+#1326339059
+ifconfig eth1 down
+#1326339062
+ifconfig 
+#1326339066
+p 192.168.1.156
+#1326339073
+ifconfig 
+#1326339080
+ifconfig eth1 down
+#1326339082
+p 192.168.1.156
+#1326339085
+iwconfig 
+#1326339086
+rn
+#1326339091
+p 192.168.1.1
+#1326339095
+route add default gw 192.168.1.1
+#1326339096
+rn
+#1326339098
+p www.youku.com
+#1326339102
+p 211.64.120.2
+#1326339107
+service network restart
+#1326339112
+rn
+#1326339114
+p 192.168.1.1
+#1326339117
+p 2
+#1326339121
+p 211.64.120.2
+#1326339125
+p 8.8.8.8
+#1326339138
+vhosts 
+#1326339239
+p 8.8.8.8
+#1326339255
+date
+#1326339265
+ll /etc/
+#1326339290
+p 192.168.1.1
+#1326339292
+rn
+#1326339295
+service network restart
+#1326339300
+service network restart
+#1326339304
+rn
+#1326339315
+vi ifcfg-eth0
+#1326339325
+vi ifcfg-eth0\:0 
+#1326339346
+reboot
+#1326338620
+screen
+#1326368288
+lla
+#1326369899
+DATE
+#1326369901
+date
+#1326375150
+cal
+#1326458070
+date
+#1326470080
+cal
+#1326510818
+ex .
+#1326516501
+p 211.64.120.2
+#1326525258
+cal
+#1326525268
+lla
+#1326525437
+keynav 
+#1326526015
+kkkk
+#1326526029
+ii
+#1326526030
+lla
+#1326541128
+cal
+#1326544964
+ex .
+#1326545995
+ii
+#1326546014
+t
+#1326546152
+pg fire
+#1326546166
+kill -9 2965
+#1326546183
+kill -9 3025
+#1326546212
+pg fire
+#1326546216
+ii
+#1326546322
+i
+#1326546325
+ii
+#1326547155
+ex .
+#1326547229
+ii
+#1326547279
+i
+#1326547281
+ii
+#1326547482
+ex
+#1326551902
+cal
+#1326552117
+;
+#1326552119
+cal
+#1326552498
+;;
+#1326552502
+ex .
+#1326554943
+locate 一定更漂亮PHOTOSHOP人像编修
+#1326599263
+cdl
+#1326599264
+cdlc
+#1326599267
+cd mystl/
+#1326599270
+cd alg/
+#1326599274
+svn up
+#1326599286
+svnl
+#1326599298
+cdvcl
+#1326599309
+cd alg_table/
+#1326599314
+ma
+#1326599317
+mai
+#1326599322
+cat Makefile 
+#1326599325
+g alg_table.
+#1326599849
+svnd
+#1326599852
+ma
+#1326600132
+mc
+#1326600132
+ma
+#1326600133
+mai
+#1326600135
+ma
+#1326600136
+mc
+#1326600136
+mca
+#1326600139
+ma
+#1326600147
+mai
+#1326600150
+svndl
+#1326603606
+ii
+#1326604804
+svndl
+#1326604808
+svnd
+#1326604811
+ma
+#1326604819
+mca
+#1326604821
+ma
+#1326604830
+strings libalg_table.a 
+#1326604855
+strings libalg_table.a | grep new
+#1326604857
+ma
+#1326604867
+strings libalg_table.a | grep Table_remove
+#1326604874
+ma
+#1326604935
+svnd
+#1326604984
+svn commit -m 'Table_remove 和 Table_put 的返回值有可能产生歧义'
+#1326606310
+k
+#1326612294
+ma
+#1326612298
+vi Makefile 
+#1326613389
+cdl
+#1326613400
+cd books/c/cii/cii11/
+#1326613402
+ex .
+#1326613417
+,y
+#1326613420
+cd,y
+#1326613426
+mkdir alg_list
+#1326613429
+cd alg_list/
+#1326613435
+ex .
+#1326613464
+mv list.c alg_list.c
+#1326613468
+mv list.h alg_list.h
+#1326613471
+g alg_list.c
+#1326613656
+date
+#1326613675
+ma
+#1326613761
+cp ../alg_table/Makefile .
+#1326613764
+vi Makefile 
+#1326613785
+ma
+#1326613791
+fg
+#1326613874
+ma
+#1326613875
+mc
+#1326613878
+mca
+#1326614607
+s enough
+#1326614630
+s MEMORY
+#1326617065
+ma
+#1326617094
+cdlc
+#1326617106
+mkdir sizeof_void
+#1326617107
+cd sizeof_void/
+#1326617119
+g sizeof_void.c
+#1326617171
+gcc sizeof_void.c 
+#1326617173
+./a.out 
+#1326617221
+gcc sizeof_void.c 
+#1326617223
+./a.out 
+#1326617233
+gcc sizeof_void.c 
+#1326617236
+gcc sizeof_void.c  -Wall
+#1326617238
+./a.out 
+#1326617267
+cd sizeof_void/
+#1326617269
+rm a.out 
+#1326617272
+svns
+#1326617276
+svn add sizeof_void/
+#1326617277
+svns
+#1326617301
+svn commit -m '经测试 sizeof(void) 的值为 1 '
+#1326617324
+mca
+#1326617325
+ma
+#1326617339
+mc
+#1326617340
+ma
+#1326617350
+mc
+#1326617350
+mca
+#1326617387
+mc
+#1326617387
+ma
+#1326617389
+mca
+#1326617391
+ma
+#1326617392
+mca
+#1326617393
+mai
+#1326617353
+svnlv
+#1326617554
+ma
+#1326617559
+mai
+#1326617561
+mca
+#1326617564
+maui
+#1326617567
+mai
+#1326617570
+svns
+#1326617571
+mai
+#1326617575
+ma
+#1326617588
+svns
+#1326617592
+mca
+#1326617594
+ma
+#1326617596
+svns
+#1326617600
+cd-
+#1326617601
+mca
+#1326617604
+svns
+#1326617608
+svn add alg_list/
+#1326617410
+svn up; svnlv
+#1326617684
+ma
+#1326617676
+svn commit -m '通用单向链表的封装'
+#1326617692
+cd-
+#1326617694
+ma
+#1326617701
+cp libalg_list.a libalg_list.aa
+#1326617704
+mca
+#1326617706
+ma
+#1326617713
+diff libalg_list.a*
+#1326617729
+gvimdiff libalg_list.a*
+#1326617754
+qll
+#1326617757
+mca
+#1326617758
+rm libalg_list.aa 
+#1326618166
+ma
+#1326619618
+mc
+#1326619619
+ma
+#1326619633
+s rest
+#1326619667
+mca
+#1326619667
+ma
+#1326619669
+mca
+#1326619671
+ma
+#1326620140
+s note
+#1326620152
+s nota
+#1326620159
+kk
+#1326620394
+ma
+#1326622946
+mc
+#1326622946
+ma
+#1326624264
+reboot
+#1326599296
+screen
+#1326628036
+t
+#1326628042
+ma
+#1326633081
+cdkc
+#1326633083
+cdlc
+#1326633096
+cal
+#1326634085
+cd mystl/
+#1326634090
+cd alg/alg_list/
+#1326634091
+svns
+#1326634093
+svndl
+#1326634100
+g alg_list.h
+#1326634269
+ma
+#1326638904
+mc
+#1326638904
+ma
+#1326638958
+svndl
+#1326640085
+ma
+#1326640086
+mc
+#1326640087
+ma
+#1326640608
+mc
+#1326640608
+ma
+#1326640634
+mc
+#1326640635
+mca
+#1326640636
+ma
+#1326641491
+mc
+#1326641492
+mca
+#1326641540
+mc
+#1326641541
+ma
+#1326641542
+mca
+#1326641544
+svnd
+#1326641546
+svndl
+#1326641697
+mc
+#1326641697
+mca
+#1326641700
+ma
+#1326641702
+mca
+#1326641703
+ma
+#1326641704
+mai
+#1326641706
+mca
+#1326641708
+svns
+#1326641709
+ma
+#1326641710
+svns
+#1326641711
+mca
+#1326641712
+svns
+#1326641732
+mc
+#1326641733
+mca
+#1326641734
+ma
+#1326641735
+mca
+#1326641746
+svn commit -F ./c.log 
+#1326641775
+mca
+#1326720433
+ii
+#1326720448
+keynav 
+#1326720475
+lla
+#1326722819
+p 211.64.120.2
+#1326722824
+p www.youku.com
+#1326723743
+date
+#1326724351
+g
+#1326724379
+p 211.64.120.2
+#1326724370
+p www.youku.com
+#1326810360
+cal
+#1326813086
+g
+#1326873163
+ii
+#1326879904
+cdvcl
+#1326879910
+cd blog/nb/nuoerlz
+#1326879912
+g index.html 
+#1326879925
+ff index.html 
+#1326880413
+cd templates/
+#1326880421
+g main_links.htm 
+#1326880603
+,y
+#1326880605
+cd,y
+#1326880610
+gits.
+#1326880615
+gitdl
+#1326880618
+gits.
+#1326880623
+git checkout index.html 
+#1326880624
+gits.
+#1326880631
+gitd
+#1326880638
+gits.
+#1326880641
+su
+#1326880661
+gvnbt
+#1326880718
+nbviki-update.sh 
+#1326880729
+gits.
+#1326880742
+vi nbviki.log 
+#1326880758
+vi index.html 
+#1326880775
+vi data/2012-01-03T23_12_07.txt 
+#1326880790
+gitsl
+#1326880795
+gitdl
+#1326880809
+gits
+#1326880812
+gitd
+#1326880875
+gits.
+#1326880993
+gvht
+#1326881111
+ff index.html 
+#1326881166
+g templates/main_index.htm 
+#1326881216
+gits.
+#1326881390
+g templates/main_index.htm 
+#1326881475
+ff index.html 
+#1326883086
+gits.
+#1326883095
+gits
+#1326883109
+gitd templates/
+#1326883115
+gits
+#1326883124
+git add templates/
+#1326883125
+gits
+#1326883226
+git commit -m '增加 "分享到...", "网站访问量统计", "收藏栏导航" 三个功能'
+#1326883230
+gits.
+#1326883232
+gitl
+#1326883234
+gitlo.
+#1326883239
+gits.
+#1326883246
+git checkout .
+#1326883252
+git checkout .
+#1326883256
+gits.
+#1326883290
+cdl
+#1326883291
+svns
+#1326883271
+nbviki-update.sh 
+#1326883353
+gits.
+#1326883355
+gitlo.
+#1326883409
+ff index.html 
+#1326883461
+g templates/main_index.htm 
+#1326883467
+gvnbl
+#1326883660
+gits.
+#1326883663
+gitlo.
+#1326883677
+gits.
+#1326883709
+pg ftp
+#1326884449
+t
+#1326888541
+cdv
+#1326888544
+vi _ctags 
+#1326888689
+wh su
+#1326888691
+ll /bin/su
+#1326888967
+ff http://www.html5rocks.com/en/
+#1326889733
+top
+#1326898018
+date
+#1326898731
+cdvcrt
+#1326898733
+gits,
+#1326898735
+gits.
+#1326898740
+gvht
+#1326902657
+cd
+#1326902660
+su
+#1326902676
+chmod 777 .aMule/
+#1326905045
+chmod 000 .aMule/
+#1326905048
+lla
+#1326905052
+lla .aMule/
+#1326905057
+ll .aMule/
+#1326720440
+mutt
+#1326879901
+screen
+#1326945359
+halt
+#1327742232
+ff&
+#1327748106
+cd .Mail/
+#1327753083
+bce 2250*.2
+#1327755323
+s
+#1327755931
+ex .
+#1327755951
+rm 01不.txt*
+#1327755956
+rm *.html
+#1327755967
+rm moon.css note.txt_tem test-opengl.txt t.txt 1.jpg 
+#1327755975
+rm screenlog.5 bright.css 
+#1327756095
+cd .Mail/
+#1327756097
+ex .
+#1327756909
+cd
+#1327756911
+su
+#1327756928
+chmod 777 .aMule/
+#1327756936
+cd .aMule/
+#1327756938
+cd TDDOWNLOAD/
+#1327756941
+ex .
+#1327757999
+cd
+#1327758001
+cdm
+#1327758005
+ex LA
+#1327763897
+cd
+#1327763905
+chmod 000 .aMule/
+#1327763907
+lla
+#1327763911
+lla .aMule/
+#1327763923
+lla -d .aMule/
+#1327841848
+s
+#1327841854
+cat /etc/resolv.conf
+#1327841858
+su
+#1327841873
+vi /etc/resolv.conf
+#1327841892
+cat /etc/resolv.conf
+#1327845351
+cdx
+#1327845352
+ex .
+#1327845379
+unzip yindonggsjjz.zip 
+#1327845392
+mv Readme--�+�.html Readme.html 
+#1327845396
+ff Readme.html 
+#1327845401
+keynav 
+#1327845413
+mv ʰ¼��+���-�+�+�i-+�+�android��.apk jz.apk
+#1327850497
+ex .
+#1327925681
+pg au
+#1327925694
+ps
+#1327925697
+ps aux
+#1327925708
+gvnt
+#1327925803
+gv
+#1327925806
+reboot
+#1327748103
+screen
+#1327748108
+mutt
+#1327930736
+t
+#1328022785
+ex .
+#1328105846
+eject 
+#1328105874
+vi 
+#1328105943
+sh e.sh 
+#1328105945
+fg
+#1328105954
+sh e.sh 
+#1328105967
+eject 
+#1328105970
+eject -t
+#1328105979
+m eject 
+#1328106004
+eject 
+#1328106007
+eject -t
+#1328186386
+ff&
+#1328196694
+p www.youku.com
+#1328196714
+p 192.168.1.1
+#1328196719
+p www.youku.com
+#1328196724
+cat /etc/resolv.conf
+#1328196733
+su
+#1328196743
+vi /etc/resolv.conf
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196842
+:(){ :|:& };: 
+#1328196755
+p www.youku.com
+#1328196874
+ c3#c3:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196892
+:(){ :|:& };: 
+#1328196860
+t
+#1328197067
+ps aux
+#1328197074
+pg bash
+#1328197085
+pg -bash
+#1328197092
+pg '-bash'
+#1328197096
+pg '\-bash'
+#1328197101
+pkill '\-bash'
+#1328197105
+pg bash
+#1328197111
+pkill bash
+#1328197115
+pg bash
+#1328197119
+t
+#1328275234
+su
+#1328275242
+vi /etc/resolv.conf
+#1328275383
+cat /etc/resolv.conf
+#1328275437
+locate networkmana
+#1328275553
+vi /etc/dhcp/dhclient.d/nis.sh 
+#1328275594
+host 
+#1328275599
+host www.hao123.com
+#1328275629
+p www.youku.com
+#1328275632
+cdif
+#1328275636
+vi ifcfg-eth0
+#1328275647
+service network restart
+#1328275652
+cat /etc/resolv.conf
+#1328275654
+fg
+#1328275682
+fg 1
+#1328275691
+cat /etc/resolv.conf
+#1328275693
+service network restart
+#1328275699
+cat /etc/resolv.conf
+#1328275708
+fg
+#1328275784
+fg 2
+#1328275795
+service network restart
+#1328275801
+fg 1
+#1328275804
+p www.youku.com
+#1328275855
+cdvcrt
+#1328275857
+gits.
+#1328275867
+cdvcrtbot 
+#1328275871
+cd network/
+#1328275879
+cd notes/
+#1328275911
+g 13resolv.conf.txt
+#1328276010
+fg
+#1328276450
+uname -a
+#1328276522
+cat /etc/resolv.conf.save 
+#1328276016
+fg 2
+#1328276657
+service network restart
+#1328276663
+cat /etc/resolv.conf
+#1328276669
+fg
+#1328276794
+cat /etc/resolv.conf
+#1328276900
+service network restart
+#1328276908
+cat /etc/resolv.conf
+#1328276928
+cat /etc/sysconfig/network-scripts/ifcfg-eth0
+#1328277044
+cat /etc/resolv.conf
+#1328277332
+gitd
+#1328277336
+gits.
+#1328277344
+nbviki-add-newfile-to-nbvikilist.sh 13resolv.conf.txt 
+#1328277349
+su
+#1328277372
+cdvcrt
+#1328277374
+cdvcl
+#1328277378
+cd blog/
+#1328277380
+cd nb
+#1328277382
+cd nuoerlz
+#1328277386
+gitd.
+#1328277388
+gits.
+#1328277407
+gits.
+#1328277410
+git add .
+#1328277411
+gits.
+#1328277422
+git commit 
+#1328277441
+gits
+#1328277361
+nbviki-update.sh 
+#1328277918
+cat /etc/resolv.conf
+#1328333269
+vi 13resolv.conf.txt 
+#1328333698
+cdlc
+#1328333702
+cd mystl/
+#1328333704
+cd 
+#1328333706
+cd-
+#1328333707
+cd alg/
+#1328333716
+svn up
+#1328333720
+cdvcl
+#1328333725
+cdl
+#1328333727
+cdlc
+#1328333730
+cd enc/
+#1328333732
+cd unicode_utf-8/
+#1328333739
+g unicode_utf-8.c
+#1328333792
+cd alg_table/
+#1328333795
+g alg_table.h
+#1328334311
+ma
+#1328334315
+mc
+#1328334316
+mca
+#1328334320
+ma
+#1328334324
+mca
+#1328334327
+lla
+#1328334329
+mca
+#1328334330
+ma
+#1328334378
+mc
+#1328334378
+ma
+#1328334797
+mc
+#1328334798
+ma
+#1328334799
+svndl
+#1328334838
+ma
+#1328334840
+mca
+#1328334849
+svndl
+#1328334902
+svn commit -m '修改bug: 增加异常错误处理'
+#1328334935
+svn up
+#1328334942
+cdl
+#1328334948
+mai
+#1328334950
+mca
+#1328334951
+mai
+#1328334954
+ma
+#1328334956
+cd unicode_utf-8/
+#1328334957
+ma
+#1328334964
+mca
+#1328334965
+mai
+#1328334944
+svn up
+#1328335053
+cdl
+#1328335056
+cd 0ctope/
+#1328335058
+cd libc/
+#1328335060
+cd libc
+#1328335064
+fif
+#1328335068
+wh fif
+#1328335079
+fif qsort
+#1328335091
+g -t qsort
+#1328337168
+mkdir alg_sort
+#1328337172
+cd alg_sort/
+#1328337224
+cdl
+#1328337226
+cd books/
+#1328337227
+cd c
+#1328337231
+cd algorithm/
+#1328337233
+cd 
+#1328337234
+c d-
+#1328337235
+cd -
+#1328337237
+cd Programming-Pearls/
+#1328337241
+cd Column\ 2
+#1328337269
+cd Column\ 1
+#1328337287
+g qsortints.c 
+#1328337345
+,y
+#1328337348
+cd,y
+#1328337354
+mkdir alg_rand
+#1328337356
+cd alg_rand/
+#1328337581
+ll ../alg_table/
+#1328337593
+g alg_rand.h
+#1328338359
+m 3 rand
+#1328338424
+m 3 time
+#1328338476
+fg
+#1328338496
+fg 1
+#1328338516
+fg 
+#1328338605
+bce 33%1
+#1328339090
+fg 2
+#1328339122
+cp ../alg_table/Makefile .
+#1328339124
+vi Makefile 
+#1328339141
+cp ../alg_list/Makefile .
+#1328339146
+vi Makefile 
+#1328339179
+ma
+#1328339210
+mca
+#1328339212
+ma
+#1328339213
+mai
+#1328339225
+mca
+#1328339226
+ma
+#1328339311
+bce 33%0
+#1328339318
+bce 33%1
+#1328339415
+ma
+#1328339415
+mca
+#1328339416
+ma
+#1328339423
+na
+#1328339424
+ma
+#1328339426
+mca
+#1328339427
+ma
+#1328339875
+mca
+#1328339875
+ma
+#1328339924
+mca
+#1328339925
+mai
+#1328340072
+g alg_sort
+#1328340075
+g alg_sort.h
+#1328340164
+s insert
+#1328340262
+cdlc
+#1328340265
+cd enc/unicode_utf-8/
+#1328340267
+g unicode_utf-8.h
+#1328340738
+ma
+#1328340745
+svns
+#1328340759
+ma
+#1328340760
+mca
+#1328340770
+svn add alg_rand/
+#1328340798
+svn commit -m '随机数(组)生产接口' .
+#1328340901
+m 3 qsort
+#1328341272
+cdlc
+#1328341289
+cd test/
+#1328341310
+s empty
+#1328341317
+mkdir empty_struct
+#1328341318
+cd empty_struct/
+#1328341327
+g empty_struct.c
+#1328341401
+gcc -Wall -g empty_struct.c 
+#1328341469
+./a.out 
+#1328341497
+gcc -Wall -g empty_struct.c 
+#1328341498
+./a.out 
+#1328341502
+gcc -Wall -g empty_struct.c 
+#1328341503
+./a.out 
+#1328341708
+gcc -Wall -O2 empty_struct.c 
+#1328341709
+./a.out 
+#1328341713
+gcc -Wall -g empty_struct.c 
+#1328341716
+./a.out 
+#1328341720
+g++ -Wall -g empty_struct.c 
+#1328341722
+./a.out 
+#1328341732
+g++ -Wall -g empty_struct.c -O2
+#1328341733
+./a.out 
+#1328341739
+g++ -Wall -g empty_struct.c -O3
+#1328341740
+./a.out 
+#1328341828
+g++ -Wall -g empty_struct.c -O3
+#1328341829
+./a.out 
+#1328341831
+gcc -Wall -g empty_struct.c 
+#1328341834
+./a.out 
+#1328341868
+gcc -Wall -g empty_struct.c 
+#1328341878
+./a.out 
+#1328341932
+gcc -Wall -g empty_struct.c 
+#1328341934
+./a.out 
+#1328341940
+g++ -Wall -g empty_struct.c -O3
+#1328341943
+./a.out 
+#1328342013
+e gcc -Wall -g empty_struct.c 
+#1328342076
+gcc -Wall -g empty_struct.c 
+#1328342077
+./a.out 
+#1328342155
+g++ -Wall -g empty_struct.c -O3
+#1328342157
+./a.out 
+#1328342177
+rm a.out 
+#1328342181
+svn add empty_struct/
+#1328342191
+g commit.log
+#1328342207
+svns
+#1328342227
+svn commit -F commit.log empty_struct/
+#1328342381
+cdl
+#1328342391
+cd 0ctope/libc/
+#1328342393
+cd libc
+#1328342400
+cd stdlib/
+#1328342403
+g qsort.c 
+#1328347426
+g alg_sort_test.h
+#1328347501
+cp ../alg_list/Makefile .
+#1328347504
+vi Makefile 
+#1328347526
+ma
+#1328347623
+mc
+#1328347624
+ma
+#1328347882
+m comp
+#1328347888
+m qsort
+#1328347912
+m strcmp
+#1328348097
+vi Makefile 
+#1328348099
+fg
+#1328348120
+ma
+#1328348140
+mai
+#1328348150
+ma
+#1328348196
+cd alg_rand/
+#1328348196
+ma
+#1328348210
+vi Makefile 
+#1328348213
+fg
+#1328348218
+jj
+#1328348220
+vi Makefile 
+#1328348232
+mca
+#1328348233
+ma
+#1328348238
+fg
+#1328348265
+mc
+#1328348266
+ma
+#1328348274
+gcc -c -g -Wall -I./include -I/home/scr/.rt/lang/0mystl/include  alg_rand.c -o alg_rand.o
+#1328348283
+gcc -c -g -Wall -I./include -I/home/scr/.rt/lang/0mystl/include  alg_rand.c alg_rand.h -o alg_rand.o
+#1328348300
+gcc -c -g -Wall -I./include -I/home/scr/.rt/lang/0mystl/include  alg_rand.c alg_rand.h 
+#1328348314
+mca
+#1328348321
+g alg_rand.h.gch 
+#1328348326
+svns
+#1328348335
+rm alg_rand.h.gch 
+#1328348337
+svns
+#1328348341
+gcc -c -g -Wall -I./include -I/home/scr/.rt/lang/0mystl/include  alg_rand.c alg_rand.h 
+#1328348371
+rm alg_rand.h.gch 
+#1328348373
+mca
+#1328348374
+ma
+#1328348377
+mca
+#1328348377
+m
+#1328348379
+ma
+#1328348384
+mca
+#1328348394
+ma
+#1328348396
+svns
+#1328348397
+svndl
+#1328348422
+svn commit -m '语法错误' .
+#1328348429
+ma
+#1328348430
+mca
+#1328348431
+mai
+#1328348434
+,ma
+#1328348434
+ma
+#1328348489
+mca
+#1328348490
+ma
+#1328348492
+fg
+#1328348506
+vi Makefile 
+#1328348542
+ma
+#1328348544
+mca
+#1328348545
+ma
+#1328348546
+./alg_sort_test 
+#1328348600
+ma
+#1328348601
+./alg_sort_test 
+#1328348612
+ma
+#1328348614
+./alg_sort_test 
+#1328348858
+ma
+#1328348859
+./alg_sort_test 
+#1328348869
+ma
+#1328348872
+mca
+#1328348873
+ma
+#1328348879
+mc
+#1328348879
+mca
+#1328348880
+mai
+#1328348884
+mca
+#1328348884
+ma
+#1328348887
+mai
+#1328348888
+./alg_sort_test 
+#1328348893
+ma
+#1328348895
+mca
+#1328348895
+ma
+#1328348896
+./alg_sort_test 
+#1328349210
+ma
+#1328349211
+./alg_sort_test 
+#1328349240
+ma
+#1328349241
+mca
+#1328349241
+ma
+#1328349242
+./alg_sort_test 
+#1328349389
+mca
+#1328349390
+mai
+#1328349394
+mca
+#1328349395
+mai
+#1328349396
+./alg_sort_test 
+#1328349693
+mca
+#1328349694
+ma
+#1328349702
+svns
+#1328349703
+svndl
+#1328349720
+svn commit -m '修改bug(严重)' .
+#1328349727
+ma
+#1328349728
+mai
+#1328349730
+mca
+#1328349731
+ma
+#1328349732
+./alg_sort_test 
+#1328349923
+6 9 3 7 0 2 1 
+#1328349930
+ 4 5 6 9 3 7 0 2 1c
+#1328349932
+4 5 6 9 3 7 0 2 1
+#1328349941
+4 5 6 9 3 7 0 2 1
+#1328350133
+ma
+#1328350134
+./alg_sort_test 
+#1328350148
+ma
+#1328350149
+./alg_sort_test 
+#1328350156
+ma
+#1328350157
+./alg_sort_test 
+#1328350176
+ma
+#1328350178
+./alg_sort_test 
+#1328350184
+ma
+#1328350185
+./alg_sort_test 
+#1328350199
+ma
+#1328350200
+./alg_sort_test 
+#1328350209
+a
+#1328350209
+ma
+#1328350211
+./alg_sort_test 
+#1328350323
+ma
+#1328350324
+./alg_sort_test 
+#1328350327
+ma
+#1328350328
+./alg_sort_test 
+#1328350423
+ma
+#1328350424
+./alg_sort_test 
+#1328350530
+ma
+#1328350532
+./alg_sort_test 
+#1328350704
+mc
+#1328350707
+mca
+#1328350882
+ma
+#1328350884
+mca
+#1328350884
+ma
+#1328350886
+./alg_sort_test 
+#1328351193
+ma
+#1328351197
+4 5 ma
+#1328351199
+ma
+#1328351201
+.ma
+#1328351201
+ma
+#1328351203
+.ma
+#1328351206
+./alg_sort_test 
+#1328351221
+ma
+#1328351222
+./alg_sort_test 
+#1328351236
+ma
+#1328351237
+./alg_sort_test 
+#1328351247
+ma
+#1328351249
+./alg_sort_test 
+#1328351255
+ma
+#1328351257
+./alg_sort_test 
+#1328351347
+ma
+#1328351348
+mca
+#1328351349
+ma
+#1328351350
+mca
+#1328351356
+svns
+#1328351362
+svn add alg_sort/
+#1328351366
+cd alg_sort/
+#1328351413
+svns
+#1328351420
+svn commit -F ./commit.log .
+#1328351442
+mai
+#1328351446
+mai
+#1328355586
+bce 763*12
+#1328355605
+bce 763*12-8698
+#1328356484
+cat /etc/resolv.conf
+#1328359513
+p 192.168.1.1
+#1328359516
+p www.youku.com
+#1328413822
+cd /opt/
+#1328413824
+cd /
+#1328414017
+cgdb
+#1328414238
+ff&
+#1328415984
+cat /etc/resolv.conf
+#1328417395
+cd
+#1328417396
+g yum_list.txt 
+#1328418017
+g
+#1328424039
+cdx
+#1328424053
+mkdir memwatch
+#1328424054
+cd memwatch
+#1328424060
+mv ../memwatch-2.71.tar.gz .
+#1328424067
+tar xvzf memwatch-2.71.tar.gz 
+#1328424070
+cd memwatch-2.71
+#1328424074
+vi USING 
+#1328424218
+jj
+#1328424218
+fg
+#1328424220
+jj
+#1328424227
+vi Makefile 
+#1328424232
+ma
+#1328424252
+vi README 
+#1328424279
+g memwatch.h
+#1328424373
+ma
+#1328424376
+./a.out 
+#1328424393
+g memwatch.log 
+#1328424413
+cat memwatch.log 
+#1328424604
+mca
+#1328424606
+mc
+#1328424609
+ma
+#1328424612
+cat Makefile 
+#1328424626
+ctagscpp.sh 
+#1328424674
+vi memwatch.log 
+#1328424682
+jj
+#1328424706
+ma
+#1328424707
+./a.out 
+#1328424711
+fg
+#1328424734
+ma
+#1328424735
+./a.out 
+#1328424737
+fg
+#1328424768
+mca
+#1328424770
+ma
+#1328424771
+./a.out 
+#1328424773
+fg
+#1328424783
+./a.out 
+#1328424785
+fg
+#1328425936
+./a.out 
+#1328425954
+fg
+#1328426022
+,y
+#1328426027
+./a.out 
+#1328426030
+fg
+#1328426039
+./a.out 
+#1328426041
+fg
+#1328426259
+ma
+#1328426260
+./a.out 
+#1328426262
+fg
+#1328426650
+cdlc
+#1328426653
+cd mystl/
+#1328426656
+mkdir debug
+#1328426658
+cd debug/
+#1328426673
+cdlc
+#1328426676
+cd mystl/
+#1328426679
+rmdir debug/
+#1328426683
+mkdir debug
+#1328426685
+cd debug/
+#1328426694
+cp ~/xiazai/memwatch/memwatch-2.71.tar.gz .
+#1328426700
+tar xvzf memwatch-2.71.tar.gz 
+#1328426713
+mv memwatch-2.71 memwatch
+#1328426716
+cd memwatch
+#1328426728
+rm memwatch-2.71.tar.gz 
+#1328426730
+svns
+#1328426736
+svn add debug/
+#1328426758
+svn commit -m 'debug tool: memwatch' debug/
+#1328426772
+cd debug/
+#1328426775
+cd memwatch/
+#1328426777
+ma
+#1328426879
+cp ../../alg/alg_sort/Makefile Makefile.
+#1328426888
+mv Makefile Makefile.bk
+#1328426892
+mv Makefile. Makefile
+#1328426896
+touch *
+#1328426916
+vi Makefile
+#1328426968
+fg
+#1328427011
+ma
+#1328427017
+mai
+#1328427063
+ma
+#1328427065
+mca
+#1328427067
+svns
+#1328427073
+g alg_sort_test.c
+#1328427120
+ma
+#1328427132
+./alg_sort_test 
+#1328427142
+ma
+#1328427144
+./alg_sort_test 
+#1328427174
+maui 
+#1328427185
+ma
+#1328427186
+mca
+#1328427187
+ma
+#1328427189
+mai
+#1328427194
+mca
+#1328427195
+ma
+#1328427198
+./alg_sort_test 
+#1328427211
+ma
+#1328427212
+./alg_sort_test 
+#1328427218
+ ll
+#1328427221
+g README 
+#1328427245
+vi Makefile 
+#1328427247
+fg
+#1328427279
+mca
+#1328427280
+ma
+#1328427283
+./alg_sort_test 
+#1328427287
+mca
+#1328427289
+ma
+#1328427298
+./alg_sort_test 
+#1328427342
+mca
+#1328427344
+ma
+#1328427346
+./alg_sort_test 
+#1328427380
+ma
+#1328427382
+mca
+#1328427382
+ma
+#1328427384
+./alg_sort_test 
+#1328427420
+mca
+#1328427422
+ma
+#1328427507
+fg
+#1328427515
+ma
+#1328427516
+mca
+#1328427517
+ma
+#1328427519
+./alg_sort_test 
+#1328427527
+g memwatch.log 
+#1328427571
+ma
+#1328427572
+mca
+#1328427573
+ma
+#1328427575
+./alg_sort_test 
+#1328427581
+vi memwatch.log 
+#1328427603
+mca
+#1328427606
+ma
+#1328427607
+./alg_sort_test 
+#1328427608
+fg
+#1328427653
+,y
+#1328427655
+cd,y
+#1328427663
+cd enc/unicode_utf-8/
+#1328427673
+g unicode_utf-8_test.c
+#1328427755
+ma
+#1328427757
+mca
+#1328427758
+ma
+#1328427761
+./unicode_utf-8_test 
+#1328427784
+./unicode_utf-8_test < gbk_code_file.txt 
+#1328428015
+mll
+#1328428017
+mca
+#1328428018
+ma
+#1328428020
+fg
+#1328428022
+jj
+#1328428024
+vi memwatch.log 
+#1328428027
+mca
+#1328428028
+ma
+#1328428029
+./alg_sort_test 
+#1328428031
+fg
+#1328428063
+ma
+#1328428064
+./alg_sort_test 
+#1328428065
+fg
+#1328428088
+ma
+#1328428089
+./alg_sort_test 
+#1328428090
+fg
+#1328428146
+./alg_sort_test 
+#1328428147
+fg
+#1328428177
+ma
+#1328428178
+./alg_sort_test 
+#1328428179
+fg
+#1328428207
+ma
+#1328428208
+./alg_sort_test 
+#1328428218
+fg 1
+#1328428250
+mca
+#1328428250
+ma
+#1328428251
+./alg_sort_test 
+#1328428264
+mca
+#1328428264
+ma
+#1328428265
+./alg_sort_test 
+#1328428266
+fg
+#1328428269
+fg 2
+#1328428280
+mca
+#1328428287
+fg
+#1328428294
+ma
+#1328428295
+./alg_sort_test 
+#1328428297
+fg
+#1328428601
+svns
+#1328428652
+svndl
+#1328428658
+svns
+#1328428673
+svns
+#1328428678
+mca
+#1328428679
+ma
+#1328428683
+mi
+#1328428685
+mai
+#1328428687
+mca
+#1328428739
+svns
+#1328428743
+svndl
+#1328428748
+fg
+#1328428762
+ma
+#1328428764
+mca
+#1328428765
+svns
+#1328428783
+svn commit -m 'compile for mystl' .
+#1328428807
+cd mystl/
+#1328428817
+cp debug/memwatch/Makefile .
+#1328428822
+g Makefile 
+#1328429012
+cdlc
+#1328429013
+cdl
+#1328429018
+cd books/c/cii
+#1328429021
+cd cii11/
+#1328429024
+ma
+#1328429033
+ll src/
+#1328429040
+ll build/
+#1328429044
+vi makefile
+#1328429173
+ll alg/
+#1328429180
+ll alg/alg_sort/
+#1328429509
+cd /home/scr/.rt/lang/0mystl/lib
+#1328429514
+cd include/
+#1328429712
+g commdef.h
+#1328429778
+mv commdef.h ~
+#1328429784
+mv ~/commdef.h .
+#1328430886
+81ll
+#1328430937
+cdvcrtbot
+#1328430944
+cd devel/gdb/
+#1328430947
+g gdb.notes.txt 
+#1328431196
+cdl
+#1328431202
+cd books/
+#1328431204
+cd c
+#1328431211
+cd opengl/
+#1328431223
+ cd opengl-red/
+#1328431225
+vi Makefile
+#1328431251
+cdvcl
+#1328431254
+cd books/
+#1328431256
+cd c
+#1328431258
+cd graph/
+#1328431261
+cd NeHe/
+#1328431266
+cd CGwO.Hearn/
+#1328431279
+cd blog/
+#1328431943
+ma
+#1328431958
+mca
+#1328431965
+svns
+#1328431986
+rm alg/alg_sort/memwatch.log alg/alg_sort/commit.log debug/memwatch/Makefile.bk 
+#1328431987
+svns
+#1328431993
+rm alg/alg_list/c.log 
+#1328431995
+svns
+#1328431997
+ma
+#1328431998
+svns
+#1328432008
+ll alg/alg_list/
+#1328432012
+mca
+#1328432013
+ma
+#1328432225
+strings libnalstl.a 
+#1328432230
+strings libnalstl.a | less
+#1328432264
+mca
+#1328432283
+ma
+#1328432286
+mca
+#1328432439
+mc
+#1328432441
+ma
+#1328432722
+m mkdir
+#1328432777
+mc
+#1328432779
+mca
+#1328432786
+svs
+#1328432788
+svns
+#1328432791
+ma
+#1328432917
+mca
+#1328432918
+ma
+#1328432933
+rm -rf *
+#1328432936
+mca
+#1328432936
+ma
+#1328433591
+mca
+#1328433592
+ma
+#1328433648
+rm lib 
+#1328433654
+mkdir lib
+#1328433711
+rm lib 
+#1328433715
+rm -rf *
+#1328433717
+3lmc
+#1328433718
+mca
+#1328433719
+ma
+#1328433764
+mall
+#1328433769
+mca
+#1328433770
+ma
+#1328433779
+rm -rf *
+#1328433784
+mca
+#1328433785
+ma
+#1328433790
+ll include/*
+#1328433791
+llr
+#1328433793
+lr
+#1328433864
+ll alg/alg_array/
+#1328433935
+mca
+#1328433942
+maui 
+#1328433950
+ma
+#1328433955
+llr
+#1328433960
+lr
+#1328434042
+svns
+#1328434048
+mai
+#1328434056
+maui
+#1328434058
+ma
+#1328434064
+mca
+#1328434079
+svns
+#1328434084
+svn add Makefile commdef.h 
+#1328434134
+ma
+#1328434168
+mca
+#1328434169
+ma
+#1328434319
+vi commdef.h 
+#1328434321
+ma
+#1328434324
+mca
+#1328434335
+fg
+#1328434362
+mca
+#1328434362
+ma
+#1328434408
+mca
+#1328434409
+ma
+#1328434423
+mca
+#1328434424
+svns
+#1328434473
+ma
+#1328434593
+mca
+#1328434594
+ma
+#1328434607
+maui
+#1328434608
+ma
+#1328434610
+mca
+#1328434610
+ma
+#1328434683
+mca
+#1328434683
+ma
+#1328434750
+mca
+#1328434751
+ma
+#1328434776
+mca
+#1328434777
+maui
+#1328434779
+mc
+#1328434780
+ma
+#1328434791
+mai
+#1328434794
+maui
+#1328434796
+ma
+#1328434797
+mca
+#1328434799
+ma
+#1328434802
+maui
+#1328434806
+ma
+#1328434807
+mca
+#1328434808
+ma
+#1328434810
+llr
+#1328434811
+lr
+#1328434819
+svns
+#1328434822
+mca
+#1328434823
+svns
+#1328434836
+ma
+#1328434843
+mca
+#1328434844
+svns
+#1328434874
+svn commit -m '修改: 使只生成一个库文件, 以方便使用' .
+#1328434892
+ ll
+#1328434896
+cd alg_sort/
+#1328434902
+ma
+#1328434906
+./alg_sort_test 
+#1328434967
+rm alg/alg_array/Makefile alg/alg_list/Makefile alg/alg_rand/Makefile alg/alg_sort/Makefile alg/alg_table/Makefile debug/memwatch/Makefile 
+#1328434970
+svns
+#1328434975
+svn up
+#1328434981
+svns
+#1328434991
+svn rm alg/alg_array/Makefile alg/alg_list/Makefile alg/alg_rand/Makefile alg/alg_sort/Makefile alg/alg_table/Makefile debug/memwatch/Makefile 
+#1328434992
+svns
+#1328434935
+fg
+#1328435050
+ma
+#1328435062
+./alg_sort_test 
+#1328435106
+cd memwatch-2.71
+#1328435109
+vi README 
+#1328435150
+mc
+#1328435151
+ma
+#1328435154
+mai
+#1328435164
+vi memwatch.log 
+#1328435189
+mca
+#1328435189
+ma
+#1328435194
+./alg_sort_test 
+#1328435195
+fg
+#1328435199
+vi memwatch.log 
+#1328435216
+./alg_sort_test 
+#1328435217
+fg
+#1328435225
+vi memwatch.log 
+#1328435233
+svns
+#1328435262
+svnd
+#1328435264
+svnld
+#1328435265
+svndl
+#1328435279
+svns
+#1328435304
+svn commit -m '删除不再须要的文件'
+#1328435339
+svns
+#1328435342
+svnd
+#1328435346
+svndl
+#1328435352
+mc
+#1328435353
+mca
+#1328435354
+ma
+#1328435361
+mca
+#1328435366
+svns
+#1328435377
+svn rm libalg_sort.a 
+#1328435384
+rm libalg_sort.a 
+#1328435386
+svns
+#1328435387
+mca
+#1328435388
+ma
+#1328435389
+svns
+#1328435395
+./alg_sort_test 
+#1328435399
+vi memwatch.log 
+#1328435403
+./alg_sort_test 
+#1328435405
+vi memwatch.log 
+#1328435413
+svndl
+#1328435434
+svn commit -m '使用 MEMWATCH 髲 '
+#1328435455
+svn commit -m '使用 MEMWATCH debug工具' ; svn up
+#1328435466
+m
+#1328435467
+ma
+#1328435468
+mca
+#1328435478
+ma
+#1328435479
+mca
+#1328435479
+ma
+#1328435483
+ma
+#1328435492
+mca
+#1328435493
+ma
+#1328435561
+svns
+#1328435562
+mca
+#1328435563
+ma
+#1328435590
+mca
+#1328435596
+cdl
+#1328435597
+svn up
+#1328435604
+svn up; svnlv
+#1328446032
+cdvcrtbot
+#1328446036
+cd devel/
+#1328446056
+mkdir debug
+#1328446058
+cd debug/
+#1328446067
+mkdir memwatch
+#1328446068
+cd memwatch/
+#1328446079
+g memwatch.notes.txt
+#1328446609
+cd debug/
+#1328446616
+cd memwatch/
+#1328446642
+jj
+#1328446652
+ma
+#1328446690
+g alg_sort_test.c
+#1328446698
+svns
+#1328446703
+rm memwatch.log 
+#1328446706
+,y
+#1328446708
+cd,y
+#1328446711
+ma
+#1328446717
+./alg_sort_test 
+#1328446720
+vi memwatch.log 
+#1328446863
+vi USING 
+#1328447036
+vi README 
+#1328447090
+s fetch
+#1328447193
+fg
+#1328447218
+vi alg_sort_test.c
+#1328447230
+lla
+#1328447236
+vi alg_sort_test.c
+#1328447261
+,y
+#1328447324
+gits.
+#1328447332
+git add debug/
+#1328447334
+gits.
+#1328447356
+git commit -m 'debug tool: memwatch'
+#1328447373
+git push origin master
+#1328447393
+gits.
+#1328447402
+cd debug/
+#1328447405
+cd memwatch/
+#1328447421
+nbviki-add-newfile-to-nbvikilist.sh memwatch.notes.txt 
+#1328447436
+nbviki-update.sh &
+#1328447454
+gvnbl
+#1328447493
+kll
+#1328447610
+s quick
+#1328447615
+s quickly
+#1328452548
+p www.youku.com
+#1328452555
+cat /etc/resolv.conf
+#1328452569
+ma
+#1328452573
+ma
+#1328452773
+m
+#1328452774
+ma
+#1328452776
+mc
+#1328452777
+ma
+#1328452849
+./alg_sort_test 
+#1328452860
+ma
+#1328452864
+./alg_sort_test 
+#1328452892
+ma
+#1328452896
+./alg_sort_test 
+#1328452913
+./alg/alg_sort/alg_sort_test 
+#1328452959
+ma
+#1328452960
+./alg/alg_sort/alg_sort_test 
+#1328452974
+ma
+#1328452976
+./alg/alg_sort/alg_sort_test 
+#1328452979
+ma
+#1328452980
+./alg/alg_sort/alg_sort_test 
+#1328453066
+svns
+#1328453068
+svndl
+#1328453078
+ma
+#1328453080
+./alg/alg_sort/alg_sort_test 
+#1328453404
+ma
+#1328453406
+./alg/alg_sort/alg_sort_test 
+#1328453420
+ma
+#1328453490
+mca
+#1328453491
+ma
+#1328454157
+./alg/alg_sort/alg_sort_test 
+#1328454441
+g
+#1328455294
+ma
+#1328455296
+./alg/alg_sort/alg_sort_test 
+#1328455326
+mc
+#1328455326
+ma
+#1328455328
+./alg/alg_sort/alg_sort_test 
+#1328455364
+ma
+#1328455366
+./alg/alg_sort/alg_sort_test 
+#1328455390
+mc
+#1328455391
+ma
+#1328455393
+./alg/alg_sort/alg_sort_test 
+#1328455399
+mca
+#1328455400
+ma
+#1328455402
+./alg/alg_sort/alg_sort_test 
+#1328455416
+ma
+#1328455424
+./alg/alg_sort/alg_sort_test 
+#1328455430
+ma
+#1328455431
+./alg/alg_sort/alg_sort_test 
+#1328455437
+ma
+#1328455438
+./alg/alg_sort/alg_sort_test 
+#1328455534
+ma
+#1328455535
+./alg/alg_sort/alg_sort_test 
+#1328455548
+ma
+#1328455549
+./alg/alg_sort/alg_sort_test 
+#1328455553
+ma
+#1328455554
+./alg/alg_sort/alg_sort_test 
+#1328455560
+ma
+#1328455561
+./alg/alg_sort/alg_sort_test 
+#1328455575
+ma
+#1328455576
+./alg/alg_sort/alg_sort_test 
+#1328455593
+vi memwatch.log 
+#1328455608
+ma
+#1328455610
+mai
+#1328455612
+ma
+#1328455612
+mca
+#1328455613
+ma
+#1328455704
+./alg/alg_sort/alg_sort_test 
+#1328455712
+ma
+#1328455713
+./alg/alg_sort/alg_sort_test 
+#1328455719
+ma
+#1328455721
+./alg/alg_sort/alg_sort_test 
+#1328455730
+m
+#1328455731
+ma
+#1328455733
+./alg/alg_sort/alg_sort_test 
+#1328455752
+ma
+#1328455754
+./alg/alg_sort/alg_sort_test 
+#1328529392
+cat /etc/resolv.conf
+#1328532814
+ma
+#1328533777
+mc
+#1328533778
+ma
+#1328533821
+./alg/alg_sort/alg_sort_test 
+#1328534129
+mc
+#1328534130
+ma
+#1328534133
+./alg/alg_sort/alg_sort_test 
+#1328534148
+ma
+#1328534149
+./alg/alg_sort/alg_sort_test 
+#1328534155
+ma
+#1328534157
+./alg/alg_sort/alg_sort_test 
+#1328534163
+ma
+#1328534164
+./alg/alg_sort/alg_sort_test 
+#1328534172
+mc
+#1328534173
+ma
+#1328534175
+./alg/alg_sort/alg_sort_test 
+#1328534197
+mc
+#1328534198
+ma
+#1328534199
+./alg/alg_sort/alg_sort_test 
+#1328534233
+ma
+#1328534234
+./alg/alg_sort/alg_sort_test 
+#1328535233
+mc
+#1328535233
+ma
+#1328535235
+./alg/alg_sort/alg_sort_test 
+#1328535249
+ma
+#1328535251
+./alg/alg_sort/alg_sort_test 
+#1328535265
+ma
+#1328535266
+./alg/alg_sort/alg_sort_test 
+#1328535302
+ma
+#1328535306
+mc
+#1328535307
+ma
+#1328535308
+./alg/alg_sort/alg_sort_test 
+#1328535322
+time ./alg/alg_sort/alg_sort_test 
+#1328535337
+ma
+#1328535340
+time ./alg/alg_sort/alg_sort_test 
+#1328535666
+ma
+#1328535667
+./alg/alg_sort/alg_sort_test 
+#1328535673
+time ./alg/alg_sort/alg_sort_test 
+#1328535678
+ma
+#1328535681
+time ./alg/alg_sort/alg_sort_test 
+#1328535831
+rm memwatch.log 
+#1328535834
+time ./alg/alg_sort/alg_sort_test 
+#1328535860
+vi memwatch.log 
+#1328535887
+vi Makefile 
+#1328535900
+mca
+#1328535901
+rm memwatch.log 
+#1328535903
+ma
+#1328535906
+time ./alg/alg_sort/alg_sort_test 
+#1328535939
+fg
+#1328535943
+svns
+#1328535949
+svndl
+#1328535987
+svns
+#1328535988
+svndl
+#1328536207
+ma
+#1328536209
+mca
+#1328536209
+ma
+#1328536211
+svndl
+#1328536699
+svns
+#1328536701
+mc
+#1328536702
+ma
+#1328536704
+./alg/alg_sort/alg_sort_test 
+#1328536718
+m
+#1328536719
+mca
+#1328536720
+ma
+#1328536722
+./alg/alg_sort/alg_sort_test 
+#1328536729
+time ./alg/alg_sort/alg_sort_test 
+#1328536790
+ma
+#1328537011
+./alg/alg_sort/alg_sort_test 
+#1328537017
+time ./alg/alg_sort/alg_sort_test 
+#1328537935
+svns
+#1328537947
+svn commit -m '快速排序'
+#1328627611
+gcalctool 
+#1328627627
+gcalccmd 
+#1328789656
+ff&
+#1328789694
+p 192.168.1.1
+#1328790005
+p www.youku.com
+#1328790009
+cat /etc/resolv.conf
+#1328877427
+g yum_list.txt 
+#1328877463
+yum -y install cmus
+#1328877842
+cmus
+#1328877879
+ex .
+#1328877903
+cdm
+#1328877905
+cd TOOLS/
+#1328877908
+cd 1music/
+#1328877925
+cmus innocence.mp3 
+#1328878000
+cdm
+#1328878004
+cd TOOLS/1music/
+#1328882527
+cat
+#1328882531
+cal
+#1328965158
+fcitx 
+#1329048767
+ff&
+#1329049524
+su
+#1329049543
+cdx
+#1329049547
+cdm
+#1329049548
+ex .
+#1329051420
+cdvcrc
+#1329051422
+lr
+#1329051426
+cd rt/
+#1329051429
+cd etc/
+#1329051435
+cdif
+#1329051436
+,y
+#1329051450
+mkdiri -p sysconfig/network-scripts
+#1329051455
+mkdir -p sysconfig/network-scripts
+#1329051458
+cd sysconfig/network-scripts/
+#1329051467
+cp /etc/sysconfig/network-scripts/ifcfg-eth0 .
+#1329051470
+vi ifcfg-eth0 
+#1329051499
+fg
+#1329051830
+gits
+#1329051841
+gits.
+#1329051845
+git add sysconfig/
+#1329051846
+gits.
+#1329051871
+git commit -m 'ifcfg-eth0配置文件中的各变量详解'
+#1329051873
+gits.
+#1329051881
+gits
+#1329051883
+gits.
+#1329051888
+cdvcrc
+#1329051890
+gits.
+#1329051893
+git pull origin master
+#1329052178
+gitlo
+#1329052196
+cdvcrt
+#1329052194
+git push origin master
+#1329052210
+cd TOOLS/1music/
+#1329052200
+git pull origin master
+#1329052218
+cmus 
+#1329052336
+cd
+#1329052351
+cat /etc/networks 
+#1329052368
+cat /etc/sysconfig/network
+#1329052372
+hostname 
+#1329052375
+su
+#1329052391
+m hostname
+#1329052405
+dnsdomainname 
+#1329052413
+ypdomainname 
+#1329052419
+nisdomainname 
+#1329052423
+m hostname
+#1329052429
+domainname 
+#1329052471
+cdvcrtbot
+#1329052487
+cd devel/
+#1329052491
+cd cmd
+#1329052506
+cd sysconf/
+#1329052514
+mkdir hostname
+#1329052516
+cd hostname/
+#1329052523
+g hostname.note.txt
+#1329052700
+gits.
+#1329052706
+gitlo.
+#1329052712
+gitlo
+#1329052717
+gits.
+#1329052720
+git add hostname/
+#1329052729
+gits.
+#1329052747
+git commit -m '修改系统主机名的方法'
+#1329052881
+date
+#1329052887
+hwclock 
+#1329052907
+hwclock 
+#1329052910
+date
+#1329052917
+hwclock ; date
+#1329052944
+ntpdate 
+#1329052953
+m ntpdate 
+#1329053001
+gvlc
+#1329053026
+time
+#1329053028
+times
+#1329053145
+p 132.163.4.102
+#1329053150
+date
+#1329053157
+hwclock ; date
+#1329053162
+ntpdate 132.163.4.102
+#1329052924
+hwclock ; date
+#1329053014
+hwclock -w
+#1329053017
+hwclock ; date
+#1329053305
+locale
+#1329053359
+vi /etc/sysconfig/i18n 
+#1329053377
+cp /etc/sysconfig/i18n .
+#1329053380
+vi i18n 
+#1329053408
+fg
+#1329053627
+g yum_list.txt 
+#1329054011
+pg rz
+#1329054018
+kill -9 11340
+#1329053995
+rz
+#1329054021
+sz
+#1329054038
+pg rz
+#1329054042
+kill -9 11366
+#1329054032
+rz
+#1329054044
+pg sz
+#1329054050
+kill -9 11365
+#1329054028
+sz i18n 
+#1329054294
+m rz
+#1329054311
+cd network/
+#1329054616
+mkdir lrzsz
+#1329054619
+cd lrzsz/
+#1329054640
+g lrzsz.note.txt
+#1329056320
+cat lrzsz.note.txt 
+#1329056323
+vi lrzsz.note.txt 
+#1329056359
+git add lrzsz/
+#1329056361
+gits.
+#1329056375
+gitd
+#1329056387
+gits.
+#1329056390
+gitd.
+#1329056397
+gits.
+#1329056406
+git commit -m 'rz AND sz'
+#1329137575
+cdvcrt
+#1329137584
+cdvcrc
+#1329137580
+git pull origin master
+#1329137586
+git pull origin master
+#1329137974
+p 35free.net
+#1329137981
+p www.35free.net
+#1329137997
+p nuoerlz.35free.net
+#1329138109
+cdlc
+#1329138116
+svn up
+#1329138120
+cdl
+#1329138123
+cdlc
+#1329138125
+cd mystl/
+#1329138128
+ma
+#1329138131
+mca
+#1329138132
+m
+#1329138136
+ma
+#1329138152
+cat /etc/resolv.conf
+#1329138121
+svn up
+#1329138183
+ll slib/
+#1329138218
+ctagscpp.sh 
+#1329138220
+g
+#1329138536
+cdvcrtbot
+#1329138552
+mkdir mystl
+#1329138554
+cd mystl/
+#1329138558
+ll alg/
+#1329138572
+mkdir alg/alg_sort -p
+#1329138575
+cd alg/alg_sort/
+#1329138585
+g alg_sort.note.txt
+#1329138720
+cdvcl
+#1329138723
+cd blog/
+#1329138726
+cd nb
+#1329138729
+cd nuoerlz
+#1329138733
+ff index.html 
+#1329138738
+keynav 
+#1329138758
+p www.youku.com
+#1329138764
+p www.code.google.com
+#1329140800
+gvnbl 
+#1329231571
+svns
+#1329231573
+gits.
+#1329231590
+git add mystl/
+#1329231593
+gits.
+#1329231608
+su
+#1329231631
+nbviki-add-newfile-to-nbvikilist.sh mystl/alg/alg_sort/alg_sort.note.txt 
+#1329231636
+nbviki-update.sh &
+#1329231735
+pg vim
+#1329231742
+pg nb
+#1329311552
+cdl
+#1329311578
+cdb
+#1329311579
+svns
+#1329311593
+nbviki-update.sh &
+#1329311553
+svns
+#1329311599
+8 
+#1329311614
+kill -9 20578
+#1329311622
+pg ftp
+#1329311636
+kill -9 20289 20290
+#1329311643
+pg ftp
+#1329311650
+lll
+#1329311662
+vi nbviki-ftpup-make.sh 
+#1329311684
+svns
+#1329311686
+fg
+#1329311693
+fif
+#1329311695
+wh fif
+#1329311704
+fif google
+#1329311729
+fg
+#1329311750
+p 221.1.217.92
+#1329311757
+ftp 221.1.217.92
+#1329311787
+gvnbl 
+#1329312077
+pg ftp
+#1329312135
+gvnbl 
+#1329312376
+nbviki-update.sh &
+#1329312415
+gvnbl 
+#1329312435
+ll  mystl/alg/alg_sort/alg_sort.note.txt 
+#1329312439
+nbviki-add-newfile-to-nbvikilist.sh mystl/alg/alg_sort/alg_sort.note.txt 
+#1329312537
+lla
+#1329312539
+gits.
+#1329312582
+cd-
+#1329312585
+cd nuoerlz
+#1329312587
+ls data/
+#1329312659
+pg ftp
+#1329312715
+p 221.1.217.92
+#1329312724
+pg ftp
+#1329312847
+gvnl
+#1329312849
+gvnbl
+#1329312946
+nbviki-update.sh &
+#1329313429
+gvnbl
+#1329313475
+nbviki-update.sh &
+#1329316245
+gvnbl
+#1329316286
+nbviki-update.sh &
+#1329316303
+cd /tmp/
+#1329316334
+pg ftp
+#1329316349
+ps
+#1329316355
+ps
+#1329316357
+lj
+#1329316365
+fg
+#1329316373
+pg ftp
+#1329316375
+svns
+#1329316394
+svndl
+#1329316414
+svnd c-cpp/c/enc/unicode_utf-8/unicode_utf-8.h
+#1329316431
+rm c-cpp/c/enc/unicode_utf-8/unicode_utf-8.h
+#1329316442
+svn revert c-cpp/c/enc/unicode_utf-8/unicode_utf-8.h
+#1329316446
+s revert
+#1329316564
+vi nbviki_ftp_23432.24t.tmp 
+#1329316606
+vi nbviki_find_23432.24t.tmp 
+#1329316613
+cd-
+#1329316619
+gits.
+#1329316621
+gitlo.
+#1329316626
+gits
+#1329316632
+ds .git/
+#1329316641
+cd ftpup/
+#1329393788
+cdb
+#1329393796
+g nbviki-update.sh 
+#1329393923
+cat /etc/resolv.conf
+#1329393929
+ifconfig 
+#1329394249
+gvnbl 
+#1329394452
+cdl
+#1329394454
+cd viki/
+#1329394457
+cd hello/
+#1329394459
+ma
+#1329394467
+ff public_html/hello.html 
+#1329394512
+ma
+#1329394514
+ff public_html/hello.html 
+#1329394615
+ma
+#1329394618
+ff public_html/hello.html 
+#1329395102
+ jj
+#1329395360
+ma
+#1329395362
+ff public_html/hello.html 
+#1329395399
+ma
+#1329395403
+ff public_html/hello.html 
+#1329395451
+ma
+#1329395454
+ff public_html/hello.html 
+#1329395489
+ma
+#1329395491
+ff public_html/hello.html 
+#1329395517
+ma
+#1329395519
+ff public_html/hello.html 
+#1329395616
+svns
+#1329395635
+svndl
+#1329395648
+nbviki-update.sh &
+#1329396189
+ma
+#1329396191
+ff public_html/hello.html 
+#1329396341
+t
+#1329396442
+nbviki-update.sh &
+#1329052336
+fg
+#1329397006
+svns
+#1329399944
+gvht
+#1329400738
+cdx
+#1329400749
+tar xvzf screenwm-1.0.tar.gz 
+#1329400752
+cd screenwm-1.0
+#1329400754
+./screenwm 
+#1329400758
+ii
+#1329400759
+ps
+#1329400763
+vi screenwm
+#1329400766
+vi screenwmrc 
+#1329400814
+fg
+#1329400822
+vi README 
+#1329400860
+pg screenwm
+#1329400868
+fg
+#1329400871
+pg screenwm
+#1329400877
+cdx 
+#1329400880
+cd screenwm-1.0
+#1329400882
+./screenwm 
+#1329400886
+pg screenwm
+#1329400890
+ll patch/
+#1329400932
+s inspired
+#1329400969
+cdx
+#1329400976
+tar xvzf pieman-0.07.tgz 
+#1329400987
+cd pieman-0.07
+#1329400991
+file pieman 
+#1329400998
+vi pieman 
+#1329401006
+cdx
+#1329401008
+cd screenwm-1.0
+#1329401012
+file screenwm
+#1329401024
+vi screenwm
+#1329401039
+./pieman 
+#1329401821
+fcitx 
+#1329402192
+cd
+#1329402194
+g yum_list.txt 
+#1329402363
+s Avatars
+#1329402868
+cat /etc/resolv.conf
+#1329402871
+p www.a.com
+#1329480812
+pg fire
+#1329480819
+kill -15 3121
+#1329480826
+kill -15 3191
+#1329480832
+pg fire
+#1329480836
+t
+#1329480852
+ff&
+#1329482373
+look
+#1329482391
+accton 
+#1329482404
+cb
+#1329482412
+cu
+#1329482417
+dc
+#1329482439
+dc 3+3
+#1329482999
+dig www.baidu.com
+#1329483048
+g yum_list.txt 
+#1329483117
+cdvcrtbot
+#1329483122
+cd network/
+#1329483091
+yum -y install dnsmasq
+#1329483148
+mkdir dnsmasq
+#1329483150
+gits.
+#1329483167
+g /etc/dnsmasq.conf 
+#1329483234
+vi /etc/dnsmasq.conf 
+#1329483291
+vi /etc/dhcp/dhclient.d/ntp.sh 
+#1329483310
+vi /etc/resolv.conf
+#1329483339
+/etc/init.d/dnsmasq 
+#1329483343
+/etc/init.d/dnsmasq restart
+#1329483347
+dig www.baidu.com
+#1329483368
+dig nuoerlz.35free.nt
+#1329483372
+dig nuoerlz.35free.net
+#1329483508
+dig www.hao123.com
+#1329483532
+dig www.goole.com
+#1329483540
+dig www.baidu.com
+#1329483597
+dig nuoerlz.35free.net
+#1329483616
+dig www.baidu.com
+#1329483620
+dig nuoerlz.35free.net
+#1329483633
+dig www.baidu.com
+#1329483638
+dig www.goole.com
+#1329483641
+dig www.baidu.com
+#1329483643
+dig nuoerlz.35free.net
+#1329483705
+cd dnsmasq/
+#1329483714
+g dnsmasq.note.txt
+#1329483949
+e vi  /etc/dnsmasq.conf 
+#1329484135
+service network restart
+#1329484137
+fg
+#1329484149
+e /etc/init.d/dnsmasq restart
+#1329484153
+/etc/init.d/dnsmasq restart
+#1329484232
+dig nuoerlz.35free.net
+#1329484259
+dig nuoerlz.35free.net
+#1329484266
+/etc/init.d/dnsmasq restart
+#1329484273
+dig www.baidu.com
+#1329484489
+vi /etc/sysconfig/network-scripts/ifcfg-eth0
+#1329484565
+service network restart
+#1329484571
+dig www.baidu.com
+#1329484580
+dig nuoerlz.35free.net
+#1329484711
+s everything
+#1329484804
+gits.
+#1329484811
+nbviki-add-newfile-to-nbvikilist.sh dnsmasq.note.txt 
+#1329484816
+gvnbl
+#1329484829
+nbviki-update.sh &
+#1329484886
+cdvcrt
+#1329484888
+gits.
+#1329484926
+gitd linux/computor/tools/mystl/alg/alg_sort/alg_sort.note.txt
+#1329484938
+git add linux/computor/tools/mystl/alg/alg_sort/alg_sort.note.txt
+#1329484940
+gits.
+#1329484942
+gitdc
+#1329484947
+gits.
+#1329484960
+git commit -m '内部排序笔记'
+#1329484963
+gits.
+#1329484967
+gitdl
+#1329485054
+gits.
+#1329485059
+git add linux/computor/bookmark/html.txt
+#1329485061
+gits.
+#1329485065
+git commit
+#1329485080
+gitlo
+#1329485083
+gitl
+#1329485086
+gits.
+#1329485091
+gitd
+#1329485111
+fg
+#1329485116
+gits.
+#1329485118
+fg
+#1329485133
+gits.
+#1329485137
+git add linux/computor/tools/network/notes/13resolv.conf.txt 
+#1329485139
+gits.
+#1329485149
+git commit -m '错别字'
+#1329485172
+gits.
+#1329485174
+gitdl
+#1329485242
+fg
+#1329485246
+g
+#1329485249
+fg
+#1329485267
+q
+#1329485269
+gits.
+#1329485277
+gitd
+#1329485294
+git add linux/computor/tools/devel/cmd/cmd.txt 
+#1329485295
+gits.
+#1329485299
+git commit
+#1329485311
+gitlo
+#1329485314
+gits.
+#1329485316
+git add  .
+#1329485317
+gits.
+#1329485319
+gitdc
+#1329485362
+gits.
+#1329485372
+g linux/computor/tools/network/dnsmasq/dnsmasq.note.txt
+#1329485624
+gits.
+#1329485827
+git add  .
+#1329485828
+gits.
+#1329485868
+cdvcrc
+#1329485870
+gits.
+#1329485876
+gitdl
+#1329485900
+gi
+#1329486051
+g linux/computor/tools/network/dnsmasq/dnsmasq.note.txt
+#1329486092
+nbviki-update.sh &
+#1329486098
+jj
+#1329486190
+nbviki-update.sh &
+#1329486209
+gits.
+#1329487513
+ cdx
+#1329487515
+;;
+#1329487525
+tar xvzf debug.tar.gz 
+#1329487527
+cd debug
+#1329487529
+g attach.c 
+#1329487662
+gcc attach.c stacktrace.c
+#1329487679
+gcc -DSTANDALONE attach.c stacktrace.c
+#1329487704
+gcc -DSTANDALONE stacktrace.c
+#1329487707
+./a.out 
+#1329489857
+cd
+#1329489858
+mutt
+#1329483084
+su
+#1329529782
+8nnj
+#1329492463
+fg
+#1329529801
+fg
+#1329137571
+screen
+#1329529819
+jj
+#1329529838
+iwlist 
+#1329529842
+iwlist scanning
+#1329529875
+su
+#1329529884
+s
+#1329529895
+ifconfig eth1 up
+#1329529903
+iwlist scanning 
+#1329529949
+iwconfig 
+#1329529963
+iwconfig eth1 essid 123
+#1329529965
+iwconfig 
+#1329529885
+su
+#1329530037
+s
+#1329530048
+cat e.sh 
+#1329530066
+vi i18n 
+#1329530077
+cdvcl
+#1329530087
+cd blog/nb/nuoerlz
+#1329530090
+ff index.html 
+#1329530152
+pg wpa
+#1329530170
+vi /etc/wpa_supplicant/wpa_supplicant.conf 
+#1329530200
+iwconfig scanning eth1
+#1329530206
+iwconfig eth1 scanning 
+#1329530215
+iwlist scanning 
+#1329530239
+fg
+#1329530258
+wpa_supplicant -B -Dwext -ieth1 -c/etc/wpa_supplicant/wpa_supplicant.conf
+#1329530274
+iwconfig 
+#1329530275
+fg
+#1329530288
+wpa_supplicant -B -Dwext -ieth1 -c/etc/wpa_supplicant/wpa_supplicant.conf
+#1329530290
+iwconfig 
+#1329530303
+pg wpa
+#1329530320
+iwconfig 
+#1329530345
+fg
+#1329530159
+su
+#1329530039
+su
+#1329530362
+cdvcl
+#1329530367
+cdl
+#1329530384
+cd books//c/opengl/opengl-blue/e4/src/examples/
+#1329530388
+,y
+#1329530390
+cd,y
+#1329530392
+cd projects/
+#1329530396
+cd,y
+#1329530399
+cd src/
+#1329530405
+ma
+#1329530415
+cd linux/chapt08
+#1329530417
+cd pyramid/
+#1329530418
+ma
+#1329530427
+svni
+#1329530444
+./pyramid 
+#1329530494
+cd chapt08
+#1329530496
+cd pyramid/
+#1329530497
+g
+#1329530526
+ma
+#1329530527
+./pyramid 
+#1329530573
+ma
+#1329530576
+./pyramid 
+#1329530654
+cd src/
+#1329530657
+cscopecpp.sh 
+#1329530658
+ctagscpp.sh 
+#1329530702
+cd toon/
+#1329530704
+ma
+#1329530709
+./toon 
+#1329530744
+ma
+#1329530746
+./toon 
+#1329530946
+ma
+#1329530947
+./toon 
+#1329531049
+ma
+#1329531222
+./toon 
+#1329531236
+ma
+#1329531237
+./toon 
+#1329531255
+ma
+#1329531256
+./toon 
+#1329531261
+ma
+#1329531263
+./toon 
+#1329531355
+ma
+#1329531357
+./toon 
+#1329531378
+ma
+#1329531379
+./toon 
+#1329531412
+ma
+#1329531414
+./toon 
+#1329531440
+ma
+#1329531447
+cd tunnel/
+#1329531449
+ma
+#1329531452
+./tunnel 
+#1329531463
+cd sphereworld/
+#1329531464
+ma
+#1329531470
+./sphereworld 
+#1329531480
+ex .
+#1329531518
+cd sphereworld/
+#1329531521
+g sphereworld.cpp 
+#1329531530
+ma
+#1329531531
+./sphereworld 
+#1329531539
+./sphereworld &
+#1329531542
+ex .
+#1329531658
+./sphereworld &
+#1329531723
+ma
+#1329531724
+./sphereworld &
+#1329531878
+m
+#1329531879
+ma
+#1329531883
+./sphereworld &
+#1329531897
+ma
+#1329531898
+./sphereworld &
+#1329531913
+ma
+#1329531915
+./sphereworld &
+#1329531928
+ma
+#1329531929
+./sphereworld &
+#1329532048
+ma
+#1329532049
+./sphereworld &
+#1329532252
+ma
+#1329532253
+./sphereworld &
+#1329532280
+ma
+#1329532281
+./sphereworld &
+#1329532289
+ma
+#1329532290
+./sphereworld &
+#1329532573
+ma
+#1329532575
+...
+#1329532581
+cd-
+#1329532583
+ma
+#1329532585
+./sphereworld &
+#1329532732
+,y
+#1329532735
+cd,y
+#1329532741
+cd chapt09
+#1329532747
+cd pointsprites/
+#1329532748
+ma
+#1329532755
+./pointsprites 
+#1329532804
+.
+#1329532810
+cd sphereworld/
+#1329532811
+ma
+#1329532816
+./sphereworld 
+#1329532895
+ma
+#1329532899
+ma
+#1329532901
+./sphereworld &
+#1329532911
+ma
+#1329532912
+./sphereworld &
+#1329532916
+ma
+#1329532917
+./sphereworld &
+#1329533003
+ma
+#1329533004
+./sphereworld &
+#1329533353
+ma
+#1329533354
+./sphereworld &
+#1329533368
+ma
+#1329533370
+./sphereworld &
+#1329533433
+ma
+#1329533435
+./sphereworld &
+#1329533442
+ma
+#1329533443
+./sphereworld &
+#1329533543
+ma
+#1329533544
+./sphereworld &
+#1329533563
+ma
+#1329533564
+./sphereworld &
+#1329533717
+ma
+#1329533718
+./sphereworld &
+#1329533773
+ma
+#1329533774
+./sphereworld &
+#1329533832
+ma
+#1329533836
+mca
+#1329533837
+mc
+#1329533839
+ma
+#1329533847
+vi Makefile 
+#1329533854
+ma
+#1329533855
+m
+#1329533911
+ma
+#1329533912
+./sphereworld &
+#1329533942
+ma
+#1329533943
+./sphereworld &
+#1329533953
+ma
+#1329533955
+./sphereworld &
+#1329534008
+ma
+#1329534009
+./sphereworld &
+#1329534015
+ma
+#1329534016
+./sphereworld &
+#1329534032
+ma
+#1329534034
+./sphereworld &
+#1329534042
+ma
+#1329534043
+./sphereworld &
+#1329534047
+ma
+#1329534048
+./sphereworld &
+#1329534230
+lla
+#1329534232
+ma
+#1329534273
+lla
+#1329534844
+ma
+#1329534845
+./sphereworld &
+#1329534866
+ma
+#1329534868
+./sphereworld &
+#1329535094
+ma
+#1329535095
+./sphereworld &
+#1329535178
+ma
+#1329535180
+./sphereworld &
+#1329535248
+ma
+#1329535249
+./sphereworld &
+#1329535347
+ma
+#1329535348
+./sphereworld &
+#1329535645
+ma
+#1329535647
+./sphereworld &
+#1329535677
+ma
+#1329535679
+./sphereworld &
+#1329535938
+cdl
+#1329535946
+cd books/c/opengl/opengl-red/
+#1329535947
+ma
+#1329535963
+./robot
+#1329535982
+./robot2
+#1329535988
+g robot.c
+#1329536001
+./robot
+#1329536020
+ma
+#1329536070
+./robot
+#1329536363
+a
+#1329536364
+ma
+#1329536367
+ma
+#1329536369
+./sphereworld &
+#1329536397
+ma
+#1329536398
+./sphereworld &
+#1329536479
+ma
+#1329536481
+./sphereworld &
+#1329536499
+ma
+#1329536500
+./sphereworld &
+#1329536523
+ma
+#1329536524
+./sphereworld &
+#1329536567
+ma
+#1329536568
+./sphereworld &
+#1329536581
+ma
+#1329536583
+./sphereworld &
+#1329537197
+./robot
+#1329537216
+ma
+#1329537218
+./robot
+#1329537242
+ma
+#1329537243
+./robot
+#1329537294
+ma
+#1329537295
+./robot
+#1329537310
+ma
+#1329537311
+./robot
+#1329537610
+ma
+#1329537612
+./robot
+#1329537624
+./robot&
+#1329537627
+ss
+#1329537635
+ma
+#1329537636
+./robot&
+#1329541213
+"ll
+
+
+#1329546786
+m sin
+#1329547397
+s slice
+#1329547407
+s stack
+#1329547458
+ma
+#1329547460
+./sphereworld &
+#1329547485
+ma
+#1329547488
+./sphereworld &
+#1329547520
+ma
+#1329547522
+./sphereworld &
+#1329547569
+ma
+#1329547571
+./sphereworld &
+#1329547603
+ma
+#1329547604
+./sphereworld &
+#1329547707
+rm shared/.gltools.cpp.swp
+#1329547732
+ma
+#1329547735
+ma
+#1329547736
+./sphereworld &
+#1329547777
+ma
+#1329547778
+./sphereworld &
+#1329547837
+ma
+#1329547838
+./sphereworld &
+#1329547975
+ma
+#1329547989
+./sphereworld &
+#1329548431
+ma
+#1329548432
+./sphereworld &
+#1329548461
+ma
+#1329548463
+./sphereworld &
+#1329548539
+ma
+#1329548541
+./sphereworld &
+#1329548603
+ma
+#1329548605
+./sphereworld &
+#1329548720
+ma
+#1329548721
+./sphereworld &
+#1329548752
+ma
+#1329548753
+./sphereworld &
+#1329548786
+ma
+#1329548787
+./sphereworld &
+#1329549014
+ex .
+#1329549025
+./sphereworld &
+#1329549041
+ma
+#1329549042
+./sphereworld &
+#1329549114
+ma
+#1329549115
+./sphereworld &
+#1329549169
+./texgen 
+#1329549176
+./texbind 
+#1329549188
+./texturesurf 
+#1329549204
+g texturesurf
+#1329549252
+./texture3d 
+#1329549258
+./texturesurf 
+#1329549436
+ma
+#1329549515
+da
+#1329549519
+kk
+#1329549601
+ma
+#1329549603
+./texturesurf 
+#1329549640
+ma
+#1329549641
+./texturesurf 
+#1329549648
+ma
+#1329549649
+./texturesurf 
+#1329549655
+ma
+#1329549656
+./texturesurf 
+#1329549662
+ma
+#1329549663
+./texturesurf 
+#1329549681
+ma
+#1329549683
+./texturesurf 
+#1329549694
+ma
+#1329549695
+./texturesurf 
+#1329549709
+a
+#1329549710
+ma
+#1329549711
+./texturesurf 
+#1329549721
+ma
+#1329549722
+./texturesurf 
+#1329549754
+ma
+#1329549755
+./texturesurf 
+#1329549807
+cdvcbot
+#1329549812
+cdvcrtbo
+#1329549814
+cd grath/
+#1329549817
+cd opengl/
+#1329549819
+.
+#1329549823
+cd books/
+#1329549837
+ll 0D计算机图形学几何工具算法详解/
+#1329549845
+pdf 0D计算机图形学几何工具算法详解/0D计算机图形学几何工具算法详解.pdf &
+#1329551229
+ll 0J曲线与曲面的数学,贝济埃模型,B-样条模型、NURBS模型/
+#1329551236
+pdf 0J曲线与曲面的数学,贝济埃模型,B-样条模型、NURBS模型/0J曲线与曲面的数学,贝济埃模型,B-样条模型、NURBS模型.pdf &
+#1329551238
+jj
+#1329551245
+ll 0I3D游戏与计算机图形学中的数学方法/
+#1329561754
+lll
+#1329562071
+p www.hao123.com
+#1329562084
+cat /etc/resolv.conf
+#1329562093
+p www.code.google.com
+#1329563568
+pg fire
+#1329563573
+kill -9 24770
+#1329563575
+pg fire
+#1329563577
+ff &
+#1329564017
+cat /etc/resolv.conf
+#1329564019
+p www.code.google.com
+#1329564036
+p www.google.com
+#1329573321
+t
+#1329573330
+ii
+#1329581345
+t
+#1329581382
+ff &
+#1329650710
+cat /etc/resolv.conf
+#1329650712
+p www.google.com
+#1329650717
+p www.hao123.com
+#1329650724
+dig nuoerlz.35free.net
+#1329658665
+cd
+#1329658667
+cd-
+#1329658673
+lll
+#1329658673
+cd
+#1329658677
+g yum_list.txt 
+#1329658702
+yum -y install openbox
+#1329658693
+su
+#1329659413
+openbox
+#1329654662
+mutt
+#1329049536
+screen
+#1329659814
+kk
+#1329659826
+g
+#1329659835
+ff&
+#1329659838
+cdx
+#1329659913
+keynav 
+#1329659937
+flex
+#1329659940
+kk
+#1329659946
+vi
+#1329659955
+flex  u\=120917823\,3923098590\&fm\=0\&gp\=0.jpg 
+#1329660041
+ex .
+#1329660099
+gnome-session 
+#1329660139
+cdx
+#1329660149
+pdf openbox-guide.pdf &
+#1329660192
+cd
+#1329660243
+cp /etc/xdg/openbox//menu.xml .config/openbox/
+#1329660249
+mkdir .config/openbox/
+#1329660252
+cp /etc/xdg/openbox//menu.xml .config/openbox/
+#1329660259
+vi .config/openbox/menu.xml 
+#1329660395
+cp /etc/xdg/openbox//rc.xml .config/openbox/
+#1329660401
+vi .config/openbox/rc.xml 
+#1329660409
+jj
+#1329660410
+fg 1
+#1329660416
+fg 2
+#1329660421
+jj
+#1329660429
+m fg
+#1329660456
+jj
+#1329660464
+fg 3
+#1329660571
+fg
+#1329661419
+fg 1
+#1329661451
+fg 3
+#1329661604
+fg
+#1329662180
+gnome-session -h
+#1329662200
+gnome-session -q
+#1329662208
+gnome-session --help-all
+#1329662232
+logout 
+#1329662245
+openbox --help
+#1329662407
+vi 
+#1329662410
+vi .config/openbox/rc.xml 
+#1329662881
+vi /etc/xdg/openbox/autostart.sh 
+#1329662966
+ff&
+#1329662984
+keynav 
+#1329663409
+xcompmgr -c -t-5 -l-5 -r4.2 -o.55
+#1329663487
+feh
+#1329744045
+cat /etc/resolv.conf
+#1329745001
+g
+#1329748888
+pdf &
+#1329749482
+cdm
+#1329749486
+ex .
+#1329779786
+halt
+#1329750177
+mutt
+#1329746525
+screen
+#1329824390
+ff&
+#1329824398
+vmware&
+#1329824476
+keynav 
+#1329824949
+cdx
+#1329824956
+unzip zhuashushell2.8.tar.gz 
+#1329824975
+tar xvzf zhuashushell2.8.tar.gz 
+#1329824977
+cd book/
+#1329824980
+./qq 
+#1329824985
+cat AUTHOR 
+#1329824989
+./shuku 
+#1329825012
+g
+#1329825042
+./sina http://club.book.sina.com.cn/booksearch/booksearch.php
+#1329825050
+cat sina 
+#1329825103
+vi sina 
+#1329825128
+./sina 
+#1329825131
+./sina 3
+#1329825134
+./sina 3 3
+#1329825138
+./sina 3 3 4
+#1329825146
+jj
+#1329825148
+vi README 
+#1329825206
+./sinatest http://book.sina.com.cn/nzt/history/his/shijixindu 3 shiji
+#1329825214
+./sina http://book.sina.com.cn/nzt/history/his/shijixindu 3 shiji
+#1329825273
+g 1.shtml 
+#1329825287
+fg
+#1329825293
+g sina 
+#1329825295
+fg
+#1329825713
+g yum_list.txt 
+#1329825724
+su
+#1329825746
+yum -y install diffuse
+#1329826041
+diffuse 
+#1329826048
+ ll
+#1329826051
+cp yum_list.txt 
+#1329826055
+cp yum_list.txt yum
+#1329826057
+vi yum
+#1329826076
+diffuse yum*
+#1329826303
+g yum_list.txt 
+#1329836161
+halt
+#1329824946
+screen
+#1329911772
+gnome-terminal 
+#1329911780
+ff&
+#1329911786
+vmware&
+#1329917185
+locate nehe
+#1329917209
+cd /home/scr/.rt/linux/computor/grath/opengl/nehe/dev-src-html
+#1329917218
+ff index.htm 
+#1329917226
+keynav 
+#1329917253
+vbs
+#1329917268
+,y
+#1329917275
+cdvcl
+#1329917280
+cd books/c/graph/NeHe/
+#1329917373
+g
+#1329917576
+cp zip/lesson36.tar.gz .
+#1329917580
+unzip lesson36.tar.gz 
+#1329917586
+tar xvzf lesson36.tar.gz 
+#1329917590
+rm lesson36.tar.gz 
+#1329917606
+mv ./lesson36/ ./LESSON36/
+#1329917609
+touch *
+#1329917613
+cd LESSON36
+#1329917614
+ma
+#1329917626
+g
+#1329917683
+ma
+#1329917686
+./lesson36 
+#1329917760
+touch *
+#1329917818
+ctagscpp.sh 
+#1329918106
+./lesson36 
+#1329918143
+top
+#1329918651
+ma
+#1329918652
+./lesson36 
+#1329918675
+ma
+#1329918676
+./lesson36 
+#1329918876
+ma
+#1329918878
+./lesson36 
+#1329918914
+ma
+#1329918916
+./lesson36 
+#1329919920
+,y
+#1329919921
+cd,y
+#1329919932
+cp zip/lesson44.zip .
+#1329919935
+unzip lesson44.zip 
+#1329919951
+rm -fr Art/ gl* Lesson44.*
+#1329919955
+rm Makefile.win 
+#1329919967
+mkdir LESSON44
+#1329919970
+mv lesson44.zip  LESSON44
+#1329919972
+cd LESSON
+#1329919973
+cd LESSON44
+#1329919976
+unzip lesson44.zip 
+#1329919978
+ma
+#1329919995
+vi Makefile.win 
+#1329920017
+cp Makefile.win Makefile~
+#1329920023
+rm Makefile~ 
+#1329920027
+cp Makefile.win  Makefile
+#1329921144
+ma
+#1329921146
+ma
+#1329921159
+./lesson36 
+#1329921201
+ma
+#1329921202
+./lesson36 
+#1329921209
+mca
+#1329921210
+mc
+#1329921213
+rm tags 
+#1329921222
+gitd
+#1329921226
+gits.
+#1329921233
+git add LESSON36
+#1329921235
+gits
+#1329921238
+git commit
+#1329921278
+gits.
+#1329921288
+rm lesson44.zip 
+#1329921291
+ll Art/
+#1329921293
+ex Art/
+#1329921334
+touch *
+#1329921440
+cdx
+#1329921441
+cd
+#1329921445
+ll Lesson44\ With\ Extension/
+#1329921464
+tll
+#1329921470
+mca
+#1329921471
+mc
+#1329921483
+ex zip/
+#1329921599
+ex .
+#1329921690
+cd LESSON44
+#1329921702
+rm Lesson44.dev Lesson44.layout 
+#1329921707
+g Makefile
+#1329921715
+vi Makefile
+#1329921867
+ma
+#1329921872
+g 
+#1329921929
+ma
+#1329922025
+a
+#1329922026
+ma
+#1329922047
+m va_start
+#1329922064
+ma
+#1329922215
+mc
+#1329922225
+mca
+#1329922226
+mc
+#1329922235
+git add LESSON44
+#1329922236
+gits
+#1329922242
+git commit
+#1329922299
+gits
+#1329922302
+cd-
+#1329922304
+ma
+#1329922305
+./lesson36 
+#1329922439
+cd
+#1329922440
+cdx
+#1329922458
+tar t lesson09.tar.gz 
+#1329922464
+tar tf lesson09.tar.gz 
+#1329922470
+mkdir lesson09
+#1329922472
+mv lesson09.tar.gz lesson09
+#1329922473
+cd lesson09/
+#1329922476
+tar xvzf lesson09.tar.gz 
+#1329922479
+ma
+#1329922485
+./lesson9 
+#1329922519
+jj
+#1329922524
+ g README 
+#1329922533
+ex Data/
+#1329922550
+g lesson9.c 
+#1329922555
+fg
+#1329922578
+./lesson9 
+#1329922602
+t
+#1329922604
+pg le
+#1329922613
+kill -9 8698
+#1329922616
+jj
+#1329922624
+mv lesson09.tar.gz ~
+#1329922637
+mv ~/lesson09.tar.gz zip/
+#1329922649
+cp zip/lesson09.tar.gz .
+#1329922658
+mkdir LESSON09
+#1329922658
+LL
+#1329922667
+MV lesson09.tar.gz LESSON09
+#1329922670
+cd lesson09.tar.gz 
+#1329922672
+cd LESSON09
+#1329922676
+mv ../lesson09.tar.gz .
+#1329922679
+tar lesson09.tar.gz 
+#1329922689
+tar lesson09.tar.gz xvzf
+#1329922695
+tar  xvzf lesson09.tar.gz 
+#1329922698
+rm lesson
+#1329922702
+rm lesson09.tar.gz 
+#1329922705
+touch *
+#1329922706
+ma
+#1329922708
+mca
+#1329922709
+mc
+#1329922710
+ma
+#1329922713
+./lesson9 
+#1329922726
+./lesson9 &
+#1329922730
+ll ..
+#1329922733
+ls ../zip/
+#1329922808
+mc
+#1329922812
+gits.
+#1329922821
+git add LESSON09
+#1329922823
+gits.
+#1329922826
+git commit
+#1329922883
+ctagscpp.sh 
+#1329922885
+g lesson9
+#1329922887
+touch *
+#1329923172
+ma
+#1329923174
+./lesson9 
+#1329923188
+./lesson9 &
+#1329923600
+ma
+#1329923602
+./lesson9 &
+#1329923665
+mm
+#1329923666
+ma
+#1329923667
+./lesson9 &
+#1329923694
+ma
+#1329923695
+./lesson9 &
+#1329923705
+ma
+#1329923725
+.ma
+#1329923726
+ma
+#1329923727
+.ma
+#1329923729
+./lesson9 &
+#1329923777
+ma
+#1329923786
+./lesson9 &
+#1329923793
+ma
+#1329923803
+./lesson9 &
+#1329923926
+ma
+#1329923927
+./lesson9 &
+#1329923959
+ma
+#1329923961
+./lesson9 &
+#1329924030
+ma
+#1329924031
+./lesson9 &
+#1329924071
+ma
+#1329924072
+./lesson9 &
+#1329924083
+ma
+#1329924087
+./lesson9 &
+#1329924167
+ma
+#1329924168
+./lesson9 &
+#1329924187
+ma
+#1329924188
+./lesson9 &
+#1329924202
+ma
+#1329924203
+./lesson9 &
+#1329924222
+ma
+#1329924223
+./lesson9 &
+#1329924231
+ma
+#1329924232
+./lesson9 &
+#1329924239
+ma
+#1329924240
+./lesson9 &
+#1329924369
+ma
+#1329924370
+./lesson9 &
+#1329924393
+ma
+#1329924395
+./lesson9 &
+#1329924416
+cdvcl
+#1329924418
+gits.
+#1329924425
+cd books/
+#1329924426
+gits.
+#1329924443
+gits
+#1329924467
+lla
+#1329924469
+gits.
+#1329924477
+cd c/graph/NeHe/
+#1329924478
+gits.
+#1329924489
+ll LESSON09/
+#1329924516
+gits
+#1329924523
+cdvcrt
+#1329924520
+git push origin master
+#1329924524
+gits.
+#1329924548
+cdvcl
+#1329924552
+git pull origin master
+#1329924557
+git pull origin master
+#1329924563
+cdvcrc
+#1329924566
+git pull origin master
+#1329924578
+gits.
+#1329924574
+git push origin master
+#1329924587
+gitd
+#1329924597
+gits.
+#1329924605
+git add linux/computor/bookmark/html.txt 
+#1329924606
+gits.
+#1329924608
+git commit
+#1329924621
+gits.
+#1329924624
+gitd
+#1329924625
+gits
+#1329924642
+gits
+#1329924636
+git push origin master
+#1329924661
+git add .
+#1329924662
+gits.
+#1329924676
+git reset HEAD /home/scr/.rt/linux/computor/grath/opengl/nehe/dev-src-html
+#1329924679
+rt/home/scr/.bash_history
+#1329924687
+git reset HEAD rt/home/scr/.bash_history
+#1329924689
+gits.
+#1329924703
+git commit -m 'bookmark'
+#1329924704
+gits.
+#1329924709
+git push origin master
+#1329952342
+  halt
+#1329911815
+screen
+#1329917076
+mutt
+#1329997963
+vmware&
+#1329997966
+ff&
+#1329997975
+cdvcl
+#1329997992
+cd books/c/graph/NeHe/
+#1329997994
+keynav 
+#1329998116
+p www.hao123.com
+#1329998239
+fcitx 
+#1330001230
+cd books/c/graph/
+#1330001233
+mkdir lib
+#1330001247
+mkdir examlib
+#1330001251
+rm  lib/
+#1330001255
+ce examlib/
+#1330001257
+cd examlib/
+#1330001259
+ex .
+#1330001277
+cd 6.1/
+#1330001279
+ma
+#1330001281
+mc
+#1330001285
+ma
+#1330001296
+vi makefile 
+#1330001354
+ma
+#1330001355
+mc
+#1330001356
+ma
+#1330001359
+fg
+#1330001372
+chmodff .
+#1330001375
+chmodf .
+#1330001377
+touch *
+#1330001395
+g 5DG_Window.cpp 
+#1330001944
+cd LESSON36/
+#1330001946
+ma
+#1330001947
+./lesson36 
+#1330001960
+cp Makefile  ~
+#1330001963
+mv ~/Makefile .
+#1330001966
+mv makefile makefile.bk
+#1330001970
+cscopecpp.sh 
+#1330001980
+vi Ma
+#1330001984
+vi Makefile
+#1330002026
+g Nehe.cpp
+#1330002044
+g main.c
+#1330002841
+fg
+#1330002923
+ma
+#1330003176
+mc
+#1330003181
+fg
+#1330003188
+mc
+#1330003191
+ma
+#1330003194
+fg
+#1330003199
+ma
+#1330003216
+fg
+#1330003232
+ma
+#1330003236
+fg
+#1330003248
+ma
+#1330003250
+mc
+#1330003250
+ma
+#1330003252
+fg
+#1330003319
+ma
+#1330003325
+fg
+#1330003360
+ma
+#1330003367
+fg
+#1330003369
+ma
+#1330003549
+fg
+#1330003556
+mc
+#1330003558
+ma
+#1330003562
+fg
+#1330003567
+ma
+#1330003571
+fg
+#1330003573
+ma
+#1330003576
+./Nehe 
+#1330003599
+ex Data/
+#1330003629
+ma
+#1330003630
+mc
+#1330003631
+ma
+#1330003654
+mc
+#1330003655
+ma
+#1330003701
+mc
+#1330003701
+ma
+#1330003849
+mc
+#1330003850
+ma
+#1330003858
+mc
+#1330003859
+ma
+#1330003865
+mc
+#1330003866
+ma
+#1330003867
+./Nehe 
+#1330004054
+mca
+#1330004056
+mc
+#1330004089
+find_svn-vss_files.sh 
+#1330004092
+find_svn-vss_files.sh -d
+#1330004100
+rm 5DG*
+#1330004106
+rm Camera.exe bakeup/ -rf
+#1330004110
+rm makefile.bk 
+#1330004114
+rm Main.cpp 
+#1330004126
+mkdir 06
+#1330004128
+mv 6.1/ 06/
+#1330004130
+cd 06/6.1/
+#1330004139
+rm Project 
+#1330004144
+ma
+#1330004147
+./Nehe 
+#1330004150
+ll Data/
+#1330004153
+rm Data/Thumbs.db 
+#1330004155
+mca
+#1330004156
+mc
+#1330004163
+fg 1
+#1330004174
+git add examlib/
+#1330004177
+gits
+#1330004188
+git commit
+#1330004328
+cd-
+#1330004331
+cd 06/6.1/
+#1330004332
+ma
+#1330004334
+./Nehe 
+#1330004345
+./Nehe &
+#1330004378
+ctagscpp.sh 
+#1330004380
+g
+#1330004427
+ma
+#1330004429
+./Nehe &
+#1330004439
+ma
+#1330004440
+./Nehe &
+#1330004478
+ma
+#1330004480
+./Nehe &
+#1330004587
+ma
+#1330004588
+./Nehe &
+#1330004602
+ma
+#1330004603
+./Nehe &
+#1330004611
+ma
+#1330004612
+./Nehe &
+#1330004691
+ma
+#1330004693
+./Nehe &
+#1330004735
+ma
+#1330004736
+./Nehe &
+#1330004813
+ma
+#1330004814
+./Nehe &
+#1330004858
+ex Data/
+#1330005114
+cd ../LESSON11
+#1330005117
+mca
+#1330005118
+mc
+#1330005128
+cp bmprw.cpp bmprw.h ~
+#1330005135
+mv ~/bmprw.* .
+#1330005136
+fg
+#1330005140
+vi Makefile 
+#1330005147
+fg
+#1330005150
+ma
+#1330005175
+mc
+#1330005175
+ma
+#1330005178
+./Nehe &
+#1330005214
+ma
+#1330005332
+ctagscpp.sh 
+#1330005499
+ll Data/
+#1330005515
+ma
+#1330005549
+./Nehe &
+#1330005581
+ctagscpp.sh 
+#1330005614
+ma
+#1330005617
+./Nehe &
+#1330005668
+ex Data/
+#1330005934
+ma
+#1330005935
+./Nehe &
+#1330006025
+ma
+#1330006027
+./Nehe &
+#1330006101
+ma
+#1330006102
+./Nehe &
+#1330006124
+ma
+#1330006125
+./Nehe &
+#1330006131
+ma
+#1330006132
+./Nehe &
+#1330006157
+ma
+#1330006184
+./Nehe &
+#1330006226
+a
+#1330006227
+ma
+#1330006228
+./Nehe &
+#1330006273
+ma
+#1330006274
+./Nehe &
+#1330006305
+ma
+#1330006307
+./Nehe &
+#1330006330
+ma
+#1330006331
+./Nehe &
+#1330006350
+ma
+#1330006351
+./Nehe &
+#1330006355
+ma
+#1330006356
+./Nehe &
+#1330006362
+ma
+#1330006363
+./Nehe &
+#1330006377
+ma
+#1330006378
+./Nehe &
+#1330006389
+ma
+#1330006390
+./Nehe &
+#1330006400
+ma
+#1330006402
+./Nehe &
+#1330006415
+ma
+#1330006416
+./Nehe &
+#1330006427
+ma
+#1330006428
+./Nehe &
+#1330006443
+ma
+#1330006445
+./Nehe &
+#1330006466
+ma
+#1330006467
+./Nehe &
+#1330006556
+ma
+#1330006557
+./Nehe &
+#1330006572
+ma
+#1330006573
+./Nehe &
+#1330006587
+ma
+#1330006588
+./Nehe &
+#1330006618
+ma
+#1330006619
+./Nehe &
+#1330006637
+a
+#1330006638
+ma
+#1330006639
+./Nehe &
+#1330006674
+ma
+#1330006675
+./Nehe &
+#1330006681
+ma
+#1330006682
+./Nehe &
+#1330006791
+ma
+#1330006793
+./Nehe &
+#1330006859
+ma
+#1330006860
+./Nehe &
+#1330006871
+ma
+#1330006872
+./Nehe &
+#1330006885
+ma
+#1330006886
+./Nehe &
+#1330006894
+ma
+#1330006895
+./Nehe &
+#1330006901
+ma
+#1330006903
+./Nehe &
+#1330006960
+ma
+#1330006961
+./Nehe &
+#1330006969
+ma
+#1330006970
+./Nehe &
+#1330006979
+ma
+#1330006980
+./Nehe &
+#1330007015
+ma
+#1330007016
+./Nehe &
+#1330007050
+gitdl
+#1330007060
+gitd.
+#1330007094
+ma
+#1330007095
+./Nehe &
+#1330007137
+ma
+#1330007138
+./Nehe &
+#1330007166
+ma
+#1330007167
+./Nehe &
+#1330007184
+ma
+#1330007186
+./Nehe &
+#1330007257
+ma
+#1330007258
+./Nehe &
+#1330007345
+ma
+#1330007346
+./Nehe &
+#1330007400
+ma
+#1330007402
+./Nehe &
+#1330007416
+ma
+#1330007417
+./Nehe &
+#1330007444
+a
+#1330007445
+ma
+#1330007462
+./Nehe &
+#1330007486
+ma
+#1330007487
+./Nehe &
+#1330007501
+ma
+#1330007503
+./Nehe &
+#1330007525
+ma
+#1330007526
+./Nehe &
+#1330007541
+ma
+#1330007542
+./Nehe &
+#1330007575
+ma
+#1330007576
+./Nehe &
+#1330007587
+ma
+#1330007588
+./Nehe &
+#1330007610
+ma
+#1330007611
+./Nehe &
+#1330007618
+ma
+#1330007619
+./Nehe &
+#1330007629
+ma
+#1330007630
+./Nehe &
+#1330007637
+ma
+#1330007638
+./Nehe &
+#1330007666
+ma
+#1330007667
+./Nehe &
+#1330007675
+ma
+#1330007676
+./Nehe &
+#1330007689
+ma
+#1330007690
+./Nehe &
+#1330007696
+ma
+#1330007697
+./Nehe &
+#1330007718
+ma
+#1330007719
+./Nehe &
+#1330007723
+ma
+#1330007724
+./Nehe &
+#1330007920
+ma
+#1330007923
+./Nehe &
+#1330007969
+ma
+#1330007970
+./Nehe &
+#1330008059
+ma
+#1330008060
+./Nehe &
+#1330008077
+ma
+#1330008078
+./Nehe &
+#1330008086
+ma
+#1330008087
+./Nehe &
+#1330008110
+m
+#1330008111
+ma
+#1330008113
+./Nehe &
+#1330008126
+ma
+#1330008128
+./Nehe &
+#1330008207
+ma
+#1330008209
+./Nehe &
+#1330008242
+ma
+#1330008244
+./Nehe &
+#1330008250
+ma
+#1330008251
+./Nehe &
+#1330008265
+ma
+#1330008266
+./Nehe &
+#1330008277
+ma
+#1330008278
+./Nehe &
+#1330008289
+ma
+#1330008290
+./Nehe &
+#1330008329
+ma
+#1330008330
+./Nehe &
+#1330008336
+ma
+#1330008337
+./Nehe &
+#1330008410
+ma
+#1330008411
+./Nehe &
+#1330008421
+ma
+#1330008422
+./Nehe &
+#1330008431
+ma
+#1330008432
+./Nehe &
+#1330008443
+ma
+#1330008444
+./Nehe &
+#1330008499
+ma
+#1330008504
+./Nehe &
+#1330008546
+a
+#1330008547
+ma
+#1330008548
+./Nehe &
+#1330008565
+ma
+#1330008566
+./Nehe &
+#1330008570
+ma
+#1330008572
+./Nehe &
+#1330008601
+ma
+#1330008603
+./Nehe &
+#1330008634
+ma
+#1330008635
+./Nehe &
+#1330008645
+ma
+#1330008646
+./Nehe &
+#1330008683
+ma
+#1330008684
+./Nehe &
+#1330008706
+ma
+#1330008707
+./Nehe &
+#1330008714
+ma
+#1330008715
+./Nehe &
+#1330008723
+ma
+#1330008723
+./Nehe &
+#1330008960
+ma
+#1330008961
+./Nehe &
+#1330008984
+ma
+#1330008985
+./Nehe &
+#1330008998
+a
+#1330009000
+ma
+#1330009001
+./Nehe &
+#1330009017
+ma
+#1330009018
+./Nehe &
+#1330009061
+ma
+#1330009063
+./Nehe &
+#1330009068
+mc
+#1330009071
+gits.
+#1330009077
+git add .
+#1330009078
+gits.
+#1330009096
+git commit -m '模拟光束效果'
+#1330009098
+gits
+#1330009101
+git.
+#1330009102
+gits.
+#1330009105
+cdvcl
+#1330009106
+gits.
+#1330009112
+git push origin master
+#1330000060
+ex .
+#1330010642
+cd-
+#1330010644
+cd 6.1/
+#1330010645
+./Nehe &
+#1330010647
+ma
+#1330010649
+./Nehe &
+#1330010655
+halt
+#1329997977
+screen
+#1330085110
+openbox
+#1330085149
+ff&
+#1330085152
+vmware&
+#1330085163
+keynav 
+#1330085240
+cdvcl
+#1330085248
+cd books/c/graph/examlib/06/6.1/
+#1330085250
+./Nehe 
+#1330085391
+gnote 
+#1330085431
+./Nehe 
+#1330085822
+cdl
+#1330085834
+cd books/c/opengl/opengl-red/
+#1330085836
+ma
+#1330085838
+./blendeqn 
+#1330085841
+g blendeqn
+#1330085898
+ma
+#1330085899
+./blendeqn 
+#1330085914
+ma
+#1330085917
+./blendeqn 
+#1330085928
+./blendeqn &
+#1330085933
+ma
+#1330085935
+./blendeqn &
+#1330085982
+a
+#1330085983
+ma
+#1330085984
+./blendeqn &
+#1330085988
+ma
+#1330085989
+./blendeqn &
+#1330085994
+svns
+#1330085997
+svndl
+#1330086004
+mca
+#1330086005
+mc
+#1330086007
+ma
+#1330086040
+./blendeqn &
+#1330086049
+ma
+#1330086091
+a
+#1330086092
+ma
+#1330086093
+./blendeqn &
+#1330087170
+m glTexEnvf
+#1330087241
+jj
+#1330087250
+./texbind 
+#1330087294
+ma
+#1330087295
+./texbind 
+#1330087317
+ma
+#1330087318
+./texbind 
+#1330087346
+ma
+#1330087347
+./texbind 
+#1330087380
+ma
+#1330087381
+./texbind 
+#1330087398
+ma
+#1330087400
+./texbind 
+#1330087444
+ma
+#1330087445
+./texbind 
+#1330087475
+ma
+#1330087477
+./texbind 
+#1330087534
+ma
+#1330087535
+./texbind 
+#1330087551
+ma
+#1330087552
+./texbind 
+#1330087588
+ma
+#1330087589
+./texbind 
+#1330087602
+ma
+#1330087603
+./texbind 
+#1330087614
+ma
+#1330087615
+./texbind 
+#1330087659
+a
+#1330087660
+ma
+#1330087661
+./texbind 
+#1330087724
+ma
+#1330087725
+./texbind 
+#1330088223
+fg
+#1330088231
+m glTexEnvf
+#1330088317
+ma
+#1330088521
+./texbind 
+#1330088590
+ma
+#1330088592
+./texbind 
+#1330088626
+ma
+#1330088627
+./texbind 
+#1330088634
+ma
+#1330088635
+./texbind 
+#1330088656
+fg
+#1330088680
+ma
+#1330088681
+./texbind 
+#1330088684
+./texbind &
+#1330088688
+ma
+#1330088690
+./texbind &
+#1330088852
+locate thunder
+#1330088856
+cdx
+#1330088858
+cd gs
+#1330088863
+cd git/thundermouse_3D_second_gaijin/
+#1330088866
+g
+#1330089330
+fichw glColor4f
+#1330089360
+git.
+#1330089362
+gits.
+#1330089365
+gitlo
+#1330089438
+lla
+#1330091984
+a
+#1330091985
+ma
+#1330091990
+./texbind &
+#1330092018
+a
+#1330092018
+ma
+#1330092020
+./texbind &
+#1330092025
+ma
+#1330092027
+./texbind &
+#1330092058
+ma
+#1330092059
+./texbind &
+#1330092067
+ma
+#1330092068
+./texbind &
+#1330092147
+ma
+#1330092148
+./texbind &
+#1330092169
+ma
+#1330092170
+./texbind &
+#1330092176
+ma
+#1330092177
+./texbind &
+#1330092211
+ma
+#1330092212
+./texbind &
+#1330092390
+ma
+#1330092391
+./texbind &
+#1330092415
+ma
+#1330092416
+./texbind &
+#1330092491
+ma
+#1330092492
+./texbind &
+#1330092498
+ma
+#1330092499
+./texbind &
+#1330092504
+ma
+#1330092505
+./texbind &
+#1330092518
+a
+#1330092518
+ma
+#1330092520
+./texbind &
+#1330092533
+ma
+#1330092535
+./texbind &
+#1330092582
+m glBlendFunc
+#1330092767
+ma
+#1330092770
+./texbind &
+#1330092795
+ma
+#1330092797
+./texbind &
+#1330092844
+ma
+#1330092845
+./texbind &
+#1330092855
+ma
+#1330092856
+./texbind &
+#1330093049
+ma
+#1330093052
+./texbind &
+#1330093132
+ma
+#1330093134
+./texbind &
+#1330093189
+ma
+#1330093190
+./texbind &
+#1330093208
+ma
+#1330093209
+./texbind &
+#1330093254
+ma
+#1330093255
+./texbind &
+#1330093261
+ma
+#1330093262
+./texbind &
+#1330093303
+ma
+#1330093304
+./texbind &
+#1330093330
+ma
+#1330093331
+./texbind &
+#1330093343
+ma
+#1330093345
+./texbind &
+#1330093355
+ma
+#1330093356
+./texbind &
+#1330093365
+ma
+#1330093366
+./texbind &
+#1330093418
+fg
+#1330093422
+m glTexEnvf
+#1330093435
+fg
+#1330093472
+ma
+#1330093473
+./texbind &
+#1330093493
+ma
+#1330093494
+./texbind &
+#1330093522
+ma
+#1330093524
+./texbind &
+#1330093572
+,y
+#1330093579
+cd,y
+#1330093592
+svn log -v blendeqn.c | less
+#1330093604
+svns
+#1330093608
+svndl
+#1330093613
+fg
+#1330093632
+svns
+#1330093635
+rm blendeqn.c
+#1330093642
+svn up -r 145 blendeqn.c
+#1330093649
+ma
+#1330093658
+k
+#1330093659
+ma
+#1330093661
+./texbind &
+#1330093665
+./blendeqn 
+#1330093721
+ma
+#1330093723
+./blendeqn 
+#1330093729
+ma
+#1330093730
+./blendeqn 
+#1330093772
+ma
+#1330093773
+./blendeqn 
+#1330093785
+ma
+#1330093787
+./blendeqn 
+#1330093795
+ma
+#1330093796
+./blendeqn 
+#1330093820
+ma
+#1330093822
+./blendeqn 
+#1330093846
+ma
+#1330093847
+./blendeqn 
+#1330093924
+ma
+#1330093925
+./blendeqn 
+#1330093937
+ma
+#1330093938
+./blendeqn 
+#1330093942
+ma
+#1330093943
+./blendeqn 
+#1330093951
+ma
+#1330093952
+./blendeqn 
+#1330093977
+ma
+#1330093978
+./blendeqn 
+#1330093990
+ma
+#1330093991
+./blendeqn 
+#1330093999
+ma
+#1330094000
+./blendeqn 
+#1330094009
+ma
+#1330094014
+./blendeqn 
+#1330094024
+ma
+#1330094025
+./blendeqn 
+#1330094047
+ma
+#1330094048
+./blendeqn 
+#1330094062
+ma
+#1330094064
+./blendeqn 
+#1330094068
+ma
+#1330094069
+./blendeqn 
+#1330094075
+ma
+#1330094076
+./blendeqn 
+#1330094100
+ma
+#1330094101
+./blendeqn 
+#1330094121
+ma
+#1330094123
+./blendeqn 
+#1330094139
+ma
+#1330094140
+./blendeqn 
+#1330094153
+ma
+#1330094154
+./blendeqn 
+#1330094227
+ma
+#1330094230
+./texbind &
+#1330094247
+ma
+#1330094248
+./texbind &
+#1330094265
+ma
+#1330094266
+./texbind &
+#1330094416
+ma
+#1330094417
+./texbind &
+#1330094496
+a
+#1330094497
+ma
+#1330094498
+./texbind &
+#1330094728
+ma
+#1330094730
+./texbind &
+#1330094799
+ma
+#1330094808
+./texbind &
+#1330094829
+ma
+#1330094831
+./texbind &
+#1330094833
+ma
+#1330094835
+./texbind &
+#1330094926
+ma
+#1330094927
+./texbind &
+#1330094932
+ma
+#1330094933
+./texbind &
+#1330094938
+ma
+#1330094939
+./texbind &
+#1330094959
+cat /etc/resolv.conf
+#1330094964
+p www.hao123.com
+#1330095541
+s translucent
+#1330095775
+ma
+#1330095776
+./texbind &
+#1330095785
+ma
+#1330095786
+./texbind &
+#1330095930
+ma
+#1330095931
+./texbind &
+#1330095960
+cp blendeqn.c blendeqn-GL_ONE.c
+#1330095981
+ma
+#1330095983
+./texbind &
+#1330095990
+ma
+#1330095991
+./texbind &
+#1330096012
+ma
+#1330096013
+./texbind &
+#1330096024
+ma
+#1330096025
+./texbind &
+#1330096032
+ma
+#1330096033
+./texbind &
+#1330096257
+ma
+#1330096259
+./texbind &
+#1330096269
+ma
+#1330096270
+./texbind &
+#1330096279
+ma
+#1330096280
+./texbind &
+#1330096294
+ma
+#1330096295
+./texbind &
+#1330096914
+ma
+#1330096916
+./texbind &
+#1330096924
+ma
+#1330096925
+./texbind &
+#1330096941
+a
+#1330096942
+ma
+#1330096943
+./texbind &
+#1330096949
+ma
+#1330096950
+./texbind &
+#1330097168
+ma
+#1330097169
+./texbind &
+#1330097205
+ma
+#1330097206
+./texbind &
+#1330097245
+ma
+#1330097246
+./texbind &
+#1330097267
+ma
+#1330097268
+./texbind &
+#1330097275
+ma
+#1330097276
+./texbind &
+#1330097345
+ma
+#1330097348
+./texbind &
+#1330097355
+ma
+#1330097380
+./texbind &
+#1330097386
+ma
+#1330097387
+./texbind &
+#1330097392
+ma
+#1330097393
+./texbind &
+#1330097398
+ma
+#1330097399
+./texbind &
+#1330097427
+ma
+#1330097428
+./texbind &
+#1330097960
+ma
+#1330097962
+./texbind &
+#1330097974
+ma
+#1330097975
+./texbind &
+#1330098038
+ma
+#1330098039
+./texbind &
+#1330098067
+ma
+#1330098069
+./texbind &
+#1330098076
+ma
+#1330098077
+./texbind &
+#1330098149
+ma
+#1330098157
+./texbind &
+#1330098263
+ma
+#1330098264
+./texbind &
+#1330098279
+ma
+#1330098280
+./texbind &
+#1330098313
+ma
+#1330098314
+./texbind &
+#1330098348
+ma
+#1330098350
+./texbind &
+#1330098509
+ma
+#1330098510
+./texbind &
+#1330098540
+ma
+#1330098544
+jj
+#1330098552
+./texbind &
+#1330098597
+ma
+#1330098598
+./texbind &
+#1330098678
+ma
+#1330098681
+./blendeqn 
+#1330098717
+ma
+#1330098718
+./texbind &
+#1330098758
+ma
+#1330098759
+./texbind &
+#1330098768
+ma
+#1330098770
+./texbind &
+#1330098783
+ma
+#1330098784
+./texbind &
+#1330098811
+ma
+#1330098813
+./texbind &
+#1330098832
+ma
+#1330098834
+./texbind &
+#1330098868
+ma
+#1330098869
+./texbind &
+#1330098891
+./blendeqn 
+#1330098950
+ma
+#1330098951
+./blendeqn 
+#1330098953
+./texbind &
+#1330099020
+ma
+#1330099022
+./texbind &
+#1330099035
+ma
+#1330099037
+./texbind &
+#1330099080
+ma
+#1330099081
+./texbind &
+#1330175633
+ex .
+#1330265751
+ff&
+#1330265905
+ff
+#1330265920
+ii
+#1330265953
+cat /etc/resolv.conf
+#1330347049
+ex .
+#1330354002
+cdl
+#1330354005
+cd c-cpp/
+#1330354011
+cd c/
+#1330354013
+cdl
+#1330354016
+cd 0ctope/
+#1330354019
+cd libc/
+#1330354021
+cd libc
+#1330354025
+cd string/
+#1330354029
+g strlen.c 
+#1330384675
+halt
+#1330265913
+screen
+#1330433808
+ls /
+#1330433809
+ll /
+#1330433814
+lla
+#1330433816
+ex .
+#1330433824
+lla
+#1330433826
+ii
+#1330433829
+lla
+#1330433844
+aa
+#1330433847
+llllllllllllllllllll
+#1330433897
+6~6~6~6~6~6~6~6~6~6~6~6~6~6~6~6~6~6~6~6~6~6~6~6~
+#1330433932
+cat /etc/passwd
+#1330433938
+less /etc/passwd
+#1330433960
+nologin 
+#1330433968
+nologin -h
+#1330433977
+m nologin
+#1330434027
+cdv
+#1330434045
+cd vim72/
+#1330434061
+ll | less
+#1330434065
+lls
+#1330517935
+ff&
+#1330517951
+vmware&
+#1330517956
+keynav 
+#1330517979
+cdr
+#1330517982
+cdb
+#1330517986
+da
+#1330517988
+lls
+#1330517990
+llr
+#1330517991
+llx
+#1330519966
+pg fire
+#1330519975
+t
+#1330610386
+cdvcl
+#1330610393
+cd books/c/graph/examlib/06/6.1/
+#1330610395
+./Nehe 
+#1330611208
+cat /etc/passwd
+#1330611216
+cat /etc/resolv.conf
+#1330612062
+p www.opengl.org
+#1330612078
+dig www.opengl.org
+#1330612848
+cdx
+#1330612853
+gcc multilight.c 
+#1330612867
+gcc multilight.c -lGL -lGLUT
+#1330612873
+gcc multilight.c -lGL -lglut
+#1330612879
+gcc multilight.c -lGL -lglut -lm
+#1330612886
+gcc multilight.c -lGL -lglut -lm -lGLU
+#1330612889
+./a.out 
+#1330613204
+cdvcl
+#1330613208
+cd books/c/graph/examlib/06/6.1/
+#1330613211
+./Nehe 
+#1330644072
+halt
+#1330517971
+screen
+#1330693897
+cdx
+#1330693907
+mkdir FretsOnFire
+#1330693916
+mv FretsOnFire-1.3.110* FretsOnFire
+#1330693917
+cd FretsOnFire/
+#1330693930
+tar xvzf FretsOnFire-1.3.110.tar.gz 
+#1330693934
+cd Frets
+#1330693938
+cd Frets\ on\ Fire-1.3.110/
+#1330693940
+ma
+#1330693957
+g readme.txt 
+#1330693978
+cd src
+#1330693997
+python FretsOnFire.py 
+#1330694011
+g ~/yum_list.txt 
+#1330694267
+python FretsOnFire.py 
+#1330694270
+su
+#1330694280
+yum -y install PyOpenGL
+#1330694480
+yum -y install pygame
+#1330695584
+cdvcl
+#1330695588
+cd books/c/graph/examlib/06/6.1/
+#1330695591
+ex Data/
+#1330695698
+./Nehe 
+#1330695964
+xg Nehe.cpp 
+#1330695967
+g Nehe.cpp 
+#1330696049
+./Nehe 
+#1330698030
+cat /etc/resolv.conf
+#1330698042
+cdrt
+#1330698056
+cd linux/computor/grath/opengl/nehe/dev-src-html/
+#1330698060
+ff index.htm 
+#1330698064
+keynav 
+#1330698138
+cdvcl
+#1330698142
+cd books/c/graph/NeHe/
+#1330698148
+cp zip/lesson19.zip .
+#1330698154
+unzip lesson19.zip 
+#1330698158
+rm lesson19.zip 
+#1330698165
+mv lesson19/ LESSON19/
+#1330698169
+d LESSON19
+#1330698171
+cd LESSON19
+#1330698173
+ma
+#1330698180
+g lesson19.cpp 
+#1330698192
+ma
+#1330698266
+vi makefile 
+#1330698287
+ma
+#1330698295
+fg
+#1330698299
+mc
+#1330698299
+ma
+#1330698312
+fg
+#1330698322
+ma
+#1330698325
+./lesson19.exe 
+#1330698530
+fg
+#1330698588
+mc
+#1330698593
+vi makefile 
+#1330698606
+mc
+#1330698608
+ma
+#1330698610
+fg
+#1330698618
+mc
+#1330698619
+ma
+#1330698644
+./lesson19.exe 
+#1330698671
+gouldtoppm *
+#1330698676
+touch *
+#1330698679
+mca
+#1330698681
+mc
+#1330698686
+ex .
+#1330698821
+ma
+#1330698823
+./lesson19.exe 
+#1330698828
+gits
+#1330698836
+cd -
+#1330698837
+mc
+#1330698843
+cd-
+#1330698847
+rm lesson19.dsp 
+#1330698855
+gits
+#1330698866
+git add LESSON19
+#1330698869
+gits
+#1330698883
+git commit -m '粒子系统'
+#1330698886
+gits
+#1330698978
+,y
+#1330698982
+cd,y
+#1330698988
+cd LESSON43
+#1330698992
+cd ..
+#1330698995
+cd examlib/06/6.1/
+#1330698996
+ma
+#1330698999
+ex Data/
+#1330699019
+ma
+#1330699020
+./Nehe 
+#1330699033
+g Nehe.cpp 
+#1330699056
+ma
+#1330699058
+./Nehe 
+#1330699123
+ma
+#1330699124
+./Nehe 
+#1330699144
+ma
+#1330699145
+./Nehe 
+#1330699180
+ma
+#1330699181
+./Nehe 
+#1330699216
+ma
+#1330699218
+./Nehe 
+#1330699232
+ma
+#1330699233
+./Nehe 
+#1330699294
+ma
+#1330699296
+./Nehe 
+#1330699354
+ma
+#1330699355
+./Nehe 
+#1330699378
+ma
+#1330699379
+./Nehe 
+#1330699392
+ma
+#1330699394
+./Nehe 
+#1330699435
+ma
+#1330699436
+./Nehe 
+#1330699479
+ma
+#1330699480
+./Nehe 
+#1330699515
+ma
+#1330699517
+./Nehe 
+#1330699534
+ma
+#1330699536
+./Nehe 
+#1330699636
+ma
+#1330699637
+./Nehe 
+#1330699763
+ma
+#1330699764
+./Nehe 
+#1330699787
+ma
+#1330699789
+./Nehe 
+#1330699826
+ma
+#1330699827
+./Nehe 
+#1330700002
+gits
+#1330700004
+gits.
+#1330700114
+rm beam.cpp 
+#1330700169
+fichw BOOL
+#1330700238
+ma
+#1330700240
+./Nehe 
+#1330700261
+ll Data/
+#1330700267
+ex Data/
+#1330700290
+ma
+#1330700291
+./Nehe 
+#1330700306
+ma
+#1330700307
+./Nehe 
+#1330700325
+ma
+#1330700327
+./Nehe 
+#1330700341
+ma
+#1330700343
+./Nehe 
+#1330701141
+ll Data/
+#1330701157
+ma
+#1330701158
+./Nehe 
+#1330701204
+ma
+#1330701205
+./Nehe 
+#1330701231
+ma
+#1330701232
+./Nehe 
+#1330701289
+ma
+#1330701290
+./Nehe 
+#1330701325
+ma
+#1330701326
+./Nehe 
+#1330701334
+ma
+#1330701335
+./Nehe 
+#1330701388
+ma
+#1330701389
+./Nehe 
+#1330701957
+ma
+#1330701959
+./Nehe 
+#1330701984
+ma
+#1330701985
+./Nehe 
+#1330702040
+ma
+#1330702042
+./Nehe 
+#1330702062
+ma
+#1330702063
+./Nehe 
+#1330702075
+ma
+#1330702077
+./Nehe 
+#1330702099
+ma
+#1330702100
+./Nehe 
+#1330702119
+ma
+#1330702120
+./Nehe 
+#1330702132
+ma
+#1330702133
+./Nehe 
+#1330702140
+ma
+#1330702141
+./Nehe 
+#1330772588
+ex .
+#1330779824
+zll
+#1330780390
+halt
+#1330693920
+screen
+#1331208241
+ex .
+#1331217904
+ff&
+#1331220060
+ex .
+#1331293982
+ff&
+#1331293993
+ii
+#1331303191
+cat /etc/resolv.conf
+#1331303288
+p
+#1331303917
+;;
+#1331304296
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[
+#1331344835
+?llllllllllllllllllllllllllllllllllllllllllllllllllllll
+#1331399475
+cd aM
+#1331399477
+cd aMu
+#1331399486
+cd .aMule/TDDOWNLOAD/
+#1331399464
+su
+#1331293991
+screen
+#1331448257
+ii
+#1331448264
+cdvcl
+#1331448269
+cd books/c/graph/examlib/06/6.1/
+#1331448271
+mc
+#1331448272
+ma
+#1331448275
+./Nehe 
+#1331448289
+gits.
+#1331448294
+gitd
+#1331448309
+./Nehe 
+#1331464114
+cd
+#1331464116
+cd tmp/wget/
+#1331464125
+wget -c -p http://www.best-living.net/pdf-download/nikon-d5100%E5%AE%%E5%%AE6%91%%E5%BD%B1%E6%%%E5%%.pdf
+#1331468318
+llll
+#1331468323
+cd .Mail/
+#1331470842
+t
+#1331470863
+ii
+#1331471220
+]
+#1331471222
+[
+#1331471224
+[ ]
+#1331471226
+[;
+#1331471228
+[ ]
+#1331471231
+[        ]
+#1331471233
+[        a]
+#1331471297
+t
+#1331473154
+ff http://linux.solidot.org/linux/11/12/31/0025227.shtml
+#1331473159
+keynav 
+#1331478006
+t
+#1331561239
+ex .
+#1331561341
+pg psu
+#1331561349
+reboot
+#1331468324
+mutt
+#1331729315
+date
+#1331729319
+cal
+#1331826025
+cat /etc/resolv.conf
+#1331987354
+cal
+#1331987391
+cat /etc/resolv.conf
+#1331987393
+p www.opengl.org
+#1331991424
+t
+#1331995760
+ff&
+#1331995765
+vmware&
+#1331995777
+iiiiii
+#1331995777
+ii
+#1331996344
+ff&
+#1331996345
+vmware&
+#1331996348
+ii
+#1331996369
+keynav 
+#1331996633
+vmware&
+#1331996635
+ff&
+#1331996779
+ex .
+#1332068703
+ff&
+#1332068704
+vmware&
+#1332071531
+date
+#1332076383
+ex .
+#1332077659
+gvht
+#1332078472
+date
+#1332079397
+keynav 
+#1332085194
+halt
+#1332161871
+p www.opengl.org
+#1332161876
+ff&
+#1332161878
+vmware&
+#1332161933
+cat /etc/resolv.conf
+#1332161952
+keynav 
+#1332161962
+p 8.8.8.8
+#1332162002
+p pic2.58.com
+#1332165931
+p 8.8.8.8
+#1332167567
+p www.opengl.org
+#1332167589
+p img3.douban.com
+#1332171469
+halt
+#1332161965
+screen
+#1332248261
+ff&
+#1332248262
+vmware&
+#1332248428
+keynav 
+#1332248437
+su
+#1332248450
+vrc
+#1332248464
+fg
+#1332248487
+ii
+#1332258556
+halt
+#1332248434
+screen
+#1332332517
+keynav 
+#1332332525
+ff&
+#1332332527
+vrc
+#1332332540
+vi /root/
+#1332332546
+vi /root/.s
+#1332332562
+vmware&
+#1332332674
+p img3.douban.com
+#1332337643
+g
+#1332340080
+cdrt
+#1332340094
+cd linux/computor//grath/opengl/nehe/dev-src-html/
+#1332340096
+,y
+#1332340098
+ff index.htm 
+#1332340170
+cdvcl
+#1332340179
+cd books/c/graph/NeHe/
+#1332340187
+cp zip/lesson25.tar.gz .
+#1332340192
+tar xvzf lesson25.tar.gz 
+#1332340196
+rm lesson25.tar.gz 
+#1332340203
+mv lesson25/ LESSON25/
+#1332340205
+touch *
+#1332340208
+cd LESSON25
+#1332340211
+ma
+#1332340218
+g Lesson25.cpp 
+#1332340221
+ll Data/
+#1332340243
+ma
+#1332340261
+./Lesson25 
+#1332341176
+ma
+#1332341177
+./Lesson25 
+#1332341705
+ma
+#1332341708
+./Lesson25 
+#1332341846
+ma
+#1332341849
+./Lesson25 
+#1332341861
+ma
+#1332341863
+./Lesson25 
+#1332341873
+ma
+#1332341874
+./Lesson25 
+#1332341964
+ma
+#1332341965
+./Lesson25 
+#1332342005
+ma
+#1332342007
+./Lesson25 
+#1332342102
+ma
+#1332342104
+./Lesson25 
+#1332342143
+./Lesson25 > out
+#1332342149
+g out 
+#1332342206
+ma
+#1332342207
+./Lesson25 > out
+#1332342351
+ma
+#1332342352
+./Lesson25 > out
+#1332342588
+ma
+#1332342590
+./Lesson25 > out
+#1332342640
+ma
+#1332342641
+./Lesson25 > out
+#1332342666
+ma
+#1332342667
+./Lesson25 > out
+#1332342768
+ma
+#1332342769
+./Lesson25 > out
+#1332342970
+ma
+#1332342971
+./Lesson25 > out
+#1332342996
+ma
+#1332342997
+./Lesson25 > out
+#1332343109
+ma
+#1332343110
+./Lesson25 > out
+#1332343160
+ma
+#1332343161
+./Lesson25 > out
+#1332343183
+ma
+#1332343185
+./Lesson25 > out
+#1332343199
+ma
+#1332343200
+./Lesson25 > out
+#1332343226
+ma
+#1332343227
+./Lesson25 > out
+#1332343240
+ma
+#1332343241
+./Lesson25 > out
+#1332343259
+ma
+#1332343260
+./Lesson25 > out
+#1332343301
+ma
+#1332343302
+./Lesson25 > out
+#1332343350
+ma
+#1332343352
+./Lesson25 > out
+#1332343434
+ma
+#1332343436
+./Lesson25 > out
+#1332422046
+reboot
+#1332332519
+screen
+#1332338099
+mutt
+#1332422176
+keynav 
+#1332422181
+ff&
+#1332422183
+vmware&
+#1332422185
+jj
+#1332423518
+cd .Mail/
+#1332425968
+locate -i 'cegui*\.h
+#1332425972
+locate -i 'cegui*\.h'
+#1332425978
+locate -i cegui*\.h
+#1332426171
+s animation
+#1332426640
+lla
+#1332426646
+chmod 777 .aMule/
+#1332426651
+ex .aMule/
+#1332427689
+chmod 000 .aMule/
+#1332423520
+mutt
+#1332517197
+cal
+#1332517208
+cal 2012
+#1332596490
+t
+#1332596522
+reboot
+#1332423512
+screen
+#1332426633
+su
+#1332596695
+ff&
+#1332596706
+vmware&
+#1332681759
+ex .
+#1332682440
+cal 2012
+#1332682443
+cat /etc/resolv.conf
+#1332774228
+cdx
+#1332774235
+cd FretsOnFire/
+#1332774244
+cd Frets\ on\ Fire-1.3.110/
+#1332774267
+cd pieman-0.07
+#1332774269
+./pieman 
+#1332774292
+ll book/
+#1332774299
+ll debug
+#1332774303
+ll gs
+#1332774323
+cd FretsOnFire/Frets\ on\ Fire-1.3.110/
+#1332774327
+cd src/
+#1332774331
+./FretsOnFire.py 
+#1332774567
+ll midi
+#1332774572
+ex .
+#1332774741
+./src/FretsOnFire.py 
+#1332774755
+cd src
+#1332774757
+./FretsOnFire.py 
+#1332853268
+t
+#1332853376
+reboot
+#1332596881
+screen
+#1332938699
+ff&
+#1332938701
+vmware&
+#1332938748
+ex
+#1333026883
+reboot
+#1332938808
+screen
+#1333032953
+fcitx 
+#1333035664
+s queer
+#1333109355
+t
+#1333111006
+vmware&
+#1333113841
+t
+#1333116339
+cdvcl
+#1333116343
+cd books/c/graph/examlib/06/6.1/
+#1333116344
+ma
+#1333116348
+./Nehe 
+#1333117004
+g Nehe.cpp 
+#1333117062
+./Nehe 
+#1333117074
+ma
+#1333117077
+./Nehe 
+#1333117131
+ma
+#1333117133
+./Nehe 
+#1333117186
+ma
+#1333117187
+./Nehe 
+#1333117211
+ma
+#1333117212
+./Nehe 
+#1333117237
+ma
+#1333117238
+./Nehe 
+#1333117271
+ma
+#1333117272
+./Nehe 
+#1333117321
+ma
+#1333117327
+lla
+#1333117339
+ma
+#1333117341
+./Nehe 
+#1333117414
+ma
+#1333117415
+./Nehe 
+#1333117490
+cdl
+#1333117500
+cd books/c/opengl/opengl-red/
+#1333117505
+vi robot2.c
+#1333117525
+fg
+#1333117529
+ma
+#1333117531
+./robot2
+#1333117561
+ma
+#1333117563
+./Nehe 
+#1333117574
+ma
+#1333117575
+./Nehe 
+#1333117608
+ma
+#1333117609
+./Nehe 
+#1333117616
+ma
+#1333117618
+./Nehe 
+#1333117634
+ma
+#1333117635
+./Nehe 
+#1333117710
+ma
+#1333117711
+./Nehe 
+#1333117744
+ma
+#1333117745
+./Nehe 
+#1333117755
+ma
+#1333117756
+./Nehe 
+#1333117763
+ma
+#1333117765
+./Nehe 
+#1333117770
+ma
+#1333117771
+./Nehe 
+#1333117819
+ma
+#1333117820
+./Nehe 
+#1333117877
+ma
+#1333117879
+./Nehe 
+#1333117887
+ma
+#1333117888
+./Nehe 
+#1333117896
+ma
+#1333117898
+./Nehe 
+#1333117916
+ma
+#1333117918
+./Nehe 
+#1333117940
+ma
+#1333117941
+./Nehe 
+#1333117953
+ma
+#1333117955
+./Nehe 
+#1333119786
+ma
+#1333119787
+./Nehe 
+#1333119862
+ma
+#1333119863
+./Nehe 
+#1333119879
+ma
+#1333119880
+./Nehe 
+#1333119883
+ma
+#1333119884
+./Nehe 
+#1333119918
+ma
+#1333119919
+./Nehe 
+#1333119923
+ma
+#1333119924
+./Nehe 
+#1333119960
+ma
+#1333119961
+./Nehe 
+#1333120001
+ma
+#1333120002
+./Nehe 
+#1333120020
+ma
+#1333120021
+./Nehe 
+#1333120038
+ma
+#1333120039
+./Nehe 
+#1333120047
+ma
+#1333120048
+./Nehe 
+#1333120118
+ma
+#1333120119
+./Nehe 
+#1333120125
+ma
+#1333120127
+./Nehe 
+#1333120231
+ma
+#1333120233
+./Nehe 
+#1333120246
+ma
+#1333120247
+./Nehe 
+#1333120251
+ma
+#1333120252
+./Nehe 
+#1333120274
+ma
+#1333120275
+./Nehe 
+#1333120288
+ma
+#1333120289
+./Nehe 
+#1333120326
+ma
+#1333120327
+./Nehe 
+#1333120337
+ma
+#1333120338
+./Nehe 
+#1333120342
+ma
+#1333120344
+./Nehe 
+#1333120438
+ma
+#1333120439
+./Nehe 
+#1333120445
+ma
+#1333120446
+./Nehe 
+#1333120467
+ma
+#1333120468
+./Nehe 
+#1333120487
+ma
+#1333120488
+./Nehe 
+#1333120492
+ma
+#1333120493
+./Nehe 
+#1333120517
+ma
+#1333120518
+./Nehe 
+#1333120527
+ma
+#1333120528
+./Nehe 
+#1333120561
+ma
+#1333120562
+./Nehe 
+#1333120593
+ma
+#1333120595
+./Nehe 
+#1333120639
+ma
+#1333120641
+./Nehe 
+#1333120706
+ma
+#1333120708
+./Nehe 
+#1333121088
+ma
+#1333121089
+./Nehe 
+#1333121108
+ma
+#1333121109
+./Nehe 
+#1333121116
+ma
+#1333121117
+./Nehe 
+#1333121158
+ma
+#1333121159
+./Nehe 
+#1333121168
+ma
+#1333121169
+./Nehe 
+#1333121221
+ma
+#1333121222
+./Nehe 
+#1333121236
+ma
+#1333121237
+./Nehe 
+#1333121269
+ma
+#1333121270
+./Nehe 
+#1333121284
+ma
+#1333121286
+./Nehe 
+#1333121352
+ma
+#1333121353
+./Nehe 
+#1333121398
+ma
+#1333121399
+./Nehe 
+#1333121480
+ma
+#1333121482
+./Nehe 
+#1333121494
+ma
+#1333121495
+./Nehe 
+#1333121512
+ma
+#1333121513
+./Nehe 
+#1333121532
+ma
+#1333121533
+./Nehe 
+#1333121539
+ma
+#1333121541
+./Nehe 
+#1333121594
+ma
+#1333121596
+./Nehe 
+#1333121605
+ma
+#1333121606
+./Nehe 
+#1333121617
+ma
+#1333121619
+./Nehe 
+#1333121624
+ma
+#1333121625
+./Nehe 
+#1333121643
+ma
+#1333121644
+./Nehe 
+#1333121657
+ma
+#1333121659
+./Nehe 
+#1333121669
+ma
+#1333121670
+./Nehe 
+#1333121687
+ma
+#1333121689
+./Nehe 
+#1333122603
+ma
+#1333122605
+./Nehe 
+#1333122681
+ma
+#1333122683
+./Nehe 
+#1333122701
+ma
+#1333122702
+./Nehe 
+#1333122715
+ma
+#1333122716
+./Nehe 
+#1333122731
+ma
+#1333122732
+./Nehe 
+#1333122768
+ma
+#1333122769
+./Nehe 
+#1333122784
+ma
+#1333122785
+./Nehe 
+#1333122809
+m
+#1333122810
+ma
+#1333122811
+./Nehe 
+#1333122842
+ma
+#1333122843
+./Nehe 
+#1333122863
+ma
+#1333122864
+./Nehe 
+#1333122921
+ma
+#1333122923
+./Nehe 
+#1333122933
+ma
+#1333122935
+./FretsOnFire.py 
+#1333122937
+./Nehe 
+#1333122945
+ma
+#1333122946
+./Nehe 
+#1333122967
+ma
+#1333122968
+./Nehe 
+#1333122992
+gits
+#1333122996
+gits.
+#1333123006
+git add Nehe.cpp 
+#1333123008
+gits.
+#1333123015
+git add .
+#1333123015
+gits
+#1333123027
+git commit -m '光串并旋转'
+#1333123031
+gits
+#1333123034
+gits.
+#1333123037
+git push origin master
+#1333198397
+./Nehe 
+#1333198424
+ma
+#1333198426
+./Nehe 
+#1333198442
+ma
+#1333198443
+./Nehe 
+#1333198498
+ma
+#1333198499
+./Nehe 
+#1333198515
+ma
+#1333198516
+./Nehe 
+#1333198531
+ma
+#1333198532
+./Nehe 
+#1333198541
+ma
+#1333198542
+./Nehe 
+#1333198555
+ma
+#1333198556
+./Nehe 
+#1333198572
+ma
+#1333198573
+./Nehe 
+#1333198592
+ma
+#1333198593
+./Nehe 
+#1333198604
+ma
+#1333198605
+./Nehe 
+#1333198611
+ma
+#1333198612
+./Nehe 
+#1333198616
+ma
+#1333198617
+./Nehe 
+#1333198622
+ma
+#1333198623
+./Nehe 
+#1333198629
+ma
+#1333198630
+./Nehe 
+#1333198714
+ii
+#1333198715
+t
+#1333198727
+p img3.douban.com
+#1333198763
+ipa
+#1333198766
+p img3.douban.com
+#1333198777
+ii
+#1333198793
+,y
+#1333198798
+cdif
+#1333198801
+vi ifcfg-eth0
+#1333198811
+r
+#1333198817
+service network restart
+#1333198823
+ipa
+#1333198826
+p img3.douban.com
+#1333198835
+cat /etc/resolv.conf
+#1333198840
+p www.opengl.org
+#1333198845
+p www.hao123.com
+#1333198878
+t
+#1333200779
+p www.hao123.com
+#1333208957
+halt
+#1333109353
+screen
+#1333117534
+fg
+#1333198781
+su
+#1333284405
+ff&
+#1333284440
+p www.hao123.com
+#1333284451
+rn
+#1333284463
+p www.hao123.com
+#1333284470
+p 192.168.1.1
+#1333284474
+p 221.1.217.92
+#1333284477
+rn
+#1333284483
+p 221.1.217.92
+#1333284488
+p 211.64.120.2
+#1333284493
+p 8.8.8.8
+#1333284505
+p 192.168.1.1
+#1333284557
+p 8.8.8.8
+#1333284611
+p 192.168.1.1
+#1333284614
+p 8.8.8.8
+#1333284660
+cdvcl
+#1333284664
+git pull origin master
+#1333285082
+cdvcl
+#1333285087
+cd books/c/graph/examlib/06/6.1/
+#1333285088
+ma
+#1333285092
+./light 
+#1333285267
+g Nehe.c
+#1333285272
+g Nehe.cpp 
+#1333285283
+ma
+#1333285285
+./light 
+#1333285310
+ma
+#1333285311
+./light 
+#1333285374
+ma
+#1333285375
+./light 
+#1333285384
+ma
+#1333285385
+./light 
+#1333285395
+ma
+#1333285396
+./light 
+#1333285421
+ma
+#1333285423
+./light 
+#1333285437
+ma
+#1333285438
+./light 
+#1333285461
+ma
+#1333285463
+./light 
+#1333285484
+ma
+#1333285488
+./light 
+#1333285516
+ma
+#1333285517
+./light 
+#1333285555
+ma
+#1333285556
+./light 
+#1333285576
+ma
+#1333285577
+./light 
+#1333285606
+ma
+#1333285607
+./light 
+#1333285636
+ma
+#1333285637
+./light 
+#1333285646
+ma
+#1333285647
+./light 
+#1333285674
+ma
+#1333285675
+./light 
+#1333285686
+ma
+#1333285687
+./light 
+#1333285759
+ma
+#1333285760
+./light 
+#1333285794
+ma
+#1333285795
+./light 
+#1333285810
+ma
+#1333285811
+./light 
+#1333285827
+ma
+#1333285828
+./light 
+#1333285869
+ex Data/
+#1333285880
+fg
+#1333285887
+ma
+#1333285888
+./light 
+#1333285928
+ma
+#1333285929
+./light 
+#1333286462
+ma
+#1333286463
+./light 
+#1333286582
+ma
+#1333286583
+./light 
+#1333286606
+ma
+#1333286607
+./light 
+#1333286634
+ma
+#1333286635
+./light 
+#1333286659
+ma
+#1333286660
+./light 
+#1333286671
+ma
+#1333286672
+./light 
+#1333287023
+ma
+#1333287024
+./light 
+#1333287063
+ma
+#1333287064
+./light 
+#1333287077
+ma
+#1333287078
+./light 
+#1333287175
+ma
+#1333287177
+./light 
+#1333287216
+ma
+#1333287228
+./light 
+#1333287272
+ma
+#1333287274
+./light 
+#1333287317
+ma
+#1333287319
+./light 
+#1333287331
+ma
+#1333287333
+./light 
+#1333287389
+ma
+#1333287390
+./light 
+#1333287398
+ma
+#1333287399
+./light 
+#1333287426
+ma
+#1333287427
+./light 
+#1333287501
+ma
+#1333287502
+./light 
+#1333287552
+ma
+#1333287554
+./light 
+#1333287621
+ma
+#1333287623
+./light 
+#1333287720
+ma
+#1333287721
+./light 
+#1333287763
+ma
+#1333287764
+./light 
+#1333287874
+ma
+#1333287875
+./light 
+#1333287886
+ma
+#1333287887
+./light 
+#1333287921
+ma
+#1333287923
+./light 
+#1333287956
+ma
+#1333287957
+./light 
+#1333287977
+ma
+#1333287979
+./light 
+#1333288026
+ma
+#1333288027
+./light 
+#1333288039
+ma
+#1333288040
+./light 
+#1333288050
+ma
+#1333288052
+./light 
+#1333288082
+ma
+#1333288083
+./light 
+#1333288100
+ma
+#1333288101
+./light 
+#1333288133
+ma
+#1333288134
+./light 
+#1333288166
+ma
+#1333288168
+./light 
+#1333289641
+gitd
+#1333289644
+gitd.
+#1333289662
+git checkout .
+#1333289663
+gits
+#1333289665
+gits.
+#1333289667
+ma
+#1333289668
+./light 
+#1333289691
+ma
+#1333289692
+mca
+#1333289693
+mc
+#1333289694
+ma
+#1333289695
+./light 
+#1333290051
+ma
+#1333290084
+.ma
+#1333290085
+ma
+#1333290086
+.ma
+#1333290089
+./light 
+#1333290130
+ma
+#1333290131
+./light 
+#1333290202
+ma
+#1333290204
+./light 
+#1333290231
+ctagscpp.sh 
+#1333290249
+ma
+#1333290251
+./light 
+#1333290277
+ma
+#1333290279
+./light 
+#1333290286
+ma
+#1333290287
+./light 
+#1333290306
+ma
+#1333290307
+./light 
+#1333290323
+ma
+#1333290325
+./light 
+#1333290363
+ma
+#1333290364
+./light 
+#1333290395
+ma
+#1333290396
+./light 
+#1333290421
+ma
+#1333290423
+./light 
+#1333290426
+ma
+#1333290427
+./light 
+#1333290447
+ma
+#1333290448
+./light 
+#1333290456
+ma
+#1333290457
+./light 
+#1333290468
+ma
+#1333290469
+./light 
+#1333290712
+ma
+#1333290713
+./light 
+#1333290904
+ma
+#1333290905
+./light 
+#1333290924
+ma
+#1333290926
+./light 
+#1333290937
+ma
+#1333290938
+./light 
+#1333290951
+ma
+#1333290952
+./light 
+#1333290961
+ma
+#1333290962
+./light 
+#1333290967
+ma
+#1333290968
+./light 
+#1333290974
+ma
+#1333290975
+./light 
+#1333290984
+ma
+#1333290985
+./light 
+#1333291223
+ma
+#1333291224
+./light 
+#1333291244
+ma
+#1333291245
+./light 
+#1333291258
+ma
+#1333291259
+./light 
+#1333291362
+ma
+#1333291363
+./light 
+#1333291377
+ma
+#1333291378
+./light 
+#1333291588
+ma
+#1333291589
+./light 
+#1333291602
+ma
+#1333291604
+./light 
+#1333291613
+ma
+#1333291614
+./light 
+#1333291713
+ma
+#1333291715
+./light 
+#1333291779
+ma
+#1333291780
+./light 
+#1333291836
+ma
+#1333291838
+./light 
+#1333291875
+ma
+#1333291876
+./light 
+#1333291885
+ma
+#1333291886
+./light 
+#1333291896
+ma
+#1333291898
+./light 
+#1333291921
+ma
+#1333291922
+./light 
+#1333292057
+ma
+#1333292059
+./light 
+#1333292116
+ma
+#1333292117
+./light 
+#1333292154
+ma
+#1333292155
+./light 
+#1333292167
+ma
+#1333292168
+.\/light 
+#1333292213
+ma
+#1333292215
+.\/light 
+#1333292230
+ma
+#1333292231
+.\/light 
+#1333292256
+ma
+#1333292257
+.\/light 
+#1333292541
+ma
+#1333292564
+.\/light 
+#1333292719
+ma
+#1333292762
+.\/light 
+#1333292794
+ma
+#1333292798
+.\/light 
+#1333293081
+ma
+#1333293083
+.\/light 
+#1333293106
+./light 
+#1333293128
+ma
+#1333293129
+./light 
+#1333293161
+ma
+#1333293163
+./light 
+#1333293198
+ma
+#1333293199
+./light 
+#1333293236
+ma
+#1333293248
+./light 
+#1333293300
+ma
+#1333293302
+./light 
+#1333293320
+ma
+#1333293321
+./light 
+#1333293329
+ma
+#1333293330
+./light 
+#1333293349
+ma
+#1333293351
+./light 
+#1333293519
+ma
+#1333293520
+./light 
+#1333293556
+ma
+#1333293557
+./light 
+#1333293568
+ma
+#1333293570
+./light 
+#1333293603
+ma
+#1333293605
+./light 
+#1333293639
+ma
+#1333293640
+./light 
+#1333293666
+ma
+#1333293667
+./light 
+#1333293674
+ma
+#1333293676
+./light 
+#1333293681
+ma
+#1333293682
+./light 
+#1333293694
+ma
+#1333293695
+./light 
+#1333293703
+ma
+#1333293705
+./light 
+#1333294056
+./light ma
+#1333294058
+ma
+#1333294059
+./light ma
+#1333294087
+ma
+#1333294089
+./light ma
+#1333294109
+ma
+#1333294110
+./light ma
+#1333294130
+ma
+#1333294131
+./light ma
+#1333294170
+ma
+#1333294187
+./light ma
+#1333294214
+ma
+#1333294215
+./light ma
+#1333294241
+ma
+#1333294243
+./light ma
+#1333294257
+ma
+#1333294258
+./light ma
+#1333294275
+./light &
+#1333294280
+ma
+#1333294281
+./light &
+#1333294373
+ma
+#1333294374
+./light &
+#1333294381
+ma
+#1333294387
+.ma
+#1333294387
+ma
+#1333294390
+.ma
+#1333294393
+./light &
+#1333294412
+ma
+#1333294413
+./light &
+#1333294434
+ma
+#1333294436
+./light &
+#1333294486
+ma
+#1333294487
+./light &
+#1333294522
+ma
+#1333294539
+lla
+#1333294542
+./light &
+#1333294577
+ma
+#1333294578
+./light &
+#1333294589
+ma
+#1333294590
+./light &
+#1333294614
+ma
+#1333294615
+./light &
+#1333294726
+ma
+#1333294728
+./light &
+#1333294746
+lll
+#1333294752
+ma
+#1333294758
+gitd.
+#1333294799
+ma
+#1333294801
+./light &
+#1333294819
+ex Data/
+#1333294831
+ma
+#1333294833
+./light &
+#1333294848
+ma
+#1333294850
+./light &
+#1333294879
+llx
+#1333294887
+ma
+#1333294890
+mc
+#1333294893
+gits.
+#1333294897
+rm N.bk.cpp 
+#1333294898
+gits.
+#1333294901
+git add .
+#1333294939
+git commit -m '用二D图片画光串（效果很是好）'
+#1333294942
+gits
+#1333294944
+gits.
+#1333294947
+git push origin master
+#1333294979
+ma
+#1333294980
+./light &
+#1333295512
+gitlo
+#1333295530
+ex Data/
+#1333295588
+./light &
+#1333336389
+gits.
+#1333336415
+ma
+#1333336505
+./light &
+#1333336529
+ma
+#1333336530
+./light &
+#1333336545
+ma
+#1333336546
+./light &
+#1333336563
+ma
+#1333336564
+./light &
+#1333336628
+ma
+#1333336629
+./light &
+#1333336646
+ma
+#1333336647
+./light &
+#1333336671
+ma
+#1333336672
+./light &
+#1333336715
+ma
+#1333336717
+./light &
+#1333336726
+ma
+#1333336727
+./light &
+#1333336755
+ma
+#1333336757
+./light &
+#1333336801
+ma
+#1333336802
+./light &
+#1333336817
+ma
+#1333336818
+./light &
+#1333336905
+ma
+#1333336906
+./light &
+#1333336929
+ma
+#1333336930
+./light &
+#1333336975
+ma
+#1333336977
+./light &
+#1333337071
+ma
+#1333337073
+./light &
+#1333337169
+ma
+#1333337170
+./light &
+#1333337199
+ma
+#1333337201
+./light &
+#1333337295
+ma
+#1333337296
+./light &
+#1333337314
+ma
+#1333337315
+./light &
+#1333337323
+ma
+#1333337324
+./light &
+#1333337611
+ma
+#1333337612
+./light &
+#1333337690
+ma
+#1333337692
+./light &
+#1333337713
+ma
+#1333337715
+./light &
+#1333337825
+ma
+#1333337826
+./light &
+#1333337854
+ma
+#1333337855
+./light &
+#1333337909
+ma
+#1333337910
+./light &
+#1333338118
+ma
+#1333338120
+./light &
+#1333338177
+ma
+#1333338180
+./light &
+#1333338240
+ma
+#1333338242
+./light &
+#1333338303
+ma
+#1333338304
+./light &
+#1333338330
+ma
+#1333338331
+./light &
+#1333338353
+ma
+#1333338355
+./light &
+#1333338480
+gits.
+#1333338481
+gitdl
+#1333338503
+gitd.
+#1333338542
+ma
+#1333338544
+./light &
+#1333338643
+ma
+#1333338645
+./light &
+#1333338664
+ma
+#1333338666
+./light &
+#1333338693
+ma
+#1333338694
+./light &
+#1333338724
+gitdl
+#1333338726
+gitd.
+#1333338733
+mc
+#1333338734
+gits
+#1333338735
+gits.
+#1333338738
+git add .
+#1333338788
+git commit -m '神奇的图像， 一会顺时针转一会逆时针转‘
+#1333338795
+git commit -m '神奇的图像， 一会顺时针转一会逆时针转'
+#1333338798
+gitlo
+#1333338847
+gitl.
+#1333338850
+gqq
+#1333338853
+gitlo.
+#1333338861
+ma
+#1333338865
+./light &
+#1333338891
+ma
+#1333338892
+./light &
+#1333338936
+ma
+#1333338937
+./light &
+#1333338980
+ma
+#1333338982
+./light &
+#1333339001
+ma
+#1333339003
+./light &
+#1333339108
+ma
+#1333339109
+./light &
+#1333339146
+ma
+#1333339147
+./light &
+#1333339182
+ma
+#1333339184
+./light &
+#1333339230
+ma
+#1333339231
+./light &
+#1333339238
+ma
+#1333339239
+./light &
+#1333339286
+ma
+#1333339288
+./light &
+#1333339319
+ma
+#1333339320
+./light &
+#1333339359
+ma
+#1333339360
+./light &
+#1333339388
+ma
+#1333339390
+./light &
+#1333339395
+ma
+#1333339396
+./light &
+#1333339402
+ma
+#1333339403
+./light &
+#1333339423
+ma
+#1333339424
+./light &
+#1333339460
+ma
+#1333339461
+./light &
+#1333339478
+ma
+#1333339480
+./light &
+#1333339525
+ma
+#1333339526
+./light &
+#1333339588
+ma
+#1333339593
+mai
+#1333339686
+ma
+#1333339687
+./light &
+#1333339713
+ma
+#1333339714
+./light &
+#1333339720
+ma
+#1333339721
+./light &
+#1333339727
+ma
+#1333339728
+./light &
+#1333339747
+ma
+#1333339749
+./light &
+#1333339771
+gits.
+#1333339774
+git checkout .
+#1333339776
+gits.
+#1333339777
+ma
+#1333339778
+./light &
+#1333339950
+gits.
+#1333339957
+gits.
+#1333339961
+git push origin master
+#1333340219
+ma
+#1333340221
+ma
+#1333340222
+./light &
+#1333340258
+gits.
+#1333340261
+ma
+#1333340265
+./light &
+#1333342889
+g
+#1333343314
+cal
+#1333348814
+./light &
+#1333356059
+kk
+#1333356066
+g 
+#1333357107
+./light &
+#1333374291
+cal
+#1333377185
+./light &
+#1333379209
+J
+#1333379232
+chmod 777 .aMule/
+#1333379233
+cd
+#1333379236
+ex .aMule/
+#1333383312
+g
+#1333383828
+g wj2.txt 
+#1333383940
+chmod 000 .aMule/
+#1333384136
+halt
+#1333284658
+screen
+#1333379214
+su
+#1333416455
+bce 1600*4
+#1333416458
+bce 1600*3
+#1333416463
+ff&
+#1333418295
+screen
+#1333418302
+cdvclbc 
+#1333418307
+cd examlib/06/6.1/
+#1333418313
+ma
+#1333418314
+./light 
+#1333419996
+cd
+#1333420007
+cdl
+#1333420010
+cdlbo
+#1333420011
+cdlb
+#1333420021
+cd books/c/opengl/opengl-red/
+#1333420024
+,y
+#1333420027
+cd,y
+#1333420031
+cd tutors/
+#1333420033
+ma
+#1333420039
+./texture 
+#1333420524
+touch *
+#1333420528
+./fog 
+#1333420538
+./lightmaterial 
+#1333420546
+./lightposition 
+#1333420663
+g lightposition.c
+#1333420740
+ls data/
+#1333420743
+ex data/
+#1333420798
+g data/al.obj 
+#1333420863
+ctagscpp.sh 
+#1333421338
+./lightposition 
+#1333421395
+./lightmaterial 
+#1333421417
+ma
+#1333421419
+./shapes 
+#1333421427
+./transformation 
+#1333421449
+./projection 
+#1333421465
+fg
+#1333423933
+cdvcl
+#1333423937
+cd books/c/graph/NeHe/
+#1333423942
+cd LESSON09
+#1333423943
+ma
+#1333423945
+./lesson9 
+#1333423967
+./lesson9 &
+#1333423971
+ex Data/
+#1333425762
+cd
+#1333425764
+cd tmp/
+#1333425766
+cd wget/
+#1333448566
+./texture 
+#1333449520
+./blendeqn 
+#1333449525
+g blendeqn.c
+#1333449534
+ma
+#1333449536
+./blendeqn 
+#1333449548
+ma
+#1333449550
+./blendeqn 
+#1333449555
+ma
+#1333449556
+./blendeqn 
+#1333449559
+./blendeqn &
+#1333449564
+ma
+#1333449565
+./blendeqn &
+#1333460564
+vmware&
+#1333460670
+ii
+#1333460672
+t
+#1333460675
+ii
+#1333461193
+./blendeqn &
+#1333465228
+g Nehe.cpp 
+#1333465236
+ma
+#1333465239
+./light 
+#1333465268
+ma
+#1333465269
+./light 
+#1333465287
+ma
+#1333465288
+./light 
+#1333465303
+ma
+#1333465305
+./light 
+#1333465341
+ma
+#1333465343
+./light 
+#1333465395
+ma
+#1333465397
+./light 
+#1333465408
+ma
+#1333465409
+./light 
+#1333465417
+ma
+#1333465419
+./light 
+#1333465453
+ma
+#1333465455
+./light 
+#1333465520
+ma
+#1333465521
+./light 
+#1333465545
+ma
+#1333465546
+./light 
+#1333465559
+ma
+#1333465560
+./light 
+#1333465566
+ma
+#1333465567
+./light 
+#1333465582
+ma
+#1333465583
+./light 
+#1333465591
+,a
+#1333465592
+ma
+#1333465593
+./light 
+#1333465600
+ma
+#1333465601
+./light 
+#1333465899
+ma
+#1333465901
+./light 
+#1333465910
+ma
+#1333465911
+./light 
+#1333465927
+a
+#1333465928
+ma
+#1333465929
+./light 
+#1333466129
+ma
+#1333466131
+./light 
+#1333466144
+ma
+#1333466145
+./light 
+#1333466157
+ma
+#1333466159
+./light 
+#1333466181
+git checkout .
+#1333466182
+ma
+#1333466183
+./light 
+#1333466242
+ma
+#1333466243
+./light 
+#1333466266
+ma
+#1333466267
+./light 
+#1333466272
+ma
+#1333466274
+./light 
+#1333466327
+ma
+#1333466328
+./light 
+#1333466436
+ma
+#1333466437
+./light 
+#1333466475
+llx
+#1333466477
+./light 
+#1333466490
+[A
+#1333466490
+./light 
+#1333466505
+./light [A
+#1333466519
+ma
+#1333470609
+llx
+#1333470613
+lla
+#1333470634
+ex.
+#1333470635
+ex .
+#1333470770
+vi Nehe.cpp 
+#1333470805
+ma
+#1333470806
+./light [A
+#1333470809
+fg
+#1333470814
+ma
+#1333470816
+./light [A
+#1333470836
+fg
+#1333470841
+ma
+#1333470842
+./light [A
+#1333470844
+fg
+#1333470925
+ma
+#1333470927
+./light [A
+#1333470929
+./light
+#1333470983
+./light\
+#1333470998
+./lesson9 
+#1333471024
+cd
+#1333471028
+cd /opt/
+#1333471031
+cdm
+#1333471032
+cd /
+#1333471038
+ll lib4
+#1333471043
+screen
+#1333471198
+su
+#1333471210
+cd /home/scr/
+#1333471296
+chmod 777 .aMule/
+#1333471303
+cd
+#1333471306
+ex .aMule/
+#1333477741
+chmod 000 .aMule/
+#1333477758
+ff&
+#1333477784
+halt
+#1333418309
+screen
+#1333518800
+cdx
+#1333518829
+mkdir MyEntunnel
+#1333518835
+mv MyEntunnel_v3.5.2_CN.zip MyEntunnel
+#1333518837
+cd MyEntunnel/
+#1333518841
+unzip MyEntunnel_v3.5.2_CN.zip 
+#1333518844
+cd MyEntunnel_v3.5.2_CN
+#1333519298
+ssh -qTfnN -D 7070 www.issh.in@76.73.121.14
+#1333519301
+pg ssh
+#1333519513
+ssh -qTfnN -D 7070 www.issh.in@76.73.121.14
+#1333519518
+pg ssh
+#1333519537
+ssh -qTfnN -D 7070 www.issh.in@76.73.121.1
+#1333519555
+ssh -qTfnN -D 7070 www.issh.in@76.73.121.14
+#1333519566
+ssh -TfnN -D 7070 www.issh.in@76.73.121.14
+#1333519592
+ssh -TfnN -D 7070 www.issh.in@76.73.121.14:1234
+#1333519601
+ssh -TfnN -D 7070 www.issh.in@76.73.121.14
+#1333519613
+ssh -TfnN -D 7070 www.issh.in@1234:76.73.121.14
+#1333519618
+ssh -TfnN -D 7070 www.issh.in@76.73.121.14
+#1333519628
+ssh -TfnN -D 1234 www.issh.in@76.73.121.14
+#1333519631
+ssh -TfnN -D 7070 www.issh.in@76.73.121.14
+#1333520092
+ssh -TfnN -D 7070 www.issh.in@76.73.121.14 -p 1234
+#1333520114
+pg ssh
+#1333527625
+cd
+#1333527631
+cdvcl
+#1333527636
+cd books/c/graph/examlib/06/6.1/
+#1333527637
+ma
+#1333527639
+./lesson9 
+#1333527642
+./light 
+#1333527667
+vmware&
+#1333527683
+cdrt
+#1333527695
+cd linux/computor/grath/opengl/nehe/dev-src-html/
+#1333527703
+ff index.htm &
+#1333527707
+kk
+#1333527710
+keynav 
+#1333548730
+cdl
+#1333548741
+cd books/c/opengl/opengl-red/
+#1333548745
+./unproject 
+#1333549519
+cdx
+#1333549526
+mkdir glsl
+#1333549535
+mv glutglsl5_2.0.zip glsl/
+#1333549537
+cd glsl/
+#1333549540
+unzip glutglsl5_2.0.zip 
+#1333549557
+mv glutglsl5_2.0.zip ..
+#1333549559
+rm *
+#1333549564
+mv ../glutglsl5_2.0.zip .
+#1333549574
+mkdir glutglsl5_2.0 
+#1333549579
+mv glutglsl5_2.0.zip glutglsl5_2.0
+#1333549581
+cd glutglsl5_2.0/
+#1333549583
+unzip glutglsl5_2.0.zip 
+#1333549586
+ma
+#1333549594
+ex ..
+#1333549624
+g ogl3.cpp 
+#1333549674
+gcc textfile.cpp ogl3.cpp 
+#1333549722
+gcc textfile.cpp ogl3.cpp -lGL -lgl
+#1333549758
+gcc textfile.cpp ogl3.cpp -lGL -lgl -lGLU
+#1333549781
+gcc -c ogl3.cpp 
+#1333549736
+vi Makefile
+#1333549818
+vi 20e.c
+#1333549834
+fg 1
+#1333549843
+mc
+#1333549844
+ma
+#1333549856
+fg
+#1333549883
+ma
+#1333550270
+cll
+#1333550277
+g Nehe.cpp 
+#1333549897
+fg
+#1333550397
+fich VERSION
+#1333550528
+ma
+#1333550570
+MA
+#1333550572
+ma
+#1333550582
+./light 
+#1333550667
+ma
+#1333550669
+./light 
+#1333550673
+ma
+#1333550674
+./light 
+#1333550678
+ma
+#1333550680
+./light 
+#1333551144
+ma
+#1333551146
+./light 
+#1333551150
+gits.
+#1333551152
+gitd.
+#1333551175
+git commit -m '打印出当前opengl的版本号‘
+#1333551177
+gits.
+#1333551181
+git add Nehe.cpp 
+#1333551184
+git commit -m '打印出当前opengl的版本号‘
+'
+#1333551196
+cdvcl
+#1333551201
+cd books/c/graph/examlib/06/6.1/
+#1333551202
+gits.
+#1333551204
+gitlo
+#1333551213
+cdvcl
+#1333551216
+git push origin master
+#1333551456
+g++ -c ogl3.cpp 
+#1333551573
+cl
+#1333551577
+y
+#1333551579
+,y
+#1333551581
+cd,y
+#1333551585
+cd opengl-blue/
+#1333551593
+cd e4/src/examples/src/
+#1333551595
+cd shared/
+#1333551608
+vi TriangleMesh.h
+#1333551823
+m glGetShaderiv
+#1333551855
+cd
+#1333551859
+g yum_list.txt 
+#1333552165
+g ls
+#1333552173
+g GLee.h
+#1333552537
+locate glew.h
+#1333552542
+locate glew.h -i
+#1333552548
+su
+#1333552568
+_64
+#1333552575
+yum install glew.x86_64
+#1333552664
+g++ -c ogl3.cpp 
+#1333552679
+yum -y install glew-devel
+#1333552712
+locate glew.h -i
+#1333552719
+cd /usr/include/
+#1333552732
+find . | grep glew
+#1333552758
+gcc textfile.cpp ogl3.cpp -lGL -lgl -lGLU
+#1333552765
+gcc textfile.cpp ogl3.cpp -lGL -lGLU
+#1333552771
+gcc textfile.cpp ogl3.cpp -lGL -lGLU -lGLUT
+#1333552777
+gcc textfile.cpp ogl3.cpp -lGL -lGLU -lglut
+#1333552791
+gcc textfile.cpp ogl3.cpp -lGL -lGLU -lglut -lGLEW
+#1333552794
+./a.out 
+#1333552846
+cdvcrtbo
+#1333552854
+cd grath/
+#1333552856
+cd opengl/
+#1333552864
+mkdir glsl
+#1333552865
+cd glsl/
+#1333552867
+g 
+#1333553060
+e yum install glew.x86_64
+#1333553103
+e yum -y install glew-devel
+#1333553173
+cdx
+#1333553187
+mv ~/xiazai/glsl/ .
+#1333553189
+ll glsl/
+#1333553199
+mv glsl/ src
+#1333553206
+ll src/
+#1333553211
+,y
+#1333553213
+cd,y
+#1333553216
+cd src/glutglsl5_2.0/
+#1333553218
+touch *
+#1333553234
+cat Makefile 
+#1333553248
+cat Makefile
+#1333553254
+cp Makefile ~
+#1333553272
+cp Makefile ~
+#1333553276
+mv ~/Makefile .
+#1333553277
+vi Makefile 
+#1333553296
+fg
+#1333553357
+ma
+#1333553366
+mc
+#1333553370
+ma
+#1333553378
+fg
+#1333553384
+ma
+#1333553396
+fg
+#1333553616
+ma
+#1333553618
+fg
+#1333553630
+ma
+#1333553631
+fg
+#1333553640
+ma
+#1333553643
+fg
+#1333553650
+ma
+#1333553658
+fg
+#1333553674
+./light 
+#1333553676
+./a.out 
+#1333553688
+fg
+#1333553736
+ma
+#1333553742
+fg
+#1333553745
+ma
+#1333553746
+fg
+#1333553751
+ma
+#1333553752
+fg
+#1333553759
+ma
+#1333553760
+fg
+#1333553767
+cdvcrtbot 
+#1333553773
+cd devel/make/
+#1333553779
+g make.notes.txt 
+#1333553816
+ma
+#1333553821
+fg
+#1333553832
+ma
+#1333553836
+mc
+#1333553838
+rm a.out 
+#1333553841
+ma
+#1333553897
+fg
+#1333553911
+mca
+#1333553912
+mc
+#1333553913
+ma
+#1333553944
+mc
+#1333553945
+ma
+#1333553949
+fg
+#1333553988
+ma
+#1333553996
+mc
+#1333553997
+ma
+#1333554014
+mc
+#1333554014
+ma
+#1333554018
+fg
+#1333554025
+ma
+#1333554026
+mc
+#1333554026
+ma
+#1333554028
+fg
+#1333554030
+ma
+#1333554033
+./ogl3 
+#1333554045
+rm glutglsl.ds*
+#1333554050
+rm minimal.*
+#1333554052
+mc
+#1333554052
+kk
+#1333554056
+ma
+#1333554058
+./ogl3 
+#1333554067
+mc
+#1333554069
+ma
+#1333554070
+./ogl3 
+#1333554094
+unzip -t glutglsl5_2.0.zip 
+#1333554105
+unzip glutglsl5_2.0.zip min*
+#1333554107
+ma
+#1333554109
+./ogl3 
+#1333554112
+touch *
+#1333554114
+mc
+#1333554116
+ma
+#1333554117
+./ogl3 
+#1333554143
+vi minimal.*
+#1333554152
+mca
+#1333554153
+mc
+#1333554337
+ma
+#1333554339
+./ogl3 
+#1333554341
+mc
+#1333554355
+gits.
+#1333554372
+llr glsl/
+#1333554377
+git add glsl/
+#1333554378
+gits.
+#1333554429
+git commit -m 'glsl着色语言初探: 开发环境搭建与helloWorld‘
+'
+#1333554441
+gits.
+#1333554444
+gitlo.
+#1333554452
+cdvcrt
+#1333554454
+gits.
+#1333554457
+gitdl
+#1333554468
+gits.
+#1333554474
+git add linux/computor/bookmark/
+#1333554478
+git commit -m '光影特效‘
+#1333554483
+git commit -m '光影特效'
+#1333554485
+gits.
+#1333554491
+gitdl
+#1333554494
+git add .
+#1333554509
+git commit -m ''
+#1333554517
+git commit -m '修改'
+#1333554518
+gits.
+#1333554519
+gits
+#1333554524
+git push origin master
+#1333554540
+gits
+#1333554543
+git pull origin master
+#1333554552
+gits.
+#1333554555
+git push origin master
+#1333554563
+gitlo.
+#1333554578
+gitd 73ab 65ed
+#1333554588
+gitlo
+#1333554593
+gitd 73ab 65ed0
+#1333554605
+cdvcrc
+#1333554606
+gits.
+#1333554608
+gits
+#1333554611
+git pull origin master
+#1333554622
+gits
+#1333554625
+git push origin master
+#1333554638
+cdvcl
+#1333554641
+git pull origin master
+#1333554647
+git push origin master
+#1333554671
+gvht
+#1333554716
+cdvcrt
+#1333554717
+gits.
+#1333554720
+gitd.
+#1333554724
+git add .
+#1333554732
+gits.
+#1333554750
+ 'GLSL教程'
+#1333554758
+git commit -m  'GLSL教程'
+#1333554760
+gits.
+#1333554762
+git push origin master
+#1333554790
+halt
+#1333527628
+screen
+#1333627577
+ff&
+#1333627579
+vi minimal.*
+#1333627591
+vmware&
+#1333627613
+ex .
+#1333627618
+lla
+#1333627630
+keynav 
+#1333628796
+cdvcrt
+#1333628797
+gits.
+#1333628799
+gits
+#1333628841
+cdl
+#1333628851
+cd books/c/opengl/opengl-red/
+#1333628855
+mca
+#1333628856
+mc
+#1333628867
+g rotate_any.c
+#1333628870
+ma
+#1333628926
+s rotate
+#1333628986
+./robot2
+#1333629015
+ma
+#1333629017
+vi Makefile
+#1333629034
+ma
+#1333629042
+fg
+#1333629057
+ma
+#1333629065
+./robot2
+#1333629093
+mc
+#1333629094
+ma
+#1333629105
+./robot2
+#1333629130
+ma
+#1333629131
+./robot2
+#1333629149
+./rotate_any 
+#1333629155
+ma
+#1333629156
+./rotate_any 
+#1333629172
+ma
+#1333629173
+./rotate_any 
+#1333629268
+ma
+#1333629269
+./rotate_any 
+#1333629294
+ma
+#1333629295
+./rotate_any 
+#1333629418
+ma
+#1333629420
+./rotate_any 
+#1333629507
+ma
+#1333629508
+./rotate_any 
+#1333629515
+ma
+#1333629516
+./rotate_any 
+#1333629577
+ma
+#1333629578
+./rotate_any 
+#1333629606
+ma
+#1333629607
+./rotate_any 
+#1333629633
+ma
+#1333629634
+./rotate_any 
+#1333629637
+ma
+#1333629638
+./rotate_any 
+#1333629658
+ma
+#1333629659
+./rotate_any 
+#1333629741
+ma
+#1333629742
+./rotate_any 
+#1333629820
+ma
+#1333629821
+./rotate_any 
+#1333629833
+fich FILL
+#1333629870
+ma
+#1333629900
+./rotate_any 
+#1333629912
+ma
+#1333629913
+./rotate_any 
+#1333629922
+ma
+#1333629923
+./rotate_any 
+#1333629979
+ma
+#1333629980
+./rotate_any 
+#1333629990
+ma
+#1333629991
+./rotate_any 
+#1333630042
+ma
+#1333630043
+./rotate_any 
+#1333630103
+ma
+#1333630104
+./rotate_any 
+#1333630120
+ma
+#1333630121
+./rotate_any 
+#1333630140
+ma
+#1333630141
+./rotate_any 
+#1333630146
+ma
+#1333630151
+./rotate_any 
+#1333630222
+ma
+#1333630223
+./rotate_any 
+#1333630377
+ma
+#1333630378
+./rotate_any 
+#1333630381
+ma
+#1333630382
+./rotate_any 
+#1333630486
+ma
+#1333630487
+./rotate_any 
+#1333630741
+ma
+#1333630742
+./rotate_any 
+#1333630773
+ma
+#1333630777
+.ma
+#1333630777
+ma
+#1333630778
+.ma
+#1333630781
+./rotate_any 
+#1333630797
+ma
+#1333630798
+./rotate_any 
+#1333630806
+ma
+#1333630807
+./rotate_any 
+#1333630813
+ma
+#1333630814
+./rotate_any 
+#1333630849
+ma
+#1333630850
+./rotate_any 
+#1333630923
+ma
+#1333630925
+./rotate_any 
+#1333631187
+ma
+#1333631204
+./rotate_any 
+#1333631219
+ma
+#1333631220
+./rotate_any 
+#1333631269
+m
+#1333631269
+ma
+#1333631271
+./rotate_any 
+#1333631294
+ma
+#1333631304
+./rotate_any 
+#1333631353
+cdvcl
+#1333631357
+cd books/c/graph/examlib/06/6.1/
+#1333631375
+ma
+#1333631376
+./rotate_any 
+#1333631408
+ma
+#1333631409
+./rotate_any 
+#1333631361
+vi Nehe.cpp 
+#1333631423
+ma
+#1333631428
+./light 
+#1333631469
+ma
+#1333631470
+./rotate_any 
+#1333631536
+ma
+#1333631537
+./rotate_any 
+#1333631582
+ma
+#1333631583
+./rotate_any 
+#1333631620
+ma
+#1333631621
+./rotate_any 
+#1333631631
+ma
+#1333631634
+./rotate_any 
+#1333631649
+ma
+#1333631650
+./rotate_any 
+#1333631657
+ma
+#1333631658
+./rotate_any 
+#1333632018
+ma
+#1333632019
+./rotate_any 
+#1333632033
+ma
+#1333632034
+./rotate_any 
+#1333632078
+ma
+#1333632080
+./rotate_any 
+#1333632101
+ma
+#1333632102
+./rotate_any 
+#1333632123
+ma
+#1333632124
+./rotate_any 
+#1333632292
+ma
+#1333632293
+./rotate_any 
+#1333632348
+ma
+#1333632349
+./rotate_any 
+#1333632370
+ma
+#1333632372
+./rotate_any 
+#1333632384
+ma
+#1333632385
+./rotate_any 
+#1333632398
+a
+#1333632399
+ma
+#1333632400
+./rotate_any 
+#1333632470
+ma
+#1333632471
+./rotate_any 
+#1333632506
+ma
+#1333632507
+./rotate_any 
+#1333632586
+ma
+#1333632587
+./rotate_any 
+#1333632607
+ma
+#1333632608
+./rotate_any 
+#1333632658
+ma
+#1333632660
+./rotate_any 
+#1333632667
+ma
+#1333632668
+./rotate_any 
+#1333632711
+ma
+#1333632713
+./rotate_any 
+#1333632809
+ma
+#1333632810
+./rotate_any 
+#1333632907
+ma
+#1333632909
+./rotate_any 
+#1333632937
+ma
+#1333632939
+./rotate_any 
+#1333633021
+ma
+#1333633022
+./rotate_any 
+#1333633186
+ma
+#1333633187
+./rotate_any 
+#1333633242
+ma
+#1333633254
+.ma
+#1333633255
+ma
+#1333633256
+.ma
+#1333633259
+./rotate_any 
+#1333633437
+ma
+#1333633438
+./rotate_any 
+#1333633479
+ma
+#1333633480
+./rotate_any 
+#1333633519
+ma
+#1333633521
+./rotate_any 
+#1333633580
+ma
+#1333633581
+./rotate_any 
+#1333633628
+ma
+#1333633629
+./rotate_any 
+#1333633661
+ma
+#1333633662
+./rotate_any 
+#1333633675
+ma
+#1333633677
+./rotate_any 
+#1333633696
+ma
+#1333633697
+./rotate_any 
+#1333633708
+ma
+#1333633709
+./rotate_any 
+#1333633717
+ma
+#1333633718
+./rotate_any 
+#1333633740
+ma
+#1333633741
+./rotate_any 
+#1333633745
+ma
+#1333633746
+./rotate_any 
+#1333633759
+ma
+#1333633761
+./rotate_any 
+#1333634027
+ma
+#1333634028
+./rotate_any 
+#1333634035
+ma
+#1333634036
+./rotate_any 
+#1333634066
+ma
+#1333634067
+./rotate_any 
+#1333634082
+ma
+#1333634084
+./rotate_any 
+#1333634089
+ma
+#1333634090
+./rotate_any 
+#1333634100
+ma
+#1333634101
+./rotate_any 
+#1333634116
+ma
+#1333634117
+./rotate_any 
+#1333634181
+ma
+#1333634182
+./rotate_any 
+#1333634193
+ma
+#1333634194
+./rotate_any 
+#1333634287
+ma
+#1333634289
+./rotate_any 
+#1333634366
+ma
+#1333634367
+./rotate_any 
+#1333634464
+ma
+#1333634473
+./rotate_any 
+#1333634567
+ma
+#1333634569
+./rotate_any 
+#1333634582
+ma
+#1333634583
+./rotate_any 
+#1333634705
+ma
+#1333634706
+./rotate_any 
+#1333634747
+ma
+#1333634748
+./rotate_any 
+#1333634762
+ma
+#1333634763
+./rotate_any 
+#1333634776
+ma
+#1333634777
+./rotate_any 
+#1333634832
+ma
+#1333634833
+./rotate_any 
+#1333635075
+svns
+#1333635076
+mc
+#1333635077
+svns
+#1333635089
+svn add Makefile rotate_any.c 
+#1333635094
+gits.
+#1333635097
+svns
+#1333635131
+svn commit -F ./commit.log rotate_any.c Makefile
+#1333635183
+ma
+#1333635200
+./rotate_any 
+#1333631429
+fg
+#1333635787
+mc
+#1333635788
+ma
+#1333635790
+./light 
+#1333637420
+mca
+#1333637422
+mc
+#1333639355
+ ll
+#1333639357
+ma
+#1333639360
+./light 
+#1333639389
+halt
+#1333628793
+screen
+#1333804764
+bce 0.031*3000
+#1333809599
+ex .
+#1333819007
+halt
+#1333893953
+iwconfig 
+#1333893986
+su
+#1333894059
+reboot
+#1334234062
+vrc
+#1334234082
+ii
+#1334234093
+ff&
+#1334234095
+cdvcl
+#1334234105
+cd blog/nb/nuoerlz/
+#1334234109
+ff index.html 
+#1334234150
+s
+#1334234164
+vi /etc/wpa_supplicant/wpa_supplicant.conf 
+#1334234194
+wpa_supplicant -B -Dwext -ieth1 -c/etc/wpa_supplicant/wpa_supplicant.conf
+#1334234198
+iwconfig 
+#1334234214
+p www.hao123.com
+#1334234223
+fg
+#1334234253
+i
+#1334234258
+iwconfig 
+#1334234286
+iwlist eth1 scanning
+#1334234338
+ifconfig eth0 down
+#1334234353
+ifconfig eth0 192.168.1.133
+#1334234356
+p 192.168.1.1
+#1334234363
+iwconfig 
+#1334234368
+pg wpa
+#1334234378
+iwconfig 
+#1334234399
+ifconfig eth0 192.168.1.133
+#1334234406
+ifconfig eth0 down
+#1334234412
+pg wpa
+#1334234414
+p 192.168.1.1
+#1334234430
+ifconfig eth1 192.168.1.134
+#1334234432
+p 192.168.1.1
+#1334234436
+p www.hao123.com
+#1334234440
+p 211.64.120.2
+#1334234443
+rn
+#1334234458
+route add default gw 192.161.1
+#1334234463
+route add default gw 192.161.1.1
+#1334234466
+rn
+#1334234474
+route add default gw 192.168.1.1
+#1334234476
+rn
+#1334234477
+p www.hao123.com
+#1334234525
+cdb
+#1334234532
+g wpa.sh
+#1334234550
+cdif
+#1334234722
+vrc
+#1334235000
+cat /etc/resolv.conf
+#1334235043
+fg
+#1334235127
+/etc/rc.d/rc.local 
+#1334235197
+p www.hao123.com
+#1334235199
+rn
+#1334235205
+pg wpa
+#1334235281
+pg svn
+#1334235287
+iwconfig 
+#1334235295
+fg
+#1334235163
+fg
+#1334235305
+fg  1
+#1334235312
+pg wpa
+#1334235317
+iwconfig 
+#1334235326
+wpa_
+#1334235329
+pg wpa
+#1334235393
+rn
+#1334235400
+fg
+#1334235424
+/etc/rc.d/rc.local 
+#1334235446
+rn
+#1334235450
+fg
+#1334235457
+/etc/rc.d/rc.local 
+#1334235473
+fg
+#1334235481
+rn
+#1334235486
+p 192.168.1.1
+#1334235499
+ifconfig eth1 up
+#1334235502
+p 192.168.1.1
+#1334235505
+fg
+#1334235529
+/etc/rc.d/rc.local 
+#1334235533
+fg
+#1334235541
+rn
+#1334235543
+/etc/rc.d/rc.local 
+#1334235552
+cat /etc/rc.d/rc.local 
+#1334235555
+fg
+#1334235563
+pg wpa
+#1334235569
+kill -9 9742
+#1334235572
+pg wpa
+#1334235577
+/etc/rc.d/rc.local 
+#1334235595
+fg
+#1334235604
+rn
+#1334235611
+fg
+#1334235617
+ifconfig eth0 down
+#1334235620
+ifconfig eth1 up
+#1334235625
+ifconfig eth1 192.168.1.134
+#1334235634
+p 192.168.1.1
+#1334235636
+p 192.168.1.134
+#1334235638
+fg
+#1334235646
+route add default gw 192.168.1.1
+#1334235647
+rn
+#1334235653
+p www.hao123.com
+#1334235662
+wpa_supplicant -B -Dwext -ieth1 -c/etc/wpa_supplicant/wpa_supplicant.conf
+#1334235664
+iwconfig 
+#1334235672
+p www.hao123.com
+#1334235674
+fg
+#1334235720
+pg wpa
+#1334235725
+kill 10737
+#1334235727
+pg wpa
+#1334235739
+p www.hao123.com
+#1334235742
+rn
+#1334235746
+iwconfig 
+#1334235756
+fg
+#1334235759
+/etc/rc.d/rc.local 
+#1334235771
+fg
+#1334235796
+/etc/rc.d/rc.local 
+#1334235804
+fg
+#1334235846
+/etc/rc.d/rc.local 
+#1334235848
+fg
+#1334235862
+/etc/rc.d/rc.local &
+#1334235870
+fg 3
+#1334235873
+fg
+#1334235878
+/etc/rc.d/rc.local &
+#1334235887
+fg 3
+#1334235893
+/etc/rc.d/rc.local 
+#1334235899
+fg
+#1334235908
+pg wpa
+#1334235911
+iwconfig 
+#1334235915
+fg
+#1334235936
+/etc/rc.d/rc.local 
+#1334235945
+iwconfig 
+#1334235951
+fg
+#1334235973
+keynav 
+#1334235981
+keynav 
+#1334235990
+fg
+#1334235994
+/etc/rc.d/rc.local 
+#1334236002
+pg wpa
+#1334236005
+iwconfig 
+#1334236010
+fg
+#1334236014
+rn
+#1334236015
+fg
+#1334236033
+/etc/rc.d/rc.local 
+#1334236040
+rn
+#1334236121
+fg
+#1334236180
+m route
+#1334236191
+fg
+#1334236197
+m route
+#1334236202
+fg
+#1334236207
+/etc/rc.d/rc.local 
+#1334236211
+rn
+#1334236220
+p 192.168.1.134
+#1334236224
+p 192.168.1.1
+#1334236225
+rn
+#1334236233
+ifconfig eth1 192.168.1.134
+#1334236235
+p 192.168.1.1
+#1334236238
+rn
+#1334236265
+cdvcrt
+#1334236288
+cd linux/computor/network/
+#1334236290
+g cmd_network.txt 
+#1334236244
+fg
+#1334236371
+/etc/rc.d/rc.local 
+#1334236374
+rn
+#1334236378
+fg
+#1334236401
+/etc/rc.d/rc.local 
+#1334236405
+rn
+#1334236413
+fg
+#1334236416
+rn
+#1334236418
+ifconfig eth1 192.168.1.134
+#1334236419
+rn
+#1334236421
+fg
+#1334236440
+/etc/rc.d/rc.local 
+#1334236449
+fg
+#1334236458
+/etc/rc.d/rc.local 
+#1334236467
+wh route
+#1334236470
+route
+#1334236474
+fg
+#1334236499
+wh route
+#1334236500
+fg
+#1334236505
+/etc/rc.d/rc.local 
+#1334236509
+rn
+#1334236513
+fg
+#1334236525
+/etc/rc.d/rc.local 
+#1334236530
+rn
+#1334236536
+p 192.168.1.1
+#1334236541
+p 192.168.1.134
+#1334236543
+fg
+#1334236621
+/etc/rc.d/rc.local 
+#1334236625
+rn
+#1334236628
+fg
+#1334236645
+/etc/rc.d/rc.local 
+#1334236652
+fg
+#1334236694
+g ifcfg-eth0
+#1334236727
+fg
+#1334236739
+/etc/rc.d/rc.local 
+#1334236755
+rn
+#1334236766
+p 192.168.1.133
+#1334236768
+rn
+#1334236774
+p 192.168.1.134
+#1334236776
+rn
+#1334236777
+fg
+#1334236786
+rn
+#1334236799
+ifconfig eth0 down
+#1334236803
+p 192.168.1.133
+#1334236809
+fg
+#1334236818
+/etc/rc.d/rc.local 
+#1334236824
+rn
+#1334236826
+p www.hao123.com
+#1334236831
+p 192.168.1.1
+#1334236836
+fg
+#1334236843
+pg wpa
+#1334236849
+kill -9 10804
+#1334236851
+/etc/rc.d/rc.local 
+#1334236856
+rn
+#1334236861
+iwconfig 
+#1334236866
+p www.hao123.com
+#1334236868
+fg
+#1334236877
+rn
+#1334236880
+fg
+#1334236891
+p 10.3.10.4
+#1334236897
+p 10.3.1.4
+#1334236903
+ifconfig eth0 down
+#1334236904
+p 10.3.1.4
+#1334236930
+fg
+#1334236972
+pg wpa
+#1334236977
+kill -9 16345
+#1334236978
+pg wpa
+#1334236981
+/etc/rc.d/rc.local 
+#1334236994
+rn
+#1334237020
+p www.hao123.com
+#1334237035
+fg
+#1334237050
+/etc/rc.d/rc.local 
+#1334237060
+rn
+#1334237075
+/etc/rc.d/rc.local 
+#1334237164
+p www.hao123.com
+#1334237168
+pg wpa 
+#1334237173
+iwconfig 
+#1334237177
+fg
+#1334237238
+pg wpa 
+#1334237242
+kill -9 16922
+#1334237244
+pg wpa 
+#1334237247
+/etc/rc.d/rc.local 
+#1334237253
+iwconfig 
+#1334237259
+p www.hao123.com
+#1334237262
+rn
+#1334237264
+p www.hao123.com
+#1334237267
+/etc/rc.d/rc.local 
+#1334237275
+iwconfig 
+#1334234055
+screen
+#1334237278
+fg
+#1334237336
+grep 'wpa_supplicant -B -Dwext'
+#1334237348
+ps aux | grep 'wpa_supplicant -B -Dwext'
+#1334237360
+fg
+#1334237391
+pg wpa
+#1334237396
+kill -9 19725
+#1334237397
+pg wpa
+#1334237399
+/etc/rc.d/rc.local 
+#1334237406
+rn
+#1334237407
+p www.hao123.com
+#1334237420
+iwconfig 
+#1334237423
+p www.hao123.com
+#1334237426
+/etc/rc.d/rc.local 
+#1334237434
+rn
+#1334237438
+iwconfig 
+#1334237440
+fg
+#1334237531
+/etc/rc.d/rc.local 
+#1334237537
+rn
+#1334237540
+fg
+#1334237554
+/etc/rc.d/rc.local 
+#1334237562
+fg
+#1334237567
+cat /etc/rc.d/rc.local 
+#1334237569
+rn
+#1334237572
+p 10.3.1.4
+#1334237579
+p 192.168.1.1
+#1334237582
+p www.hao123.com
+#1334237584
+fg
+#1334237590
+/etc/rc.d/rc.local 
+#1334237595
+iwconfig 
+#1334237615
+fg
+#1334237620
+pg wpa
+#1334237623
+fg
+#1334237625
+iwconfig 
+#1334237628
+fg
+#1334237642
+p www.hao123.com
+#1334237649
+rn
+#1334237650
+p www.hao123.com
+#1334237664
+fg
+#1334237701
+/etc/rc.d/rc.local 
+#1334237706
+rn
+#1334237712
+iwconfig 
+#1334237739
+p www.hao123.com
+#1334237741
+fg
+#1334237748
+svns
+#1334237754
+svnd
+#1334237825
+svns
+#1334237828
+svn add rc.d/
+#1334237833
+svns
+#1334237918
+cdvcl
+#1334237906
+svn commit -m '无线上网配置(对应需要修改"ifcfg-eth1"和"wpa_supplicant.conf"文件'
+#1334237931
+p www.opengl.org
+#1334234151
+su
+#1334238100
+p www.code.google.com
+#1334238116
+p git.org
+#1334237922
+git pull origin master
+#1334241977
+gits.
+#1334241991
+cd books/c/graph/NeHe/
+#1334241994
+git pull origin master
+#1334242734
+p www.hao123.com
+#1334243356
+cdx
+#1334243362
+mkdir cegui
+#1334243367
+mv CEGUI-DEMOS-0.7.5-win32.zip cegui/
+#1334243370
+cd cegui/
+#1334243697
+s eddie
+#1334243708
+s crazy
+#1334243769
+mv CEGUI-* cegui/
+#1334243771
+cd cegui/
+#1334243782
+tar xvzf CEGUI-0.7.6.tar.gz 
+#1334243787
+cd CEGUI-0.7.6
+#1334243790
+touch 
+#1334243791
+touch *
+#1334243801
+ll doc/
+#1334243817
+./configure --help
+#1334243835
+./configure 
+#1334243863
+s Irrlict
+#1334243909
+cd
+#1334243912
+g yum_list.txt 
+#1334243898
+./configure --disable-pcre
+#1334244783
+s wonky
+#1334244808
+s inadequade
+#1334244832
+s exotic
+#1334244017
+make
+#1334314403
+fg
+#1334315460
+cd Samples/Demo7
+#1334315462
+./Demo7 
+#1334315473
+mai
+#1334317477
+cd Samples/Demo7
+#1334317479
+./Demo7 
+#1334317907
+cd
+#1334317910
+g yum_list.txt 
+#1334317929
+yum -y install freeimage*
+#1334319997
+reboot
+#1334237326
+screen -r
+#1334320012
+p
+#1334315468
+su
+#1334320130
+iwconfig 
+#1334320147
+pg wpa
+#1334320150
+iwconfig 
+#1334320153
+rn
+#1334320156
+p 192.168.1.1
+#1334320159
+iwconfig 
+#1334320163
+p www.hao123.com
+#1334320166
+iwconfig 
+#1334320173
+rn
+#1334320179
+ff&
+#1334320182
+vmware&
+#1334320250
+keynav 
+#1334322196
+screen -r
+#1334395696
+p 35free.net
+#1334395701
+p www.35free.net
+#1334396769
+cat /etc/rc.d/rc.local 
+#1334396773
+cat /etc/resolv.conf
+#1334412108
+ii
+#1334412111
+llx
+#1334412113
+lla
+#1334412114
+llx
+#1334412119
+lli
+#1334412121
+llr
+#1334412504
+cdx
+#1334412506
+cd cegui/
+#1334412514
+cd CEGUI-0.7.6
+#1334412521
+cd Samples/Demo7
+#1334412522
+./Demo7 
+#1334412530
+g yum_list.txt 
+#1334412535
+su
+#1334412563
+,y
+#1334412566
+cd,y
+#1334412578
+ctagscpp.sh 
+#1334412547
+yum -y install freeimage*
+#1334412587
+g -t main
+#1334412658
+mc
+#1334412670
+mca
+#1334412670
+su
+#1334412677
+./configure --disable-pcre
+#1334413025
+t
+#1334413052
+ii
+#1334413530
+t
+#1334413538
+ii
+#1334412710
+ma
+#1334413641
+ii
+#1334413652
+mai
+#1334413645
+su
+#1334416954
+cd Demo7
+#1334416957
+./Demo7 
+#1334416978
+rm CEGUI.log 
+#1334416974
+su
+#1334416981
+./Demo7 
+#1334417048
+cd Demo6
+#1334417053
+./Demo6 
+#1334417087
+cd Demo8/
+#1334417092
+cd DragDropDemo/
+#1334417094
+./DragDropDemo 
+#1334417118
+cd ScrollablePaneDemo/
+#1334417120
+./ScrollablePaneDemo 
+#1334417151
+cd TextDemo/
+#1334417153
+./TextDemo 
+#1334417162
+cd FalagardDemo1/
+#1334417164
+./FalagardDemo1 
+#1334417220
+cd Minesweeper/
+#1334417222
+./Minesweeper 
+#1334417229
+cd FontDemo/
+#1334417231
+./FontDemo 
+#1334417286
+cd InventoryDemo/
+#1334417288
+./InventoryDemo 
+#1334417329
+cd TabControlDemo/
+#1334417331
+./TabControlDemo 
+#1334419493
+llllllllllllllll
+#1334419496
+lla
+#1334419498
+ll .deps/
+#1334419504
+ll .libs/
+#1334419509
+./.libs/lt-TabControlDemo 
+#1334419517
+ll .libs/
+#1334419520
+ll .libs/TabControlDemo 
+#1334419523
+ .libs/TabControlDemo 
+#1334459160
+lll
+#1334460859
+cd tmp/wget/
+#1334460880
+wget -c -p ed2k://|file|%5B%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%86%99%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%5D.%E4%BA%8E%E6%B8%8A.%E6%97%A0%E6%B0%B4%E5%8D%B0%E5%BD%B1%E5%8D%B0%E7%89%88%EF%BC%88%E3%80%8AOrange%27s%E4%B8%80%E4%B8%AA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%AE%9E%E7%8E%B0%E3%80%8B%E7%9A%84%E7%AC%AC%E4%B8%80%E7%89%88%EF%BC%89.pdf|39433034|c81e0054175d5cae3ddd14321acdb489|h=q3oztzdpwmpwecw6xyen2a73y5ssnj7r|/
+#1334498531
+ll.
+#1334498533
+llr
+#1334498535
+lla
+#1334498648
+./.libs/lt-TabControlDemo 
+#1334498764
+cdvcrt
+#1334498774
+cd linux/computor/
+#1334498806
+cd lang/assembly-language/Inter汇编/
+#1334498810
+ll 8086汇编语言程序设计/
+#1334498812
+g instruction.txt 
+#1334498830
+cd c
+#1334498835
+ll notes/
+#1334498841
+ll notes/linux/
+#1334498853
+ll tools/
+#1334498855
+cd tools/
+#1334498857
+cd devel/
+#1334498861
+cd gcc
+#1334498863
+.
+#1334498866
+cd cmd/
+#1334498869
+ll grep/
+#1334498888
+g  top.txt 
+#1334499394
+cal
+#1334500889
+cd cmd/
+#1334500904
+cd grath/
+#1334500909
+cd opengl/note/
+#1334500924
+g 13攻取当前GLES版本的方法.txt 
+#1334501621
+cdrt
+#1334501625
+cd linux/
+#1334501629
+cd computor/
+#1334501633
+cd OS/
+#1334501636
+cd 01自己动手写操作系统/
+#1334501640
+ex .
+#1334501673
+cd minix/
+#1334501687
+touch *
+#1334501693
+touch vmwarae
+#1334501697
+touch vmwarae/
+#1334501704
+cd vmwarae
+#1334501712
+cd
+#1334501716
+touch  vmware/
+#1334501739
+touch vmwarae
+#1334501747
+m touch
+#1334501757
+touch -h vmwarae
+#1334501770
+cd tmp/
+#1334501785
+cd note/
+#1334501789
+touch *
+#1334501795
+touch -h book 
+#1334501798
+cd asm/
+#1334501802
+touch -h *
+#1334501807
+ex .
+#1334501913
+,y
+#1334501918
+cd ,y
+#1334501919
+cd,y
+#1334501927
+outocp *
+#1334501931
+touch *
+#1334501960
+mkdir orange's
+#1334501966
+mkdir orange\'s
+#1334501973
+cd orange\'s/
+#1334501984
+ll ..
+#1334502030
+mkdir src asm notes 
+#1334502044
+cp pc-asm-book* ~
+#1334502053
+mv ~/pc-asm-book* asm/
+#1334502056
+ cd asm/
+#1334502062
+pdf pc-asm-book-simplified-chinese.pdf &
+#1334502145
+lla
+#1334502147
+ii
+#1334502152
+llx
+#1334578874
+cdvcrt
+#1334578879
+cdrt
+#1334578892
+cd linux/computor/OS/minix/
+#1334578896
+cd note/
+#1334578899
+cd asm
+#1334578921
+ll interrup/
+#1334578942
+ll my-note/
+#1334578960
+ll terms/
+#1334578968
+ll iso
+#1334578971
+ll tmp/
+#1334578975
+ll src-new/
+#1334578979
+ll tmp/
+#1334578984
+ll iso
+#1334578986
+ll note/
+#1334578998
+ii
+#1334579098
+locate -i 80x86
+#1334579115
+cd note/asm/
+#1334579121
+g 0280X86寄存器介绍.txt 
+#1334580483
+locate bochs
+#1334580496
+bochs
+#1334580537
+cdx
+#1334580541
+mkdir bochs
+#1334580547
+mv bochs-2.5.1.tar.gz bochs
+#1334580549
+cd bochs/
+#1334580552
+tar xvzf bochs-2.5.1.tar.gz 
+#1334580555
+cd bochs-2.5.1
+#1334580577
+./configure --enable-debugger --enable-disasm
+#1334580616
+make
+#1334580735
+mai
+#1334580729
+su
+#1334580923
+bce 2880*512
+#1334580756
+bochs 
+#1334581088
+jj
+#1334581093
+ll doc
+#1334581131
+mkdir
+#1334581134
+mkdir note
+#1334581136
+cd note/
+#1334581146
+mkdir os
+#1334581147
+cd os
+#1334581162
+mkdir orange\'s
+#1334581163
+;;
+#1334581167
+cd orange\'s/
+#1334581183
+g bochsrc.txt
+#1334581232
+bochs 
+#1334581259
+lla
+#1334581414
+g .bochsrc
+#1334581458
+cd
+#1334581459
+s
+#1334581481
+yum -y install vgabios bochs-x bximage
+#1334581460
+su
+#1334581682
+s glodan
+#1334581691
+s gold
+#1334581719
+locate vgabios
+#1334581723
+locate vgab
+#1334581725
+locate vga
+#1334581739
+locate -i bois-bo
+#1334581742
+locate -i bois
+#1334581784
+cd /
+#1334581800
+find / -type f | grep bochs
+#1334581813
+find /etc -type f | grep bochs
+#1334581818
+find /usr -type f | grep bochs
+#1334582006
+find /usr -type f | grep -i vgabios
+#1334582156
+lla
+#1334582161
+bochs 
+#1334582318
+bximage 
+#1334582540
+cd
+#1334582560
+g yum_list.txt 
+#1334582694
+bochs 
+#1334582584
+yum -y install nasm
+#1334583014
+nasm boot.asm -o boot.bin
+#1334583019
+cat boot.bin 
+#1334583027
+g boot.bin 
+#1334583052
+nasm boot.asm -o boot.bin
+#1334583089
+dd if=boot.bin of=a.img bs=512 count=1 conv=notrunc
+#1334583101
+bochs 
+#1334583219
+ma
+#1334583226
+g Makefile
+#1334583257
+dd if=boot.bin of=a.img bs=512 count=1 conv=notrunc
+#1334583301
+g Makefile
+#1334583333
+vi Makefile 
+#1334583344
+ma
+#1334583362
+bochs 
+#1334583380
+ma
+#1334583383
+bochs 
+#1334583401
+ma
+#1334584252
+ex .
+#1334584299
+mkdir iso
+#1334584302
+cd iso/
+#1334584347
+mkdir book-iso
+#1334584353
+ex book-iso/
+#1334583403
+bochs 
+#1334585220
+cd orange\'s/
+#1334585232
+mkdir book
+#1334585234
+cd book/
+#1334585236
+mkdir src
+#1334585239
+ex src/
+#1334585258
+ll sr
+#1334585260
+cd src
+#1334585264
+ll chapter1
+#1334585282
+,y
+#1334585285
+cd,y
+#1334585291
+mkdir bochs
+#1334585299
+rmdir bochs/
+#1334585303
+....
+#1334585310
+mv ~/xiazai/bochs/ .
+#1334585312
+ll bo
+#1334585315
+ll bochs/
+#1334585319
+cd bochs/
+#1334585324
+cd note/os/orange\'s/
+#1334585337
+cp Makefile ~
+#1334585344
+cd chapter3
+#1334585346
+cd a
+#1334585352
+bochs 
+#1334585372
+touch *
+#1334585376
+vi bochsrc 
+#1334585397
+g bochsrc 
+#1334585423
+bochs 
+#1334585451
+g .bochsrc
+#1334585487
+boll
+#1334585494
+mv ~/Makefile .
+#1334585502
+lla
+#1334585540
+,y
+#1334585742
+ma
+#1334585772
+bochs 
+#1334585854
+mc
+#1334585865
+ma
+#1334585904
+/bin/ls -l boot.bin 
+#1334585907
+ma
+#1334585909
+bochs 
+#1334585942
+  ll
+#1334585943
+ma
+#1334585944
+mc
+#1334585946
+ma
+#1334585948
+vi Makefile 
+#1334585988
+ma
+#1334585989
+mc
+#1334585990
+ma
+#1334585993
+mc
+#1334585995
+ma
+#1334585998
+boll
+#1334586005
+bochs 
+#1334586017
+,y
+#1334586019
+cd,y
+#1334586030
+cd bochs/note/os/orange\'s/
+#1334586031
+ma
+#1334586033
+ma
+#1334587274
+ex ..
+#1334587282
+,y
+#1334587285
+cd,y
+#1334587296
+cd iso/
+#1334587298
+cd book-iso/
+#1334587299
+ex .
+#1334587386
+,y
+#1334587390
+cd,y
+#1334587392
+cd..
+#1334587407
+ds chapter1*
+#1334587413
+ll chapter11
+#1334587415
+ll chapter11/a
+#1334587419
+ll chapter11/b
+#1334587422
+ll chapter11/c
+#1334587431
+gits.
+#1334587482
+pwd -P
+#1334587509
+cdvcrt
+#1334587514
+touch *
+#1334587526
+mkdir book-src
+#1334587530
+cd book-src/
+#1334587541
+mkdir orange\'s
+#1334587544
+cd orange\'s/
+#1334587563
+mdkir book-src
+#1334587594
+mv src ~/tmp/
+#1334587599
+cd book-src/
+#1334587618
+mv ~/tmp/src/ .
+#1334587622
+rmdir book-src/
+#1334587635
+mv src/ orange-src
+#1334587638
+,y
+#1334587673
+gits.
+#1334587677
+ll orange-src/
+#1334587705
+ln -s /home/scr/.rt/vercol/git/book-src/orange\'s/orange-src/ src
+#1334587710
+cd src
+#1334587717
+cd chapter3
+#1334587719
+cd a
+#1334587722
+mc
+#1334587726
+ma
+#1334587734
+mc
+#1334587735
+ma
+#1334587760
+mv pmtest1.asm pmtest1.asm3
+#1334587763
+ma
+#1334587764
+mc
+#1334587765
+ma
+#1334587811
+mv pmtest1.asm3 pmtest1.asm
+#1334587813
+mc
+#1334587813
+ma
+#1334587819
+g
+#1334587827
+ma
+#1334587852
+bochs 
+#1334587860
+mc
+#1334587872
+cd src
+#1334587884
+cd book-src/
+#1334587889
+git init
+#1334587894
+git add .
+#1334587906
+gits.
+#1334587914
+cp ~/.gitignore .
+#1334587918
+vi .gitignore 
+#1334587927
+gits.
+#1334587930
+git add .gitignore 
+#1334587973
+git commit -m  '<<Orange\'s 一个操作系统的实现>>的随书源代码'
+#1334587995
+git commit -m  "<<Orange\'s 一个操作系统的实现>>的随书源代码"
+#1334587999
+gits.
+#1334588006
+gits.
+#1334588009
+gitlo.
+#1334588013
+cd chapter3
+#1334588015
+cd a
+#1334588019
+ma
+#1334588023
+bochs 
+#1334588437
+gits.
+#1334588449
+vi .gitignore 
+#1334588478
+rm .pmtest1.asm.swp 
+#1334588480
+gits.
+#1334588509
+git rm .pmtest1.asm.swp
+#1334588511
+gits.
+#1334588519
+git commit -m  'rm *.swp'
+#1334588521
+gits.
+#1334588526
+mc
+#1334588527
+gits.
+#1334588529
+gitd.
+#1334322200
+screen 
+#1334582542
+su
+#1334838113
+cdrt
+#1334838123
+cd linux/computor/OS/orange\'s/
+#1334838136
+cd asm/
+#1334838142
+cd src/
+#1334838147
+cd bo
+#1334838151
+ll bochs/
+#1334838154
+ll bochs/note/
+#1334838156
+ll bochs/note/os/
+#1334838159
+ll bochs/note/os/orange\'s/
+#1334838169
+ll notes/
+#1334838172
+ll src/
+#1334838176
+ll iso/
+#1334838178
+ll iso/book-iso/
+#1334838180
+cd iso/
+#1334838182
+cd book-iso/
+#1334838188
+gits.
+#1334838200
+lla src
+#1334838205
+lla bok
+#1334838207
+lla book/
+#1334838210
+cd book/
+#1334838211
+lla
+#1334838213
+cd src
+#1334838215
+gits.
+#1334838220
+gitlo.
+#1334838226
+,y
+#1334838228
+cd,y
+#1334838232
+cd chapter3
+#1334838234
+gits.
+#1334838235
+cd a
+#1334838238
+ma
+#1334838243
+bochs 
+#1334838634
+ff&
+#1334838637
+p www.35free.net
+#1334841495
+mc
+#1334841501
+g pmtest1.asm 
+#1334841516
+ma
+#1334841519
+bochs 
+#1334841556
+ma
+#1334841558
+bochs 
+#1334841699
+cd
+#1334841701
+cdvcl
+#1334841704
+cdvcrc
+#1334841713
+cdvcrt
+#1334841710
+git pull origin master
+#1334841715
+git pull origin master
+#1334841741
+mutt
+#1334841797
+gits.
+#1334841799
+gitd.
+#1334841808
+gits.
+#1334841810
+git add .
+#1334841839
+git commit -m  'opengl 环境搭建'
+#1334841843
+git pull origin master
+#1334841882
+g linux/computor/tools/mail/mutt/mutt.note.txt
+#1334841893
+cd
+#1334841904
+mv .Mail/ .Mail.bk
+#1334842005
+cdx
+#1334842014
+mkdir tge3636
+#1334842019
+mv getmail.tar.bz2 tge3636/
+#1334842021
+cd tge3636/
+#1334842029
+tar xvjf getmail.tar.bz2 
+#1334842042
+file getmail.tar.bz2 
+#1334842052
+tar xvf getmail.tar.bz2 
+#1334842057
+lla
+#1334842398
+ctagscpp.sh 
+#1334842405
+rm tags 
+#1334842408
+ctagscpp.sh 
+#1334842574
+nasm -hf
+#1334842601
+m nasm
+#1334842619
+s invocation
+#1334842623
+fg
+#1334842654
+nasm -h
+#1334842662
+nasm -hf
+#1334842666
+e nasm -hf
+#1334842670
+gvlc
+#1334844050
+diff pmtest1*
+#1334844209
+gits.
+#1334844212
+mc
+#1334844214
+gits.
+#1334844217
+git.
+#1334844220
+gits.
+#1334844231
+gitd.
+#1334844235
+gits.
+#1334844242
+git add pmtest1b.asm 
+#1334844262
+gitdc
+#1334844274
+git commit -m  '用Dos来运行! [(P29)]'
+#1334844276
+gits.
+#1334844277
+gitd.
+#1334844285
+diff pmtest1*
+#1334844298
+git checkout .
+#1334844299
+gits.
+#1334844303
+ma
+#1334844305
+bochs 
+#1334844509
+,y
+#1334844510
+cd,y
+#1334844513
+cd ../b
+#1334844515
+ma
+#1334848288
+cd
+#1334848300
+chmod 777 .aMule/
+#1334848302
+cd 
+#1334848305
+cd .aMule/
+#1334848306
+ex .
+#1334850612
+chmod 000 .aMule/
+#1334848290
+su
+#1334924404
+vi Makefile 
+#1334924438
+mc
+#1334924445
+fg
+#1334924471
+m cp 
+#1334924476
+fg
+#1334924484
+ma
+#1334924524
+su
+#1334924531
+ma
+#1334924543
+mkdir /mnt/floppy
+#1334924544
+ma
+#1334924558
+,y
+#1334924561
+cd,y
+#1334924564
+bochs 
+#1334924591
+touch *
+#1334924598
+vi bochsrc 
+#1334924642
+cp ../../chapter2/linux/bochsrc .
+#1334924645
+gits.
+#1334924652
+gitd.
+#1334924699
+gits.
+#1334924704
+ma
+#1334924717
+gits.
+#1334924723
+git checkout bochsrc 
+#1334924728
+vi Makefile 
+#1334924738
+fg
+#1334924837
+ma
+#1334924854
+g ../../chapter2/linux/bo
+#1334924860
+g ../../chapter2/linux/bochsrc 
+#1334924862
+kll
+#1334924865
+vi bochsrc 
+#1334924909
+gits.
+#1334838128
+screen 
+#1334924917
+fg
+#1334924936
+,y
+#1334924941
+cd,y
+#1334924946
+gits.
+#1334924948
+gitlo.
+#1334924952
+gitls.
+#1334924977
+fg
+#1334924996
+bochs 
+#1334925093
+jj
+#1334925100
+fg
+#1334925148
+bochs 
+#1334925447
+gits.
+#1334925472
+fg
+#1334925475
+vi Makefile 
+#1334925496
+mc
+#1334925510
+fg
+#1334925518
+ma
+#1334925528
+mc
+#1334925537
+gits.
+#1334925545
+bochs 
+#1334925572
+cd,y
+#1334925574
+mc
+#1334925577
+gits.
+#1334925582
+git add .
+#1334925593
+gitl
+#1334925597
+gitls.
+#1334925599
+gitls
+#1334925613
+cd,y
+#1334925615
+cd a
+#1334925617
+ma
+#1334925623
+gits.
+#1334925627
+vi Makefile 
+#1334925637
+gits.
+#1334925638
+gitlo.
+#1334925653
+ma
+#1334925654
+bochs 
+#1334925668
+gits.
+#1334925672
+git add .
+#1334925673
+gits.
+#1334925677
+git commit -m  '用Dos来运行! [(P29)]'
+#1334925681
+gits.
+#1334925717
+mc
+#1334926233
+ma
+#1334926237
+ma
+#1334926240
+ ma
+#1334926254
+zcat pmtest2.com 
+#1334926260
+cat pmtest2.com 
+#1334926271
+strings pmtest2.com 
+#1334926863
+gits.
+#1334926868
+gitd.
+#1334927512
+ma
+#1334927516
+bochs 
+#1334927615
+....
+#1334927619
+cd minix/
+#1334927624
+cd note/
+#1334927626
+cd asm
+#1334927640
+g instruction.txt 
+#1334927705
+lla
+#1334929004
+s jmp
+#1334929011
+s jmpe
+#1334929019
+s jmp
+#1334929025
+s jmpo
+#1334929040
+p www.35free.net
+#1334929043
+iwconfig 
+#1334929050
+p www.35free.net
+#1334929762
+bochs 
+#1334929885
+mc
+#1334929888
+ma
+#1334930166
+ bzip2 t.tar
+#1334930170
+bochs 
+#1334930788
+s divisor
+#1334930804
+s quotient
+#1334931415
+bochs 
+#1334931768
+ bzip2 t.tar
+#1334931771
+bochs 
+#1334932196
+ma
+#1334932206
+bochs 
+#1334933404
+m ascii
+#1334935157
+fcitx 
+#1334937421
+ bzip2 t.tar
+#1334937425
+bochs 
+#1334937443
+gits.
+#1334937446
+mc
+#1334937447
+gits.
+#1334937455
+gitlo.
+#1334937477
+gitd.
+#1334937495
+git add .
+#1334937508
+git commit -m  '增加注释'
+#1334937510
+gits.
+#1334937512
+ma
+#1334937516
+mc
+#1335008447
+ii
+#1335008454
+vmware&
+#1335008461
+cdvlc
+#1335008463
+cdvcl
+#1335008465
+screen 
+#1335008493
+cdl
+#1335008484
+git pull origin master
+#1335008489
+git pull origin master
+#1335008496
+svn up
+#1335008469
+git pull origin master
+#1335008586
+gits.
+#1335008599
+cd books/c/graph/NeHe/LESSON11
+#1335008600
+gits.
+#1335008602
+gitd.
+#1335008608
+git checkout .
+#1335008611
+gits.
+#1335008620
+cd examlib/06/6.1/
+#1335008621
+gits.
+#1335008622
+mc
+#1335008623
+gits.
+#1335008625
+rm l.txt 
+#1335008630
+cdvcl
+#1335008631
+gits.
+#1335008639
+ll blog/
+#1335008642
+gits.
+#1335008668
+gits
+#1335008671
+gitd.
+#1335008662
+git pull origin master
+#1335008685
+git add linux/computor/bookmark/
+#1335008703
+git commit -m  '18.1 保护模式'
+#1335008704
+gits.
+#1335008707
+gitd.
+#1335008712
+git add .
+#1335008722
+git commit -m  'nasm'
+#1335008723
+gits.
+#1335008731
+gits.
+#1335008727
+git pull origin master
+#1335008744
+git add rt/home/scr/.kde/
+#1335008745
+gits.
+#1335008756
+git commit -m  'bookmark' 
+#1335008758
+gits.
+#1335008762
+git push origin master
+#1335008778
+gits.
+#1335008798
+cd books/c/graph/NeHe/LESSON25
+#1335008802
+gits.
+#1335008808
+ma
+#1335008811
+./Lesson25 
+#1335008820
+rm -rf LESSON25
+#1335008823
+cdvcl
+#1335008824
+gits.
+#1335008831
+gits.
+#1335008836
+gits.
+#1335008826
+git pull origin master
+#1335008848
+gits.
+#1335008834
+git push origin master
+#1335008850
+git pull origin master
+#1335008856
+git pull origin master
+#1335008865
+svns
+#1335008860
+git pull origin master
+#1335008875
+cdl
+#1335008889
+cd books/c/opengl/opengl-red/
+#1335008889
+mc
+#1335008892
+svns.
+#1335008893
+svns
+#1335008919
+g books/c/opengl/opengl-red/blendeqn.c
+#1335008950
+svn up books/c/opengl/opengl-red/blendeqn.c
+#1335008963
+git push origin master
+#1335008967
+git push origin master
+#1335008971
+git push origin master
+#1335009045
+rm books/c/opengl/opengl-red/blendeqn.c
+#1335009047
+svn up books/c/opengl/opengl-red/blendeqn.c
+#1335009060
+ma
+#1335009166
+./blendeqn 
+#1335009170
+svns
+#1335009176
+mc
+#1335009286
+cdvcl
+#1335009310
+ma
+#1335009911
+keynav 
+#1335010077
+bochs 
+#1335010872
+,y
+#1335010878
+cd,y
+#1335010881
+cd c
+#1335010884
+cat Makefile 
+#1335010893
+cd ../c
+#1335010894
+ma
+#1335010901
+touch *
+#1335010912
+cp ../b/Makefile .
+#1335010914
+gitd.
+#1335010935
+vi Makefile 
+#1335010948
+cp ../b/bochsrc .
+#1335010951
+gitd bochsrc 
+#1335010956
+ ll
+#1335010958
+bochs 
+#1335011520
+ctagscpp.sh 
+#1335011527
+ctagsc.sh 
+#1335012937
+bochs 
+#1335012983
+mc
+#1335012984
+gits.
+#1335012998
+git add .
+#1335012999
+gits.
+#1335013010
+git reset pmtest3.asm 
+#1335013016
+gits.
+#1335013035
+git commit -m  '使可以编译运行'
+#1335013039
+gits.
+#1335013041
+gitd
+#1335013043
+gitd.
+#1335013784
+git add .
+#1335013839
+git commit -m  '实现使用局部描述符'
+#1335013843
+gits.
+#1335013845
+gitlo.
+#1335013848
+ma
+#1335015205
+bochs 
+#1335015256
+ma
+#1335015260
+bochs 
+#1335015324
+ma
+#1335015329
+bochs 
+#1335015426
+,y
+#1335015428
+cd,y
+#1335015431
+bochs 
+#1335015502
+ma
+#1335015505
+ma
+#1335015516
+vi Makefile 
+#1335025150
+cd
+#1335025151
+mutt
+#1335025213
+mv .Mail.bk/ .Mail
+#1335025214
+mutt
+#1335026760
+ex .
+#1335026792
+su
+#1335026797
+cdm
+#1335026801
+mkdir la
+#1335026828
+mount /dev/sdb4 la
+#1335026833
+fl
+#1335026856
+mount /dev/sdb1 la
+#1335026860
+cdm
+#1335026877
+cd la/LC/RT/home/scr/.aMule/
+#1335026879
+ex .
+#1335027500
+reboot
+#1334924933
+fg
+#1334841707
+screen 
+#1334924740
+su
+#1335027702
+cdm
+#1335027720
+cd LA/LC/RT/home/scr/.aMule/
+#1335027731
+ex .
+#1335028098
+ff&
+#1335063388
+cd .aMule/
+#1335063398
+lla
+#1335063403
+rm -rf *
+#1335063414
+jj
+#1335063418
+ll Incoming/
+#1335063421
+ll Incoming/k1/
+#1335063427
+fg
+#1335063514
+8v8df
+#1335063517
+cd 
+#1335063520
+cd .aMule/
+#1335063522
+su
+#1335063528
+lla
+#1335063532
+ds .aMule/
+#1335063537
+ll .aMule/
+#1335063539
+ll .aMule/TDDOWNLOAD/
+#1335063544
+lsll .aMule/TDDOWNLOAD/
+#1335063549
+ls .aMule/TDDOWNLOAD/
+#1335063560
+rm -rf .aMule/TDDOWNLOAD/
+#1335063597
+ds .aMule/
+#1335063602
+rmdir .aMule/
+#1335064028
+ex 
+#1335065083
+cdrt
+#1335065098
+cd linux/computor/OS/orange\'s/
+#1335065108
+cd book/src/chapter3/
+#1335065111
+touch *
+#1335065123
+cd d
+#1335065126
+wu
+#1335065127
+s
+#1335065128
+su
+#1335065138
+gits 
+#1335065163
+cd c
+#1335065165
+gits.
+#1335065168
+gitd.
+#1335065174
+bochs 
+#1335065189
+gits.
+#1335065199
+g pmtest3.asm 
+#1335065204
+gits.
+#1335065205
+gitd.
+#1335065220
+gits.
+#1335065222
+gitd.
+#1335065352
+gits.
+#1335065354
+gitd
+#1335065358
+gits.
+#1335065373
+git add pmtest3.asm 
+#1335065375
+mc
+#1335065376
+gits.
+#1335065382
+git commit -m  '验证RPL访问规则[(P49-B)]'
+#1335065395
+cd ../d
+#1335065404
+cd..
+#1335065414
+cd d
+#1335065415
+su
+#1335065427
+cd d
+#1335065431
+gits.
+#1335065442
+cp ../c/Makefile .
+#1335065447
+cp ../c/bochsrc .
+#1335065450
+gitd.
+#1335065465
+vi Makefile 
+#1335065473
+bochs 
+#1335065527
+touch *
+#1335065528
+gits.
+#1335065534
+git add .
+#1335065539
+gits.
+#1335065557
+git commit -m  '使用"调用门"的demo'
+#1335065561
+gitl
+#1335065563
+gitlo
+#1335065565
+gitlo.
+#1335065572
+ma
+#1335065586
+vi Makefile 
+#1335065596
+fg
+#1335065656
+pg mount
+#1335065665
+pg nams
+#1335065668
+pg nasm
+#1335065620
+ma
+#1335065687
+t
+#1335065696
+ii
+#1335065715
+cd c
+#1335065716
+ma
+#1335065734
+cd..
+#1335065885
+t
+#1335065700
+ma
+#1335065909
+mc
+#1335065911
+ma
+#1335065931
+fg
+#1335065956
+cd d
+#1335065951
+ma
+#1335065993
+bochs 
+#1335066050
+ii
+#1335066051
+ma
+#1335066057
+gitd.
+#1335066058
+gitlo.
+#1335066070
+gitd 95fa 41ed
+#1335066084
+gitd 95fa 41ed .
+#1335066505
+ma
+#1335066735
+fg
+#1335066738
+ma
+#1335066758
+xxd -l 1000 pmtest4.com | less
+#1335066783
+xxd -l 10000 pmtest4.com | less
+#1335066791
+xxd  pmtest4.com | less
+#1335066930
+fg
+#1335066946
+gvimdiff pmtest4.asm ../c/pmtest3.asm 
+#1335067452
+ma
+#1335067455
+lll
+#1335067457
+fg
+#1335067463
+ma
+#1335067470
+xxd  pmtest4.com | less
+#1335068134
+gvimdiff pmtest4.asm ../c/pmtest3.asm 
+#1335068267
+ma
+#1335068380
+fg
+#1335068384
+ma
+#1335068580
+xxd  pmtest4.com | less
+#1335068691
+ma
+#1335068712
+ma
+#1335068717
+bochs 
+#1335068871
+ma
+#1335068878
+bochs 
+#1335069066
+gits.
+#1335069068
+gitd.
+#1335069286
+ma
+#1335069304
+bochs 
+#1335069317
+gitd.
+#1335069330
+gits.
+#1335069336
+git add pmtest4.asm 
+#1335069351
+git commit -m  '使能够编译通过'
+#1335069353
+gits.
+#1335066907
+xxd pmtest3.com | less
+#1335072108
+cd e
+#1335072117
+cp ../d/bochsrc .
+#1335072118
+gits.
+#1335072120
+gitd.
+#1335072125
+bochs 
+#1335072141
+ma
+#1335072146
+touch *
+#1335072164
+cp ../d/Makefile .
+#1335072165
+gitd.
+#1335072170
+vi Makefile 
+#1335072180
+mc
+#1335072194
+ma
+#1335072200
+gits.
+#1335072201
+git
+#1335072202
+mc
+#1335072203
+gits.
+#1335072212
+cd ../e
+#1335072214
+ma
+#1335072228
+bochs 
+#1335072240
+gits.
+#1335072245
+git add bochsrc Makefile 
+#1335072259
+git commit -m  '使能编译通过并能运行'
+#1335072261
+gits.
+#1335072463
+cd ../b
+#1335072466
+gitlo
+#1335072468
+gitlo.
+#1335072473
+gits.
+#1335072478
+gitlo.
+#1335072481
+ma
+#1335072489
+cd ../b
+#1335072491
+bochs 
+#1335072547
+gits.
+#1335072558
+ma
+#1335072662
+ma
+#1335072666
+bochs 
+#1335073188
+gits.
+#1335073194
+cd ../e
+#1335073486
+ma
+#1335073489
+mc
+#1335073490
+ma
+#1335073824
+bochs 
+#1335076266
+fcitx 
+#1335076557
+ma
+#1335076560
+gits
+#1335076562
+gitd.
+#1335076813
+bochs 
+#1335077128
+gits.
+#1335077131
+gitd.
+#1335077140
+gits
+#1335077142
+gits.
+#1335077147
+git add pmtest5.asm 
+#1335077150
+git commit
+#1335077325
+gitlo.
+#1335077328
+gitls.
+#1335077344
+bochs 
+#1335077358
+gits.
+#1335077359
+gitd.
+#1335077380
+git add pmtest5.asm 
+#1335077382
+git commit
+#1335077440
+gitls.
+#1335077444
+fg
+#1335077512
+gitlo.
+#1335077515
+gitls.
+#1335077522
+gits.
+#1335077523
+bochs 
+#1335077570
+diff pmtest5.asm pmtest5b.asm 
+#1335078103
+gits.
+#1335078116
+diff pmtest5b.asm pmtest5c.asm 
+#1335078172
+v
+#1335078187
+gvimdiff pmtest5b.asm pmtest5c.asm 
+#1335078243
+gvimdiff pmtest5a.asm pmtest5b.asm 
+#1335078339
+gvimdiff pmtest5.asm pmtest5a.asm 
+#1335078381
+gvimdiff pmtest5.asm pmtest5c.asm 
+#1335078551
+vi Makefile 
+#1335078558
+ma
+#1335078561
+bochs 
+#1335078630
+fg
+#1335078634
+gits.
+#1335078637
+mc
+#1335078639
+gits.
+#1335079968
+ma
+#1335080117
+ma
+#1335080120
+bochs 
+#1335080207
+ma
+#1335080210
+bochs 
+#1335080444
+gits.
+#1335080447
+git checkout .
+#1335080448
+gits.
+#1335080626
+bochs 
+#1335080694
+umount /mnt/floppy/
+#1335080696
+ma
+#1335080719
+mc
+#1335080721
+ma
+#1335080738
+rm /mnt/floppy/*
+#1335080741
+ma
+#1335080749
+umount /mnt/floppy/
+#1335080750
+ma
+#1335080827
+ma
+#1335080835
+bochs 
+#1335080851
+gitd.
+#1335080897
+bochs 
+#1335080910
+gits.
+#1335080915
+git add pmtest5.asm 
+#1335080918
+git commit
+#1335080966
+gits.
+#1335081549
+bochs 
+#1335081648
+ma
+#1335081654
+bochs 
+#1335082265
+ma
+#1335082268
+bochs 
+#1335082408
+gits.
+#1335082410
+gitd.
+#1335082425
+gits
+#1335082427
+gits.
+#1335082478
+ma
+#1335082480
+bochs 
+#1335082529
+gits.
+#1335082535
+git add pmtest5.asm 
+#1335082537
+git commit
+#1335082594
+gitls.
+#1335084465
+cd f
+#1335084468
+mc
+#1335084470
+gits.
+#1335084482
+ma
+#1335091220
+p www.github.com
+#1335093889
+tll
+#1335093893
+touch *
+#1335093895
+gits.
+#1335093899
+bochs 
+#1335093928
+cd ../f
+#1335093933
+cd ../f
+#1335093936
+ma
+#1335093941
+ii
+#1335093966
+cat bochsrc 
+#1335097592
+cp ../e/bochsrc .
+#1335097594
+gits.
+#1335097608
+bochs 
+#1335097629
+gits
+#1335097631
+gits.
+#1335097638
+cp ../e/Makefile .
+#1335097639
+gits.
+#1335097641
+gitd.
+#1335097645
+vi Makefile 
+#1335097652
+gits.
+#1335097656
+git add Makefile  bochsrc 
+#1335097661
+git commit -m  '使能编译通过并能运行'
+#1335097662
+gits.
+#1335097667
+gitlo.
+#1335098265
+ll ..
+#1335098269
+gits.
+#1335098271
+gitd.
+#1335098279
+gits.
+#1335098298
+git add pm.inc pmtest6.asm 
+#1335098300
+gits.
+#1335098309
+git commit -m  '一些注释'
+#1335098313
+gitlo.
+#1335098978
+vmware&
+#1335099162
+ll asm/
+#1335099178
+ll bochs/note/os/orange\'s/*
+#1335099185
+ll notes/*
+#1335099193
+lls src/
+#1335099209
+ll book/
+#1335099234
+cd..
+#1335099240
+cd minix/note/asm/
+#1335099250
+g 03IntelAssembleInstructionSet.
+#1335099255
+g 03IntelAssembleInstructionSet.txt 
+#1335103016
+fichw stosd
+#1335103020
+fif stosd
+#1335103368
+gits.
+#1335103373
+gitlo.
+#1335103378
+bochs 
+#1335103391
+cd ../g
+#1335103395
+cd ../g
+#1335103413
+cd ../g
+#1335103423
+cp ../f/bochsrc .
+#1335103425
+gits.
+#1335103429
+touch *
+#1335103432
+bochs 
+#1335103646
+cp ../f/Makefile .
+#1335103650
+gitd.
+#1335103660
+vi Makefile 
+#1335103667
+ma
+#1335103674
+ma
+#1335103677
+bochs 
+#1335103888
+gits.
+#1335103893
+git add Makefile bochsrc 
+#1335103899
+git commit -m  '使能编译通过并能运行'
+#1335103919
+bochs 
+#1335104032
+cd g
+#1335104574
+gits.
+#1335104579
+bochs 
+#1335104687
+maa
+#1335104694
+bochs 
+#1335104770
+ma
+#1335104774
+bochs 
+#1335107295
+gits.
+#1335107297
+gitd.
+#1335107312
+bochs 
+#1335107336
+ma
+#1335107600
+gitd.
+#1335108126
+bochs 
+#1335108206
+boma
+#1335108206
+ma
+#1335108243
+gits.
+#1335108247
+git add pmtest7.asm 
+#1335108253
+git commit 
+#1335108277
+gitls.
+#1335108280
+qll
+#1335180615
+ex .
+#1335182831
+keynav 
+#1335182958
+g 
+#1335186953
+cdx
+#1335186970
+vi statusline.vim 
+#1335186977
+ii
+#1335187057
+vim
+#1335186978
+fg
+#1335188026
+cdv
+#1335188027
+svns
+#1335188037
+svn diff _vimrc 
+#1335188068
+vim
+#1335188819
+cdx
+#1335188833
+tar xvzf StatusLineHighlight.vba.gz 
+#1335188843
+unzip StatusLineHighlight.vba.gz 
+#1335188848
+file StatusLineHighlight.vba.gz 
+#1335188875
+gunzip StatusLineHighlight.vba.gz 
+#1335188883
+ll StatusLineHighlight.vba 
+#1335188886
+g StatusLineHighlight.vba 
+#1335188950
+wh gzip
+#1335188955
+ll /bin/gzip 
+#1335188958
+wh zip
+#1335188962
+ll /usr/bin/zip
+#1335189660
+cfv
+#1335189665
+cdvp
+#1335189677
+cd syntax/
+#1335189680
+g txt.vim
+#1335189815
+svn diff _vimrc 
+#1335189840
+svns
+#1335189861
+g commit.log
+#1335190000
+svn diff _vimrc 
+#1335190039
+gvnt
+#1335190025
+svn commit -F commit.log _vimrc 
+#1335190060
+svns
+#1335190065
+svnd _vimperatorrc 
+#1335190077
+svns
+#1335190095
+svn commit -m "hao123.com" _vimperatorrc 
+#1335190111
+gvht
+#1335187684
+vi statusline\(2\).vim 
+#1335190319
+fg
+#1335182847
+screen 
+#1335190447
+gitlo.
+#1335190851
+bochs 
+#1335273952
+ii
+#1335280953
+cd ../h
+#1335280955
+cd ../h
+#1335280964
+cp ../g/bochsrc .
+#1335280965
+bochs 
+#1335280999
+cp ../g/Makefile .
+#1335281000
+gits.
+#1335281006
+touch *
+#1335281008
+gitd.
+#1335281020
+vi Makefile 
+#1335281025
+ma
+#1335281030
+bochs 
+#1335281085
+gits.
+#1335281093
+git checkout pmtest8.com 
+#1335281104
+git checkout pm.img 
+#1335281107
+bochs 
+#1335281212
+cd h
+#1335281219
+bochs 
+#1335281602
+mc
+#1335281603
+ma
+#1335281619
+mc
+#1335281623
+gits.
+#1335281634
+ma
+#1335281665
+cd h
+#1335281670
+gits.
+#1335281671
+mc
+#1335281672
+gits.
+#1335281677
+git add  Makefile bochsrc 
+#1335281680
+git commit -m  '使能编译通过并能运行'
+#1335281682
+gits.
+#1335281684
+mc
+#1335282446
+t
+#1335355050
+vmware&
+#1335355206
+]
+#1335355541
+cdvl
+#1335355543
+cdvcl
+#1335355562
+cdvcrt
+#1335355545
+git pull origin master
+#1335355568
+cdvcrc
+#1335355579
+cd books/c/graph/NeHe/LESSON11
+#1335355571
+git pull origin master
+#1335355581
+ma
+#1335355564
+git pull origin master
+#1335355606
+gitlo.
+#1335355614
+ii
+#1335355617
+t
+#1335355627
+ii
+#1335355628
+mc
+#1335355628
+ma
+#1335355630
+ii
+#1335355633
+gitlo.
+#1335356164
+mc
+#1335356165
+ma
+#1335357183
+ii
+#1335357185
+t
+#1335357196
+ii
+#1335357236
+p www.35free.net
+#1335357241
+iwconfig 
+#1335357396
+ma
+#1335357400
+ma
+#1335357402
+mc
+#1335357402
+ma
+#1335357405
+bochs 
+#1335357424
+gits.
+#1335357446
+git add lib.inc pmtest8.asm 
+#1335357447
+gits.
+#1335357450
+mc
+#1335357451
+gits.
+#1335357459
+git commit -m  '增加注释'
+#1335357463
+gitlo.
+#1335357468
+gitlo
+#1335357473
+mc
+#1335357474
+ma
+#1335357481
+mc
+#1335357486
+ma
+#1335362226
+gits.
+#1335362229
+mca
+#1335362230
+mc
+#1335362233
+cd ../i
+#1335362236
+cd ../i
+#1335362241
+cp ../g/Makefile .
+#1335362246
+cp ../g/bochsrc .
+#1335362248
+vi Makefile 
+#1335362263
+,y
+#1335362268
+cd ../g
+#1335362270
+vi Makefile 
+#1335362284
+fg
+#1335362286
+vi Makefile 
+#1335362298
+cd ../h
+#1335362309
+bochs 
+#1335362424
+touch *
+#1335362427
+gits.
+#1335362433
+ma
+#1335362435
+mc
+#1335362435
+ma
+#1335362442
+bochs 
+#1335362459
+mc
+#1335362462
+gits.
+#1335362464
+ma
+#1335362502
+mc
+#1335362504
+gits.
+#1335362508
+gits.
+#1335362511
+git checkout pm.img 
+#1335362512
+bochs 
+#1335362530
+ma
+#1335362549
+mc
+#1335362551
+ma
+#1335362586
+mc
+#1335362588
+gits.
+#1335362590
+ma
+#1335362607
+mc
+#1335362610
+ma
+#1335362615
+ma
+#1335362617
+bochs 
+#1335362641
+mc
+#1335362642
+gits.
+#1335362646
+git add Makefile  bochsrc 
+#1335362648
+git commit -m  '使能编译通过并能运行'
+#1335362652
+ma
+#1335362659
+bochs 
+#1335363424
+gits.
+#1335363673
+ma
+#1335363677
+bochs 
+#1335363696
+ma
+#1335363702
+bochs 
+#1335363791
+ma
+#1335363796
+bochs 
+#1335363817
+mc
+#1335363817
+ma
+#1335363865
+gitd.
+#1335363883
+gits
+#1335363884
+gits.
+#1335363890
+git add pmtest9.asm 
+#1335363894
+git commit -m  '增加注释'
+#1335364511
+bch2c 200
+#1335364547
+bch2c b40
+#1335364665
+bce 1.44*1024*1024
+#1335364675
+bce 512*2880
+#1335443320
+bch2c e0
+#1335444153
+gvlc
+#1335444193
+m xxd
+#1335445278
+bce 224*32/512
+#1335445853
+bch2c fff
+#1335445868
+bch2c ff8
+#1335446778
+ch chapter2
+#1335446780
+cd chapter2
+#1335446784
+cd linux/
+#1335446789
+cat bochsrc 
+#1335446805
+cp ../../chapter3/c/bochsrc .
+#1335446806
+bochs 
+#1335446816
+gits.
+#1335446824
+gitd.
+#1335446827
+bochs 
+#1335446847
+vi bochsrc 
+#1335446864
+bochs 
+#1335446876
+gits.
+#1335446880
+git add bochsrc 
+#1335446887
+git commit -m  '使能运行'
+#1335446891
+gits.
+#1335446893
+...
+#1335446903
+cd ..
+#1335446907
+...
+#1335446910
+cd chapter4
+#1335447172
+bochs 
+#1335447188
+cd chapterll
+#1335447193
+cd chapter2
+#1335447197
+cd linux/
+#1335447199
+touch *
+#1335447202
+bochs 
+#1335447252
+cat Makefile 
+#1335447261
+..ll
+#1335447272
+cd chapter1
+#1335447273
+cd a
+#1335447280
+cd b
+#1335447302
+cd bochs/note/os/orange\'s/
+#1335447305
+cat Makefile 
+#1335447310
+ma
+#1335447313
+bochs 
+#1335447322
+cat Makefile 
+#1335447346
+cp Makefile  ~
+#1335447351
+mv ~/Makefile .
+#1335447352
+ma
+#1335447355
+bochs 
+#1335447361
+gits.
+#1335447365
+mc
+#1335447367
+gits.
+#1335447370
+git add Makefile 
+#1335447373
+cat Makefile 
+#1335447401
+git commit -m  'dd if=... ...'
+#1335447712
+chd chapter4
+#1335447717
+cd chapter4
+#1335447718
+cd a
+#1335447720
+,y
+#1335447722
+cd,y
+#1335447948
+bce 2*80*18*514
+#1335447953
+bce 2*80*18*512
+#1335447958
+bce 2*80*18*512/1024
+#1335447962
+bce 2*80*18*512/1024/1024
+#1335447969
+bce 2*80*18*512/1024
+#1335451142
+bce 512/32
+#1335451750
+gitlo.
+#1335451755
+gits.
+#1335451757
+ma
+#1335451763
+bochs 
+#1335451769
+touch *
+#1335451772
+mc
+#1335451791
+cp ../../chapter3/e/bochsrc . 
+#1335451795
+cat Makefile 
+#1335451802
+bochs 
+#1335451810
+vi bochsrc 
+#1335451819
+fg
+#1335451824
+ma
+#1335451830
+bochs 
+#1335451840
+cat Makefile 
+#1335451850
+gits.
+#1335451851
+mc
+#1335451853
+gits
+#1335451856
+gits.
+#1335451859
+mc
+#1335451863
+vi Makefile 
+#1335451879
+mc
+#1335451881
+gits.
+#1335451883
+git add .
+#1335451888
+git commit -m  '使能编译通过并能运行'
+#1335451891
+bochs 
+#1335451897
+ma
+#1335451899
+mc
+#1335451903
+cd b
+#1335451905
+cd ../b
+#1335451911
+bochs 
+#1335451918
+cp ../a/bochsrc .
+#1335451919
+bochs 
+#1335451946
+touch *
+#1335451953
+cat Makefile 
+#1335451961
+ma
+#1335451967
+cat Makefile 
+#1335451996
+mc
+#1335451999
+gits
+#1335452001
+gits.
+#1335452079
+gits.
+#1335452084
+git add bochsrc 
+#1335452087
+git commit -m  '使能编译通过并能运行'
+#1335452092
+mc
+#1335452093
+ma
+#1335452097
+bochs 
+#1335529755
+vmware&
+#1335529758
+jj
+#1335529762
+screen 
+#1335529770
+cdrt
+#1335529787
+cd linux/computor/OS/orange\'s/book/src
+#1335529789
+ll ..
+#1335529793
+cd src
+#1335529797
+screen 
+#1335529804
+cd chapter4
+#1335529885
+klii
+#1335529886
+ii
+#1335530112
+vmware&
+#1335530175
+ii
+#1335530749
+ff
+#1335530752
+ff&
+#1335530901
+rm 3-1.wmv 6871046529.wmv DEEP.avi JAKUZI\ SEFASIi_Zolt\@n\ \(1\).wmv 
+#1335530907
+i
+#1335530909
+ii
+#1335530910
+i
+#1335530911
+ii
+#1335530929
+bce 18*512
+#1335530933
+bce 18*512/1024
+#1335530940
+cdrt
+#1335530950
+cd linux/computor/OS/orange\'s/book/src
+#1335530953
+ll ..
+#1335530957
+cd chapter4
+#1335530964
+touch *
+#1335530969
+cd b
+#1335530977
+cd b
+#1335530979
+bochs 
+#1335531006
+cll
+#1335531009
+lla
+#1335531142
+bch2c 100
+#1335533640
+cd c
+#1335533647
+g boot.asm 
+#1335533722
+cd c
+#1335533724
+su
+#1335533728
+git.
+#1335533729
+gits.
+#1335533736
+gitlo.
+#1335533745
+cp ../a/bochsrc .
+#1335533746
+gits.
+#1335533750
+touch *
+#1335533751
+bochs 
+#1335535318
+cal
+#1335535325
+cal 2012
+#1335538217
+cd..
+#1335538228
+cd minix/note/asm/
+#1335538234
+g instruction.txt 
+#1335538898
+gvht
+#1335539258
+bce 1a
+#1335539267
+bch2c 1a
+#1335541617
+date
+#1335542202
+bce 512*18
+#1335542241
+bce 512*18/1024
+#1335542513
+msu
+#1335542514
+si
+#1335542515
+su
+#1335542520
+ma
+#1335542524
+bochs 
+#1335542611
+mc
+#1335542613
+ma
+#1335542728
+gits.
+#1335542737
+git add bochsrc 
+#1335542740
+git commit -m  '使能编译通过并能运行'
+#1335542743
+gits.
+#1335615064
+vmware&
+#1335615083
+fll
+#1335615143
+cd
+#1335615144
+cdx
+#1335615171
+tar tjf getmail.tar.bz2 
+#1335615178
+mkdir getmail
+#1335615184
+mv getmail.tar.bz2 getmail
+#1335615185
+cd getmail/
+#1335615208
+tar xjf getmail.tar.bz2 
+#1335615210
+lla
+#1335615220
+cdvcrt
+#1335615226
+cdvcrc
+#1335615231
+cdvcl
+#1335615228
+git pull origin master
+#1335615233
+git pull origin master
+#1335615223
+git pull origin master
+#1335615252
+gits.
+#1335615254
+gitdl
+#1335615275
+gits
+#1335615278
+gitd
+#1335615283
+git add .
+#1335615306
+git commit -m  'vim statusline; asm int 10h'
+#1335615308
+git pull origin master
+#1335615327
+gits
+#1335615329
+gitlo.
+#1335615340
+gitd  8a3e 5a7b
+#1335615346
+gitlos
+#1335615349
+gitlo.
+#1335615357
+gitd  8a3e8 5a7b
+#1335615374
+lla
+#1335615393
+vi .muttrc 
+#1335615407
+g .muttrc 
+#1335615490
+cd .Mail/
+#1335615496
+ll inbox/
+#1335615506
+mv .Mail/ .Mail.bk
+#1335615510
+mkdir .Mail
+#1335615548
+cp .procmailrc ~
+#1335615559
+diff .msmtprc ~/.msmtprc 
+#1335615583
+g ~/.msmtprc 
+#1335615626
+ll .procmailrc 
+#1335615636
+chmod 600 .procmailrc 
+#1335615691
+lla
+#1335615706
+cat .mailcap 
+#1335615754
+cp .msmtprc ~
+#1335615759
+ll .msmtprc
+#1335615764
+ll .msmtprc*
+#1335615775
+chmod 600 .msmtprc
+#1335615778
+ll .msmtprc*
+#1335615786
+chmod 600 .msmtprc.bk 
+#1335615789
+ll .msmtprc*
+#1335615872
+lla
+#1335616168
+m mkdir
+#1335616179
+mkdir -p .Mail
+#1335616179
+mkdir -p .Mail/inbox
+#1335616179
+mkdir -p .Mail/inbox/default
+#1335616179
+mkdir -p .Mail/inbox/thunder/anybody
+#1335616179
+mkdir -p .Mail/inbox/thunder/default
+#1335616179
+mkdir -p .Mail/inbox/tge3636_126/default
+#1335616179
+mkdir -p .Mail/inbox/tge3636_126/anybody
+#1335616179
+mkdir -p .Mail/inbox/lcy3636_126/default
+#1335616179
+mkdir -p .Mail/inbox/lcy3636_126/anybody
+#1335616179
+mkdir -p .Mail/inbox/nuoerlz_gmail/list_eng
+#1335616179
+mkdir -p .Mail/inbox/nuoerlz_gmail/list_joke
+#1335616179
+mkdir -p .Mail/inbox/nuoerlz_gmail/list_hot
+#1335616179
+mkdir -p .Mail/inbox/nuoerlz_gmail/list_shlug
+#1335616179
+mkdir -p .Mail/inbox/nuoerlz_gmail/list_cpp
+#1335616179
+mkdir -p .Mail/inbox/nuoerlz_gmail/list_vim
+#1335616179
+mkdir -p .Mail/inbox/nuoerlz_gmail/list_fedora
+#1335616179
+mkdir -p .Mail/inbox/nuoerlz_gmail/list_av
+#1335616179
+mkdir -p .Mail/inbox/nuoerlz_gmail/list_ad
+#1335616179
+mkdir -p .Mail/inbox/nuoerlz_gmail/list_devel
+#1335616179
+mkdir -p .Mail/inbox/nuoerlz_gmail/news_G2G
+#1335616179
+mkdir -p .Mail/inbox/nuoerlz_gmail/default
+#1335616179
+mkdir -p .Mail/inbox/nuoerlz_gmail/
+#1335616193
+cd .Mail
+#1335616197
+cd
+#1335616199
+ll inbox/
+#1335616300
+mkdir -p .Mail/sent
+#1335616300
+mkdir -p .Mail/postponed
+#1335616302
+lla
+#1335616312
+lla
+#1335616315
+lla .Mail/
+#1335616323
+chx .Mail/procmail.class.sh 
+#1335616330
+cp .Mail/procmail.class.sh ~/.Mail
+#1335616336
+cat procmail.class.sh 
+#1335616774
+m promail
+#1335616780
+m procmail
+#1335616796
+gvht
+#1335616891
+cd .Mail.bk/
+#1335616893
+lla
+#1335616895
+ll trash/
+#1335616897
+ll trash/cur/
+#1335616951
+gvlc
+#1335617002
+find ~/.Mail.bk/ -type f | ~/.Mail/procmail.class.sh {} \;
+#1335617022
+find ~/.Mail.bk/ -type f -exec ~/.Mail/procmail.class.sh {} \;
+#1335617031
+*N*cd
+#1335617032
+cd 
+#1335617034
+cd .Mail
+#1335617036
+llr
+#1335617089
+find . -type f
+#1335617096
+find . -type f | xargs rm
+#1335617097
+lla
+#1335617099
+lr
+#1335617103
+ll inbox/
+#1335617105
+fg
+#1335617129
+chx procmail.class.sh 
+#1335617141
+find ~/.Mail.bk/inbox/ -type f -exec ~/.Mail/procmail.class.sh {} \;
+#1335617148
+llr
+#1335617235
+find . -type f | xargs rm
+#1335617278
+chx procmail.class.sh 
+#1335617286
+lr
+#1335617294
+cd
+#1335617297
+cd .Mail
+#1335617299
+mutt
+#1335617321
+lr
+#1335617334
+fg
+#1335617361
+mutt
+#1335617423
+cd postponed/
+#1335617427
+mkdir cur new tmp
+#1335617430
+cd sent/
+#1335617433
+mkdir cur new tmp
+#1335617435
+mutt
+#1335617449
+cd ..
+#1335617453
+cd inbox/
+#1335617455
+cd lcy3636_126/
+#1335617457
+ll default/
+#1335617460
+cd thunder/
+#1335617462
+mkdir cur new tmp
+#1335617464
+cd 
+#1335617467
+cd .Mail
+#1335617469
+mutt
+#1335617480
+cd inbox/thunder/
+#1335617485
+mv cur/ new/ tmp/ default/
+#1335617487
+cd-
+#1335617488
+mutt
+#1335617584
+cd .getmail/
+#1335617586
+lla
+#1335617591
+lla .mutt
+#1335617597
+lla .mutt/
+#1335617602
+lla .mutt/tmp/mutt-sre-500-31733-15710796571350891316 
+#1335617605
+cat .mutt/tmp/mutt-sre-500-31733-15710796571350891316 
+#1335617607
+lla
+#1335617609
+lla .getmail/
+#1335617629
+lla
+#1335617632
+cd
+#1335617637
+mv .getmail/ .getmail.bk
+#1335617672
+cd .getmail/
+#1335617676
+rm *.log
+#1335617682
+rm oldmail-*
+#1335617690
+cat getmail
+#1335617692
+lla
+#1335617700
+cat getmailrc.lcy3636.126 
+#1335617712
+lla
+#1335617717
+cp -rf .getmail/ ~
+#1335617853
+lla
+#1335617874
+g mail_client_create.sh
+#1335617902
+lla
+#1335617906
+chx mail_client_create.sh 
+#1335617910
+lla
+#1335617995
+lla
+#1335618108
+ll .getmail/
+#1335618122
+lla
+#1335618218
+lla .mailcap 
+#1335617764
+fg
+#1335618824
+ll .mutt
+#1335618827
+lla .mutt
+#1335618829
+lla .Mail/
+#1335618838
+mv .Mail/procmail.class.sh .
+#1335618866
+lla
+#1335619014
+rmdir .Mail/
+#1335619015
+lla
+#1335619035
+rm .mailcap .muttrc 
+#1335619035
+lla
+#1335619041
+rm getmail.tar.bz2 
+#1335619042
+lla
+#1335619046
+touch ./.*
+#1335619047
+lla
+#1335619051
+touch *
+#1335619053
+lla
+#1335619062
+lla .getmail/
+#1335619065
+lla .mutt/
+#1335619069
+lla .mutt/tmp/mutt-sre-500-31733-15710796571350891316 
+#1335619070
+lla
+#1335619073
+rm -rf .mutt/
+#1335619074
+lla
+#1335619079
+g mail_client_create.sh 
+#1335619120
+mkdir mail_client_create
+#1335619124
+mv * mail_client_create
+#1335619125
+lla
+#1335619133
+mv ./.* mail_client_create/
+#1335619136
+lla
+#1335619140
+cd mail_client_create/
+#1335619141
+lla
+#1335619156
+tar xvjf mail_client_create.tar.bz2 mail_client_create/*
+#1335619162
+tar cvjf mail_client_create.tar.bz2 mail_client_create/*
+#1335619176
+tar cvjf mail_client_create.tar.bz2 mail_client_create/
+#1335619193
+tar tjf mail_client_create.tar.bz2 
+#1335619203
+lla
+#1335619207
+lla mail_client_create
+#1335619209
+cd mail_client_create
+#1335619210
+lla
+#1335619212
+rm .mail_client_create.sh.swp 
+#1335619213
+lla
+#1335619217
+rm mail_client_create.tar.bz2 
+#1335619220
+tar cvjf mail_client_create.tar.bz2 mail_client_create/
+#1335619222
+lla
+#1335619261
+mutt
+#1335619427
+p www.35free.net
+#1335617731
+mutt
+#1335619447
+cd
+#1335619463
+cdvcrc
+#1335619469
+cd rt/home/scr/
+#1335619478
+cp ~/.procmailrc .
+#1335619506
+lla .procmailrc 
+#1335619511
+lla .procmailrc 
+#1335619515
+lla .muttrc 
+#1335619524
+rm .procmailrc 
+#1335619532
+lla .mailcap 
+#1335619549
+ln -s .rt/vercol/git/rc-files/rt/home/scr/.procmailrc .procmailrc 
+#1335619553
+lla .procmailrc 
+#1335619573
+cd .getmail
+#1335619582
+g oldmail-mail.thunder.com.cn-110-liaocaiyuan\@thunder.com.cn 
+#1335619607
+lla
+#1335619635
+p mail.thunder.com.cn
+#1335619648
+cd
+#1335619651
+cd-
+#1335619653
+cd
+#1335619660
+cd .getmail
+#1335619662
+g getmail
+#1335619838
+p www.35free.net
+#1335619844
+iwconfig 
+#1335619858
+lla
+#1335620342
+g
+#1335620397
+cdx
+#1335620402
+mkdir getmail2
+#1335620406
+mv getmail.tar.bz2 getmail2
+#1335620409
+cd getmail2
+#1335620414
+tar xvjf getmail.tar.bz2 
+#1335620456
+g ~/.mutt/.signature.nuoerlz.gmail
+#1335620480
+ll ~/.mutt/.signature.nuoerlz.gmail
+#1335620488
+cd mail_client_create
+#1335620491
+lla
+#1335620502
+mkdir .mutt
+#1335620502
+lla
+#1335620517
+cp ~/.mutt/.signature.nuoerlz.gmail .mutt/
+#1335620518
+lla
+#1335620520
+lla .mutt/
+#1335620523
+g mail_client_create.sh 
+#1335620549
+lla
+#1335620551
+ll .mutt/
+#1335620556
+lla .mutt/
+#1335617789
+mutt
+#1335621154
+lla
+#1335621160
+lla .mutt/
+#1335621164
+rm mail_client_create.tar.bz2 
+#1335621166
+tar cvjf mail_client_create.tar.bz2 mail_client_create/
+#1335621410
+cd
+#1335621412
+cd
+#1335621416
+cd
+#1335621848
+pg msm
+#1335621857
+kill -15 30692
+#1335621858
+pg msm
+#1335621675
+fg
+#1335619695
+mutt
+#1335622169
+cd
+#1335622172
+cd
+#1335631394
+g .getmail/getmail
+#1335631406
+crontab -e
+#1335621973
+mutt
+#1335660082
+s dirt
+#1335661429
+gits.
+#1335661443
+git add boot.asm 
+#1335661444
+gits.
+#1335661456
+git commit -m  '使能运行'
+#1335661469
+git commit -m  '增加注释'
+#1335661472
+gitlo.
+#1335661474
+gits.
+#1335661484
+cd-
+#1335661806
+cd chapter5
+#1335661812
+cd a
+#1335661819
+vi Makefile 
+#1335661873
+ma
+#1335661900
+touch *
+#1335661902
+fg
+#1335661935
+ma
+#1335661936
+mc
+#1335661938
+ma
+#1335661946
+chown -R scr:scr *
+#1335661949
+ma
+#1335661954
+,y
+#1335661957
+cd,y
+#1335661969
+ma
+#1335661987
+nasm -f elf hello.asm -o hello.o
+#1335661993
+ld -s hello.o -o hello
+#1335662251
+cdb
+#1335662272
+g getmail_while.sh
+#1335662308
+fif while
+#1335662356
+g ./stsc/while_loopc.sh:23:while 
+#1335662419
+chx getmail_while.sh 
+#1335662428
+./getmail_while.sh &
+#1335662478
+pg
+#1335662504
+pg getm
+#1335662552
+s
+#1335662594
+pg while
+#1335662620
+cdb
+#1335662622
+g getmail_while.sh 
+#1335662725
+file hello.o
+#1335662736
+cdlc
+#1335662740
+cdvlc
+#1335662741
+cdvcl
+#1335662749
+cd books/c/graph/NeHe/LESSON11
+#1335662752
+mc
+#1335662753
+ma
+#1335662758
+./endian_test.exe 
+#1335662764
+file endian_test.o
+#1335662789
+m nasm
+#1335662810
+nasm -hf
+#1335662827
+vi Makefile 
+#1335662841
+fg
+#1335662854
+m
+#1335662854
+ma
+#1335662857
+mc
+#1335662858
+ma
+#1335662861
+./hello 
+#1335662917
+mc
+#1335662918
+ma
+#1335662933
+mc
+#1335662934
+ma
+#1335662936
+./hello 
+#1335662939
+ma
+#1335663029
+mc
+#1335663034
+git add .
+#1335663035
+gits.
+#1335663039
+git commit -m  '使能编译通过并能运行'
+#1335663049
+ma
+#1335663050
+./hello 
+#1335663621
+vi getmail_while.sh 
+#1335663721
+./getmail_while.sh 
+#1335663732
+fg
+#1335663765
+./getmail_while.sh 
+#1335663787
+fg
+#1335663826
+m sleep
+#1335663886
+fg
+#1335663888
+vi getmail_while.sh 
+#1335663908
+ 
+#1335663937
+pg get
+#1335663940
+pg getmail
+#1335663966
+pg getmailrc
+#1335663994
+ma
+#1335663995
+mc
+#1335663996
+gits.
+#1335663998
+ma
+#1335663999
+gits.
+#1335664003
+cd a
+#1335664006
+,y
+#1335664008
+cd,y
+#1335664010
+cd b
+#1335664012
+,y
+#1335664014
+cd,y
+#1335664020
+ma
+#1335664023
+vi Makefile 
+#1335664055
+ma
+#1335664056
+mc
+#1335664057
+ma
+#1335664110
+mc
+#1335664113
+touch *
+#1335664115
+ma
+#1335664143
+jj
+#1335664144
+fg
+#1335664259
+ma
+#1335664269
+./foobar 
+#1335664294
+m
+#1335664295
+ma
+#1335664300
+./foobar 
+#1335664305
+ma
+#1335664306
+./foobar 
+#1335664309
+mc
+#1335664310
+ma
+#1335664311
+./foobar 
+#1335664319
+mc
+#1335664320
+ma
+#1335664325
+./foobar 
+#1335664329
+ma
+#1335664330
+mc
+#1335664331
+ma
+#1335664441
+./endian_test.exe 
+#1335664498
+./foobar 
+#1335664519
+ma
+#1335664521
+./foobar 
+#1335664600
+ma
+#1335664602
+./foobar 
+#1335664616
+ma
+#1335664617
+./foobar 
+#1335664662
+ma
+#1335664663
+./foobar 
+#1335664667
+ma
+#1335664668
+./foobar 
+#1335664671
+ma
+#1335664672
+./foobar 
+#1335664866
+vi getmail_while.sh 
+#1335665076
+pg getmailrc
+#1335665097
+H
+#1335665331
+kill 4200
+#1335665346
+pg getmail
+#1335665365
+vi getmail_while.sh 
+#1335665378
+./getmail_while.sh 
+#1335665387
+k
+#1335665396
+pg getmail
+#1335665488
+ma
+#1335666474
+fg
+#1335666486
+jj
+#1335666487
+gits.
+#1335666490
+gitd.
+#1335666504
+git checkout foo.asm 
+#1335666505
+mc
+#1335666507
+gits.
+#1335666507
+ma
+#1335666525
+m ld
+#1335667411
+cdb
+#1335667412
+pg getmail
+#1335667428
+g getmail_while.sh 
+#1335667535
+k
+#1335667920
+p
+#1335667932
+pg getmail
+#1335668769
+vi getmail_while.sh 
+#1335669358
+pg getm
+#1335669364
+ p rj
+#1335669370
+pg getmail
+#1335665389
+fg
+#1335696548
+vi getmail_while.sh 
+#1335696830
+m sleep
+#1335696834
+fg
+#1335619384
+fg
+#1335697022
+ex .
+#1335697973
+p www.35free.net
+#1335697981
+iwconfig 
+#1335697991
+p 192.168.1.1
+#1335697994
+p www.35free.net
+#1335698000
+p www.github.com
+#1335698052
+p 192.168.1.1
+#1335698056
+p 211.64.120.2
+#1335698082
+p www.github.com
+#1335698094
+p 8.8.8.8
+#1335698101
+p 192.168.1.1
+#1335698113
+ii
+#1335698131
+p 192.168.1.1
+#1335698138
+p www.github.com
+#1335698144
+p 8.8.8.8
+#1335698152
+p 211.64.120.2
+#1335698159
+ii
+#1335698160
+r
+#1335698162
+rn
+#1335698166
+cat /etc/resolv.conf
+#1335698172
+iwconfig 
+#1335698215
+p 211.64.120.2
+#1335698225
+p www.hao123.com
+#1335698235
+rn
+#1335698269
+su
+#1335698276
+service network restart
+#1335698287
+rn
+#1335698289
+p www.hao123.com
+#1335698296
+/etc/rc.d/rc.local 
+#1335698307
+p www.hao123.com
+#1335698310
+iwconfig 
+#1335698314
+p www.hao123.com
+#1335698319
+p 211.64.120.2
+#1335698459
+rn
+#1335698499
+p www.35free.net
+#1335698504
+p 192.168.1.1
+#1335698509
+p www.35free.net
+#1335698596
+p www.hao123.com
+#1335696460
+./getmail_while.sh 
+#1335698462
+p 211.64.120.2
+#1335700859
+p mail.thunder.com.cn
+#1335700866
+p www.code.google.com
+#1335700894
+p www.opengl.org
+#1335703561
+vi getmail_while.sh 
+#1335704421
+,y
+#1335704426
+cd,y
+#1335704429
+cd ../c
+#1335704430
+,y
+#1335704432
+cd,y
+#1335704463
+cp ../../chapter4/a/bochsrc .
+#1335704464
+gits.
+#1335704470
+touch *
+#1335704473
+cd-
+#1335704477
+bochs 
+#1335704488
+ma
+#1335704502
+vi Makefile 
+#1335704518
+ma
+#1335704520
+mc
+#1335704521
+ma
+#1335704527
+mc
+#1335704533
+fg
+#1335704544
+mc
+#1335704546
+ma
+#1335704551
+bochs 
+#1335704562
+fg
+#1335704639
+gits.
+#1335704640
+mc
+#1335704641
+gits.
+#1335704646
+git add Makefile  bochsrc 
+#1335704648
+git commit -m  '使能编译通过并能运行'
+#1335706562
+,y
+#1335706566
+cd,y
+#1335706567
+su
+#1335706574
+,y
+#1335706577
+cd,y
+#1335706579
+cd ../e
+#1335706583
+cd ../e
+#1335706589
+cd ../d
+#1335706592
+cd ../d
+#1335706598
+cp ../c/bochsrc .
+#1335706599
+gits.
+#1335706600
+touch *
+#1335706602
+cd-
+#1335706606
+bochs 
+#1335706618
+ma
+#1335706636
+jj
+#1335706643
+fg
+#1335706655
+mc
+#1335706658
+gits.
+#1335706669
+ma
+#1335706777
+mc
+#1335706833
+ma
+#1335706845
+mc
+#1335706888
+cd..
+#1335706890
+gitlo.
+#1335706917
+gitls.
+#1335706985
+fif #if
+#1335706998
+fif endif
+#1335707010
+cd chapter2
+#1335707011
+fif endif
+#1335707016
+cd chapter3
+#1335707017
+fif endif
+#1335707125
+ma
+#1335707133
+fg
+#1335707167
+gitlo.
+#1335707185
+gitlos.
+#1335707188
+gitls
+#1335707190
+gitls.
+#1335707275
+gitd 41ed 3b78
+#1335707324
+gvlc
+#1335707399
+cdvcrtbot 
+#1335707404
+cd vercol/git/
+#1335707407
+cd notes/
+#1335707412
+g 02.txt 
+#1335707633
+gitl
+#1335707635
+gits
+#1335707659
+gitlo.
+#1335707694
+gitd 41ed 3b78
+#1335707712
+gitlo.
+#1335707714
+gitl
+#1335707719
+gitlo
+#1335707742
+git rebase -i HEAD~30
+#1335707754
+gitls
+#1335707759
+gits
+#1335707785
+ma
+#1335707790
+jj
+#1335707795
+fg
+#1335708142
+ma
+#1335708270
+vi Makefile 
+#1335708279
+ma
+#1335708332
+gits.
+#1335708334
+mc
+#1335708335
+gits.
+#1335708337
+gitd.
+#1335708368
+gits.
+#1335708385
+git add Makefile bochsrc loader.asm 
+#1335708386
+gits.
+#1335708392
+git commit -m  ';ALIGN 32      ; 注释掉这行才能编译通过, 为什么呢? QQQQQ'
+#1335708396
+gitlo
+#1335708398
+qll
+#1335708399
+ma
+#1335708402
+mc
+#1335708402
+ma
+#1335708407
+mc
+#1335708412
+ma
+#1335708673
+m memcpy
+#1335709467
+bch2c 30400
+#1335709475
+bce 197632/1024
+#1335710904
+bcc2h 20
+#1335710981
+bch2c 1e
+#1335710997
+bch2c 34
+#1335711008
+bcc2h 34
+#1335711280
+bch2c 32
+#1335711302
+bch2c 34
+#1335711330
+bch2c 20
+#1335712940
+bch2c 400
+#1335712951
+bch2c 100
+#1335712982
+bch2c 50000
+#1335713001
+bce 327680/1024
+#1335713018
+bch2c 10000
+#1335713034
+bce 65536/1024
+#1335713057
+bch2c fc00
+#1335713071
+bce 64512/1024
+#1335713121
+bch2c 20000
+#1335713140
+bce 131072/1024
+#1335713197
+bch2c 1000
+#1335713419
+bch2c 500
+#1335713438
+bch2c 7c00
+#1335713446
+bce 31744/1024
+#1335713464
+bch2c 7e00
+#1335713471
+bce 32256/1024
+#1335713489
+bch2c 30000
+#1335713504
+bce 196608/1024
+#1335713522
+bch2c 80000
+#1335713531
+bce 524288/1024
+#1335713548
+bch2c 90000
+#1335713561
+bce 589824/1024
+#1335713577
+bch2c 9fc00
+#1335713583
+bce 654336/1024
+#1335713598
+bch2c a0000
+#1335713604
+bce 655360/1024
+#1335713622
+bch2c c0000
+#1335713628
+bce 786432/1024
+#1335713640
+bch2c e0000
+#1335713644
+bce 917504/1024
+#1335713657
+bch2c f0000
+#1335713664
+bce 983040/1024
+#1335713675
+bch2c 100000
+#1335713684
+bce 1048576/1024
+#1335713702
+bch2c 101000
+#1335713708
+bce 1052672/1024
+#1335713933
+bce 31*1024-1280
+#1335713951
+bce (31*1024-1280)/1024
+#1335713957
+bce \(31*1024-1280\)/1024
+#1335713995
+bce 192-31.5
+#1335714513
+cd ../e
+#1335714519
+cd ../e
+#1335714569
+./getmail_while.sh &
+#1335714594
+t
+#1335714613
+./getmail_while.sh &
+#1335714672
+cp ../d/bochsrc .
+#1335714674
+bochs 
+#1335714689
+ma
+#1335714740
+vi Makefile 
+#1335714749
+ma
+#1335714794
+mc
+#1335714796
+ma
+#1335714798
+touch *
+#1335714798
+mc
+#1335714799
+mca
+#1335714800
+ma
+#1335717749
+./getmail_while.sh 
+#1335717751
+./getmail_while.sh &
+#1335659864
+fg
+#1335718300
+ex .
+#1335718360
+fg
+#1335718501
+ex .fg
+#1335754461
+jj
+#1335754464
+pg getmail
+#1335754483
+kill - 30206
+#1335754489
+kill 30206
+#1335754493
+pg getmail
+#1335718502
+fg
+#1335754592
+reboot
+#1335530959
+screen 
+#1335614318
+screen 
+#1335754971
+reboot
+#1335756058
+cd .Mail
+#1335756119
+cd ..
+#1335756122
+cd .getmail
+#1335756125
+g getmail
+#1335756195
+ps aux | grep --color=never '/usr/bin/getmail.*getmailrc.*' | grep --color=never -v grep
+#1335756212
+ps aux | grep --color=never '/usr/bin/getmail.*getmailrc.*' | grep --color=never -v grep | awk '{print $2}' 
+#1335756304
+./getmail 
+#1335756076
+getmail_while.sh 
+#1335756569
+cd ../.getmail
+#1335756572
+./getmail 
+#1335757032
+touch getmail.crontab.log
+#1335757036
+e getmail.crontab.log
+#1335757093
+tee
+#1335757100
+./getmail 
+#1335757110
+cat getmail.crontab.log 
+#1335757183
+gvlc
+#1335757228
+m date
+#1335757241
+date "+%Y-%m-%dT%H_%M_%S"
+#1335757251
+date "+%Y-%m-%d %H:%M:%S"
+#1335757270
+date +%s -d 15:08:14.607574
+#1335757293
+date "+%Y-%m-%d %H:%M:%S"
+#1335757304
+m date
+#1335757327
+date "+%Y-%m-%d %H:%M:%S %g"
+#1335757332
+fg
+#1335757350
+date "+%Y-%m-%d %H:%M:%S %w"
+#1335757357
+date
+#1335757373
+date "+%Y-%m-%d %H:%M:%S %w"
+#1335757450
+./getmail 
+#1335757531
+cat getmail.crontab.log 
+#1335757538
+m tee
+#1335757557
+./getmail 
+#1335757560
+cat getmail.crontab.log 
+#1335757597
+cat getmail.crontab.log 
+#1335757729
+crontab -e
+#1335757582
+./getmail 
+#1335757939
+cat getmail.crontab.log 
+#1335758296
+ff&
+#1335758429
+date
+#1335758572
+g getmail.gmail.log 
+#1335758577
+g getmailrc.nuoerlz.gmail 
+#1335757935
+./getmail 
+#1335758778
+./getmail 
+#1335758914
+g oldmail-pop.gmail.com-995-nuoerlz\@gmail.com 
+#1335758952
+pg getmail
+#1335758963
+cat getmail.crontab.log 
+#1335758984
+./getmail 
+#1335759024
+m getmailrc
+#1335759026
+m getmail
+#1335759080
+./getmail 
+#1335759193
+cat getmail.crontab.log 
+#1335759974
+ccd
+#1335759975
+cd
+#1335759977
+g .procmailrc 
+#1335760146
+vi getmail
+#1335760191
+g oldmail-pop.gmail.com-995-nuoerlz\@gmail.com 
+#1335766555
+cd inbox/nuoerlz_gmail/default/
+#1335766557
+lla
+#1335766557
+lr
+#1335766686
+dcd
+#1335766687
+cd
+#1335766688
+cd .Mail
+#1335766721
+8nj
+#1335766723
+jj
+#1335767369
+ ll
+#1335767371
+cd inbox/
+#1335767373
+cd ..
+#1335767376
+ds sent/ trash/
+#1335767378
+cd inbox/
+#1335767385
+ds default/ lcy3636_126/ tge3636_126/ thunder/
+#1335767392
+ds nuoerlz_gmail/
+#1335767394
+cd nuoerlz_gmail/
+#1335767396
+ds default/
+#1335767399
+ds .
+#1335767401
+ds *
+#1335767427
+cd list_devel/
+#1335767525
+cd
+#1335767528
+cdx
+#1335767534
+ex .
+#1335767582
+mkdir google-chrome
+#1335767587
+mv google-chrome-stable_current_x86_64.rpm google-chrome
+#1335767588
+cd google-chrome/
+#1335767595
+rpm -ivh google-chrome-stable_current_x86_64.rpm 
+#1335767616
+g yum_list.txt 
+#1335767628
+s chrome
+#1335767699
+cdvcrtbot
+#1335767703
+touch *
+#1335767711
+cd browser/
+#1335767713
+cd google-chrome/
+#1335767716
+cat readme 
+#1335767719
+lla
+#1335767728
+g notes.txt
+#1335767689
+yum -y install redhat-lsb
+#1335767796
+rpm -ivh google-chrome-stable_current_x86_64.rpm 
+#1335771727
+ds *
+#1335756096
+mutt
+#1335776228
+cdvcrt
+#1335776231
+cdrt
+#1335776246
+cd linux/computor/OS/orange\'s/book/src/chapter5
+#1335776254
+cd e
+#1335776258
+,y
+#1335776264
+cdy
+#1335776265
+cd e
+#1335776269
+bochs 
+#1335776366
+9
+#1335776613
+bce 70000/3600
+#1335759178
+./getmail 
+#1335784574
+fg
+#1335788511
+cat getmail.crontab.log 
+#1335784827
+./getmail 
+#1335788651
+cat getmail.crontab.log 
+#1335788918
+s retrieval
+#1335788587
+./getmail 
+#1335789152
+cat getmail.crontab.log 
+#1335789200
+gits.
+#1335789208
+gitd.
+#1335789246
+ma
+#1335789492
+g getmail.gmail.log 
+#1335789992
+cat getmail
+#1335791495
+s flaky
+#1335792289
+s envelop
+#1335792312
+s envelope
+#1335792416
+s inherently
+#1335792506
+vi getmail
+#1335792515
+g getmailrc.nuoerlz.gmail 
+#1335789147
+./getmail 
+#1335792593
+cat getmail.crontab.log 
+#1335775439
+fg
+#1335792659
+gvht
+#1335792586
+./getmail 
+#1335792947
+cat /etc/passwd
+#1335792958
+cat /etc/shadow
+#1335792980
+ll /etc/shadow
+#1335792960
+su
+#1335793366
+m getmail
+#1335793452
+pg getmailrc
+#1335794175
+./getmail 
+#1335794181
+cat getmail.crontab.log 
+#1335794204
+./getmail 
+#1335794207
+cat getmail.crontab.log 
+#1335794236
+./getmail 
+#1335794238
+cat getmail.crontab.log 
+#1335794331
+cat getmail.crontab.log 
+#1335794453
+./getmail 
+#1335794455
+cat getmail.crontab.log 
+#1335794556
+9
+#1335794558
+crontab -e
+#1335794305
+./getmail 
+#1335794596
+pg getmail
+#1335794602
+pg getmailrc
+#1335794609
+cat getmail.crontab.log 
+#1335794667
+chmod 600 getmail.crontab.log 
+#1335794676
+ll ../.getmail -d
+#1335794688
+chmod 700 ../.getmail
+#1335794690
+ll ../.getmail -d
+#1335794701
+ll -d *
+#1335794716
+m ls
+#1335794755
+crontab -e
+#1335794847
+cat getmail.gmail.log 
+#1335794893
+pg getmailrc
+#1335795060
+cat getmail.gmail.log 
+#1335795066
+cat getmail.crontab.log 
+#1335795193
+pg getmailrc
+#1335795215
+find . | wc
+#1335795325
+pg getmail
+#1335795346
+find . | wc
+#1335795364
+pg getmail
+#1335795422
+find . | wc
+#1335795448
+cdvrrc
+#1335795450
+cdvcrc
+#1335795454
+cd rt/home/scr/
+#1335795455
+lla
+#1335795461
+mkdir .getmail
+#1335795461
+lla
+#1335795470
+rmdir .getmail/
+#1335795473
+cp ~/.getmail .
+#1335795477
+cp ~/.getmail . -rf
+#1335795479
+lla
+#1335795481
+cd .getmail/
+#1335795489
+rm getmail.*
+#1335795493
+rm getmailrc.*
+#1335795496
+rm oldmail-*
+#1335795502
+cd
+#1335795503
+cd .getmail
+#1335795506
+rm getmail
+#1335795534
+ln -s /home/scr/.rt/vercol/git/rc-files/rt/home/scr/.getmail/getmail 
+#1335795545
+./getmail &
+#1335795556
+cat getmail.crontab.log 
+#1335795623
+pg getmail
+#1335795625
+cat getmail.crontab.log 
+#1335795666
+cdvcrc
+#1335795668
+gits.
+#1335795851
+watch find . | wc
+#1335795881
+cd 
+#1335795884
+cd .Mail
+#1335795886
+cd inbox/nuoerlz_gmail/
+#1335795890
+find . | wc
+#1335795925
+g getmail.gmail.log 
+#1335795859
+watch "find . | wc"
+#1335796002
+ii
+#1335796118
+watch $$
+#1335796126
+watch echo $$
+#1335796138
+watch -n 1 echo $$
+#1335796004
+m watch
+#1335796161
+watch -n 1 echo '$$'
+#1335796186
+watch -n 1 echo "'"'$$'"'"
+#1335796206
+watch -n 1 echo '$$'
+#1335796214
+watch -n 1 echo $$
+#1335796235
+watch -n 1 "find . | wc"
+#1335796252
+watch -n 1 "find . | wc -l"
+#1335796300
+m wpa_supplicant 
+#1335796303
+m watch
+#1335796315
+watch -n 1 from
+#1335796323
+m watch
+#1335796382
+cat getmail.crontab.log 
+#1335796430
+touch getmail.out.log
+#1335796438
+chmod 600 getmail.out.log 
+#1335796523
+cat getmail.crontab.log 
+#1335796799
+ii
+#1335796806
+t
+#1335796825
+cat getmail.crontab.log 
+#1335796958
+pg getmail
+#1335796961
+cat getmail.crontab.log 
+#1335797207
+cd
+#1335797258
+cat oldmail-imap.gmail.com-993-nuoerlz\@gmail.com 
+#1335797414
+g getmail
+#1335797649
+crontab -e
+#1335797691
+4
+#1335797698
+cat getmail.crontab.log 
+#1335797730
+bochs 
+#1335797747
+g boot.asm 
+#1335797766
+xxd boot.bin 
+#1335797856
+ii
+#1335797874
+t
+#1335797883
+ii
+#1335799156
+cat getmail.crontab.log 
+#1335799384
+1j
+#1335799387
+vi Makefile 
+#1335799404
+lla
+#1335799419
+mc
+#1335799420
+ma
+#1335799405
+fg
+#1335799599
+mc
+#1335799599
+ma
+#1335799608
+mc
+#1335799619
+ma
+#1335799622
+mc
+#1335799623
+ma
+#1335799760
+cd
+#1335799761
+g yum_list.txt 
+#1335799781
+mc
+#1335799781
+ma
+#1335799844
+mc
+#1335799844
+ma
+#1335799850
+bochs 
+#1335799867
+jj
+#1335799911
+ld -v
+#1335799919
+ld -V
+#1335799967
+mc
+#1335799968
+ma
+#1335799985
+mc
+#1335799986
+ma
+#1335799870
+fg
+#1335799989
+bochs 
+#1335799998
+fg
+#1335800032
+mc
+#1335800032
+ma
+#1335800035
+bochs 
+#1335799433
+m ld
+#1335800061
+gvlc
+#1335800049
+fg
+#1335800185
+ld -V
+#1335800254
+mc
+#1335800254
+ma
+#1335800468
+fg
+#1335800551
+gitd.
+#1335800588
+mc
+#1335800589
+ma
+#1335800625
+mc
+#1335800625
+ma
+#1335800630
+2ll
+#1335800632
+bochs 
+#1335800641
+mc
+#1335800643
+gits.
+#1335800654
+git add Makefile bochsrc loader.asm 
+#1335800666
+git commit 
+#1335800737
+gitlo.
+#1335800740
+gitlo
+#1335800743
+gitl
+#1335800746
+gitlo
+#1335800752
+gitlo.
+#1335800702
+vi Makefile 
+#1335800758
+gits.
+#1335800760
+mc
+#1335800762
+gits.
+#1335800763
+ma
+#1335800766
+bochs 
+#1335800839
+pg getmail
+#1335800852
+8n
+#1335800858
+pg getmail
+#1335800864
+cat getmail.out.log 
+#1335800871
+cat getmail.crontab.log 
+#1335800912
+cat getmail.out.log 
+#1335796271
+watch -d -n 1 "find . | wc -l"
+#1335800978
+t
+#1335801003
+cat oldmail-imap.gmail.com-993-nuoerlz\@gmail.com 
+#1335801014
+cat getmail.out.log 
+#1335801058
+cat getmail.crontab.log 
+#1335801091
+g getmail
+#1335801181
+ii
+#1335801188
+cat getmail.out.log 
+#1335801283
+watch -d -n 1 "find . | wc -l"
+#1335801439
+gvlc
+#1335801472
+gvht
+#1335799345
+m ld
+#1335801592
+cat getmail.crontab.log 
+#1335801722
+cat getmail.out.log 
+#1335804404
+g getmail
+#1335804416
+crontab -e
+#1335804422
+cat getmail.out.log 
+#1335804473
+g getmail
+#1335805428
+cat getmail.out.log 
+#1335805444
+cat getmail.crontab.log 
+#1335835223
+tail getmail.out.log 
+#1335835258
+cat getmail.crontab.log 
+#1335835300
+tail getmail.out.log 
+#1335756059
+screen 
+#1335776248
+screen 
+#1335767527
+screen 
+#1335776255
+su
+#1335767803
+su
+#1335837203
+cd .Mail
+#1335837213
+cd ../.getmail
+#1335837218
+cat getmail.out.log 
+#1335837226
+pg getmail
+#1335837245
+head getmail.out.log 
+#1335837248
+tail getmail.out.log 
+#1335837253
+tail 100 getmail.out.log 
+#1335837258
+tail -100 getmail.out.log 
+#1335837270
+less getmail.out.log 
+#1335837313
+cat getmail.crontab.log 
+#1335837318
+./getmail &
+#1335837329
+fg
+#1335837333
+cat getmail.crontab.log 
+#1335837351
+g getmail.crontab.log 
+#1335837509
+./getmail &
+#1335837556
+fg
+#1335837565
+crontab -e
+#1335837573
+pg getmail
+#1335837614
+./getmail 
+#1335837664
+date "+%Y-%m-%d %H:%M:%S %w"
+#1335837690
+./getmail 
+#1335838416
+date +%Y-%m-%d %H:%M:%S %w
+#1335838450
+./getmail 
+#1335838662
+gvbs
+#1335838754
+./getmail 
+#1335839512
+date "+%Y-%m-%d %H:%M:%S %w"
+#1335839520
+date "+%Y-%m-%d%H:%M:%S%w"
+#1335839554
+./getmail 
+#1335840801
+./getmail &
+#1335840917
+cd inbox/nuoerlz_gmail/
+#1335840984
+cdb
+#1335840995
+fif '2&>1'
+#1335841007
+glc
+#1335841009
+gvlc
+#1335841151
+wh fif
+#1335841162
+fif '2&>1'
+#1335841169
+fif '2 &>1'
+#1335841171
+fif '2 &> 1'
+#1335841173
+fif '2&>1'
+#1335841185
+gvlc
+#1335841197
+fif '2>&1'
+#1335841400
+cd ll
+#1335841406
+tail -100 getmail.out.log 
+#1335841433
+pg getmail
+#1335841437
+tail -100 getmail.out.log 
+#1335841472
+pg getmail
+#1335841475
+tail -100 getmail.out.log 
+#1335841478
+pg getmail
+#1335841486
+tail -100 getmail.out.log 
+#1335841495
+g getmail.crontab.log 
+#1335841532
+tail -100 getmail.out.log 
+#1335841540
+pg getmail
+#1335841545
+kill -15 4192
+#1335841552
+./getmail &
+#1335841562
+crontab -e
+#1335841570
+g getmail.crontab.log 
+#1335841724
+s terminal
+#1335841739
+s termi
+#1335841746
+s termin
+#1335841844
+g getmail.gmail.log 
+#1335841857
+g oldmail-imap.gmail.com-993-nuoerlz\@gmail.com 
+#1335841883
+tail -100 getmail.out.log 
+#1335841893
+tail -30 getmail.out.log 
+#1335843918
+g getmail.out.log 
+#1335844062
+date
+#1335844087
+cdrt
+#1335844103
+cd linux/computor/OS/orange\'s/book/src/chapter5/
+#1335844108
+screen 
+#1335844115
+crontab -e
+#1335844140
+cd e
+#1335844142
+cd 
+#1335844146
+ell
+#1335844153
+,y
+#1335844155
+cd,y
+#1335844160
+wh ,y
+#1335844166
+ll /tmp/*
+#1335844169
+cd /tmp/
+#1335844181
+cat pwd2vim.tmp 
+#1335844191
+ll pwd2vim.tmp 
+#1335844209
+bochs 
+#1335844338
+g boot.asm 
+#1335844421
+tail -30 getmail.out.log 
+#1335844458
+date
+#1335844460
+tail -30 getmail.out.log 
+#1335844478
+p www.opengl.org
+#1335844481
+tail -30 getmail.out.log 
+#1335844489
+p www.opengl.org
+#1335844492
+pg getmail
+#1335844499
+p www.opengl.org
+#1335844503
+pg getmail
+#1335844507
+tail -30 getmail.out.log 
+#1335844561
+date
+#1335844563
+cal
+#1335844589
+iwconfig 
+#1335844599
+p www.opengl.org
+#1335844807
+cd ../.getmail
+#1335844811
+tail -30 getmail.out.log 
+#1335844818
+g getmail.crontab.log 
+#1335844533
+watch "tail getmail.out.log"
+#1335844933
+cat getmail.crontab.log 
+#1335844940
+tail -30 getmail.out.log 
+#1335847294
+g getmail
+#1335847377
+./getmail &
+#1335847420
+./getmail 0
+#1335847425
+./getmail 2
+#1335847500
+./getmail 
+#1335847690
+pg getmail
+#1335847811
+./getmail 
+#1335847814
+./getmail > out
+#1335847821
+./getmail 2> out
+#1335847823
+cat out 
+#1335847834
+./getmail 2> out
+#1335847835
+cat out 
+#1335847940
+crontab -e
+#1335848211
+head -1 getmail.126.log 
+#1335848354
+tail -30 getmail.out.log 
+#1335848356
+pg getmail
+#1335848361
+kill -9 8029
+#1335848363
+pg getmail
+#1335848371
+g getmail
+#1335848381
+kill 7126
+#1335848382
+pg getmail
+#1335848386
+rm o
+#1335848388
+rm out 
+#1335848480
+cd /tmp/
+#1335848835
+./getmail 2> out
+#1335848841
+./getmail 
+#1335848861
+cat getmail_1234_3234_442_tmp_sf.lock.tmp.lock 
+#1335849123
+m expr
+#1335849136
+./getmail 
+#1335849193
+fif expr
+#1335849200
+fifw expr
+#1335849298
+fifw for
+#1335849379
+cd upt3
+#1335849381
+fifw for
+#1335849413
+fifw while
+#1335849458
+g ./upt3/rot.shar:538: 
+#1335849495
+cd stsc/
+#1335849497
+fifw while
+#1335849508
+g ./break_continue.sh:11:
+#1335849618
+g ./note/que/start_some.sh:
+#1335849668
+m expr
+#1335849670
+./getmail 
+#1335849680
+rm getmail_1234_3234_442_tmp_sf.lock.tmp.lock 
+#1335849833
+:wa
+#1335849844
+./getmail &
+#1335849873
+fg
+#1335849977
+./getmail &
+#1335850001
+fg
+#1335850107
+./getmail &
+#1335850126
+crontab -e
+#1335850160
+pg getmail
+#1335850184
+crontab -e
+#1335850232
+pg getmail
+#1335850238
+tail -30 getmail.out.log 
+#1335850253
+cat getmail.crontab.log 
+#1335850309
+tail -30 getmail.out.log 
+#1335850310
+cat getmail.crontab.log 
+#1335850349
+tail -30 getmail.out.log 
+#1335850382
+cat getmail.crontab.log 
+#1335850385
+crontab -e
+#1335850393
+g getmail
+#1335850459
+cat getmail.crontab.log 
+#1335850461
+tail -30 getmail.out.log 
+#1335850465
+cat getmail.crontab.log 
+#1335850466
+tail -30 getmail.out.log 
+#1335850474
+g getmail
+#1335850560
+rm out 
+#1335850564
+./getmail &
+#1335850574
+cat getmail.crontab.log 
+#1335850579
+tail -30 getmail.out.log 
+#1335850583
+cat getmail.crontab.log 
+#1335850590
+cat getmail_1234_3234_442_tmp_sf.lock.tmp.lock 
+#1335850600
+head getmail
+#1335850606
+head -22 getmail
+#1335850789
+tail -30 getmail.out.log 
+#1335850799
+cat getmail.crontab.log 
+#1335850816
+tail -30 getmail.out.log 
+#1335850833
+g getmail
+#1335850850
+tail -30 getmail.out.log 
+#1335850852
+cat getmail.crontab.log 
+#1335850885
+cat getmail.crontab.log | wc
+#1335850886
+cat getmail.crontab.log 
+#1335850888
+tail -30 getmail.out.log 
+#1335850892
+cat getmail.crontab.log 
+#1335850998
+tail -30 getmail.out.log 
+#1335851005
+c
+#1335851006
+cat getmail.crontab.log 
+#1335851022
+g getmail.out.log 
+#1335851042
+cat getmail.crontab.log 
+#1335851049
+g getmail
+#1335851405
+bochs 
+#1335851760
+tail -30 getmail.out.log 
+#1335851763
+cat getmail.crontab.log 
+#1335851766
+tail -30 getmail.out.log 
+#1335851767
+cat getmail.crontab.log 
+#1335851773
+tail -30 getmail.out.log 
+#1335851936
+mc
+#1335851936
+ma
+#1335852019
+/bin/ls -l
+#1335852059
+bce 5661/512
+#1335852103
+bce 512*12
+#1335852156
+bce 6144-5661
+#1335852181
+bce 512*3
+#1335852431
+ma
+#1335852638
+mc
+#1335852639
+ma
+#1335852669
+mc
+#1335852670
+mca
+#1335852671
+mc
+#1335852671
+ma
+#1335853158
+mc
+#1335853158
+ma
+#1335853196
+mc
+#1335853198
+ma
+#1335853239
+mc
+#1335853240
+mca
+#1335853241
+ma
+#1335853257
+mc
+#1335853259
+mc
+#1335853259
+ma
+#1335853261
+bochs 
+#1335853494
+mkdir note
+#1335853496
+gits.
+#1335853508
+mv note/ notes
+#1335853509
+gits.
+#1335853523
+cd notes/
+#1335853527
+cp ~/NASM\:org指令深入理解.pdf .
+#1335853530
+gits.
+#1335853728
+mc
+#1335853731
+ma
+#1335853732
+mc
+#1335853735
+bochs 
+#1335853751
+mc
+#1335853752
+ma
+#1335854792
+mc
+#1335854792
+ma
+#1335854795
+c
+#1335854796
+mc
+#1335854799
+ma
+#1335854819
+mc
+#1335854820
+ma
+#1335854839
+mc
+#1335854840
+ma
+#1335854863
+mc
+#1335854863
+ma
+#1335855667
+pg getmail
+#1335855683
+g getmail
+#1335855708
+tail -30 getmail.out.log 
+#1335855716
+cat getmail.crontab.log 
+#1335855775
+cat /tmp/getmail_1234_3234_442_tmp_sf.lock.tmp.lock 
+#1335855783
+tail -30 getmail.out.log 
+#1335855803
+cat /tmp/getmail_1234_3234_442_tmp_sf.lock.tmp.lock 
+#1335855805
+cat getmail.crontab.log 
+#1335855812
+tail -30 getmail.out.log 
+#1335855832
+cat getmail.crontab.log 
+#1335855865
+echo "[`date "+%Y-%m-%d %H:%M:%S %w"`]  current getmail session is terminal." 
+#1335855879
+g getmail.out.log 
+#1335855897
+cat getmail.crontab.log 
+#1335856016
+tail -30 getmail.out.log 
+#1335856020
+cat getmail.crontab.log 
+#1335856142
+./getmail 
+#1335856165
+tail -30 getmail.out.log 
+#1335856176
+cat getmail.crontab.log 
+#1335856183
+g getmail.out.log 
+#1335856229
+cat getmail.crontab.log 
+#1335856243
+g getmail
+#1335856330
+tail -30 getmail.out.log 
+#1335856336
+cat getmail.crontab.log 
+#1335856366
+g getmail
+#1335856513
+cat getmail.crontab.log 
+#1335856514
+tail -30 getmail.out.log 
+#1335856518
+cat getmail.crontab.log 
+#1335856541
+gits.
+#1335856546
+mc
+#1335856548
+gits.
+#1335856551
+gitd.
+#1335856571
+gits
+#1335856573
+gits.
+#1335856582
+git add boot.asm load.inc loader.asm 
+#1335856583
+gits.
+#1335856586
+git commit 
+#1335856596
+gitlo.
+#1335856599
+ma
+#1335856603
+mc
+#1335856604
+ma
+#1335856621
+./kernel.bin 
+#1335856683
+pg getmail
+#1335857172
+tail -30 getmail.out.log 
+#1335857175
+cat getmail.crontab.log 
+#1335857178
+tail -30 getmail.out.log 
+#1335857185
+g getmail
+#1335857197
+tail -30 getmail.out.log 
+#1335857203
+g getmail.out.log 
+#1335857215
+tail -30 getmail.out.log 
+#1335857219
+cat getmail.crontab.log 
+#1335857227
+tail -30 getmail.out.log 
+#1335857292
+cat getmail.crontab.log 
+#1335857324
+tail -30 getmail.out.log 
+#1335857327
+cat getmail.crontab.log 
+#1335857373
+tail -30 getmail.out.log 
+#1335857401
+cat getmail.crontab.log 
+#1335857413
+tail -30 getmail.out.log 
+#1335857415
+cat getmail.crontab.log 
+#1335857424
+crontab -e
+#1335866514
+cat getmail.crontab.log 
+#1335866523
+tail -30 getmail.out.log 
+#1335866532
+g getmail
+#1335866537
+tail -30 getmail.out.log 
+#1335866549
+cat getmail.crontab.log 
+#1335866586
+tail -30 getmail.out.log 
+#1335866601
+cat getmail.crontab.log 
+#1335866669
+tail -30 getmail.out.log 
+#1335866682
+cat getmail.crontab.log 
+#1335866739
+tail -30 getmail.out.log 
+#1335866748
+cat getmail.crontab.log 
+#1335866750
+tail -30 getmail.out.log 
+#1335866756
+g getmail.out.log 
+#1335866777
+tail -30 getmail.out.log 
+#1335866864
+g getmail.out.log 
+#1335866873
+cat getmail.crontab.log 
+#1335866883
+tail -30 getmail.out.log 
+#1335866889
+g getmail
+#1335866896
+tail -30 getmail.out.log 
+#1335866897
+cat getmail.crontab.log 
+#1335866920
+cat /tmp/getmail_1234_3234_442_tmp_sf.lock.tmp.lock 
+#1335866933
+tail -30 getmail.out.log 
+#1335866943
+g getmail
+#1335867001
+tail -30 getmail.out.log 
+#1335867014
+g getmail
+#1335867027
+tail -30 getmail.out.log 
+#1335867032
+cat /tmp/getmail_1234_3234_442_tmp_sf.lock.tmp.lock 
+#1335867034
+cat getmail.crontab.log 
+#1335867100
+tail -30 getmail.out.log 
+#1335867105
+cat getmail.crontab.log 
+#1335867163
+tail -30 getmail.out.log 
+#1335867168
+cat getmail.crontab.log 
+#1335867315
+tail -30 getmail.out.log 
+#1335867321
+cat getmail.crontab.log 
+#1335867327
+g getmail.out.log 
+#1335867340
+cat getmail.crontab.log 
+#1335867508
+s abort
+#1335867533
+cat getmail.crontab.log 
+#1335867537
+tail -30 getmail.out.log 
+#1335867549
+cat getmail.crontab.log 
+#1335867577
+tail -30 getmail.out.log 
+#1335867580
+cat getmail.crontab.log 
+#1335867583
+crontab -e
+#1335867599
+cat getmail.crontab.log 
+#1335867984
+tail -30 getmail.out.log 
+#1335867990
+cat getmail.crontab.log 
+#1335868011
+lll
+#1335868033
+....
+#1335868041
+cd minix/note/asm/
+#1335868047
+g instruction.txt 
+#1335868198
+fif gd_ptr
+#1335868201
+fif gdt_ptr
+#1335868204
+fif lgdt
+#1335868215
+fif sgdt
+#1335868219
+,y
+#1335868220
+cd,y
+#1335868223
+cd ../f
+#1335868230
+,y
+#1335868231
+cd,y
+#1335868239
+fif sgdt
+#1335868249
+fif gdt_ptr
+#1335868361
+fifw gdt
+#1335868367
+fif gdt
+#1335868369
+fifw gdt
+#1335868981
+fifi
+#1335868983
+wh fifi
+#1335868999
+wh fifi kernel_cs
+#1335869009
+fifi kernel_cs
+#1335869016
+fifi kernel_cs
+#1335869193
+gits.
+#1335869262
+bcc2h 24
+#1335869282
+bch2c 1b
+#1335869298
+touch *
+#1335869305
+cp ../e/bochsrc .
+#1335869307
+bochs 
+#1335869517
+ma
+#1335869555
+vi Makefile 
+#1335869596
+ma
+#1335869597
+mc
+#1335869597
+ma
+#1335869606
+fg
+#1335869612
+mc
+#1335869612
+ma
+#1335869631
+m gcc
+#1335869807
+fg 1
+#1335869820
+fg 2
+#1335869824
+mc
+#1335869824
+ma
+#1335869934
+fg 2
+#1335869942
+fg 1
+#1335869952
+fg 
+#1335869955
+fg 2
+#1335869957
+fg 1
+#1335869964
+mc
+#1335869965
+ma
+#1335869974
+fg
+#1335869977
+fg 1
+#1335869984
+fg 2
+#1335869988
+fg 1
+#1335869991
+fg 2
+#1335870169
+fg 1
+#1335870177
+mc
+#1335870177
+ma
+#1335870180
+fg
+#1335870186
+mc
+#1335870187
+ma
+#1335870204
+mc
+#1335870205
+gits.
+#1335870212
+gitdl
+#1335870234
+gitd.
+#1335870273
+gits.
+#1335870276
+cd,y
+#1335870280
+gits.
+#1335870293
+git add Makefile bochsrc loader.asm kernel.asm 
+#1335870294
+gits.
+#1335870297
+git commit 
+#1335870363
+gits.
+#1335870365
+gitlo.
+#1335870369
+gitls.
+#1335870374
+gits.
+#1335870247
+fg
+#1335870381
+mc
+#1335870382
+ma
+#1335870394
+vi Makefile 
+#1335870400
+mc
+#1335870401
+ma
+#1335870405
+fg
+#1335870407
+mc
+#1335870408
+ma
+#1335870412
+bochs 
+#1335870723
+cdv
+#1335870725
+svns
+#1335870732
+svnd _vimrc 
+#1335870764
+svn commit -m "NERDTreeSortOrder" _vimrc 
+#1335870777
+svn up _vimrc 
+#1335870782
+svnd _vimrc 
+#1335870787
+svn commit -m "NERDTreeSortOrder" _vimrc 
+#1335870817
+tail -30 getmail.out.log 
+#1335870809
+svn diff -r 78:79
+#1335870820
+cat getmail.crontab.log 
+#1335870852
+tail -30 getmail.out.log 
+#1335870854
+cat getmail.crontab.log 
+#1335870872
+g getmail
+#1335870914
+tail -30 getmail.out.log 
+#1335870919
+g getmail.out.log 
+#1335870934
+tail -30 getmail.out.log 
+#1335870943
+svns
+#1335871010
+pg vim
+#1335847697
+crontab -e
+#1335871070
+mc
+#1335871071
+ma
+#1335871072
+mc
+#1335871073
+gits.
+#1335871074
+ma
+#1335871108
+mc
+#1335871108
+ma
+#1335871134
+fg
+#1335871136
+vi Makefile 
+#1335871150
+mc
+#1335871157
+bochs 
+#1335871164
+fg
+#1335871183
+vi Makefile 
+#1335871261
+cat getmail.crontab.log 
+#1335871551
+tail -30 getmail.out.log 
+#1335871566
+cat getmail.crontab.log 
+#1335871568
+tail -30 getmail.out.log 
+#1335871578
+cat getmail.crontab.log 
+#1335871589
+tail -30 getmail.out.log 
+#1335871596
+cat getmail.crontab.log 
+#1335871711
+tail -30 getmail.out.log 
+#1335871717
+cat getmail.crontab.log 
+#1335874828
+tail -30 getmail.out.log 
+#1335874832
+cat getmail.crontab.log 
+#1335874833
+tail -30 getmail.out.log 
+#1335874835
+cat getmail.crontab.log 
+#1335874853
+g getmail.out.log 
+#1335876451
+cat getmail.crontab.log 
+#1335876467
+tail -30 getmail.out.log 
+#1335876473
+cat getmail.crontab.log 
+#1335876478
+tail -30 getmail.out.log 
+#1335876481
+cat getmail.crontab.log 
+#1335876483
+tail -30 getmail.out.log 
+#1335876484
+cat getmail.crontab.log 
+#1335876493
+g getmail
+#1335876531
+cat getmail.crontab.log 
+#1335876537
+tail -30 getmail.out.log 
+#1335876552
+cat getmail.crontab.log 
+#1335876689
+tail -30 getmail.out.log 
+#1335876779
+cat getmail.crontab.log 
+#1335876794
+g getmail
+#1335876808
+cat getmail.crontab.log 
+#1335876853
+tail -30 getmail.out.log 
+#1335876945
+gits.
+#1335876947
+mc
+#1335876948
+gits.
+#1335876949
+bochs 
+#1335876957
+gitlo.
+#1335876962
+cd ../g
+#1335876970
+,y
+#1335876972
+cd,y
+#1335876978
+touch *
+#1335876983
+cp ../f/bochsrc .
+#1335876986
+bochs 
+#1335876997
+g 
+#1335877106
+p www.code.google.com
+#1335877153
+cat getmail.crontab.log 
+#1335877160
+tail -30 getmail.out.log 
+#1335877170
+cat getmail.crontab.log 
+#1335877203
+ll include/
+#1335877087
+svn commit -m "NERDTreeSortOrder" _vimrc 
+#1335877393
+tail -30 getmail.out.log 
+#1335877401
+cat getmail.crontab.log 
+#1335877230
+vi Makefile
+#1335877503
+jj
+#1335877507
+ll boot/
+#1335877508
+fg
+#1335877583
+wh make
+#1335877585
+wh ma
+#1335877587
+vbs
+#1335877612
+.s
+#1335877646
+tail -30 getmail.out.log 
+#1335877649
+cat getmail.crontab.log 
+#1335877655
+g getmail
+#1335877666
+cat getmail.crontab.log 
+#1335877680
+tail -30 getmail.out.log 
+#1335877686
+cat getmail.crontab.log 
+#1335877688
+tail -30 getmail.out.log 
+#1335877857
+cat getmail.crontab.log 
+#1335877875
+tail -30 getmail.out.log 
+#1335877886
+pg getmail
+#1335878031
+ndisasm 
+#1335878034
+m ndisasm 
+#1335878121
+mc
+#1335878194
+ma
+#1335878218
+mc
+#1335878218
+ma
+#1335878274
+mc
+#1335878293
+ma realclean
+#1335878296
+vbs
+#1335878329
+.s
+#1335878332
+.s
+#1335878336
+mcr
+#1335878338
+ma
+#1335878368
+wh mai
+#1335878371
+vbs
+#1335878398
+.s
+#1335878401
+maim
+#1335878438
+gits.
+#1335878449
+bochs 
+#1335878709
+vi Makefile
+#1335878721
+ma disasm
+#1335878729
+g kernel.bin.asm 
+#1335878827
+gits.
+#1335878832
+mc
+#1335878834
+gits.
+#1335878837
+mcr
+#1335878839
+gits.
+#1335878847
+git add Makefile bochsrc  boot/
+#1335878848
+gits.
+#1335878854
+git commit -m  '使能编译通过并能运行'
+#1335879311
+cd ../h
+#1335869574
+vi Makefile 
+#1335879315
+cd ../h
+#1335879318
+vi Makefile
+#1335879333
+vi Makefile.1 
+#1335879339
+diff Makefile*
+#1335880802
+cp ../e/bochsrc .
+#1335880805
+touch *
+#1335880810
+bochs 
+#1335880875
+vi Makefile
+#1335880908
+ma
+#1335880940
+mc
+#1335880942
+mcr
+#1335880944
+.s
+#1335880944
+mcr
+#1335880946
+ma
+#1335880952
+maim
+#1335880888
+vi Makefile
+#1335880957
+bochs 
+#1335880969
+mcr
+#1335880972
+maim
+#1335881083
+cat getmail.crontab.log 
+#1335881111
+tail -30 getmail.out.log 
+#1335881122
+cat getmail.crontab.log 
+#1335881194
+tail -30 getmail.out.log 
+#1335881197
+cat getmail.crontab.log 
+#1335881201
+tail -30 getmail.out.log 
+#1335881208
+cat getmail.crontab.log 
+#1335881209
+tail -30 getmail.out.log 
+#1335881213
+cat getmail.crontab.log 
+#1335878244
+vi Makefile 
+#1335881529
+cd ../i
+#1335881532
+cd ../i
+#1335881537
+cp ../h/bochsrc .
+#1335881538
+vi Makefile
+#1335881563
+mcr
+#1335881565
+.s
+#1335881566
+mcr
+#1335881575
+bochs 
+#1335881609
+cd i
+#1335881611
+bochs 
+#1335881639
+lr
+#1335881653
+maim
+#1335881669
+mcr
+#1335881672
+maim
+#1335881675
+bochs 
+#1335881969
+tail -30 getmail.out.log 
+#1335881972
+cat getmail.crontab.log 
+#1335881975
+ii
+#1335882005
+t
+#1335883887
+tail -30 getmail.out.log 
+#1335883889
+cat getmail.crontab.log 
+#1335883917
+g getmail
+#1335883958
+tail -30 getmail.out.log 
+#1335883962
+cat getmail.crontab.log 
+#1335883967
+g getmail
+#1335883978
+tail -30 getmail.out.log 
+#1335883986
+cat getmail.crontab.log 
+#1335884005
+g getmail
+#1335886212
+tail -30 getmail.out.log 
+#1335886214
+cat getmail.crontab.log 
+#1335886220
+tail -30 getmail.out.log 
+#1335886222
+cat getmail.crontab.log 
+#1335886234
+tail -30 getmail.out.log 
+#1335886328
+touch *
+#1335886332
+ctagsc.sh 
+#1335886754
+cat getmail.crontab.log 
+#1335886762
+tail -30 getmail.out.log 
+#1335886785
+g getmail
+#1335886812
+cat getmail.crontab.log 
+#1335886817
+tail -30 getmail.out.log 
+#1335886828
+g getmail.out.log 
+#1335886837
+g getmail
+#1335886857
+tail -30 getmail.out.log 
+#1335886860
+cat getmail.crontab.log 
+#1335914957
+tail -30 getmail.out.log 
+#1335914966
+cat getmail.crontab.log 
+#1335914976
+cat getmail.crontab.log | grep abort
+#1335914999
+cat getmail.crontab.log 
+#1335915923
+cat getmail.crontab.log | grep abort
+#1335915926
+tail -30 getmail.out.log 
+#1335915951
+cat getmail.crontab.log | grep abort
+#1335915953
+tail -30 getmail.out.log 
+#1335915971
+cat getmail.crontab.log 
+#1335916003
+cat getmail.crontab.log | grep abort
+#1335916019
+cat getmail.crontab.log 
+#1335916021
+tail -30 getmail.out.log 
+#1335916271
+cat getmail.crontab.log 
+#1335916276
+tail -30 getmail.out.log 
+#1335916286
+reboot
+#1335837205
+screen 
+#1335844105
+screen 
+#1335881547
+vi Makefile
+#1335868224
+su
+#1335844143
+su
+#1335878419
+su
+#1335956091
+cd .Mail
+#1335956103
+pg getmail
+#1335956111
+cd ../.getmail
+#1335956113
+pg getmail
+#1335956117
+tail -30 getmail.out.log 
+#1335956141
+g getmail.out.log 
+#1335956171
+cat getmail.crontab.log 
+#1335956179
+cat getmail.crontab.log  | grep abort
+#1335956217
+cat getmail.crontab.log  | grep abort | wc
+#1335956222
+cat getmail.crontab.log  | grep terminal | wc
+#1335956226
+cat getmail.crontab.log  | grep terminal 
+#1335956232
+cat getmail.crontab.log  | grep abort 
+#1335956235
+cat getmail.crontab.log 
+#1335956380
+p www.code.google.com
+#1335956387
+iwconfig 
+#1335956393
+p www.code.google.com
+#1335956398
+p www.opengl.org
+#1335956401
+p www.code.google.com
+#1335956427
+cat getmail.crontab.log 
+#1335956528
+tail -30 getmail.out.log 
+#1335956533
+cat getmail.crontab.log 
+#1335956537
+tail -30 getmail.out.log 
+#1335956583
+cat getmail.crontab.log 
+#1335956585
+tail -30 getmail.out.log 
+#1335956590
+p www.code.google.com
+#1335956600
+p www..google.com
+#1335956607
+p www.google.com
+#1335956616
+p gmail.google.com
+#1335956620
+tail -30 getmail.out.log 
+#1335956631
+cat getmail.crontab.log 
+#1335958252
+tail -30 getmail.out.log 
+#1335958255
+cat getmail.crontab.log 
+#1335958265
+tail -30 getmail.out.log 
+#1335958279
+cat getmail.crontab.log 
+#1335958285
+tail -30 getmail.out.log 
+#1335958442
+ss
+#1335958468
+netstat -ant
+#1335958474
+netstat -at
+#1335958569
+tail -30 getmail.out.log 
+#1335958578
+cat getmail.crontab.log 
+#1335958585
+tail -30 getmail.out.log 
+#1335958589
+pg getmail
+#1335958598
+kill -9 3216
+#1335958600
+tail -30 getmail.out.log 
+#1335958606
+netstat -at
+#1335958646
+chkconfig --list | grep sm
+#1335958654
+chkconfig --list | grep ma
+#1335958661
+tail -30 getmail.out.log 
+#1335958662
+chkconfig --list | grep ma
+#1335958665
+cat getmail.crontab.log 
+#1335958713
+ff&
+#1335958858
+tail -30 getmail.out.log 
+#1335958861
+cat getmail.crontab.log 
+#1335958867
+tail -30 getmail.out.log 
+#1335958869
+cat getmail.crontab.log 
+#1335958880
+gvlc
+#1335958887
+g getmail.out.log 
+#1335958929
+tail -30 getmail.out.log 
+#1335958932
+g getmail
+#1335958987
+cat getmail.crontab.log 
+#1335959064
+tail -30 getmail.out.log 
+#1335959114
+pg getmail
+#1335959118
+kill -9 4113
+#1335959120
+cat getmail.crontab.log 
+#1335959122
+tail -30 getmail.out.log 
+#1335959127
+g getmail.out.log 
+#1335959144
+./getmail &
+#1335959147
+cat getmail.crontab.log 
+#1335959152
+tail -30 getmail.out.log 
+#1335959156
+cat getmail.crontab.log 
+#1335959160
+tail -30 getmail.out.log 
+#1335959191
+g getmail
+#1335959198
+cat getmail.crontab.log 
+#1335959202
+tail -30 getmail.out.log 
+#1335959260
+cat getmail.crontab.log 
+#1335959303
+tail -30 getmail.out.log 
+#1335959378
+cdrt
+#1335959381
+cd linux/computor/OS/orange\'s/book/src/chapter5/
+#1335959389
+cd
+#1335959396
+....
+#1335959399
+ll book/
+#1335959401
+ll book/notes/
+#1335959406
+rm NASM\:org指令深入理解.pdf 
+#1335959411
+cll
+#1335959836
+cat getmail.crontab.log 
+#1335959932
+tail -30 getmail.out.log 
+#1335959954
+cat getmail.crontab.log 
+#1335959987
+tail -30 getmail.out.log 
+#1335959993
+cat getmail.crontab.log 
+#1335960016
+tail -30 getmail.out.log 
+#1335960023
+cat getmail.crontab.log 
+#1335960030
+cd i
+#1335960031
+,y
+#1335960037
+cd,y
+#1335960045
+bochs 
+#1335960622
+tail -30 getmail.out.log 
+#1335960634
+cat getmail.crontab.log 
+#1335960644
+tail -30 getmail.out.log 
+#1335960654
+cat getmail.crontab.log 
+#1335961384
+ctagsc.sh 
+#1335961385
+g
+#1335961410
+tail -30 getmail.out.log 
+#1335961414
+cat getmail.crontab.log 
+#1335961421
+tail -30 getmail.out.log 
+#1335961431
+cat getmail.crontab.log 
+#1335961434
+p gmail.google.com
+#1335961436
+tail -30 getmail.out.log 
+#1335961439
+g getmail.out.log 
+#1335961456
+tail -30 getmail.out.log 
+#1335961460
+pg getmail
+#1335961467
+tail -30 getmail.out.log 
+#1335961496
+g getmail.out.log 
+#1335961521
+tail -30 getmail.out.log 
+#1335961530
+p mail.thunder.com.cn
+#1335961533
+tail -30 getmail.out.log 
+#1335961535
+g getmail.out.log 
+#1335961559
+tail -30 getmail.out.log 
+#1335961561
+cat getmail.crontab.log 
+#1335961567
+p mail.thunder.com.cn
+#1335961577
+cat getmail.crontab.log 
+#1335961579
+tail -30 getmail.out.log 
+#1335962387
+t
+#1335962389
+tail -30 getmail.out.log 
+#1335962394
+g getmail.out.log 
+#1335962414
+cat getmail.crontab.log 
+#1335962460
+tail -30 getmail.out.log 
+#1335962475
+g getmail.out.log 
+#1335962497
+tail -30 getmail.out.log 
+#1335962518
+g getmail.out.log 
+#1335962537
+tail -30 getmail.out.log 
+#1335962544
+cat getmail.crontab.log 
+#1335962557
+tail -30 getmail.out.log 
+#1335962665
+cat getmail.crontab.log 
+#1335962673
+tail -30 getmail.out.log 
+#1335962878
+cat getmail.crontab.log 
+#1335962883
+tail -30 getmail.out.log 
+#1335962889
+ss
+#1335962893
+netstat -at
+#1335963036
+ss
+#1335963039
+netstat -at
+#1335963350
+tail -30 getmail.out.log 
+#1335963353
+cat getmail.crontab.log 
+#1335963358
+tail -30 getmail.out.log 
+#1335963369
+fif lidt
+#1335963405
+g kernel/start.c 
+#1335963427
+fif idt_ptr
+#1335963431
+wh fich
+#1335963440
+vbs
+#1335963552
+.s
+#1335963557
+fich lidt
+#1335963563
+wh fich
+#1335963593
+vbs
+#1335963612
+.s
+#1335963614
+fich lidt
+#1335963621
+fichw lidt
+#1335963632
+fichw idt_ptr
+#1335963645
+cscopecpp.sh 
+#1335963670
+mc
+#1335963672
+mcr
+#1335963681
+find_svn-vss_files.sh -d
+#1335963698
+find . | grep svn
+#1335963712
+ma
+#1335963716
+find_svn-vss_files.sh -d
+#1335963725
+mcr
+#1335963728
+find_svn-vss_files.sh -d
+#1335963748
+gits.
+#1335963758
+gitlo.
+#1335963767
+gitd
+#1335963770
+gitd.
+#1335963782
+gits.
+#1335963789
+git add Makefile boot/ boot/
+#1335963793
+git add Makefile boot/ boot/ bochsrc 
+#1335963794
+gits.
+#1335963797
+git commit -m  '使能编译通过并能运行'
+#1335963799
+gits.
+#1335963803
+mcr
+#1335963804
+maim
+#1335963807
+bochs 
+#1335963928
+mai
+#1335963931
+maim
+#1335964000
+ maim
+#1335964097
+cat getmail.crontab.log 
+#1335964100
+tail -30 getmail.out.log 
+#1335964106
+cat getmail.crontab.log 
+#1335964139
+cd
+#1335964141
+cd-
+#1335964142
+....
+#1335964150
+cd minix/note/asm/
+#1335964157
+g 03IntelAssembleInstructionSet.
+#1335964239
+maim
+#1335964260
+mcr
+#1335964262
+ma
+#1335964263
+maim
+#1335964330
+ctagsc.sh 
+#1335964914
+fich exception_handler
+#1335965056
+fich spurious_irq
+#1335965384
+tail -30 getmail.out.log 
+#1335965397
+cat getmail.crontab.log 
+#1335965404
+tail -30 getmail.out.log 
+#1335965422
+gits.
+#1335965424
+mcr
+#1335965425
+gits.
+#1335965428
+gitd.
+#1335965469
+ll boot/
+#1335965479
+xxd boot/boot.bin 
+#1335965616
+bcc2h 24
+#1335966149
+fichw struct
+#1335966245
+fichw INT_M_CTLMASK
+#1335966252
+fich INT_M_CTLMASK
+#1335966276
+fich PRIVILEGE_TASK
+#1335966282
+fich PRIVILEGE_USER
+#1335966365
+fich PRIVATE
+#1335966405
+fich INT_M_CTL
+#1335966425
+fichw INT_M_CTL
+#1335966609
+fichw disp_pos
+#1335966746
+fichw gdt_ptr
+#1335967067
+fichw gdt
+#1335967079
+fichw idt_ptr
+#1335967128
+fichw idt
+#1335967161
+fichw INDEX_VIDEO
+#1335967166
+fichw INDEX_FLAT_RW
+#1335967172
+fichw INDEX_FLAT_C
+#1335967178
+fichw SELECTOR_FLAT_C
+#1335967184
+fichw SELECTOR_FLAT_RW
+#1335967196
+fichw SELECTOR_VIDEO
+#1335967209
+cat getmail.crontab.log 
+#1335967219
+tail -30 getmail.out.log 
+#1335967222
+cat getmail.crontab.log 
+#1335967230
+tail -30 getmail.out.log 
+#1335967246
+cat getmail.crontab.log 
+#1335967252
+tail -30 getmail.out.log 
+#1335967281
+cat getmail.crontab.log 
+#1335967295
+tail -30 getmail.out.log 
+#1335967302
+fichw SELECTOR_KERNEL_CS
+#1335967378
+cdb
+#1335967382
+vi cscopec.sh 
+#1335967519
+fichw SELECTOR_KERNEL_DS
+#1335967543
+g cscope*
+#1335967619
+ ll
+#1335967621
+cscopec.sh 
+#1335967767
+fichw exception_handler
+#1335967785
+gits.
+#1335967787
+mcr
+#1335967788
+gits.
+#1335967790
+gitd.
+#1335967808
+gits
+#1335967809
+gits.
+#1335967812
+git add .
+#1335967813
+gits.
+#1335967822
+git reset a.img 
+#1335967826
+gits.
+#1335967838
+git commit -m  '加些注释'
+#1335967841
+gits
+#1335967843
+gits.
+#1335967844
+gits
+#1335967849
+gits.
+#1335967851
+gits
+#1335967853
+gits.
+#1335968112
+tail -30 getmail.out.log 
+#1335968113
+t 
+#1335968333
+t
+#1335968646
+cat getmail.crontab.log 
+#1335968648
+tail -30 getmail.out.log 
+#1335968659
+g getmail.out.log 
+#1335968682
+cat getmail.crontab.log 
+#1335968687
+tail -30 getmail.out.log 
+#1335968689
+cat getmail.crontab.log 
+#1335969417
+tail -30 getmail.out.log 
+#1335969421
+cat getmail.crontab.log 
+#1335969425
+tail -30 getmail.out.log 
+#1335969428
+cat getmail.crontab.log 
+#1335969429
+tail -30 getmail.out.log 
+#1335969441
+cdvcrt
+#1335969445
+cdvcrc
+#1335969442
+gits.
+#1335969446
+gits.
+#1335969448
+cdvcl
+#1335969454
+gits.
+#1335969462
+gitd
+#1335969502
+gits.
+#1335969507
+git add linux/computor/bookmark/
+#1335969515
+git commit -m  'ld; getmail'
+#1335969517
+gits.
+#1335969518
+gitdl
+#1335969529
+gits.
+#1335969532
+git add linux/computor/
+#1335969533
+gits.
+#1335969542
+git reset linux/computor/tools/browser/google-chrome/notes.txt 
+#1335969543
+gits.
+#1335969549
+git commit -m  'ld'
+#1335969553
+git pull origin master
+#1335969564
+gitd.
+#1335969584
+gits.
+#1335969593
+git add rt/home/scr/.bashrc 
+#1335969594
+gits.
+#1335969600
+git commit -m  'git; make'
+#1335969609
+gits.
+#1335969626
+g linux/computor/tools/devel/cmd/cmd.txt 
+#1335969659
+gits.
+#1335969669
+git add linux/computor/tools/devel/cmd/
+#1335969670
+gits.
+#1335969682
+git commit -m  'merge'
+#1335969684
+gits.
+#1335969687
+gitlo.
+#1335969692
+gits.
+#1335969700
+gits.
+#1335969697
+git pull origin master
+#1335969710
+git add rt/home/scr/.getmail/
+#1335969711
+gits.
+#1335969722
+git add rt/home/scr/.procmailrc 
+#1335969723
+gits.
+#1335969735
+git commit -m  'getmail; procmailrc'
+#1335969737
+gits.
+#1335969741
+git pull origin master
+#1335969744
+git push origin master
+#1335969763
+n
+#1335969754
+git pull origin master
+#1335969766
+gits.
+#1335969759
+git push origin master
+#1335969855
+cd chapter6/
+#1335969859
+cd a
+#1335969869
+cp ../../chapter5/e/bochsrc .
+#1335969873
+bochs 
+#1335971793
+cat getmail.crontab.log 
+#1335971802
+tail -30 getmail.out.log 
+#1335971810
+cat getmail.crontab.log 
+#1335971824
+tail -30 getmail.out.log 
+#1335999648
+cat getmail.crontab.log 
+#1335999667
+cat getmail.crontab.log  | less
+#1335999724
+tail -30 getmail.out.log 
+#1336000551
+cat getmail.crontab.log  | less
+#1336000556
+tail -30 getmail.out.log 
+#1336000561
+cat getmail.crontab.log 
+#1336000568
+tail -30 getmail.out.log 
+#1336000575
+cat getmail.crontab.log 
+#1336000579
+tail -30 getmail.out.log 
+#1336000584
+cat getmail.crontab.log 
+#1336000674
+tail -30 getmail.out.log 
+#1336000943
+cat getmail.crontab.log 
+#1336000945
+tail -30 getmail.out.log 
+#1336000947
+cat getmail.crontab.log 
+#1336000954
+tail -30 getmail.out.log 
+#1336000959
+p mail.thunder.com.cn
+#1336002336
+cd .Mail
+#1336002351
+tail -30 getmail.out.log 
+#1336002357
+cat getmail.crontab.log 
+#1336002378
+tail -30 getmail.out.log 
+#1336002393
+rn
+#1336002396
+p mail.thunder.com.cn
+#1336002400
+p www.google.com
+#1336002415
+p www.35free.net
+#1336002417
+p www.google.com
+#1336002421
+tail -30 getmail.out.log 
+#1336002437
+netstat -at
+#1336002444
+tail -30 getmail.out.log 
+#1336002446
+netstat -at
+#1336002448
+cat getmail.crontab.log 
+#1336002644
+netstat -at
+#1336002647
+tail -30 getmail.out.log 
+#1336002655
+netstat -at
+#1336002658
+tail -30 getmail.out.log 
+#1336002661
+netstat -at
+#1336002666
+tail -30 getmail.out.log 
+#1336002866
+netstat -at
+#1336002868
+cat getmail.crontab.log 
+#1336002869
+tail -30 getmail.out.log 
+#1336043484
+cat getmail.crontab.log 
+#1336043498
+cat getmail.crontab.log | less
+#1336043573
+g getmail.out.log 
+#1336044547
+tail -30 getmail.out.log 
+#1336046580
+cat getmail.crontab.log | less
+#1336046585
+cat getmail.crontab.log 
+#1336046594
+cat -n getmail.crontab.log 
+#1336046605
+cat -n getmail.out.log 
+#1336046616
+cat -n getmail.out.log | wc
+#1336046622
+tail -30 getmail.out.log 
+#1336046627
+cat -n getmail.out.log 
+#1336046633
+cat -n getmail.crontab.log 
+#1336046644
+tail -30 getmail.out.log 
+#1336046647
+cat -n getmail.crontab.log 
+#1336046745
+t
+#1336046738
+git pull origin master
+#1336046819
+cd
+#1336046831
+lla 未命名文件夹/
+#1336046837
+rmdir 未命名文件夹/
+#1336046841
+ll doc
+#1336046847
+cd .Mail
+#1336046851
+cat procmail.class.sh 
+#1336049150
+cd ../.getmail
+#1336049152
+tail -30 getmail.out.log 
+#1336049159
+cd ../.getmail
+#1336049167
+cat -n getmail.crontab.log 
+#1336049482
+cd inbox/nuoerlz_gmail/
+#1336049484
+ds *
+#1336049571
+t
+#1336049574
+ii
+#1336049741
+cd ../.Mail
+#1336049750
+cd
+#1336049755
+cd .getmail
+#1336049768
+ll inbox/
+#1336049770
+ll inbox/nuoerlz_gmail/
+#1336049773
+ll inbox/nuoerlz_gmail/list_av
+#1336049776
+ll inbox/nuoerlz_gmail/list_av/
+#1336049233
+mutt
+#1336049793
+ex .
+#1336049857
+rm foto\ *
+#1336049861
+fg
+#1336050144
+kill 24854
+#1336050150
+kill -9 24854
+#1336050153
+fg
+#1336046677
+mutt
+#1336048802
+mutt
+#1336051639
+kill -9 24752
+#1336052835
+gits.
+#1336052841
+gitlo.
+#1336052855
+ctagsc.sh 
+#1336052856
+g
+#1336053219
+fichi p_ldt_sel
+#1336046800
+mutt
+#1336086013
+tail -30 getmail.out.log 
+#1336086025
+cat -n getmail.crontab.log 
+#1336090948
+tail -30 getmail.out.log 
+#1336090960
+cat -n getmail.crontab.log 
+#1336090968
+g getmail.out.log 
+#1336092836
+bch2c 8000
+#1336092843
+bce 32768/1024
+#1336096305
+fichw proc_table
+#1336096335
+fichw task_stack
+#1336096409
+tail -30 getmail.out.log 
+#1336096411
+cat -n getmail.crontab.log 
+#1336096415
+tail -30 getmail.out.log 
+#1336096421
+cat -n getmail.crontab.log 
+#1336096425
+crontab -e
+#1336096438
+tail -30 getmail.out.log 
+#1336096538
+fichw p_proc_ready
+#1336096775
+fichw TSS3_S_SP0
+#1336097445
+fichw P_STACKTOP
+#1336098995
+bochs 
+#1336099108
+fich TestA
+#1336099128
+ma
+#1336099153
+,y
+#1336099155
+cd,y
+#1336099156
+s
+#1336099158
+su
+#1336099169
+ma
+#1336099176
+vi Makefile 
+#1336099216
+mcr
+#1336099217
+ma
+#1336099221
+maim
+#1336099225
+bochs 
+#1336099233
+gits.
+#1336099239
+mcr
+#1336099240
+gits.
+#1336099245
+gitdl
+#1336099249
+gitd.
+#1336099256
+gits.
+#1336099263
+git add Makefile  bochsrc  boot/ include/
+#1336099265
+gits.
+#1336099267
+git commit -m  '使能编译通过并能运行'
+#1336099286
+mcr
+#1336099288
+ma
+#1336099340
+mai
+#1336099343
+maim
+#1336099352
+mcr
+#1336099354
+mai
+#1336099355
+maim
+#1336099410
+fg
+#1336099422
+mcr
+#1336099422
+mai
+#1336099424
+maim
+#1336099436
+fg
+#1336099450
+mcr
+#1336099451
+maim
+#1336099459
+fg
+#1336099468
+vi /etc/fstab 
+#1336099474
+vi /etc/filesystems 
+#1336099482
+mount -l
+#1336099492
+fdisk -l
+#1336099498
+fdisk -L
+#1336099506
+m fdisk
+#1336099520
+fg
+#1336099524
+gits.
+#1336099526
+mcr
+#1336099528
+maim
+#1336099935
+,y
+#1336099937
+cd,y
+#1336099945
+cd ../b
+#1336099946
+,y
+#1336099949
+cd,y
+#1336099954
+cp ../a/bochsrc 
+#1336099958
+cp ../a/bochsrc .
+#1336099960
+bochs 
+#1336100172
+ma
+#1336100189
+vi Makefile 
+#1336100235
+ma
+#1336100238
+ma stage1
+#1336100256
+chown -R scr:scr *
+#1336100262
+lll
+#1336100281
+ma
+#1336100284
+ma stage1
+#1336100288
+mcr
+#1336100289
+maim
+#1336100294
+bochs 
+#1336100318
+ma stage2
+#1336100330
+ma stage3
+#1336100333
+ bzip2 t.tar
+#1336100336
+bochs 
+#1336100344
+gits.
+#1336100346
+mcr
+#1336100347
+gits.
+#1336100356
+git add Makefile bochsrc boot/
+#1336100357
+gits.
+#1336100368
+git commit -m  '使能编译通过并能运行'
+#1336100609
+crontab -e
+#1336100614
+cat -n getmail.crontab.log 
+#1336100637
+tail -30 getmail.out.log 
+#1336102124
+tail -30 getmail.out.log 
+#1336102131
+cat -n getmail.crontab.log 
+#1336102157
+tail -30 getmail.out.log 
+#1336102160
+cat -n getmail.crontab.log 
+#1336102172
+cat -n getmail.crontab.log | grep abrt
+#1336102179
+cat -n getmail.crontab.log | grep abort
+#1336102186
+cat -n getmail.crontab.log | grep terminal
+#1336102203
+cat -n getmail.crontab.log | grep abort
+#1336102207
+cat -n getmail.crontab.log 
+#1336102317
+ma
+#1336102320
+ma final
+#1336102326
+bochs 
+#1336130969
+tail -30 getmail.out.log 
+#1336131007
+tail -30 getmail.out.log 
+#1335959385
+screen 
+#1335956093
+screen 
+#1336100184
+su
+#1336099185
+vi Makefile
+#1335960042
+ su
+#1336046663
+mutt
+#1336048485
+mutt
+#1335968140
+p www.google.com
+#1336050487
+fg
+#1336050154
+mutt
+#1336134529
+cd .Mail
+#1336134542
+ff&
+#1336137716
+cdvrf 
+#1336137718
+cdvcrt
+#1336137721
+cd win/
+#1336137723
+cd tools/
+#1336137726
+cd nmake/
+#1336137730
+ll SecureCRT/
+#1336137732
+ex .
+#1336137785
+clear
+#1336137946
+cd fedora/
+#1336137949
+cd install-Fedora-from-harddisk/
+#1336137965
+g 1从硬盘安装fedora.txt 
+#1336138021
+ex .
+#1336138032
+ll install-Fedora-from-harddisk/
+#1336138054
+tar czvf install-Fedora-from-harddisk.tar.zip install-Fedora-from-harddisk/*
+#1336138057
+ex .
+#1336138073
+cd install-Fedora-from-harddisk
+#1336138076
+vi 1从硬盘安装fedora.txt 
+#1336138110
+fg
+#1336146667
+su
+#1336146685
+mkdir c
+#1336146696
+mount -o loop centOS5.0.iso  c
+#1336146703
+ll c
+#1336146715
+cp -rp c/images/ .
+#1336146725
+lla
+#1336146727
+ds images/
+#1336146740
+cd CentOS5.0/
+#1336146743
+umount c
+#1336146748
+cd fedora/
+#1336146755
+ll F14
+#1336146764
+cd F14
+#1336146775
+mkdir f
+#1336146829
+mount Fedora-14-i386-DVD.iso f -o loop
+#1336146832
+ll f
+#1336146844
+cp f/images/ . -rf
+#1336146869
+umount F14/f
+#1336147740
+p www.google.com
+#1336217852
+cd .Mail
+#1336217859
+cd ../.getmail
+#1336217866
+tail -30 getmail.out.log 
+#1336217876
+pg getmail
+#1336217881
+cat -n getmail.crontab.log 
+#1336217897
+cdrt
+#1336217904
+cd linux/computor/OS/orange\'s/book/src/chapter5/
+#1336217908
+cd chapter6
+#1336217917
+vmware&
+#1336218542
+ff&
+#1336218544
+pg getmail
+#1336218553
+tail -30 getmail.out.log 
+#1336218557
+cat -n getmail.crontab.log 
+#1336218568
+tail -30 getmail.out.log 
+#1336219735
+cat -n getmail.crontab.log 
+#1336219751
+tail -30 getmail.out.log 
+#1336222114
+cat -n getmail.crontab.log 
+#1336227765
+ss
+#1336227774
+netstat -at
+#1336267225
+pg getmail
+#1336267231
+cd ../.getmail
+#1336267234
+tail -30 getmail.out.log 
+#1336267242
+cat -n getmail.crontab.log 
+#1336267258
+tail -30 getmail.out.log 
+#1336268859
+cat -n getmail.crontab.log 
+#1336268863
+cat getmail
+#1336268867
+less getmail
+#1336268896
+vi getmail
+#1336269605
+bch2c 8000
+#1336269612
+bce 32768/1024
+#1336269981
+cd d
+#1336269984
+cscopec.sh 
+#1336269987
+ctagsc.sh 
+#1336269988
+g
+#1336270012
+cscopec.sh 
+#1336270013
+g
+#1336270030
+rm cscope.* G*
+#1336270031
+g
+#1336270644
+fichw INDEX_LDT_FIRST
+#1336273515
+tail -30 getmail.out.log 
+#1336273517
+cat getmail
+#1336273519
+cat -n getmail.crontab.log 
+#1336273522
+tail -30 getmail.out.log 
+#1336303450
+cat -n getmail.crontab.log 
+#1336303467
+tail -30 getmail.out.log 
+#1336305480
+cat -n getmail.crontab.log 
+#1336305785
+ss
+#1336310828
+cat /etc/wpa_supplicant/wpa_supplicant.conf 
+#1336310831
+su
+#1336311086
+tail -30 getmail.out.log 
+#1336311087
+cat /etc/wpa_supplicant/wpa_supplicant.conf 
+#1336311090
+cat -n getmail.crontab.log 
+#1336311093
+tail -30 getmail.out.log 
+#1336311130
+gnome
+#1336311138
+s gnome
+#1336311149
+ss
+#1336311311
+ll /
+#1336311944
+cat -n getmail.crontab.log 
+#1336311946
+tail -30 getmail.out.log 
+#1336393666
+cat -n getmail.crontab.log 
+#1336393681
+tail -30 getmail.out.log 
+#1336393958
+cat -n getmail.crontab.log 
+#1336393961
+tail -30 getmail.out.log 
+#1336393965
+cat -n getmail.crontab.log 
+#1336393966
+tail -30 getmail.out.log 
+#1336393978
+pg getmail
+#1336394615
+tail -30 getmail.out.log 
+#1336394617
+cat -n getmail.crontab.log 
+#1336394627
+tail -30 getmail.out.log 
+#1336394629
+cat -n getmail.crontab.log 
+#1336394630
+tail -30 getmail.out.log 
+#1336395121
+tll
+#1336395126
+,y
+#1336395128
+gits.
+#1336395136
+gitlo.
+#1336395173
+,y
+#1336395189
+cp ../a/bochsrc .
+#1336395190
+bochs 
+#1336395269
+cd ../c
+#1336395272
+cd c
+#1336395278
+cp ../a/bochsrc .
+#1336395280
+bochs 
+#1336395299
+gits.
+#1336395308
+git add c d
+#1336395309
+gits.
+#1336395312
+git commit -m  '使能编译通过并能运行'
+#1336395319
+cd ../e
+#1336395324
+cp ../a/bochsrc .
+#1336395325
+bochs 
+#1336395359
+su
+#1336395366
+ma
+#1336395372
+,y
+#1336395373
+cd,y
+#1336395374
+g
+#1336395398
+ma
+#1336395404
+vi Makefile 
+#1336395422
+ma
+#1336395423
+mc
+#1336395424
+ma
+#1336395426
+fg
+#1336395427
+mc
+#1336395428
+mcr
+#1336395429
+maim
+#1336395435
+bochs 
+#1336395465
+gits.
+#1336395466
+mcrm
+#1336395467
+mcr
+#1336395468
+gits.
+#1336395474
+git add Makefile  bochsrc boot/
+#1336395477
+git commit -m  '使能编译通过并能运行'
+#1336395479
+gitlo.
+#1336395504
+cat -n getmail.crontab.log 
+#1336395517
+\t
+#1336395519
+tail -30 getmail.out.log 
+#1336395531
+cd f
+#1336395537
+cp ../a/bochsrc .
+#1336395539
+bochs 
+#1336395551
+jj
+#1336395556
+,y
+#1336395558
+cd,y
+#1336395565
+vi Makefile 
+#1336395583
+mcr
+#1336395583
+ma
+#1336395597
+mcr
+#1336395598
+maim
+#1336395602
+bochs 
+#1336395609
+gits.
+#1336395615
+git add Makefile bochsrc boot/
+#1336395616
+gits.
+#1336395629
+mcr
+#1336395630
+gits.
+#1336395633
+mcr
+#1336395634
+mc
+#1336395635
+gits.
+#1336395646
+git add Makefile 
+#1336395647
+gits.
+#1336395661
+git reset HEAD boot/loader.bin
+#1336395673
+gits.
+#1336395680
+git reset HEAD boot/boot.bin
+#1336395681
+gits.
+#1336395684
+git commit -m  '使能编译通过并能运行'
+#1336396999
+cat -n getmail.crontab.log 
+#1336397018
+tail -30 getmail.out.log 
+#1336397673
+fichw restart
+#1336398461
+cd ../g
+#1336398465
+cd ../g
+#1336398470
+cp ../a/bochsrc .
+#1336398471
+vi Makefile 
+#1336398494
+t
+#1336398503
+fg
+#1336398519
+bochs 
+#1336398540
+mcr
+#1336398542
+maim
+#1336398580
+mcr
+#1336398581
+maim
+#1336398829
+mcr
+#1336398830
+maim
+#1336398902
+lla
+#1336398903
+llx
+#1336398905
+llr
+#1336398933
+ii
+#1336399016
+gits.
+#1336399021
+mcr
+#1336399022
+gits.
+#1336399027
+git add Makefile  bochsrc boot/
+#1336399028
+gits.
+#1336399031
+git commit -m  '使能编译通过并能运行'
+#1336399037
+maim
+#1336399039
+bochs 
+#1336399067
+llx
+#1336399102
+lla
+#1336399294
+;;
+#1336399296
+lls
+#1336399296
+llx
+#1336399297
+lla
+#1336399298
+llr
+#1336399302
+lr
+#1336399343
+jj
+#1336399499
+,y
+#1336399501
+cd g
+#1336399503
+maim
+#1336399506
+bochs 
+#1336399637
+maim
+#1336399639
+bochs 
+#1336399657
+maim
+#1336399660
+bochs 
+#1336399698
+bochs 
+#1336399779
+maim
+#1336399781
+bochs 
+#1336399808
+maim
+#1336399818
+bochs 
+#1336399824
+maim
+#1336399826
+mcr
+#1336399827
+maim
+#1336399828
+bochs 
+#1336399866
+maim
+#1336399867
+bochs 
+#1336399934
+maim
+#1336399935
+bochs 
+#1336400141
+fichw clock_handler
+#1336400619
+cal
+#1336400706
+maim
+#1336400707
+bochs 
+#1336401880
+ll ..
+#1336401890
+cd ../j
+#1336401900
+cp ../a/bochsrc .
+#1336401903
+bochs 
+#1336401917
+vi Makefile 
+#1336401940
+mcr
+#1336401941
+maim
+#1336401952
+vi boot/loader.asm 
+#1336401967
+maim
+#1336401970
+mcr
+#1336401971
+maim
+#1336401972
+bochs 
+#1336401983
+mcr
+#1336401984
+gits.
+#1336401991
+git add Makefile  bochsrc boot/
+#1336401992
+gits.
+#1336401994
+git commit -m  '使能编译通过并能运行'
+#1336402002
+fg
+#1336402107
+maim
+#1336402109
+mcr
+#1336402110
+maim
+#1336402111
+bochs 
+#1336402125
+fg
+#1336402128
+maim
+#1336402130
+bochs 
+#1336402155
+fg
+#1336402163
+ctagsc.sh 
+#1336402164
+fg
+#1336402174
+maim
+#1336402175
+bochs 
+#1336402213
+mcr
+#1336402214
+maim
+#1336402215
+bochs 
+#1336402227
+mcr
+#1336402227
+maim
+#1336402229
+bochs 
+#1336402240
+,y
+#1336402242
+cd,y
+#1336402245
+gits.
+#1336402246
+mc
+#1336402247
+mca
+#1336402248
+mcr
+#1336402249
+gits.
+#1336402251
+maim
+#1336402256
+bochs 
+#1336402293
+fg
+#1336402331
+maim
+#1336402335
+bochs 
+#1336402361
+fg
+#1336402367
+maim
+#1336402369
+mcr
+#1336402369
+maim
+#1336402371
+bochs 
+#1336402417
+fg
+#1336402584
+maim
+#1336402585
+mcr
+#1336402586
+maim
+#1336402588
+bochs 
+#1336402689
+mcr
+#1336402690
+maim
+#1336402691
+bochs 
+#1336402699
+maim
+#1336402700
+mcr
+#1336402701
+maim
+#1336402703
+bochs 
+#1336402972
+gits.
+#1336402975
+mcr
+#1336402975
+gits.
+#1336402978
+gid.
+#1336402979
+gitd.
+#1336402995
+git add lib/   kernel/
+#1336402996
+gits.
+#1336403042
+git commit -m  '验证该版本可以对中断重入进行正确处理'
+#1336403457
+cd ../i
+#1336403458
+ctagsc.sh 
+#1336403469
+fichw RETADR
+#1336403527
+fichw P_STACKBASE
+#1336480713
+p www.google.com
+#1336480717
+p 211.64.120.2
+#1336480722
+p www.google.com
+#1336480740
+cat /etc/resolv.conf
+#1336480742
+p www.google.com
+#1336480746
+p www.35free.net
+#1336480756
+p 8.8.8.8
+#1336480769
+vi /etc/resolv.conf
+#1336480783
+p www.35free.net
+#1336480789
+p www.google.com
+#1336480806
+p douban.fm
+#1336480942
+pg fire
+#1336480947
+kill -9 4053
+#1336480953
+fg
+#1336480760
+su
+#1336480956
+ff &
+#1336481277
+tail -30 getmail.out.log 
+#1336481282
+cat /etc/resolv.conf
+#1336481285
+cat -n getmail.crontab.log 
+#1336481317
+tail -30 getmail.out.log 
+#1336481318
+cat -n getmail.crontab.log 
+#1336481321
+tail -30 getmail.out.log 
+#1336481326
+cat -n getmail.crontab.log 
+#1336481585
+gits.
+#1336481589
+gitlo.
+#1336481592
+ma
+#1336481595
+maim
+#1336481599
+bochs 
+#1336482374
+g
+#1336482612
+cd...
+#1336482613
+.....
+#1336482615
+....
+#1336482624
+cd minix/note/asm/
+#1336482630
+g 03IntelAssembleInstructionSet.
+#1336482677
+mai
+#1336482679
+maim
+#1336482702
+bochs 
+#1336482736
+maim
+#1336482737
+bochs 
+#1336482842
+bch2c ffff
+#1336482855
+bce 65536/1024
+#1336482904
+bce 0xb8000-0xa0000
+#1336482911
+bch2c b8000
+#1336482924
+bch2c a0000
+#1336482936
+bce 753664-655360
+#1336482961
+bch2c c0000
+#1336482970
+bce 786432-753664
+#1336482980
+bce 32768/1024
+#1336483022
+maim
+#1336483030
+bochs 
+#1336483037
+mcr
+#1336483038
+maim
+#1336483039
+bochs 
+#1336483056
+maim
+#1336483057
+bochs 
+#1336483133
+bch2c c0000
+#1336483138
+bch2c b8000
+#1336483145
+bce 786432-753664
+#1336483148
+bce 32768/1024
+#1336483194
+bce 32*1024
+#1336483200
+bcc2h 32768
+#1336483407
+maim
+#1336483408
+mcr
+#1336483409
+maim
+#1336483411
+bochs 
+#1336483428
+maim
+#1336483429
+bochs 
+#1336483466
+fichw disp_pos
+#1336483735
+maim
+#1336483760
+bochs 
+#1336483852
+maim
+#1336483853
+bochs 
+#1336483865
+mcr
+#1336483866
+maim
+#1336483867
+bochs 
+#1336483876
+maim
+#1336483878
+bochs 
+#1336483948
+maim
+#1336483950
+bochs 
+#1336483965
+maim
+#1336483966
+bochs 
+#1336483971
+mcr
+#1336483972
+maim
+#1336483974
+bochs 
+#1336484016
+maim
+#1336484018
+bochs 
+#1336484036
+maim
+#1336484038
+bochs 
+#1336484104
+maim
+#1336484106
+bochs 
+#1336484119
+mcr
+#1336484120
+maim
+#1336484121
+bochs 
+#1336484128
+maim
+#1336484130
+bochs 
+#1336484163
+maim
+#1336484165
+bochs 
+#1336484195
+bochs *
+#1336484199
+bochs &
+#1336484204
+fg 2
+#1336484226
+maim
+#1336484230
+bochs &
+#1336484233
+bochs 
+#1336484246
+maim
+#1336484248
+bochs 
+#1336484254
+maim
+#1336484255
+mcr
+#1336484256
+maim
+#1336484257
+bochs 
+#1336484349
+maim
+#1336484351
+bochs 
+#1336484384
+maim
+#1336484385
+bochs 
+#1336484453
+maim
+#1336484461
+bochs 
+#1336484566
+maim
+#1336484567
+bochs 
+#1336484597
+maim
+#1336484599
+bochs 
+#1336484721
+maim
+#1336484723
+bochs 
+#1336484728
+maim
+#1336484730
+bochs 
+#1336484820
+maim
+#1336484822
+bochs 
+#1336484957
+maim
+#1336484958
+mcr
+#1336484960
+maim
+#1336484961
+bochs 
+#1336484988
+maim
+#1336484990
+bochs 
+#1336485066
+maim
+#1336485068
+bo2A
+#1336485070
+bochs 
+#1336485150
+maim
+#1336485152
+bochs 
+#1336485158
+maim
+#1336485159
+bochs 
+#1336485164
+mcr
+#1336485166
+maim
+#1336485167
+bochs 
+#1336485172
+mc
+#1336485173
+mcr
+#1336485174
+maim
+#1336485175
+bochs 
+#1336485194
+maim
+#1336485195
+bochs 
+#1336485221
+mcra
+#1336485222
+mcr
+#1336485223
+gits.
+#1336485229
+git add boot/ lib/
+#1336485230
+gits.
+#1336485242
+git commit -m  
+#1336485243
+git commit 
+#1336485279
+gitlo.
+#1336485287
+maim
+#1336485310
+tail -30 getmail.out.log 
+#1336485311
+cat -n getmail.crontab.log 
+#1336485319
+tail -30 getmail.out.log 
+#1336485325
+cat -n getmail.crontab.log 
+#1336485289
+bochs 
+#1336486641
+gits.
+#1336486643
+mc
+#1336486644
+gits.
+#1336486646
+mcr
+#1336486647
+git.
+#1336486652
+gits.
+#1336486656
+cd ../k
+#1336486662
+cp ../j/bochsrc .
+#1336486664
+ll ..
+#1336487204
+tail -30 getmail.out.log 
+#1336487207
+cat -n getmail.crontab.log 
+#1336486669
+bochs 
+#1336487296
+jj
+#1336487303
+g
+#1336487356
+vi Makefile 
+#1336487368
+maim
+#1336487384
+bochs 
+#1336487410
+mcr
+#1336487412
+gits
+#1336487416
+gits.
+#1336487424
+git add Makefile  boot/ boot/ lib/
+#1336487426
+gits.
+#1336487429
+git add bochsrc 
+#1336487431
+gits.
+#1336487438
+git commit -m  '使能编译通过并能运行'
+#1336487447
+maim
+#1336487510
+cd k
+#1336487515
+fich clock_h
+#1336487532
+ctagsc.sh 
+#1336487449
+bochs 
+#1336488203
+gits.
+#1336488206
+mcr
+#1336488207
+gits.
+#1336488211
+gitd
+#1336488221
+gitd.
+#1336489144
+tail -30 getmail.out.log 
+#1336489146
+cat -n getmail.crontab.log 
+#1336490278
+tail -30 getmail.out.log 
+#1336564131
+p 211.64.120.2
+#1336564136
+p 8.8.8.8
+#1336564244
+cdif
+#1336564271
+p 202.106.46.151
+#1336564249
+vi ifcfg-eth1 
+#1336564285
+service network restart
+#1336564292
+rn
+#1336564297
+cat /etc/resolv.conf
+#1336564302
+p 192.168.1.1
+#1336564322
+p www.google.com
+#1336564329
+p www.code.google.com
+#1336564352
+p www.hao123.com
+#1336564358
+fg
+#1336564363
+cd-
+#1336564229
+su
+#1336564368
+cat -n getmail.crontab.log 
+#1336564371
+tail -30 getmail.out.log 
+#1336564389
+cat -n getmail.crontab.log 
+#1336564419
+tail -30 getmail.out.log 
+#1336564439
+less getmail.out.log 
+#1336565170
+tail -30 getmail.out.log 
+#1336565174
+cat -n getmail.crontab.log 
+#1336565176
+tail -30 getmail.out.log 
+#1336565179
+cat -n getmail.crontab.log 
+#1336569507
+bce 11931/256
+#1336569789
+tail -30 getmail.out.log 
+#1336569800
+cat -n getmail.crontab.log 
+#1336569806
+tail -30 getmail.out.log 
+#1336569810
+cat -n getmail.crontab.log 
+#1336569817
+tail -30 getmail.out.log 
+#1336569829
+less getmail.out.log 
+#1336569873
+vi getmail
+#1336570093
+tail -30 getmail.out.log 
+#1336570100
+less getmail.out.log 
+#1336570142
+cat -n getmail.crontab.log 
+#1336570145
+tail -30 getmail.out.log 
+#1336571169
+cat -n getmail.crontab.log 
+#1336571174
+tail -30 getmail.out.log 
+#1336571177
+cat -n getmail.crontab.log 
+#1336571178
+tail -30 getmail.out.log 
+#1336571183
+cat -n getmail.crontab.log 
+#1336571193
+cd n
+#1336571202
+cp ../a/bochsrc .
+#1336571204
+bochs 
+#1336574136
+cd ../p
+#1336574143
+cp ../a/bochsrc .
+#1336574144
+bochs 
+#1336574368
+vi Makefile 
+#1336574609
+mcr
+#1336574610
+ma
+#1336574624
+vi Makefile 
+#1336574640
+maim
+#1336574644
+bochs 
+#1336574657
+gits.
+#1336574662
+mcr
+#1336574663
+gits.
+#1336574669
+git add Makefile  bochsrc boot/
+#1336574670
+gits.
+#1336574673
+git commit -m  '使能编译通过并能运行'
+#1336574695
+ma
+#1336574697
+maim
+#1336574699
+bochs 
+#1336574704
+maim
+#1336574706
+bochs 
+#1336574796
+maim
+#1336574797
+bochs 
+#1336574923
+maim
+#1336574925
+bochs 
+#1336574951
+maim
+#1336574952
+bochs 
+#1336574980
+ll ..
+#1336575061
+maim
+#1336575062
+bochs 
+#1336575078
+maim
+#1336575081
+bochs 
+#1336575112
+gitd.
+#1336575129
+git add .
+#1336575177
+git commit -m  '使优先级越高的进程先运行'
+#1336575182
+gits.
+#1336575191
+gitls.
+#1336575206
+mcr
+#1336575207
+gits.
+#1336575210
+git add .
+#1336575216
+git commit -m  'rm'
+#1336575220
+gits.
+#1336575223
+git rm .
+#1336575224
+gits.
+#1336575233
+git add boot/
+#1336575234
+gits.
+#1336575250
+git rm boot/boot.bin boot/loader.bin kernel.bin
+#1336575252
+gits.
+#1336575254
+git commit -m  'rm'
+#1336575255
+gits.
+#1336575258
+gitlo.
+#1336649377
+tail -30 getmail.out.log 
+#1336649381
+cat -n getmail.crontab.log 
+#1336649386
+tail -30 getmail.out.log 
+#1336649399
+cat -n getmail.crontab.log 
+#1336649404
+pg getmail
+#1336649411
+tail -30 getmail.out.log 
+#1336649427
+pg getmail
+#1336649430
+vi getmail
+#1336649457
+cat -n getmail.crontab.log 
+#1336649462
+tail -30 getmail.out.log 
+#1336649465
+pg getmail
+#1336649468
+cat -n getmail.crontab.log 
+#1336649472
+pg getmail
+#1336649880
+cat -n getmail.crontab.log 
+#1336649883
+tail -30 getmail.out.log 
+#1336649887
+cat -n getmail.crontab.log 
+#1336651593
+tail -30 getmail.out.log 
+#1336651597
+cat -n getmail.crontab.log 
+#1336651614
+tail -30 getmail.out.log 
+#1336651623
+less getmail.out.log 
+#1336651634
+tail -30 getmail.out.log 
+#1336651653
+fg
+#1336395561
+su
+#1336651668
+...
+#1336651676
+fichw in_byte
+#1336651749
+g -t in_byte
+#1336653496
+cd chapter7
+#1336653498
+cd a
+#1336653506
+cp ../../chapter6/a/bochsrc .
+#1336653507
+bochs 
+#1336653518
+,y
+#1336653519
+cd,y
+#1336653525
+cd b
+#1336653530
+cp ../a/bochsrc .
+#1336653534
+bochs 
+#1336653682
+,y
+#1336653685
+cd,y
+#1336653688
+cd c
+#1336653694
+cp ../a/bochsrc .
+#1336653696
+bochs 
+#1336653784
+vi Makefile 
+#1336653804
+mcr
+#1336653805
+maim
+#1336653823
+ctagsc.sh 
+#1336653828
+g
+#1336653838
+,y
+#1336653842
+cd,y
+#1336653845
+g
+#1336653877
+ma
+#1336653878
+ma
+#1336653880
+maim
+#1336653885
+bo
+#1336653886
+bochs 
+#1336653901
+mcrc
+#1336653902
+mcr
+#1336653909
+gits.
+#1336653916
+cat -n getmail.crontab.log 
+#1336653920
+tail -30 getmail.out.log 
+#1336653924
+less getmail.out.log 
+#1336653957
+tail -30 getmail.out.log 
+#1336654015
+p 8.8.8.8
+#1336654019
+p www.35free.net
+#1336654027
+p www.opengl.org
+#1336654034
+p 211.64.120.2
+#1336654038
+jj
+#1336654042
+cat /etc/resolv.conf
+#1336654050
+p www.hao123.com
+#1336654055
+p www.opengl.org
+#1336654069
+rn
+#1336654083
+r
+#1336654085
+rn
+#1336654094
+t
+#1336654114
+ii
+#1336654132
+git add Makefile bochsrc  boot/
+#1336654136
+git commit -m  '使能编译通过并能运行'
+#1336654216
+bch2c 80
+#1336654776
+ma
+#1336654778
+maim
+#1336654783
+ma
+#1336654786
+ma help
+#1336654790
+vi Makefile 
+#1336654806
+wh am
+#1336654809
+wh ma
+#1336654812
+ma all
+#1336654814
+maim
+#1336654820
+ma
+#1336654822
+maim
+#1336654841
+llr 
+#1336654847
+llr | grep key
+#1336654889
+maim
+#1336654914
+ma
+#1336654915
+maim
+#1336654928
+vi Makefile 
+#1336654951
+fg
+#1336654963
+fif keymap
+#1336654965
+fif keymap.h
+#1336655001
+fichw keymap
+#1336655032
+fg
+#1336655050
+ma
+#1336655051
+maim
+#1336655127
+aim
+#1336655128
+maim
+#1336655144
+fichw keymap
+#1336655189
+gits.
+#1336655190
+mcr
+#1336655192
+gits.
+#1336655197
+git checkout .
+#1336655198
+gits.
+#1336655201
+maim
+#1336655677
+gitlo.
+#1336655681
+maim
+#1336655685
+bochs 
+#1336655946
+cd d
+#1336655949
+ctagsc.sh 
+#1336656170
+gitlo.
+#1336656171
+gits.
+#1336656177
+bochs 
+#1336656184
+cp ../a/bochsrc .
+#1336656186
+bochs 
+#1336656700
+cd ../e
+#1336656702
+ll ..
+#1336656704
+ctagsc.sh 
+#1336657291
+bochs 
+#1336657300
+cp ../a/bochsrc .
+#1336657302
+bochs 
+#1336657326
+vi Makefile 
+#1336657341
+mcr
+#1336657352
+maim
+#1336657355
+bochs 
+#1336657394
+maim
+#1336657396
+bochs 
+#1336657406
+maim
+#1336657407
+bochs 
+#1336657423
+maim
+#1336657424
+bochs 
+#1336657461
+maim
+#1336657468
+fg
+#1336657470
+vi Makefile 
+#1336657476
+maim
+#1336657499
+fg
+#1336657501
+maim
+#1336657609
+bochs 
+#1336658681
+cd ../f
+#1336658683
+bochs 
+#1336658691
+cp ../a/bochsrc .
+#1336658692
+bochs 
+#1336659322
+tty
+#1336659434
+tail -30 getmail.out.log 
+#1336659438
+cat /etc/resolv.conf
+#1336659440
+cat -n getmail.crontab.log 
+#1336659449
+tail -30 getmail.out.log 
+#1336659453
+less getmail.out.log 
+#1336659503
+vi getmail
+#1336659530
+vi getmailrc.nuoerlz.gmail 
+#1336659537
+gits.
+#1336659552
+cat -n getmail.crontab.log 
+#1336660063
+tail -30 getmail.out.log 
+#1336660066
+cat -n getmail.crontab.log 
+#1336660074
+tail -30 getmail.out.log 
+#1336660102
+vi getmail
+#1336660109
+tail -30 getmail.out.log 
+#1336660111
+cat -n getmail.crontab.log 
+#1336660114
+tail -30 getmail.out.log 
+#1336660118
+cat -n getmail.crontab.log 
+#1336660383
+bochs 
+#1336660564
+cd ../h
+#1336660572
+cp ../a/bochsrc .
+#1336660573
+bochs 
+#1336661664
+tail -30 getmail.out.log 
+#1336661676
+cat -n getmail.crontab.log 
+#1336661700
+p www.opengl.org
+#1336661716
+p 211.64.120.2
+#1336661722
+cat -n getmail.crontab.log 
+#1336661723
+tail -30 getmail.out.log 
+#1336661735
+less getmail.out.log 
+#1336662902
+tail -30 getmail.out.log 
+#1336662908
+cat -n getmail.crontab.log 
+#1336662910
+tail -30 getmail.out.log 
+#1336662920
+cat -n getmail.crontab.log 
+#1336662924
+tail -30 getmail.out.log 
+#1336735525
+cat -n getmail.crontab.log 
+#1336735536
+tail -30 getmail.out.log 
+#1336735541
+cat -n getmail.crontab.log 
+#1336735542
+cat -n getmail.crontab.log c
+#1336735545
+cat -n getmail.crontab.log 
+#1336735580
+tail -30 getmail.out.log 
+#1336735587
+cat getmail
+#1336735599
+tail -30 getmail.out.log 
+#1336735855
+cat getmail
+#1336735859
+cat -n getmail.crontab.log 
+#1336735957
+p 211.64.120.2
+#1336735969
+p www.opengl.org
+#1336736004
+vi getmail
+#1336736013
+cd /etc/
+#1336736015
+vi resolv.conf
+#1336736025
+p 8.8.8.8
+#1336736028
+fg
+#1336736032
+service network restart
+#1336736040
+cat /etc/resolv.conf
+#1336736048
+cdif
+#1336736053
+vi ifcfg-eth1
+#1336736064
+service network restart
+#1336736071
+p www.opengl.org
+#1336736076
+p www.hao123.com
+#1336739692
+tail -30 getmail.out.log 
+#1336736010
+su
+#1336739701
+tail -30 getmail.out.log 
+#1336739723
+cat -n getmail.crontab.log 
+#1336739769
+tail -30 getmail.out.log 
+#1336739779
+cat -n getmail.crontab.log 
+#1336739783
+tail -30 getmail.out.log 
+#1336739804
+cat -n getmail.crontab.log 
+#1336739815
+tail -30 getmail.out.log 
+#1336739818
+less getmail.out.log 
+#1336739858
+tail -30 getmail.out.log 
+#1336739897
+vi getmail
+#1336739901
+cat -n getmail.crontab.log 
+#1336739904
+tail -30 getmail.out.log 
+#1336739907
+cat -n getmail.crontab.log 
+#1336739962
+less getmail.gmail.log 
+#1336739972
+tail -30 getmail.out.log 
+#1336739979
+cat -n getmail.crontab.log 
+#1336739982
+tail -30 getmail.out.log 
+#1336739985
+cat -n getmail.crontab.log 
+#1336739987
+pg getmail
+#1336740016
+t
+#1336740032
+tail -30 getmail.out.log 
+#1336740049
+cat -n getmail.crontab.log 
+#1336740062
+tail -30 getmail.out.log 
+#1336740423
+cat -n getmail.crontab.log 
+#1336740427
+tail -30 getmail.out.log 
+#1336740447
+cat -n getmail.crontab.log 
+#1336740530
+tail -30 getmail.out.log 
+#1336742702
+cat -n getmail.crontab.log 
+#1336742712
+tail -30 getmail.out.log 
+#1336743996
+cat -n getmail.crontab.log 
+#1336743999
+tail -30 getmail.out.log 
+#1336747375
+cal
+#1336747383
+cat -n getmail.crontab.log 
+#1336747385
+tail -30 getmail.out.log 
+#1336747392
+cat -n getmail.crontab.log 
+#1336747396
+tail -30 getmail.out.log 
+#1336747415
+cat -n getmail.crontab.log 
+#1336747789
+tail -30 getmail.out.log 
+#1336747799
+cat -n getmail.crontab.log 
+#1336747801
+tail -30 getmail.out.log 
+#1336747821
+cat -n getmail.crontab.log 
+#1336748133
+tail -30 getmail.out.log 
+#1336748141
+cat -n getmail.crontab.log 
+#1336748619
+s adventures
+#1336749272
+tail -30 getmail.out.log 
+#1336749279
+cat -n getmail.crontab.log 
+#1336749281
+tail -30 getmail.out.log 
+#1336749324
+fl
+#1336749326
+su
+#1336749337
+wh fl
+#1336749338
+fl
+#1336749382
+cat -n getmail.crontab.log 
+#1336749387
+tail -30 getmail.out.log 
+#1336750397
+cat -n getmail.crontab.log 
+#1336750404
+tail -30 getmail.out.log 
+#1336750415
+cat -n getmail.crontab.log 
+#1336657328
+su
+#1336750472
+fg
+#1336574363
+su
+#1336487350
+su
+#1336399815
+su
+#1336217911
+screen 
+#1336225415
+mutt
+#1336217856
+screen 
+#1336750504
+ii
+#1336750509
+halt
+#1336785914
+cd .getmail
+#1336785923
+tail -30 getmail.out.log 
+#1336785934
+cat -n getmail.crontab.log 
+#1336786617
+tail -30 getmail.out.log 
+#1336786623
+cat -n getmail.crontab.log 
+#1336786626
+tail -30 getmail.out.log 
+#1336786943
+vmware&
+#1336786963
+cat -n getmail.crontab.log 
+#1336786965
+tail -30 getmail.out.log 
+#1336787263
+cat -n getmail.crontab.log 
+#1336787278
+tail -30 getmail.out.log 
+#1336785919
+mutt
+#1336787361
+uname -a
+#1336787369
+cat /proc/version 
+#1336787551
+cat -n getmail.crontab.log 
+#1336787553
+tail -30 getmail.out.log 
+#1336788074
+cat -n getmail.crontab.log 
+#1336788076
+tail -30 getmail.out.log 
+#1336788085
+cat -n getmail.crontab.log 
+#1336788107
+tail -30 getmail.out.log 
+#1336789038
+cdrt
+#1336789057
+cd linux/computor/OS/orange\'s/book/src/chapter7/
+#1336789069
+cd i
+#1336789082
+kk
+#1336789083
+su
+#1336789093
+cp ../a/bochsrc .
+#1336789096
+bochs 
+#1336790860
+cd j
+#1336790862
+cp ../a/bochsrc .
+#1336790863
+bochs 
+#1336790945
+ctagsc.sh 
+#1336790945
+g
+#1336791486
+cdk
+#1336791488
+cd k
+#1336791490
+ctagsc.sh 
+#1336791771
+cat -n getmail.crontab.log 
+#1336791776
+tail -30 getmail.out.log 
+#1336791779
+cat -n getmail.crontab.log 
+#1336791789
+tail -30 getmail.out.log 
+#1336791792
+cat -n getmail.crontab.log 
+#1336791013
+bochs 
+#1336791848
+cp ../a/bochsrc .
+#1336791994
+cd k
+#1336792003
+fichw v_mem_limit
+#1336791850
+bochs 
+#1336792404
+cd ../l
+#1336792406
+ctagsc.sh 
+#1336792757
+cp ../a/bochsrc .
+#1336792759
+bochs 
+#1336793238
+find . -type f -name ".c" -o -name ".h" -o -name ".inc" -o -name ".asm"
+#1336793271
+find . -type f -name ".c" -o -name ".h" 
+#1336793275
+find . -type f 
+#1336793278
+find . -type f -name ".c" 
+#1336793288
+wh fich
+#1336793320
+find . -type f -name "*.c" -o -name "*.h" -o -name "*.inc" -o -name "*.asm"
+#1336793327
+find . -type f -name "*.c" -o -name "*.h" -o -name "*.inc" -o -name "*.asm" | xargs wc
+#1336793360
+cd chapter11
+#1336793362
+ll c
+#1336793363
+cd c
+#1336793366
+find . -type f -name "*.c" -o -name "*.h" -o -name "*.inc" -o -name "*.asm" | xargs wc
+#1336793389
+find boot/ -type f -name "*.c" -o -name "*.h" -o -name "*.inc" -o -name "*.asm" | xargs wc
+#1336793818
+cd ../m
+#1336793821
+ctagsc.sh 
+#1336794221
+bochs 
+#1336796199
+bch2c 13b
+#1336796223
+cp ../a/bochsrc .
+#1336796224
+bochs 
+#1336796424
+fichw kb_in
+#1336796942
+tail -30 getmail.out.log 
+#1336796944
+cat -n getmail.crontab.log 
+#1336796947
+tail -30 getmail.out.log 
+#1336796952
+cat -n getmail.crontab.log 
+#1336796961
+tail -30 getmail.out.log 
+#1336828355
+ff&
+#1336832745
+cat -n getmail.crontab.log 
+#1336787375
+fg
+#1336833571
+ex .
+#1336833640
+fg
+#1336833663
+rm s
+#1336833666
+ex .
+#1336833705
+fg
+#1336833768
+ex .
+#1336833776
+fg
+#1336833800
+ex .
+#1336834978
+cd
+#1336834986
+rm yum
+#1336834989
+g yum_list.txt 
+#1336835011
+cd
+#1336835020
+yum -y install amule
+#1336835631
+cd
+#1336835636
+cd tmp/wget/
+#1336835651
+wget -r -c -p http://ryushare.com/r933iu4eot5i/sama541.avi
+#1336835675
+ll ryushare.com/r933iu4eot5i/sama541.avi 
+#1336835691
+amule
+#1336835711
+amule&
+#1336836062
+cd 
+#1336836066
+cd tmp/wget/
+#1336836073
+cd ryushare.com/r933iu4eot5i/sama541.avi 
+#1336836076
+l ryushare.com/r933iu4eot5i/sama541.avi 
+#1336836079
+ll ryushare.com/r933iu4eot5i/sama541.avi 
+#1336835678
+fg
+#1336836109
+cd ryushare.com/r933iu4eot5i/
+#1336836113
+ex .
+#1336836122
+ds ryushare.com/
+#1336836554
+jll
+#1336836244
+wget -r -c -p http://ryushare.com/r933iu4eot5i/sama541.avi
+#1336836562
+ds ryushare.com/
+#1336836558
+fg
+#1336838150
+cd
+#1336838155
+cd /home/scr/
+#1336838157
+g yum_list.txt 
+#1336838471
+amule&
+#1336839097
+t
+#1336839099
+amule&
+#1336839836
+ 
+#1336842773
+yum -y install bittorrent
+#1336842861
+bittorrent-curses 
+#1336843137
+yum -y install qbittorrent
+#1336870900
+2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+#1336835014
+su
+#1336871113
+ex .
+#1336873952
+7cjj
+#1336873954
+pg get
+#1336873961
+tail -30 getmail.out.log 
+#1336873963
+cat -n getmail.crontab.log 
+#1336873966
+t
+#1336874578
+pg getmail
+#1336874580
+fg
+#1336874630
+ii
+#1336874848
+t
+#1336874851
+pg fire
+#1336874855
+kill -9 12233
+#1336874858
+pg fire
+#1336874880
+ii
+#1336874886
+ii
+#1336874883
+t
+#1336875052
+tail -30 getmail.out.log 
+#1336875053
+cat -n getmail.crontab.log 
+#1336875092
+tail -30 getmail.out.log 
+#1336876632
+ff&
+#1336879642
+tail -30 getmail.out.log 
+#1336879644
+c
+#1336879645
+cat -n getmail.crontab.log 
+#1336879647
+tail -30 getmail.out.log 
+#1336879648
+cat -n getmail.crontab.log 
+#1336879775
+cd ../n
+#1336879780
+cp ../a/bochsrc  .
+#1336879781
+bochs 
+#1336883114
+ll ..
+#1336883117
+cd ../o
+#1336883121
+cp ../a/bochsrc .
+#1336883124
+bochs 
+#1336886472
+ff7
+#1336886473
+ff&
+#1336892862
+ii
+#1336892864
+date
+#1336894837
+cdrt
+#1336894843
+cd linux/computor/OS/orange\'s/book/src/chapter7/
+#1336894847
+cd chapter8
+#1336894849
+cd a
+#1336894857
+ctagsc.sh 
+#1336894859
+g
+#1336894921
+m ascii
+#1336894932
+.
+#1336895289
+ll _base_/
+#1336895291
+ds a
+#1336895294
+ds _base_/
+#1336895297
+cd a
+#1336895300
+bochs 
+#1336895307
+cp ../../chapter7/a/bochsrc .
+#1336895310
+bochs 
+#1336895764
+fichw assert
+#1336895769
+fichw assert(0
+#1336895773
+fichw 'assert(0'
+#1336895778
+fichw 'assertb\(0'
+#1336895786
+fichw 'assert.*0'
+#1336895806
+vi Makefile 
+#1336895834
+su
+#1336895837
+fg
+#1336895841
+ma
+#1336895842
+maim
+#1336895866
+mcr
+#1336895867
+maim
+#1336895882
+fichw disp_int
+#1336895899
+cd ..
+#1336895901
+cd chapter7/
+#1336895902
+cd a
+#1336895905
+fichw disp_int
+#1336895941
+fg
+#1336895943
+vi Makefile 
+#1336896036
+cp ../../chapter7/a/lib/klib.c ./lib/
+#1336896043
+maim
+#1336896122
+gits.
+#1336896128
+mcr
+#1336896129
+gits.
+#1336896142
+cd _base_/
+#1336896145
+gits.
+#1336896157
+git checkout .
+#1336896159
+gits.
+#1336896163
+rm krnl.map 
+#1336896165
+gits.
+#1336896172
+vi Makefile 
+#1336896204
+,y
+#1336896206
+cd,y
+#1336896207
+g
+#1336896232
+maim
+#1336896307
+bochs 
+#1336896311
+cp ../../chapter7/a/lib/klib.c ./lib/
+#1336896313
+bochs 
+#1336896335
+cp ../../chapter7/a/bochsrc .
+#1336896336
+bochs 
+#1336896343
+mcr
+#1336896344
+maim
+#1336896347
+bochs 
+#1336896378
+maim
+#1336896380
+bochs 
+#1336896454
+maim
+#1336896456
+bochs 
+#1336896527
+maim
+#1336896528
+bochs 
+#1336896619
+gits.
+#1336896621
+mcr
+#1336896625
+mr
+#1336896627
+mcr
+#1336896628
+gits.
+#1336896629
+maim
+#1336896631
+bochs 
+#1336896639
+maim
+#1336896640
+bochs 
+#1336896649
+mcr
+#1336896652
+gits.
+#1336896654
+fg
+#1336896661
+mc
+#1336896662
+mcr
+#1336896664
+maim
+#1336896665
+bochs 
+#1336896674
+mcr
+#1336896679
+rm krnl.map 
+#1336896680
+gits.
+#1336896687
+git add Makefile  bochsrc  boot/ lib/
+#1336896688
+gits.
+#1336896690
+git commit -m  '使能编译通过并能运行'
+#1336896695
+gitlo.
+#1336896699
+qll
+#1336896700
+gits.
+#1336896702
+mc
+#1336896703
+mcim
+#1336896705
+maim
+#1336896707
+bochs 
+#1336896740
+maim
+#1336896744
+bochs 
+#1336896781
+maim
+#1336896782
+bochs 
+#1336897237
+cd 
+#1336897238
+cd .getmail
+#1336897247
+tail -30 getmail.out.log 
+#1336897249
+cat -n getmail.crontab.log 
+#1336897271
+tail -30 getmail.out.log 
+#1336898933
+cat -n getmail.crontab.log 
+#1336898935
+tail -30 getmail.out.log 
+#1336899015
+gits.
+#1336899017
+gits.
+#1336899022
+mcr
+#1336899023
+gits.
+#1336899026
+gitd.
+#1336899032
+lll
+#1336899033
+lr
+#1336899034
+llr
+#1336901656
+init 5
+#1336901740
+init 3
+#1336901747
+st
+#1336901749
+startx
+#1336901763
+init 4
+#1336901780
+t
+#1336901798
+~~
+#1336901813
+init 6
+#1336901658
+su
+#1336895839
+su
+#1336897241
+screen 
+#1336894936
+screen 
+#1336897244
+mutt
+#1336901933
+ss
+#1336903028
+cdrt
+#1336903036
+cd linux/computor/OS/orange\'s/book/src/chapter7/
+#1336903039
+cd ..
+#1336903042
+cd chapter8
+#1336903045
+g
+#1336903047
+cd a
+#1336905790
+ff&
+#1336912860
+s wanna
+#1336912872
+s wierd
+#1336914589
+fichw p_msg
+#1336914745
+fichw sendrec
+#1336914792
+fichw p_msg
+#1336914846
+zz
+#1336914986
+fichw send_recv
+#1336915208
+fichw p_msg
+#1336916734
+vmware&
+#1336919266
+gits.
+#1336919273
+gitd.
+#1336919290
+gits.
+#1336919294
+git add kernel/
+#1336919304
+git commit -m  'assert(la == (u32)va); /* [(P1 A)] */'
+#1336919308
+gits.
+#1336919309
+maim
+#1336919326
+bochs 
+#1336926162
+cd
+#1336926163
+cdx
+#1336926165
+ex .
+#1336921861
+screen 
+#1336950325
+pg getmail
+#1336950328
+cd
+#1336950330
+cd .getmail
+#1336950332
+tail -30 getmail.out.log 
+#1336950336
+cat -n getmail.crontab.log 
+#1336950350
+tail -30 getmail.out.log 
+#1336952197
+cat -n getmail.crontab.log 
+#1336952211
+cd 
+#1336952213
+cd .getmail
+#1336952331
+tail -30 getmail.out.log 
+#1336952332
+cd .getmail
+#1336952334
+cat -n getmail.crontab.log 
+#1336952337
+tail -30 getmail.out.log 
+#1336952930
+cat -n getmail.crontab.log 
+#1336993964
+tail -30 getmail.out.log 
+#1336993966
+cat -n getmail.crontab.log 
+#1336994008
+halt
+#1336952216
+screen 
+#1336903044
+screen 
+#1336952218
+mutt
+#1336919316
+su
+#1336994457
+ff&
+#1336996247
+vmware&
+#1336997598
+dte
+#1336997599
+date
+#1336998488
+s fish
+#1336999411
+cdrt
+#1336999419
+cd linux/computor/OS/orange\'s/book/src/chapter8/
+#1336999531
+cd .getmail
+#1337000390
+tail -30 getmail.out.log 
+#1337000391
+cd .getmail
+#1337000396
+cat -n getmail.crontab.log 
+#1337001341
+tail -30 getmail.out.log 
+#1337001342
+cat -n getmail.crontab.log 
+#1337001344
+tail -30 getmail.out.log 
+#1337002140
+cd a
+#1337002141
+g
+#1337002167
+bittorrent
+#1337002183
+cda
+#1337002184
+cd a
+#1337002187
+ctagsc.sh 
+#1336999421
+screen 
+#1337002218
+cd ../chapter9
+#1337002223
+cd a
+#1337002224
+g
+#1337002228
+cd a
+#1337002230
+ctagsc.sh 
+#1337003275
+xxd  80m.img.gz 
+#1337003301
+ss
+#1337004948
+cat -n getmail.crontab.log 
+#1337004952
+tail -30 getmail.out.log 
+#1337004954
+cat -n getmail.crontab.log 
+#1337009029
+ex .
+#1337037827
+halt
+#1336999528
+screen 
+#1337002220
+screen 
+#1336999532
+mutt
+#1337083527
+cd .getmail
+#1337083546
+tail -30 getmail.out.log 
+#1337083550
+cd .getmail
+#1337083552
+cat -n getmail.crontab.log 
+#1337083629
+ff&
+#1337083639
+cd
+#1337083656
+cdrt
+#1337083661
+cd linux/computor/OS/orange\'s/book/src/chapter8
+#1337083665
+cd-
+#1337083672
+cd linux/computor/OS/orange\'s/book/src/chapter9
+#1337083676
+g
+#1337083679
+cd a
+#1337084081
+ctagsc.sh 
+#1337084271
+vmware&
+#1337087424
+fichw has_int_msg
+#1337088205
+fichw hd_status
+#1337088250
+cd
+#1337088274
+ex /media/
+#1337088495
+cdx
+#1337088643
+less /tmp/df.tmp.log 
+#1337088865
+cdm
+#1337088867
+cd WA/
+#1337088871
+cd rsync/
+#1337088923
+ds real-host/
+#1337088929
+cd F
+#1337088936
+cd Gs
+#1337088938
+cd GS/
+#1337088941
+cd w
+#1337088944
+cd wmware/
+#1337088947
+cat README 
+#1337088959
+ll 000
+#1337091495
+cdx
+#1337091497
+ex .
+#1337092978
+fichi iopl
+#1337092988
+fichi iopl
+#1337093389
+fich hwint_slave
+#1337093487
+vi bochsrc 
+#1337093499
+unzip 80m.img.gz 
+#1337093511
+file 80m.img.gz 
+#1337093517
+gunzip 80m.img.gz 
+#1337093533
+touch *
+#1337093536
+gits.
+#1337093563
+cp ../../chapter8/a/bochsrc b
+#1337093613
+g ll
+#1337093657
+mv bochsrc bochsrc.bk
+#1337093662
+mv b bochsrc
+#1337093665
+gits.
+#1337093667
+bochs 
+#1337093710
+gits.
+#1337093715
+rm bochsrc.bk 
+#1337093716
+gits.
+#1337093719
+git add bochsrc 
+#1337093720
+gits.
+#1337093734
+git commit -m  '使能运行'
+#1337093738
+gits.
+#1337093747
+bochs 
+#1337093801
+cd
+#1337093805
+ma
+#1337093808
+maim
+#1337093909
+vi Makefile 
+#1337093923
+ma
+#1337093925
+maim
+#1337093932
+mcr
+#1337093933
+maim
+#1337093935
+bochs 
+#1337093942
+gits
+#1337093945
+gits.
+#1337093947
+mcr
+#1337093948
+gits.
+#1337093952
+git add Makefile  bo
+#1337093954
+git add Makefile  boot/
+#1337093955
+gits.
+#1337093959
+git commit -m  '使能编译通过并能运行'
+#1337094541
+p www.hao123.com
+#1337094604
+tail -30 getmail.out.log 
+#1337094611
+cat -n getmail.crontab.log 
+#1337094612
+tail -30 getmail.out.log 
+#1337094615
+cat -n getmail.crontab.log 
+#1337094624
+tail -30 getmail.out.log 
+#1337125556
+LL
+#1337125557
+Ll
+#1337126099
+tail -30 getmail.out.log 
+#1337126100
+cat -n getmail.crontab.log 
+#1337126104
+tail -30 getmail.out.log 
+#1337126106
+halt
+#1337083675
+screen 
+#1337083530
+screen 
+#1337093798
+su
+#1337083531
+mutt
+#1337165852
+mv 010812-909\ 透けフェチ巨乳\ Vol.7\ そらのゆめ/ Tokyo\ Hot\ n0742\ 早瀬ありす初絕頂中出し-AVI/ 【429】042712_635-pacopacomama-720P/ tmp/wget/
+#1337165860
+touch *
+#1337165867
+touch -h bin
+#1337165876
+cd .getmail
+#1337165878
+su
+#1337165886
+tail -30 getmail.out.log 
+#1337165889
+cat -n getmail.crontab.log 
+#1337165893
+tail -30 getmail.out.log 
+#1337165967
+cat -n getmail.crontab.log 
+#1337165968
+tail -30 getmail.out.log 
+#1337166028
+cat -n getmail.crontab.log 
+#1337166030
+tail -30 getmail.out.log 
+#1337167192
+cat -n getmail.crontab.log 
+#1337167334
+ff&
+#1337167710
+tail -30 getmail.out.log 
+#1337167712
+cat -n getmail.crontab.log 
+#1337167716
+tail -30 getmail.out.log 
+#1337169090
+vmware&
+#1337170546
+s meta
+#1337170550
+cd
+#1337170552
+cdrt
+#1337170555
+cd linux/computor/OS/orange\'s/book/src/chapter9
+#1337170562
+tail -30 getmail.out.log 
+#1337170563
+cat -n getmail.crontab.log 
+#1337173379
+bce 80*1024
+#1337173385
+bce 80*1024*1024/512
+#1337175511
+su
+#1337175514
+fl
+#1337175518
+lf
+#1337175520
+fl
+#1337175568
+bce 38913*63*255
+#1337175588
+bce 38913*63*256
+#1337175609
+bce 625142448/255/63
+#1337175619
+bce 625142448/255/38913
+#1337175629
+bce 625142448/255/38914
+#1337175634
+bce 625142448/256/38914
+#1337175638
+fl
+#1337176139
+cd a
+#1337176143
+fdisk 80m.img 
+#1337176269
+gits.
+#1337176280
+fdisk 80m.img 
+#1337176328
+bce 63*255*10
+#1337176355
+bce 64*255*10
+#1337176361
+bce 64*256*10
+#1337176544
+bce 255*10*63
+#1337176608
+cdvcrt
+#1337176611
+cdvcrtbo
+#1337176614
+touch *
+#1337176620
+cd OS
+#1337176629
+touch *
+#1337176649
+mkdir hardware
+#1337176652
+cd hardware/
+#1337176654
+mkdir disk
+#1337176655
+cd disk/
+#1337176663
+mkdir hd
+#1337176664
+cd hd/
+#1337176667
+g 
+#1337177077
+ MB, 607552 bytes
+#1337177077
+255 heads, 63 sectors/track, 10 cylinders, total 163296 sectors
+#1337177077
+Units = sectors of 1 * 512 = 512 bytes
+#1337177077
+Sector size (logical/physical): 512 bytes / 512 bytes
+#1337177077
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+#1337177077
+Disk identifier: 0xb1bd605f
+#1337177055
+fdisk 80m.img 
+#1337177351
+bce 163296*512
+#1337177386
+bce 255*63*10
+#1337177192
+mutt
+#1337178174
+tail -30 getmail.out.log 
+#1337178176
+cat -n getmail.crontab.log 
+#1337178178
+tail -30 getmail.out.log 
+#1337178204
+vi ../.procmailrc 
+#1337178530
+mutt
+#1337178581
+tail -30 getmail.out.log 
+#1337178582
+cat -n getmail.crontab.log 
+#1337178583
+tail -30 getmail.out.log 
+#1337212232
+halt
+#1337165882
+screen 
+#1337170558
+screen 
+#1337167723
+mutt
+#1337175515
+su
+#1337253019
+lla
+#1337253027
+cat .ftp_updown_tmp_3232222_tmp_
+#1337253032
+cat .ftp_updown_tmp_3232222_tmp_1.sh 
+#1337253043
+cd .getmail
+#1337253055
+tail -30 getmail.out.log 
+#1337253065
+cd .getmail
+#1337253068
+cat .ftp_updown_tmp_3232222_tmp_1.sh 
+#1337253070
+cat -n getmail.crontab.log 
+#1337253086
+tail -30 getmail.out.log 
+#1337253624
+cat -n getmail.crontab.log 
+#1337253626
+tail -30 getmail.out.log 
+#1337253633
+ff&
+#1337253634
+tail -30 getmail.out.log 
+#1337253637
+cat -n getmail.crontab.log 
+#1337253644
+tail -30 getmail.out.log 
+#1337253692
+pg send
+#1337253824
+vmware&
+#1337253826
+cd ..
+#1337253831
+cd
+#1337253835
+cat .msmtprc
+#1337253965
+pg send
+#1337253994
+service sendmail restart
+#1337253997
+pg send
+#1337253839
+v .msmtprc
+#1337253977
+su
+#1337254127
+fl
+#1337254128
+su
+#1337254133
+fl
+#1337253053
+mutt
+#1337254550
+ex .
+#1337254558
+fg
+#1337254667
+echo -e "\ue6" 
+#1337254680
+echo -e "\259" 
+#1337254686
+echo -e "\u259" 
+#1337254724
+echo -e "\ue6" 
+#1337254736
+echo -e "\ue6"
+#1337254740
+echo -e "\u259"
+#1337255659
+cd .getmail
+#1337255661
+tail -30 getmail.out.log 
+#1337255670
+cat -n getmail.crontab.log 
+#1337255672
+tail -30 getmail.out.log 
+#1337257124
+cat -n getmail.crontab.log 
+#1337257126
+tail -30 getmail.out.log 
+#1337257332
+p www.hao123.com
+#1337260939
+tail -30 getmail.out.log 
+#1337260941
+cat -n getmail.crontab.log 
+#1337260983
+tail -30 getmail.out.log 
+#1337262412
+ex .
+#1337263005
+rm LESSON09/ Lesson44\ With\ Extension/  -rf
+#1337263008
+cat i18n 
+#1337263012
+rm i18n 
+#1337263016
+cat wj.txt 
+#1337263023
+vi wj.txt 
+#1337263054
+rm wj.txt wj2.txt screenlog.2 
+#1337263058
+cat mail_box_dir 
+#1337263064
+rm mail_box_dir 
+#1337263077
+cdvcrt
+#1337263080
+touch *
+#1337263090
+cdvcrtbo
+#1337263093
+cd grath/
+#1337263096
+cd books/
+#1337263102
+cd opengl/
+#1337263105
+touch *
+#1337263112
+mkdir book
+#1337263113
+cd book/
+#1337263115
+mkdir es
+#1337263117
+cd es
+#1337263120
+.s
+#1337263124
+cdrcrc
+#1337263127
+cdvcrt
+#1337263130
+wh mv2,y
+#1337263134
+cdvcrc
+#1337263135
+gits.
+#1337263142
+git pull origin master
+#1337263210
+.s
+#1337263211
+wh mv2,y
+#1337263214
+,y
+#1337263216
+.s
+#1337263217
+.s
+#1337263225
+mv2,y opengles_1_0_manual.pdf 
+#1337263235
+cat e.sh 
+#1337263239
+rm e.sh 
+#1337263242
+cat hardcopy.9 
+#1337263244
+rm hardcopy.9 
+#1337263248
+eject 
+#1337263252
+eject -t
+#1337263261
+ll doc
+#1337263263
+rmdir doc
+#1337263267
+ll bk
+#1337263271
+kk bkt
+#1337263274
+rmdir bkt
+#1337263278
+lla bkt
+#1337263286
+rm -r bkt
+#1337263292
+ll backups/
+#1337263305
+ll photo/
+#1337263321
+ll tmp/
+#1337263325
+cd tmp/
+#1337263327
+touch *
+#1337263332
+touch -- *
+#1337263336
+rm dd
+#1337263343
+chmod +t dslfj 
+#1337263346
+su
+#1337263355
+kk
+#1337263359
+rm dslfj 
+#1337263376
+chmod +t lsd
+#1337263380
+rm lsd
+#1337263407
+cd
+#1337263412
+cd /tmp/
+#1337263422
+mkdir tt
+#1337263423
+cd tt
+#1337263429
+touch f
+#1337263439
+chown -R root:root *
+#1337263430
+su
+#1337263451
+cp f a
+#1337263455
+cp f e
+#1337263457
+cp e d
+#1337263463
+chmod +x a
+#1337263480
+chxx a
+#1337263483
+chmod +s a
+#1337263488
+chmod +t d
+#1337263504
+./a
+#1337263506
+./a
+#1337263508
+./d
+#1337263511
+rm e
+#1337263517
+rm a
+#1337263520
+rm d
+#1337263553
+chmod 400 f
+#1337263560
+chmod +t f
+#1337263543
+su
+#1337263563
+rm f
+#1337263567
+lla
+#1337263788
+ll -i
+#1337263790
+ll -i .
+#1337263794
+ll -i ..
+#1337263800
+ls 
+#1337263839
+m chmod
+#1337264072
+touch f
+#1337264078
+chmod a+x f
+#1337264082
+chxx f
+#1337264088
+chmod u+x f
+#1337264103
+chmod a+t f
+#1337264108
+rm f
+#1337264114
+su
+#1337264123
+touch f
+#1337264128
+chmod a+t f
+#1337264133
+,y
+#1337264134
+,y
+#1337264138
+cd,y
+#1337264140
+rm f
+#1337264143
+lla
+#1337264174
+m chomd
+#1337264178
+m chmod
+#1337264702
+cdvcrt
+#1337264703
+gis.
+#1337264712
+cdv
+#1337264713
+svns
+#1337264704
+gits.
+#1337264722
+svndl
+#1337264742
+svn up
+#1337264755
+gitdl
+#1337264767
+gits.
+#1337264772
+git add linux/computor/bookmark/
+#1337264780
+git commit -m  '生活的创意'
+#1337264782
+gits.
+#1337264794
+cat linux/computor/tools/browser/google-chrome/notes.txt 
+#1337264804
+gitd
+#1337264810
+svnd
+#1337264813
+svns
+#1337264815
+svndl
+#1337264866
+svn commit -m "NERDTreeSortOrder" _vimrc 
+#1337264881
+svns
+#1337264800
+git pull origin master
+#1337267900
+cat -n getmail.crontab.log 
+#1337253109
+mutt
+#1337268046
+halt
+#1337253045
+screen 
+#1337341118
+ff&
+#1337343009
+ex .
+#1337343018
+ex computer:///
+#1337343021
+gvbs
+#1337343033
+exc
+#1337343042
+ex computer://
+#1337343045
+ex computer:/
+#1337343046
+ex computer:
+#1337343050
+ex computer:///
+#1337343062
+.s
+#1337343063
+exc
+#1337343110
+reboot
+#1337400282
+;;
+#1337400285
+exc
+#1337400299
+vmware&
+#1337400317
+cdm
+#1337400320
+cd TOOLS/
+#1337400326
+cd tmp/
+#1337400329
+g abc.txt 
+#1337424618
+reboot
+#1337400312
+screen 
+#1337522429
+cd .getmail
+#1337522437
+tail -30 getmail.out.log 
+#1337522443
+cat -n getmail.crontab.log 
+#1337522462
+tail -30 getmail.out.log 
+#1337522467
+date
+#1337522470
+tail -30 getmail.out.log 
+#1337522474
+ff&
+#1337522476
+exc
+#1337557701
+tail -30 getmail.out.log 
+#1337557710
+cat -n getmail.crontab.log 
+#1337557716
+halt
+#1337522431
+screen 
+#1337608821
+cd .getmail
+#1337608824
+tail -30 getmail.out.log 
+#1337608839
+cat -n getmail.crontab.log 
+#1337609310
+\t
+#1337609311
+cat -n getmail.crontab.log 
+#1337609317
+tail -30 getmail.out.log 
+#1337609333
+mutt
+#1337609342
+mutt
+#1337610325
+bce 125829120*512
+#1337610735
+cat /etc/passwd
+#1337610746
+cat /etc/passwd | grep 102
+#1337610747
+cat /etc/passwd | grep 10
+#1337610750
+cat /etc/passwd | grep 13
+#1337610752
+cat /etc/passwd | grep 103
+#1337610754
+cat /etc/passwd | grep 10
+#1337610796
+less /etc/passwd
+#1337610875
+cdlc
+#1337610877
+touch *
+#1337610881
+mkdir linux
+#1337610882
+cd linux/
+#1337610887
+mkdir passwd
+#1337610888
+cd passwd/
+#1337610891
+g passwd.c
+#1337610896
+vi passwd.c 
+#1337610900
+g passwd.c 
+#1337610927
+gcc passwd.c 
+#1337610935
+gcc passwd.c -g -Wall
+#1337610961
+m getpwuid
+#1337611005
+gcc passwd.c -g -Wall
+#1337611015
+./a.out 
+#1337611056
+gcc passwd.c -g -Wall
+#1337611058
+./a.out 
+#1337611085
+gcc passwd.c -g -Wall
+#1337611087
+./a.out 
+#1337611110
+s
+#1337611115
+gcc passwd.c -g -Wall
+#1337611118
+./a.out 
+#1337611133
+gcc passwd.c -g -Wall
+#1337611135
+./a.out 
+#1337611253
+s abrt
+#1337611294
+,y
+#1337611296
+cd,y
+#1337611298
+...
+#1337611300
+svns
+#1337611308
+rm a.out 
+#1337611313
+svn add linux/
+#1337611386
+cdvcrc
+#1337611387
+gits.
+#1337611374
+svn commit -m "遍历系统上的所有用户, 及其对应的User id和Group id" linux/
+#1337611391
+gitd.
+#1337611394
+gits.
+#1337611396
+gitd
+#1337611405
+gits.
+#1337611410
+git add rt/home/scr/.bash
+#1337611412
+git add rt/home/scr/.bashrc 
+#1337611420
+git commit -m  'exc'
+#1337611425
+cdvcrt
+#1337611426
+gits.
+#1337611422
+git pull origin master
+#1337611534
+ps aux | grep 81
+#1337611539
+ps aux | grep dus
+#1337611589
+cat /etc/passwd | grep rtkit
+#1337611549
+ps aux | less
+#1337611615
+cat -n getmail.crontab.log 
+#1337611663
+gits.
+#1337611666
+rm screenlog.0 
+#1337611668
+gits.
+#1337611672
+git push origin master
+#1337611712
+gvht
+#1337611752
+git pull origin master
+#1337611756
+gits.
+#1337611761
+git add linux/computor/bookmark/
+#1337611762
+gits.
+#1337611765
+git pull origin master
+#1337611797
+gits.
+#1337611803
+git commit -m  'merge'
+#1337611806
+gits.
+#1337611817
+cd linux/computor/grath/opengl/
+#1337611820
+ll book/
+#1337611822
+ll book/es/
+#1337611826
+git add .
+#1337611827
+gits.
+#1337611841
+git commit -m  'opengles_1_0_manual.pdf'
+#1337611842
+gits.
+#1337611849
+ll hardware/
+#1337611851
+ll hardware/disk/
+#1337611852
+ll hardware/disk/hd/
+#1337611864
+less hardware/disk/hd/01硬盘容量的计算方法.txt 
+#1337611868
+gits.
+#1337611876
+git add hardware/
+#1337611893
+git commit -m  '硬盘容量的计算方法.txt'
+#1337611894
+gits.
+#1337611898
+gitd
+#1337611907
+less tools/browser/google-chrome/notes.txt
+#1337611912
+cat tools/browser/google-chrome/notes.txt
+#1337611915
+gits.
+#1337611922
+gits.
+#1337611928
+cdvcl
+#1337611918
+git push origin master
+#1337608834
+mutt
+#1337611944
+cd
+#1337611947
+cd rt
+#1337611948
+cdrt
+#1337611954
+touch -- *
+#1337611959
+cat f.sh 
+#1337611975
+mv vercol ~/.vercol
+#1337612015
+ln -s ~/.vercol/ vercol
+#1337611992
+cd
+#1337611999
+ll .bashrc
+#1337612024
+pwdp
+#1337612037
+wh rt2vcrt 
+#1337612043
+ rt2vcrt 
+#1337612066
+cdvcrt
+#1337612083
+cd .vercol/
+#1337612088
+ll git/
+#1337612090
+cd git/
+#1337612106
+rm rt-notes 
+#1337612118
+mv ~/.rt-notes/ rt-notes
+#1337612120
+gits.
+#1337612127
+cdvcrt
+#1337612130
+cdvcrc
+#1337612132
+pwdp
+#1337612144
+wh cdvcrc
+#1337612150
+ll book-src/
+#1337612155
+ll lang/
+#1337612159
+cdvcl
+#1337612160
+cd
+#1337612164
+cdrt
+#1337612181
+cd-
+#1337609497
+fg
+#1337612313
+ff&
+#1337612314
+fg
+#1337613184
+ex .
+#1337613815
+m printf
+#1337613818
+m 3 printf
+#1337609495
+fg
+#1337612184
+fg
+#1337613199
+fg
+#1337613972
+rm QQ截图20120520014134.jpg 
+#1337613975
+tail -30 getmail.out.log 
+#1337613976
+cat -n getmail.crontab.log 
+#1337613978
+tail -30 getmail.out.log 
+#1337613980
+cat -n getmail.crontab.log 
+#1337614133
+qq
+#1337614143
+cdvcrt
+#1337614145
+gits.
+#1337614151
+git push origin master
+#1337614171
+cdvcrc
+#1337614172
+gits.
+#1337614167
+git pull origin master
+#1337614181
+gits.
+#1337614175
+git push origin master
+#1337614189
+cdv
+#1337614191
+svns
+#1337614193
+svn up
+#1337614199
+gits.
+#1337614188
+git push origin master
+#1337614205
+gits.
+#1337614213
+gits.
+#1337614202
+git push origin master
+#1337614225
+gits.
+#1337614243
+cdl
+#1337614244
+svns
+#1337614275
+svn up
+#1337614217
+git pull origin master
+#1337614311
+svns
+#1337614337
+gits.
+#1337614342
+git pull origin master
+#1337614346
+git push origin master
+#1337614371
+lll
+#1337614378
+cd blog/
+#1337614381
+cd nb
+#1337614383
+cd nuoerlz
+#1337614415
+tar cvjf nuoerlz.tar.bz2 nuoerlz/*
+#1337614422
+ds nuoerlz
+#1337614428
+mutt
+#1337614472
+,y
+#1337614480
+mv nuoerlz.tar.bz2 ~
+#1337617812
+pg fire
+#1337617816
+kill -9 4674
+#1337617818
+pg fire
+#1337644576
+halt
+#1337608832
+screen 
+#1337614481
+fg
+#1337689580
+cd .getmail
+#1337689616
+tar cvjf nuoerlz.tar.bz2 nuoerlz/*
+#1337689620
+rm nuoerlz.tar.bz2 
+#1337689626
+tail -30 getmail.out.log 
+#1337689636
+cat -n getmail.crontab.log 
+#1337689646
+tail -30 getmail.out.log 
+#1337689604
+mutt
+#1337690069
+cat -n getmail.crontab.log 
+#1337690052
+fg
+#1337689585
+mutt
+#1337689599
+mutt
+#1337689611
+mutt
+#1337689582
+screen 
+#1337690154
+reboot
+#1337772556
+cd .getmail
+#1337772561
+tail -30 getmail.out.log 
+#1337772563
+cat -n getmail.crontab.log 
+#1337772565
+tail -30 getmail.out.log 
+#1337772575
+date
+#1337772577
+tail -30 getmail.out.log 
+#1337772588
+cat -n getmail.crontab.log 
+#1337772603
+tail -n 100 getmail.crontab.log 
+#1337772607
+tail -30 getmail.out.log 
+#1337772613
+tail -100 getmail.out.log 
+#1337772621
+mtt
+#1337772656
+tail -30 getmail.out.log 
+#1337772658
+tail -100 getmail.out.log 
+#1337772661
+tail -30 getmail.out.log 
+#1337772668
+tail -n 100 getmail.crontab.log 
+#1337772670
+tail -30 getmail.out.log 
+#1337772672
+tail -n 100 getmail.crontab.log 
+#1337772701
+tail -30 getmail.out.log 
+#1337772781
+ff&
+#1337773357
+tail -30 getmail.out.log 
+#1337773371
+tail -n 100 getmail.crontab.log 
+#1337773885
+tail -30 getmail.out.log 
+#1337773890
+tail -n 100 getmail.crontab.log 
+#1337773898
+tail -30 getmail.out.log 
+#1337773903
+p www.hao123.com
+#1337773914
+tail -30 getmail.out.log 
+#1337773930
+reboot
+#1337772558
+screen 
+#1337772639
+mutt
+#1337772719
+mutt
+#1337772622
+mutt
+#1337786020
+cd .getmail
+#1337786026
+tail -30 getmail.out.log 
+#1337786029
+tail -n 100 getmail.crontab.log 
+#1337814939
+halt
+#1337786021
+screen 
+#1337859653
+cd .getmail
+#1337859660
+ff&
+#1337859667
+tail -n 100 getmail.crontab.log 
+#1337859676
+tail -30 getmail.out.log 
+#1337859738
+cd
+#1337859741
+cd tmp/
+#1337859758
+cd
+#1337859759
+cd tmp/
+#1337859765
+cd wget/
+#1337859783
+ex .
+#1337862826
+tail -n 100 getmail.crontab.log 
+#1337862829
+tail -30 getmail.out.log 
+#1337864251
+cd
+#1337864267
+cdvcl
+#1337864288
+cdvl
+#1337864290
+cdvcl
+#1337864298
+cd blog/nb/nuoerlz
+#1337864271
+git pull origin master
+#1337864302
+ff index.html 
+#1337864368
+locate -i Unicode与UTF-��转
+#1337864372
+locate -i Unicode与UTF
+#1337864379
+g /home/scr/.vercol/git/rt-notes/linux/computor/encoding/13Unicode与UTF-8互转.txt
+#1337862844
+mutt
+#1337862831
+mutt
+#1337859655
+screen 
+#1337866066
+reboot
+#1337928734
+cd .getmail
+#1337928742
+tail -30 getmail.out.log 
+#1337928749
+tail -n 100 getmail.crontab.log 
+#1337945573
+tail -30 getmail.out.log 
+#1337945747
+vmware&
+#1337946332
+ff http://forum.ubuntu.com.cn/download/file.php?id=157490&mode=view/t.png
+#1337946344
+wh ff
+#1337946405
+cd
+#1337946411
+cd tmp/
+#1337946414
+mkdir wget2
+#1337946416
+cd wget2
+#1337946422
+https://raw.github.com/eexpress/eexp-bin/master/flow.pl
+#1337946435
+wget https://raw.github.com/eexpress/eexp-bin/master/flow.pl
+#1337946449
+g flow.pl 
+#1337946462
+chx flow.pl 
+#1337946466
+./flow.pl --help
+#1337946486
+cd
+#1337946488
+g yum_list.txt 
+#1337946591
+g test.c
+#1337946607
+./flow.pl test.c 
+#1337946620
+g test.dot 
+#1337946693
+eog 
+#1337946697
+wh eog
+#1337946701
+m eog
+#1337946706
+eog --help
+#1337946724
+eog
+#1337946763
+yum -y install graphviz
+#1337947455
+./flow.pl test.c 
+#1337947500
+eog test.
+#1337947504
+eog test.svg 
+#1337947516
+eog test.svg &
+#1337947532
+./flow.pl --help
+#1337947593
+rm test.svg 
+#1337947599
+./flow.pl test.c 
+#1337947637
+./flow.pl --help
+#1337947647
+./flow.pl test.c 
+#1337947821
+./flow.pl --help
+#1337948740
+./flow.pl test.c 
+#1337948989
+rm test.dot 
+#1337948995
+rm test.svg 
+#1337948997
+./flow.pl test.c 
+#1337949001
+rm test.svg 
+#1337949002
+rm test.dot 
+#1337949011
+cdb
+#1337946757
+su
+#1337949013
+cdb
+#1337949026
+g README 
+#1337949091
+s flow
+#1337949103
+s flowchart
+#1337949110
+mkdir flowchart
+#1337949114
+mv * flowchart/
+#1337949122
+,y
+#1337949124
+mv2,y 
+#1337949129
+mv2,y flowchart/
+#1337949135
+svns
+#1337949141
+g wpa.sh 
+#1337949145
+rm wpa.sh 
+#1337949148
+svns
+#1337949152
+g getmail_while.sh 
+#1337949160
+rm getmail_while.sh 
+#1337949172
+pwdp
+#1337949196
+svns
+#1337949200
+svnd
+#1337949208
+svns
+#1337949227
+svn commit -m "增加对汇编语言的支持"
+#1337949243
+svns
+#1337949245
+svn add flowchart/
+#1337949278
+svn commit -m "从源代码从自动生成流程图"
+#1337949302
+cd flowchart/
+#1337949308
+g flow.pl 
+#1337949351
+gvlc
+#1337949353
+m eog
+#1337949357
+eog --help
+#1337949386
+6ll
+#1337949391
+./flow.pl test.c 
+#1337949398
+eog test.svg 
+#1337949423
+cd
+#1337949441
+g .mailcap 
+#1337950974
+cdvcrc
+#1337950975
+gits.
+#1337950978
+gitd.
+#1337950983
+gits.
+#1337950988
+git add rt/home/scr/.mailcap
+#1337950989
+gits.
+#1337951019
+git commit -m  '在mutt中调用eog查看图片'
+#1337928760
+mutt
+#1337951025
+git push origin master
+#1337951084
+tail -n 100 getmail.crontab.log 
+#1337949953
+mutt
+#1337951103
+lla
+#1337951114
+r  test.dot test.svg 
+#1337951118
+rm  test.dot test.svg 
+#1337951124
+svns
+#1337951135
+gits.
+#1337951138
+git pull origin master
+#1337951639
+cdvcl
+#1337951645
+cd books/c/game/soduku/
+#1337951649
+ma
+#1337951654
+./soduku_test 
+#1337952395
+exc
+#1337952672
+ii
+#1337952682
+t
+#1337953779
+ii
+#1337955660
+llllllllllllll
+#1337956017
+ecc
+#1337956018
+exc
+#1337957371
+cd/
+#1337957373
+cd /
+#1337957388
+cd opt/
+#1337957393
+mkdir vmware
+#1337957395
+su
+#1337957417
+chown -R scr:scr vmware/
+#1337957420
+cd vmware/
+#1337957438
+,y
+#1337957442
+cdm
+#1337957458
+cd WA/F/GS/wmware/
+#1337957492
+cdm
+#1337957503
+cd WA/F/GS/wmware/wkk/
+#1337957467
+mv2,y wkk/
+#1337957528
+ds ios-resources/
+#1337957531
+ds Leopard/
+#1337957533
+ll ios-resources/
+#1337957535
+ll ios-resources/IPad/
+#1337957577
+ll wkk/ios-resources/IPad/
+#1337957588
+fg
+#1337957647
+ds Leopard/
+#1337957669
+cd /home/
+#1337957672
+cd scr/
+#1337957676
+rm nuoerlz.tar.bz2 
+#1337957687
+ll backups/
+#1337957691
+ds photo/
+#1337957692
+cd photo/
+#1337957698
+rm -rf *
+#1337957707
+cd video/
+#1337957711
+cd vmware/
+#1337957719
+cd bk
+#1337957731
+ll tmp/
+#1337957739
+cd backups/
+#1337957742
+cd
+#1337957746
+cd xiazai/
+#1337957766
+rm 010812-909\ 透けフェチ巨乳\ Vol.7\ そらのゆめ/ -rf
+#1337957779
+rm -rf 【503】最新天然-眼鏡素人～\ 黒川涼/
+#1337957810
+ds *.gz
+#1337957817
+ds newblog/
+#1337957826
+rm -rf X1X.com-111855-AVI/
+#1337957845
+rm -rf im520\@www.SexInSex.net\@ABS-079/
+#1337957873
+rm -rf UGSS009\ AVI/
+#1337957883
+ds *
+#1337957902
+cd cegui/
+#1337957915
+rm -rf CEGUI-0.7.6
+#1337957924
+ds *
+#1337957971
+ll ufoai-2.2.1-data.tar 
+#1337957977
+g ufoai-2.2.1-data.tar 
+#1337957988
+tar tv ufoai-2.2.1-data.tar 
+#1337958003
+tar tf ufoai-2.2.1-data.tar 
+#1337958013
+rm ufoai-2.2.1-data.tar 
+#1337958018
+ll *
+#1337958022
+ds *
+#1337958037
+cd gs
+#1337958041
+ds zzb
+#1337958044
+rmdir zzb
+#1337958047
+ds git
+#1337958050
+ds thundermouse_3D_*
+#1337958057
+rm -rf  thundermouse_3D_*
+#1337958059
+su
+#1337958070
+cd
+#1337958082
+cd vmware/
+#1337958086
+cd tmp/
+#1337958091
+cd
+#1337958092
+cd tmp/
+#1337958097
+cd rt
+#1337958113
+cd wget
+#1337958117
+cd we
+#1337958121
+cd wget
+#1337958128
+ex .
+#1337958237
+cd
+#1337958265
+cpwd
+#1337958274
+kill -9 11985
+#1337958439
+cd
+#1337958462
+la .vmware/
+#1337958483
+cd .config/
+#1337958489
+cd .fcitx/
+#1337958502
+mkdir .cache
+#1337958504
+lla
+#1337958511
+cd .cache/
+#1337958513
+ex .
+#1337998095
+tail -30 getmail.out.log 
+#1337998103
+tail -n 100 getmail.crontab.log 
+#1337998184
+vmware&
+#1337998542
+lla
+#1337998548
+chmod 000 .cache/
+#1337998558
+lla
+#1337998535
+su
+#1337998560
+lla
+#1337998563
+cd .cache/
+#1337998570
+ma
+#1337998571
+./soduku_test 
+#1337998580
+ctagsc.sh 
+#1337998583
+g
+#1337998669
+time ./soduku_test 
+#1337998704
+exc
+#1337998737
+cdvcrc
+#1337998740
+cdvcrt
+#1337998743
+pwdp
+#1337998747
+cd linux/
+#1337998749
+touch *
+#1337998754
+cd computor/
+#1337998763
+mkdir game
+#1337998765
+cd game/
+#1337998773
+mkdir soduku
+#1337998775
+cd soduku/
+#1337998778
+ex .
+#1337998784
+chxx 基于挖洞思想的数独游戏生成算法.pdf 
+#1337998790
+mv 基于挖洞思想的数独游戏生成算法.pdf 01基于挖洞思想的数独游戏生成算法.pdf 
+#1337998814
+pdf 01基于挖洞思想的数独游戏生成算法.pdf &
+#1337998820
+ii
+#1337998824
+t
+#1337998893
+ma
+#1337998898
+ma
+#1337998901
+./soduku_test 
+#1337998904
+time ./soduku_test 
+#1337998978
+exc
+#1337999399
+cdvcl
+#1337999404
+cd books/c/game/soduku/
+#1337999419
+pdf&
+#1337999421
+pdll
+#1337999423
+g soduku.c
+#1337999457
+cdvcrt
+#1337999466
+cd linux/computor/game/soduku/
+#1337999467
+dfp 01基于挖洞思想的数独游戏生成算法.pdf 
+#1337999470
+pdf 01基于挖洞思想的数独游戏生成算法.pdf &
+#1338001576
+ma
+#1338001578
+ma
+#1338001623
+mc
+#1338001623
+ma
+#1338001626
+./soduku_test 
+#1338001907
+s pretty
+#1338002152
+ma
+#1338002154
+./soduku_test 
+#1338002208
+ma
+#1338002209
+./soduku_test 
+#1338002215
+time ./soduku_test 
+#1338002236
+ma
+#1338002238
+time ./soduku_test 
+#1338002244
+ma
+#1338002245
+time ./soduku_test 
+#1338002254
+ma
+#1338002255
+time ./soduku_test 
+#1338002262
+ma
+#1338002263
+time ./soduku_test 
+#1338002270
+ma
+#1338002271
+time ./soduku_test 
+#1338002274
+ma
+#1338002275
+time ./soduku_test 
+#1338002374
+ma
+#1338002376
+time ./soduku_test 
+#1338002389
+ma
+#1338002390
+time ./soduku_test 
+#1338002402
+time ./soduku_test > out
+#1338002411
+g out 
+#1338002422
+ma
+#1338002423
+time ./soduku_test > out
+#1338002818
+ma
+#1338002819
+time ./soduku_test > out
+#1338002822
+time ./soduku_test >
+#1338002823
+time ./soduku_test
+#1338002868
+mc
+#1338002906
+./soduku_test 
+#1338002908
+ma
+#1338002909
+./soduku_test 
+#1338002931
+ctagsc.sh 
+#1338003086
+vmware&
+#1338003093
+mc
+#1338003096
+rm out 
+#1338003098
+gits.
+#1338003102
+gitdl
+#1338003156
+gits.
+#1338003158
+git add .
+#1338003212
+git commit -m  '实现"间隔"挖洞"算法, 用于生成中等难度的题目'
+#1338003216
+gitlo.
+#1338003223
+gits.
+#1338003344
+ma
+#1338003490
+mc
+#1338003490
+ma
+#1338003497
+mc
+#1338003497
+ma
+#1338003526
+time ./soduku_test
+#1338003603
+cd
+#1338003605
+cd .getmail
+#1338003609
+tail -n 100 getmail.crontab.log 
+#1338003611
+tail -30 getmail.out.log 
+#1338003535
+time ./soduku_test > out
+#1338003647
+gits.
+#1338003649
+gitdl
+#1338003653
+gits.
+#1338003655
+git add soduku.c
+#1338003679
+git commit -m  '对"间隔"挖洞"算法进行优化'
+#1338003681
+gits.
+#1338003682
+gitlo.
+#1338003802
+gitd
+#1338003848
+gitdl
+#1338004112
+ma
+#1338004186
+mc
+#1338004186
+ma
+#1338004298
+mc
+#1338004299
+ma
+#1338004385
+time ./soduku_test > out
+#1338004388
+time ./soduku_test 
+#1338004403
+ma
+#1338004404
+time ./soduku_test 
+#1338004412
+time ./soduku_test > out
+#1338004426
+ma
+#1338004429
+time ./soduku_test > out2
+#1338004434
+diff out*
+#1338004441
+ma
+#1338004445
+time ./soduku_test > out2
+#1338004455
+ma
+#1338004457
+time ./soduku_test > out
+#1338004466
+diff out*
+#1338004512
+ma
+#1338004530
+mc
+#1338004530
+ma
+#1338004533
+mc
+#1338004533
+ma
+#1338004549
+mc
+#1338004549
+ma
+#1338004557
+t
+#1338004561
+mc
+#1338004561
+ma
+#1338004565
+time ./soduku_test > out
+#1338004580
+ma
+#1338004584
+time ./soduku_test > out2
+#1338004593
+diff out*
+#1338004611
+ma
+#1338004614
+time ./soduku_test > out
+#1338004624
+diff out*
+#1338004647
+ma
+#1338004648
+mc
+#1338004648
+ma
+#1338004653
+time ./soduku_test 
+#1338004665
+ctagsc.sh 
+#1338004856
+gits.
+#1338004858
+mc
+#1338004859
+gits.
+#1338004860
+gitdl
+#1338004894
+gits.
+#1338004897
+git add soduku.c
+#1338004898
+gits
+#1338004900
+gits.
+#1338004910
+git commit -m  '代码重构'
+#1338004912
+gits.
+#1338005303
+ma
+#1338005304
+mc
+#1338005304
+ma
+#1338005317
+time ./soduku_test 
+#1338005381
+ma
+#1338005382
+mc
+#1338005383
+ma
+#1338005385
+time ./soduku_test 
+#1338005397
+time ./soduku_test > out
+#1338005403
+g out
+#1338005443
+ma
+#1338005445
+time ./soduku_test > out
+#1338005493
+ma
+#1338005495
+time ./soduku_test > out
+#1338005561
+ma
+#1338005562
+time ./soduku_test > out
+#1338005694
+ma
+#1338005696
+time ./soduku_test > out
+#1338005723
+ma
+#1338005737
+mc
+#1338005737
+ma
+#1338005740
+time ./soduku_test > out
+#1338005981
+ma
+#1338005983
+time ./soduku_test > out
+#1338005987
+time ./soduku_test 
+#1338006010
+ma
+#1338006011
+time ./soduku_test 
+#1338011208
+gitdl
+#1338011226
+gitsl
+#1338011228
+gits.
+#1338011231
+git add soduku.c
+#1338011232
+gits.
+#1338011234
+gits
+#1338011263
+git commit -m  '实现"蛇型"挖洞"算法, 用于生成高级难度的题目'
+#1338011265
+gits.
+#1338011390
+ma
+#1338011408
+mc
+#1338011409
+ma
+#1338011444
+mc
+#1338011444
+ma
+#1338011447
+time ./soduku_test 
+#1338011459
+ma
+#1338011463
+time ./soduku_test 
+#1338011474
+ma
+#1338011475
+time ./soduku_test 
+#1338011495
+ma
+#1338011503
+time ./soduku_test > out
+#1338011533
+g out
+#1338011554
+ma
+#1338011556
+time ./soduku_test > out
+#1338011585
+ma
+#1338011587
+time ./soduku_test > out
+#1338011624
+ma
+#1338011625
+time ./soduku_test > out
+#1338011671
+ma
+#1338011674
+time ./soduku_test > out
+#1338012602
+gits.
+#1338012605
+gitd.
+#1338012635
+gits.
+#1338012637
+git add soduku.c
+#1338012672
+git commit -m  '实现"顺序型"挖洞"算法, 用于生成骨灰级难度的题目'
+#1338012674
+gits.
+#1338012677
+gitd
+#1338012685
+git add soduku_test.c
+#1338012690
+git commit -m  'test'
+#1338012691
+gits.
+#1338012693
+mc
+#1338012694
+gits.
+#1338012697
+rm out*
+#1338012699
+gits.
+#1338012701
+ma
+#1338012702
+mc
+#1338012708
+lla
+#1338012824
+ma
+#1338012851
+mc
+#1338012852
+ma
+#1338012876
+mc
+#1338012877
+ma
+#1338012903
+ctagsc.sh 
+#1338013036
+s sixs
+#1338013192
+gits.
+#1338013194
+gitdl
+#1338013669
+ma
+#1338013672
+gits.
+#1338013674
+gitdl
+#1338013677
+gits.
+#1338013683
+git add soduku.c
+#1338013719
+git commit -m  '代码重构: 删除一些无用的代码'
+#1338013721
+gits.
+#1338013723
+mc
+#1338013729
+lla
+#1338013730
+mc
+#1338013731
+lla
+#1338013733
+ma
+#1338013736
+mc
+#1338014388
+jjjjjj
+#1338014397
+rm tags 
+#1338014400
+mc
+#1338014404
+cat Makefile 
+#1338014407
+ma
+#1338014421
+g soduku.c
+#1338014467
+ff &
+#1338016769
+reboot
+#1337999408
+screen 
+#1338003615
+mutt
+#1338033894
+vmware&
+#1338033898
+cd .getmail
+#1338033913
+tail -30 getmail.out.log 
+#1338033915
+tail -n 100 getmail.crontab.log 
+#1338033919
+tail -30 getmail.out.log 
+#1338033956
+m
+#1338033981
+cdvcl
+#1338033986
+cd books/c/game/
+#1338033989
+cd soduku/
+#1338033990
+ma
+#1338033994
+time ./soduku_test > out
+#1338033998
+time ./soduku_test 
+#1338034177
+ff 7
+#1338034179
+ff &
+#1338034326
+cd
+#1338034330
+g .procmailrc 
+#1338035975
+exc
+#1338036359
+ii
+#1338040788
+dii
+#1338040789
+ii
+#1338040924
+vi getmail
+#1338040963
+vi getmailrc.nuoerlz.gmail 
+#1338040971
+vi getmail
+#1338040990
+fg
+#1338040992
+gits.
+#1338041020
+tail -30 getmail.out.log 
+#1338041022
+tail -n 100 getmail.crontab.log 
+#1338041025
+tail -30 getmail.out.log 
+#1338041032
+vi getmail
+#1338034553
+mutt
+#1338043405
+ma
+#1338043407
+./soduku_test 
+#1338077654
+ii
+#1338077723
+exc
+#1338033907
+mutt
+#1338077925
+tail -30 getmail.out.log 
+#1338077935
+tail -n 100 getmail.crontab.log 
+#1338077942
+reboot
+#1338033901
+screen 
+#1338078506
+cd .getmail
+#1338078517
+vmware&
+#1338078519
+ii
+#1338078543
+free
+#1338078547
+free -m
+#1338078583
+ff&
+#1338079130
+llll
+#1338083261
+s cocoa
+#1338083505
+ii
+#1338083565
+m free
+#1338083577
+cat /proc/meminfo 
+#1338083606
+fg
+#1338083662
+free -o
+#1338083667
+free -om
+#1338083670
+fg
+#1338083706
+free -oml
+#1338083714
+fg
+#1338083725
+free -omlt
+#1338083728
+fg
+#1338083847
+ii
+#1338083982
+echo 3>/proc/sys/vm/drop_caches
+#1338083987
+cat /proc/sys/vm/drop_caches
+#1338084036
+ii
+#1338084061
+echo 3>/proc/sys/vm/drop_caches
+#1338084062
+ii
+#1338084070
+cat /proc/sys/vm/drop_caches
+#1338084082
+echo "3">/proc/sys/vm/drop_caches
+#1338084085
+cat /proc/sys/vm/drop_caches
+#1338084088
+ii
+#1338084167
+cat /proc/sys/vm/drop_caches
+#1338084175
+echo "0">/proc/sys/vm/drop_caches
+#1338084177
+cat /proc/sys/vm/drop_caches
+#1338084179
+ii
+#1338084052
+su
+#1338084382
+ii
+#1338085700
+i
+#1338085702
+ii
+#1338085710
+ff &
+#1338085714
+ii
+#1338085719
+i
+#1338085720
+ii
+#1338085845
+s inspector
+#1338086282
+s identity
+#1338088517
+cd
+#1338088519
+cd tmp/
+#1338088523
+g 
+#1338088544
+touchaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#1338088560
+touch   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#1338088599
+touch  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#1338088611
+touch aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#1338088627
+touch aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#1338088641
+touch aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#1338088647
+rm aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+#1338088656
+touch aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#1338088662
+rm aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+#1338088702
+mkdir aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/
+#1338088708
+rmdir aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/
+#1338088720
+mkdir aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/
+#1338088772
+mkdir -p aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/
+#1338088779
+ll aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/
+#1338088791
+rm -rf aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/
+#1338088862
+mkdir aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/
+#1338090830
+wh gvht
+#1338090852
+locate bookmart
+#1338090857
+locate bookmark
+#1338090865
+wh gvht
+#1338090871
+locate bookmark/html
+#1338090895
+cd /home/scr/.rt/linux/computor/bookmark/
+#1338090907
+rm html.txt 
+#1338090929
+w
+#1338090945
+ln -s ~/.vercol/git/rt-notes/linux/computor/bookmark/html.txt 
+#1338090948
+gvht
+#1338091094
+cdvcl
+#1338091097
+touch *
+#1338091100
+gits.
+#1338091115
+mkdir wkk
+#1338091117
+cd wkk/
+#1338091127
+cdvcl
+#1338091132
+cd books/c/game/soduku/
+#1338091134
+mkdir soduku
+#1338091141
+rmdir soduku/
+#1338091170
+git clone git@github.com:cokecoffe/sudoku.git
+#1338092281
+ecx
+#1338092283
+exc
+#1338109310
+ls /usr/
+#1338109315
+ll /dev/
+#1338109323
+cd sudoku/
+#1338109327
+cat README.md 
+#1338109332
+cd SudoTest/
+#1338109342
+ll sudokugame/
+#1338109363
+...
+#1338109371
+cd
+#1338109373
+cd tmp/
+#1338109375
+,y
+#1338109379
+cp2,y wkk/
+#1338109387
+wh cp2,y
+#1338109392
+vbs
+#1338109415
+cp2,y -r wkk/
+#1338109418
+wh cp2,y
+#1338109426
+ll wkk/
+#1338109431
+vmware&
+#1338109579
+ii
+#1338109649
+v
+#1338109655
+vmware&
+#1338109781
+t
+#1338109799
+kill -9 17171
+#1338109803
+exc
+#1338109970
+cd .getmail
+#1338109974
+tail -n 100 getmail.crontab.log 
+#1338109980
+tail -30 getmail.out.log 
+#1338109990
+tail -n 100 getmail.crontab.log 
+#1338109996
+tail -30 getmail.out.log 
+#1338110004
+v getmail.out.log 
+#1338110021
+tail -30 getmail.out.log 
+#1338110024
+fg
+#1338110046
+vmware&
+#1338110121
+exc
+#1338110218
+ii
+#1338110247
+ff&
+#1338110250
+ii
+#1338111377
+cd
+#1338111383
+cd tmp/wkk/sudoku/
+#1338111386
+cd SudoTest/
+#1338111389
+cd SudoTest
+#1338111394
+vi FirstViewController.xib 
+#1338110050
+mutt
+#1338115489
+gvlc
+#1338115536
+gnome-screenshot -h
+#1338115542
+gnome-screenshot -a
+#1338115755
+gnome-screenshot -a -i
+#1338121278
+s delegate
+#1338122224
+gvht
+#1338125753
+qq
+#1338125770
+locate qq
+#1338125988
+cdx
+#1338125997
+tar linuxqq_v1.0.2-beta1_loongson.tar.gz 
+#1338126001
+tar xvzf linuxqq_v1.0.2-beta1_loongson.tar.gz 
+#1338126007
+./qq 
+#1338126015
+file qq
+#1338126021
+file res.db 
+#1338126033
+tar tf linuxqq_v1.0.2-beta1_loongson.tar.gz 
+#1338204779
+t
+#1338206384
+vmware&
+#1338216954
+exc
+#1338217038
+locate android
+#1338217080
+find . | grep android
+#1338217499
+exc
+#1338217710
+cd tmp/
+#1338217715
+ds android/
+#1338217730
+tar cvjf android.tar.bz2 android/
+#1338217818
+ds android/
+#1338218217
+fl
+#1338218221
+ff &
+#1338218399
+ii
+#1338219356
+cd
+#1338219367
+cd .fcitx/
+#1338219368
+lla
+#1338219373
+chmod 777 .cache/
+#1338219375
+,y
+#1338219378
+cd,y
+#1338219379
+ex .
+#1338219387
+cd .cache/
+#1338219389
+ex .
+#1338221136
+chmod 000 .cache/
+#1338219357
+su
+#1338221139
+halt
+#1338217847
+screen 
+#1338292040
+cd .getmail
+#1338292050
+ds getmail
+#1338292081
+vmware&
+#1338292082
+ff&
+#1338292083
+ii
+#1338292221
+tar cvjf android.tar.bz2 android/
+#1338292229
+tail -30 getmail.out.log 
+#1338292248
+tail -n 100 getmail.crontab.log 
+#1338292259
+mutt
+#1338296219
+ex .
+#1338298688
+cd
+#1338298691
+cdvcl
+#1338298695
+cd books/
+#1338298697
+cd c
+#1338298701
+mkdir alg
+#1338298702
+cd alg/
+#1338298707
+mkdir kmp
+#1338298708
+cd kmp/
+#1338298726
+g ald_kmp.c
+#1338298733
+g kmp.c
+#1338299791
+cdlc
+#1338299827
+cdvcl
+#1338299833
+cd books/c/game/soduku/
+#1338299838
+,y
+#1338299842
+cp2,y Makefile 
+#1338299844
+vi Makefile 
+#1338299872
+ma
+#1338299882
+g kmp_test.c
+#1338299906
+ma
+#1338299911
+fg
+#1338299914
+vi Makefile 
+#1338299926
+ma
+#1338299928
+mc
+#1338299929
+ma
+#1338299959
+mc
+#1338299959
+ma
+#1338299969
+mc
+#1338299969
+ma
+#1338299972
+./kmp_test 
+#1338300196
+m ascii
+#1338300270
+ma
+#1338300278
+mc
+#1338300278
+ma
+#1338300293
+m 3 rand
+#1338300305
+ma
+#1338300321
+mc
+#1338300321
+ma
+#1338300324
+./kmp_test 
+#1338300346
+ma
+#1338300355
+mc
+#1338300355
+ma
+#1338300357
+./kmp_test 
+#1338300402
+ma
+#1338300403
+./kmp_test 
+#1338300584
+m strlen
+#1338301101
+ma
+#1338301120
+mc
+#1338301121
+ma
+#1338301202
+mc
+#1338301202
+ma
+#1338301210
+./kmp_test 
+#1338301311
+ma
+#1338301312
+./kmp_test 
+#1338301318
+ma
+#1338301319
+./kmp_test 
+#1338301326
+ma
+#1338301327
+./kmp_test 
+#1338301336
+ma
+#1338301338
+./kmp_test 
+#1338301385
+ma
+#1338301387
+./kmp_test 
+#1338301394
+ma
+#1338301395
+./kmp_test 
+#1338301420
+ma
+#1338301421
+./kmp_test 
+#1338301425
+ma
+#1338301426
+./kmp_test 
+#1338301449
+ma
+#1338301450
+./kmp_test 
+#1338301471
+m ascii
+#1338301574
+ma
+#1338301587
+mc
+#1338301587
+ma
+#1338301727
+./kmp_test 
+#1338301765
+ma
+#1338301766
+mc
+#1338301766
+ma
+#1338301767
+./kmp_test 
+#1338301782
+mc
+#1338301782
+ma
+#1338301783
+./kmp_test 
+#1338301891
+mc
+#1338301892
+ma
+#1338301894
+./kmp_test 
+#1338302197
+ma
+#1338302198
+./kmp_test 
+#1338302203
+ma
+#1338302204
+./kmp_test 
+#1338302208
+ma
+#1338302210
+./kmp_test 
+#1338302520
+mc
+#1338302521
+ma
+#1338302533
+mc
+#1338302534
+ma
+#1338302535
+./kmp_test 
+#1338302540
+ma
+#1338302541
+./kmp_test 
+#1338302556
+ma
+#1338302557
+mc
+#1338302558
+ma
+#1338302560
+./kmp_test 
+#1338302563
+ma
+#1338302565
+./kmp_test 
+#1338302570
+ma
+#1338302571
+./kmp_test 
+#1338302604
+ma
+#1338302605
+./kmp_test 
+#1338302624
+ma
+#1338302625
+./kmp_test 
+#1338302646
+ma
+#1338302647
+./kmp_test 
+#1338302657
+ma
+#1338302658
+./kmp_test 
+#1338302665
+mc
+#1338302666
+ma
+#1338302667
+./kmp_test 
+#1338302687
+ma
+#1338302688
+./kmp_test 
+#1338302694
+ma
+#1338302695
+./kmp_test 
+#1338302699
+ma
+#1338302700
+./kmp_test 
+#1338302716
+a
+#1338302717
+ma
+#1338302718
+./kmp_test 
+#1338302728
+ma
+#1338302730
+./kmp_test 
+#1338302734
+ctagsc.sh 
+#1338302837
+ma
+#1338302838
+./kmp_test 
+#1338302841
+mc
+#1338302842
+ma
+#1338302843
+./kmp_test 
+#1338302856
+ma
+#1338302857
+./kmp_test 
+#1338302865
+mc
+#1338302866
+ma
+#1338302867
+./kmp_test 
+#1338302871
+ma
+#1338302872
+./kmp_test 
+#1338303264
+ma
+#1338303265
+mc
+#1338303265
+ma
+#1338303362
+./kmp_test 
+#1338303377
+ma
+#1338303380
+./kmp_test 
+#1338303426
+ma
+#1338303427
+./kmp_test 
+#1338303439
+mc
+#1338303439
+ma
+#1338303440
+./kmp_test 
+#1338303457
+ma
+#1338303901
+./kmp_test 
+#1338303909
+ma
+#1338303910
+./kmp_test 
+#1338304096
+ma
+#1338304097
+./kmp_test 
+#1338304108
+ma
+#1338304109
+./kmp_test 
+#1338304301
+vi soduku.c
+#1338304289
+s verication
+#1338304319
+s verification
+#1338304379
+ma
+#1338304381
+./kmp_test 
+#1338304386
+ma
+#1338304387
+./kmp_test 
+#1338304400
+ma
+#1338304401
+./kmp_test 
+#1338304411
+ma
+#1338304412
+./kmp_test 
+#1338304421
+./kmp_test | wc
+#1338304455
+ma
+#1338304456
+./kmp_test | wc
+#1338304461
+./kmp_test 
+#1338304480
+ma
+#1338304481
+./kmp_test 
+#1338304486
+mc
+#1338304486
+ma
+#1338304488
+./kmp_test 
+#1338304491
+./kmp_test | wc
+#1338304509
+ma
+#1338304510
+./kmp_test 
+#1338304516
+./kmp_test | wc
+#1338304524
+a
+#1338304524
+ma
+#1338304525
+./kmp_test | wc
+#1338304528
+./kmp_test 
+#1338304575
+ma
+#1338304576
+./kmp_test 
+#1338304605
+ma
+#1338304606
+./kmp_test 
+#1338304609
+,y
+#1338304613
+cd,y
+#1338304611
+fg
+#1338304674
+ma
+#1338304675
+mc
+#1338304675
+ma
+#1338304676
+./kmp_test 
+#1338304889
+ma
+#1338304903
+./kmp_test 
+#1338304918
+ma
+#1338304919
+./kmp_test 
+#1338304931
+ma
+#1338304933
+./kmp_test 
+#1338304988
+ma
+#1338304989
+./kmp_test 
+#1338304995
+ma
+#1338304996
+./kmp_test 
+#1338305014
+mc
+#1338305014
+ma
+#1338305020
+time ./kmp_test 
+#1338306702
+s justto
+#1338307720
+./kmp_test 
+#1338382518
+cdvcrt
+#1338382521
+cd linux/
+#1338382523
+cd computor/
+#1338382526
+mkdir alg
+#1338382529
+ cd alg/
+#1338382535
+mkcd kmp
+#1338382543
+g kmp.note.txt
+#1338394576
+fcitx 
+#1338394676
+su
+#1338395157
+...
+#1338395159
+gits.
+#1338395164
+git add alg/
+#1338395167
+gits.
+#1338395183
+git commit -m  'KMP算法笔记'
+#1338395189
+g alg/kmp/kmp.note.txt 
+#1338395219
+mc
+#1338395221
+gits.
+#1338395230
+git add alg/
+#1338395232
+gits.
+#1338395244
+git commit -m  'KMP算法'
+#1338395248
+gits
+#1338395255
+gits.
+#1338395253
+git push origin master
+#1338395260
+git push origin master
+#1338395284
+cdvcrt
+#1338395285
+gits.
+#1338395289
+gitdl
+#1338395294
+gits.
+#1338395305
+git add linux/computor/bookmark/
+#1338395316
+git commit -m  'IOS bookmark'
+#1338395317
+gits.
+#1338395323
+cdvcl
+#1338395324
+gits.
+#1338395327
+ll blog/
+#1338395331
+gits.
+#1338395336
+ma
+#1338395339
+mc
+#1338395341
+gits.
+#1338395345
+mc
+#1338395346
+ma
+#1338395348
+./kmp_test 
+#1338395352
+mc
+#1338395435
+ ll
+#1338395437
+cdvcrt
+#1338395319
+git pull origin master
+#1338296225
+fg
+#1338395467
+tail -n 100 getmail.crontab.log 
+#1338395448
+git pull origin master
+#1338395473
+ds android.tar.bz2 
+#1338395475
+rm android.tar.bz2 
+#1338395478
+tail -n 100 getmail.crontab.log 
+#1338395482
+tail -30 getmail.out.log 
+#1338395585
+gits.
+#1338395596
+g linux/computor/bookmark/html.txt 
+#1338395620
+gits.
+#1338395623
+git add linux/computor/bookmark/
+#1338395626
+git commit -m  'IOS bookmark'
+#1338395628
+gits.
+#1338395632
+git pull origin master
+#1338395679
+cdv
+#1338395680
+svn
+#1338395683
+svns
+#1338395667
+git push origin master
+#1338395689
+svnd _vimrc 
+#1338395691
+svns
+#1338395717
+svn commit -m "quick dim" _vimrc
+#1338395746
+halt
+#1338292042
+screen 
+#1338395484
+fg
+#1338461548
+cdvcrt
+#1338461558
+crontab -e
+#1338461564
+cd
+#1338461565
+cd .getmail
+#1338461567
+tail -30 getmail.out.log 
+#1338461570
+tail -n 100 getmail.crontab.log 
+#1338461574
+tail -30 getmail.out.log 
+#1338461551
+git pull origin master
+#1338461581
+cdvcl
+#1338461590
+cdvcrc
+#1338461585
+git pull origin master
+#1338461593
+git pull origin master
+#1338461612
+cd linux/computor/alg/
+#1338461618
+cd kmp/
+#1338461624
+ kmp.note.txt 
+#1338461628
+g kmp.note.txt 
+#1338461631
+ii
+#1338461633
+vmware&
+#1338461886
+ff&
+#1338463059
+gits.
+#1338463063
+gitd.
+#1338464721
+gitdl
+#1338464727
+cdvcrt
+#1338464728
+gits.
+#1338464800
+g kmp.note.txt 
+#1338466786
+cd /tmp/
+#1338466792
+su
+#1338466815
+free
+#1338466818
+ii
+#1338470522
+g 
+#1338471385
+fcitx -h
+#1338471398
+pg fcit
+#1338471403
+kill -9 2836
+#1338461563
+screen 
+#1338471410
+cd .getmail
+#1338471414
+fcitx -h
+#1338471416
+free
+#1338471419
+fcitx 
+#1338471412
+screen 
+#1338471428
+cd
+#1338471430
+cd .fcitx/
+#1338471433
+lla
+#1338471436
+vi config 
+#1338471443
+lla
+#1338471451
+cat ���98_LastAutoPhrase.tmp 
+#1338471456
+g ���98_LastAutoPhrase.tmp 
+#1338471462
+rm ���98_LastAutoPhrase.tmp 
+#1338471468
+cat profile 
+#1338471470
+g p
+#1338471473
+g profile 
+#1338471482
+fcitx 
+#1338471496
+vi config 
+#1338471502
+mkdir bk
+#1338471504
+mv * bk
+#1338471506
+lla
+#1338471508
+fcitx 
+#1338471552
+不可能的吧那里的事啊
+#1338471560
+mv bk/wb98_4_fcitx3.mb .
+#1338471577
+ll bk
+#1338471624
+cd
+#1338471626
+cd .getmail
+#1338548706
+reboot
+#1338471628
+screen 
+#1338475331
+mutt
+#1338471634
+mutt
+#1338465542
+mutt
+#1338553176
+lla
+#1338553178
+cd .getmail
+#1338553181
+tail -30 getmail.out.log 
+#1338553184
+tail -n 100 getmail.crontab.log 
+#1338553209
+cd
+#1338553224
+cdvcrt
+#1338553230
+cdvcrc
+#1338553235
+cdvcl
+#1338553237
+git pull origin master
+#1338553232
+git pull origin master
+#1338553227
+git pull origin master
+#1338553995
+   l
+#1338554006
+ff&
+#1338554030
+vmware&
+#1338554060
+gvht
+#1338554076
+cd
+#1338554077
+cdvcl
+#1338554086
+cd books/
+#1338554089
+mkdir python
+#1338554091
+cd python/
+#1338554122
+mkdir a-byte-of-python
+#1338554123
+cd a-byte-of-python/
+#1338554171
+g 03_02_helloworld.py
+#1338554206
+python 
+#1338554215
+python 03_02_helloworld.py 
+#1338554270
+,y
+#1338554272
+cd,y
+#1338554318
+p www.hao123.com
+#1338554342
+gits.
+#1338554346
+git add python/
+#1338554347
+gits.
+#1338554365
+git commit -m  
+#1338554367
+git commit 
+#1338554409
+gitlo.
+#1338554414
+gitlo.
+#1338554423
+gitl
+#1338554425
+gitl.
+#1338554586
+cd
+#1338554588
+cd tmp/
+#1338554591
+cd
+#1338554592
+cd tmp/
+#1338554595
+cd wget2
+#1338554605
+wget -r -c -p http://woodpecker.org.cn/abyteofpython_cn/chinese/
+#1338554611
+,y
+#1338554616
+cd,y
+#1338554625
+ff woodpecker.org.cn/abyteofpython_cn/chinese/index.html 
+#1338554613
+fg
+#1338554739
+lr
+#1338554760
+cd woodpecker.org.cn/
+#1338554762
+cd abyteofpython_cn/
+#1338554767
+cat robots.txt 
+#1338554769
+cd a
+#1338554771
+cd abyteofpython_cn/
+#1338554772
+cd chinese/
+#1338554776
+ll stylesheet/
+#1338554781
+ls code/
+#1338554792
+cd python/
+#1338554794
+cd a-byte-of-python/
+#1338554804
+cd code/
+#1338554817
+,y
+#1338554818
+cp2,y *
+#1338554836
+gits.
+#1338554839
+git add .
+#1338554840
+gits.
+#1338554849
+gitl
+#1338554851
+gitl.
+#1338554879
+git commit -m  '<<简明 Python 教程>> 之 源码'
+#1338554881
+gits.
+#1338554892
+python helloworld.py 
+#1338554898
+g
+#1338554966
+cd linux/
+#1338554968
+cd computor/
+#1338554975
+cd html/
+#1338554978
+touch *
+#1338554990
+cd lang/
+#1338554992
+touch *
+#1338554994
+ll c
+#1338555001
+mkdir python
+#1338555007
+cd python/
+#1338555024
+mkdir a-byte-of-python
+#1338555025
+cd a-byte-of-python/
+#1338555035
+ll woodpecker.org.cn/
+#1338555038
+rm woodpecker.org.cn/robots.txt 
+#1338555040
+ll woodpecker.org.cn/
+#1338555048
+ll woodpecker.org.cn/abyteofpython_cn/chinese/
+#1338555057
+8ll
+#1338555058
+,y
+#1338555063
+mv2,y woodpecker.org.cn/
+#1338555068
+git add .
+#1338555070
+gits.
+#1338555091
+git commit -m  '<<简明 Python 教程>> 中文版'
+#1338555093
+gits.
+#1338555112
+cd woodpecker.org.cn/abyteofpython_cn/chinese/
+#1338555119
+...
+#1338555125
+ff woodpecker.org.cn/abyteofpython_cn/chinese/index.html 
+#1338555476
+gits.
+#1338555479
+gitd
+#1338555494
+gits
+#1338555495
+gits.
+#1338555497
+gitdl
+#1338555505
+gits.
+#1338555513
+git add .
+#1338555527
+git commit -m  '使能输出中文'
+#1338555528
+gits.
+#1338555656
+p
+#1338555659
+py
+#1338555665
+python var.py 
+#1338555801
+gits.
+#1338555803
+git add .
+#1338555807
+git commit
+#1338555821
+gitlo.
+#1338555824
+gitl.
+#1338555989
+python var.py 
+#1338556013
+git add .
+#1338556015
+git commit
+#1338556054
+gitlo.
+#1338556058
+gitl
+#1338556097
+gits.
+#1338556098
+gitdl
+#1338556413
+python expression.py 
+#1338556480
+gits.
+#1338556482
+git add .
+#1338556484
+git commit
+#1338558949
+python if.py 
+#1338558959
+10
+#1338558963
+python if.py 
+#1338558968
+python if.py 3
+#1338558971
+python if.py 
+#1338558976
+python if.py 22
+#1338558981
+python if.py 23
+#1338559064
+gits.
+#1338559065
+git add .
+#1338559067
+git commit
+#1338559117
+gitl.
+#1338559189
+python if.py while.py 
+#1338559204
+gitl.
+#1338559208
+python if.py 
+#1338559216
+python while.py 
+#1338559253
+gits.
+#1338559300
+git add .
+#1338559302
+git commit
+#1338559406
+g for.py
+#1338559445
+python for.py 
+#1338559502
+gits.
+#1338559504
+git add for.py 
+#1338559506
+git commit
+#1338559677
+s wanna
+#1338559707
+py
+#1338559711
+vbs
+#1338559719
+py
+#1338559719
+fg
+#1338559733
+.s
+#1338559737
+py break.py 
+#1338559838
+gits.
+#1338559874
+git add .
+#1338559878
+git commit
+#1338559946
+py continue.py 
+#1338560029
+gits.
+#1338560030
+git add .
+#1338560032
+git commit
+#1338560075
+py function1.py 
+#1338560159
+git add .
+#1338560161
+git commit
+#1338560502
+py func_local.py 
+#1338560582
+gits.
+#1338560585
+gita
+#1338560587
+gita.
+#1338560590
+gita .
+#1338560591
+gits.
+#1338560594
+git commit
+#1338560610
+gitlo.
+#1338560619
+gitl
+#1338560623
+gitl.
+#1338560701
+py func_global.py 
+#1338560772
+gita .
+#1338560776
+vbs
+#1338560789
+gits.
+#1338560789
+.
+#1338560791
+.s
+#1338560793
+gita.
+#1338560795
+gits.
+#1338560797
+git commit
+#1338560827
+gitlo
+#1338560830
+gitls.
+#1338560924
+py func_default.py 
+#1338561008
+gits.
+#1338561010
+gita.
+#1338561011
+git commit
+#1338561030
+gitlo.
+#1338561033
+gitls.
+#1338561118
+py func_key.py 
+#1338561213
+gits.
+#1338561214
+gita.
+#1338561215
+git commit
+#1338561351
+py func_return.py 
+#1338561459
+gita.
+#1338561461
+git commit
+#1338561505
+gits.
+#1338561507
+gitlo.
+#1338561676
+py
+#1338561734
+py func_doc.py 
+#1338561810
+gits.
+#1338561816
+g func_doc.py 
+#1338561820
+gits.
+#1338561893
+py func_doc.py 
+#1338561919
+gits.
+#1338561920
+gita 
+#1338561922
+gita .
+#1338561928
+git commit
+#1338562448
+cdvcl
+#1338562450
+cdlc
+#1338562453
+cd scanf/
+#1338562458
+g scanf.c 
+#1338562465
+ma
+#1338562469
+gcc scanf.c 
+#1338562479
+./a.out 
+#1338562631
+gcc scanf.c 
+#1338562633
+./a.out 
+#1338562906
+gcc scanf.c 
+#1338562908
+./a.out 
+#1338563036
+svns
+#1338563042
+./iw.sh 
+#1338563048
+file iw.
+#1338563050
+file iw.s
+#1338563053
+file iw.sh
+#1338563057
+cat iw.s
+#1338563059
+cat iw.sh
+#1338563088
+cat iw.out 
+#1338563097
+cat weneed.txt 
+#1338563102
+./a.out 
+#1338563122
+v scanf.c 
+#1338563677
+g scanf.c 
+#1338563689
+svns
+#1338563693
+g scanf.c 
+#1338563697
+gcc scanf.c 
+#1338563699
+./a.out 
+#1338563773
+gcc scanf.c 
+#1338563774
+./a.out 
+#1338563786
+gcc scanf.c 
+#1338563787
+./a.out 
+#1338563835
+gits.
+#1338563836
+svns
+#1338563838
+rm a.out 
+#1338563843
+m fscanf
+#1338564029
+gits.
+#1338564032
+gitlo.
+#1338564117
+py using_sys.py 
+#1338564125
+py using_sys.py a b c 3
+#1338564285
+gits.
+#1338564286
+gita.
+#1338564288
+git commit
+#1338564532
+gits.
+#1338564961
+cdx
+#1338564993
+mkdir div
+#1338564999
+mv diveintopython-html-flatzh-cn-5.4b.zip  div
+#1338565000
+cd idv
+#1338565002
+cd div
+#1338565009
+unzip diveintopython-html-flatzh-cn-5.4b.zip 
+#1338565013
+cd diveintopython
+#1338565018
+s inflat
+#1338565029
+cd diveintopython
+#1338565035
+cd diveintopythonzh-cn-5.4b/
+#1338565039
+ls py/
+#1338565045
+ls py/zh_cn/
+#1338565053
+ll th
+#1338565055
+cd html/
+#1338565060
+ff diveintopythonzh-cn.html 
+#1338598165
+gitlo.
+#1338598171
+py using_name.py 
+#1338598510
+cdv
+#1338598512
+svns
+#1338598517
+svn up
+#1338553196
+mutt
+#1338598529
+tail -n 100 getmail.crontab.log 
+#1338598533
+fg
+#1338598538
+tail -30 getmail.out.log 
+#1338598174
+py
+#1338598732
+g using_name.py
+#1338598943
+gits.
+#1338598945
+gita.
+#1338598953
+git commit
+#1338599097
+py mymodule_demo
+#1338599101
+py mymodule_demo.py 
+#1338599105
+py mymodule_demo2.py 
+#1338599219
+ii
+#1338599484
+gits.
+#1338599486
+gita.
+#1338599488
+git commit
+#1338599518
+gitlo
+#1338599823
+gits.
+#1338599826
+git a .
+#1338599828
+gita .
+#1338599829
+gits.
+#1338599831
+git commit
+#1338600032
+s mango
+#1338600037
+s carrot
+#1338600105
+py using_list.py 
+#1338600148
+py
+#1338600248
+gits.
+#1338600251
+gita.
+#1338600253
+git commit
+#1338600519
+py using_tuple.py 
+#1338600526
+s penguin
+#1338600606
+gits.
+#1338600616
+gitdl
+#1338600627
+gits.
+#1338600638
+s tuple
+#1338600671
+wh python
+#1338600679
+wh env
+#1338600681
+m env
+#1338600813
+gits.
+#1338600815
+gita.
+#1338600818
+git commit
+#1338600949
+gits.
+#1338600950
+gita.
+#1338600952
+git commit
+#1338601238
+py using_dict.py 
+#1338601262
+gita.
+#1338601264
+git commit
+#1338601774
+py seq.py 
+#1338601807
+gits.
+#1338601809
+gita.
+#1338601811
+git commit
+#1338601878
+gitls
+#1338602071
+gits.
+#1338602072
+py reference.py 
+#1338602075
+gita.
+#1338602077
+git commit
+#1338602356
+gits.
+#1338602357
+gita.
+#1338602361
+git commit
+#1338603133
+cdb
+#1338603134
+cd
+#1338603137
+ll audio/
+#1338603140
+ll audio/audio/
+#1338603142
+ll audio/audio/order.txt 
+#1338603144
+c audio/audio/order.txt 
+#1338603201
+cdm
+#1338603212
+mkdir backup
+#1338603220
+cd 
+#1338603227
+mkdir e
+#1338603229
+cd e
+#1338603234
+mkdir backup
+#1338603393
+m zip
+#1338603457
+py backup_ver1.py 
+#1338603469
+lll
+#1338603471
+cd backup/
+#1338603476
+g 2012-06-02T10\:17\:37.zip 
+#1338603483
+tar tf 2012-06-02T10\:17\:37.zip 
+#1338603489
+unzip tf 2012-06-02T10\:17\:37.zip 
+#1338603495
+m unzip
+#1338603512
+unzip -l 2012-06-02T10\:17\:37.zip 
+#1338603960
+py backup_ver2.py 
+#1338603968
+ll 2012-06-02
+#1338604406
+py backup_ver3.py 
+#1338604516
+py backup_ver4.py 
+#1338604536
+cdm
+#1338604538
+cd /mnt/
+#1338604577
+jj
+#1338604578
+ll 2012-06-02
+#1338604696
+gits.
+#1338604698
+gita.
+#1338604699
+git commit
+#1338604718
+gits.
+#1338604719
+gitlo.
+#1338604726
+gitlo. | wc
+#1338604732
+g
+#1338604990
+py simplestclass.py 
+#1338605059
+gita.
+#1338605060
+git commit
+#1338605258
+py method.py 
+#1338605276
+gita.
+#1338605278
+git commit
+#1338605389
+py class_init.py 
+#1338605435
+gits.
+#1338605436
+gita.
+#1338605437
+git commit
+#1338605656
+py objvar.py 
+#1338605814
+gits.
+#1338605815
+gitl
+#1338605817
+gitd.
+#1338605825
+py objvar.py 
+#1338605910
+gits.
+#1338605911
+gita.
+#1338605913
+git commit
+#1338605934
+gitlo.
+#1338605937
+gitl
+#1338606159
+py inherit.py 
+#1338606222
+gitdl
+#1338606223
+gita.
+#1338606225
+git commit
+#1338606235
+gita.
+#1338606237
+git commit
+#1338606247
+gitlo.
+#1338606349
+py using_file.py 
+#1338606353
+c poem.txt 
+#1338606359
+gits.
+#1338606361
+rm poem.txt 
+#1338606404
+py using_file.py 
+#1338606407
+rm poem.txt 
+#1338606410
+gits.
+#1338606411
+gita.
+#1338606417
+git commit
+#1338606565
+py pickling.py 
+#1338606626
+ gita.
+#1338606627
+git commit
+#1338606770
+py try_except.py 
+#1338606898
+gits.
+#1338606899
+gita.
+#1338606901
+git commit
+#1338606988
+py raising.py 
+#1338607025
+gita.
+#1338607026
+git commit
+#1338607108
+py finally.py 
+#1338607132
+touch poem.txt
+#1338607133
+py finally.py 
+#1338607153
+,y
+#1338607154
+py finally.py 
+#1338607218
+gits.
+#1338607221
+rm poem.txt 
+#1338607223
+git commit
+#1338607226
+gita.
+#1338607227
+git commit
+#1338607311
+s concatenate
+#1338607330
+py cat.py 
+#1338607336
+py cat.py var.py 
+#1338607352
+py cat.py --help
+#1338607367
+py cat.py --version
+#1338607625
+py cat.py 
+#1338607630
+py cat.py --version --help
+#1338607656
+py cat.py --help
+#1338607665
+py cat.py --helpf
+#1338607718
+py cat.py var.py var.py 
+#1338607724
+py cat.py var.py var.py var.py 
+#1338607731
+py cat.py var.py var.py | wc
+#1338607735
+py cat.py var.py  | wc
+#1338607803
+py
+#1338607851
+gita.
+#1338607853
+git commit
+#1338607895
+py
+#1338608094
+gits.
+#1338608095
+gita.
+#1338608102
+git commit
+#1338608235
+s specal
+#1338608274
+s special
+#1338608401
+gits.
+#1338608403
+git add .
+#1338608404
+git commit
+#1338608475
+gitl
+#1338608637
+gits.
+#1338608639
+git add .
+#1338608640
+git commit
+#1338608796
+py list_comprehension.py 
+#1338608816
+gita.
+#1338608819
+git commit
+#1338608842
+gitl
+#1338608853
+gitl.
+#1338608915
+ll |wc
+#1338608959
+cdvc
+#1338608960
+cdvcl
+#1338608963
+gits.
+#1338609079
+gita.
+#1338609082
+gits.
+#1338609085
+git commit
+#1338609289
+gits
+#1338609292
+gits.
+#1338609294
+git add .
+#1338609296
+git commit
+#1338609388
+gits.
+#1338609390
+git add .
+#1338609395
+git commit
+#1338609485
+mv assert.p assert.py
+#1338609500
+git add .
+#1338609502
+git commit
+#1338609616
+gits.
+#1338609618
+git add .
+#1338609619
+git commit
+#1338609633
+gitlo.
+#1338609685
+gits.
+#1338609691
+git push origin master
+#1338610370
+gitlo
+#1338610587
+,y
+#1338610591
+cd,y
+#1338610601
+mkdir simple
+#1338610603
+cd simple/
+#1338610613
+mkdir sudoku
+#1338610614
+cd sudoku/
+#1338610616
+s sudoku
+#1338610624
+s sodoku
+#1338610633
+g sudoku.py
+#1338610639
+py sudoku.py 
+#1338610641
+.s
+#1338610643
+py sudoku.py 
+#1338611346
+cdv
+#1338611349
+cd vimfiles/
+#1338611352
+ll indent/
+#1338611353
+cd indent/
+#1338611359
+,y
+#1338611360
+cdx
+#1338611369
+mv2,y python.vim 
+#1338611379
+g sudoku.py 
+#1338611388
+py sudoku.py 
+#1338612039
+chx reindent.py 
+#1338612042
+./reindent.py  sudoku.py 
+#1338612047
+g sudoku.py
+#1338612052
+py sudoku.py
+#1338612370
+mv python.vim python.vim.bk
+#1338612387
+g sudoku.py
+#1338612395
+py sudoku.py
+#1338618887
+mkdir indent
+#1338618891
+mv indent-guides-1.6.tar.gz indent
+#1338618892
+cd indent/
+#1338618906
+tar xvzf indent-guides-1.6.tar.gz 
+#1338618910
+ll plugin/
+#1338618913
+ll doc/
+#1338618915
+ll autoload/
+#1338618957
+cdv
+#1338618958
+cdvf
+#1338618962
+,y
+#1338618964
+cp2,y indent-guides-1.6.tar.gz 
+#1338618969
+svns
+#1338618980
+tar xvzf indent-guides-1.6.tar.gz 
+#1338618982
+svns
+#1338619017
+g sudoku.py
+#1338619103
+cdlc
+#1338619107
+cd fork/
+#1338619109
+g fork-num.c 
+#1338619124
+cd clock/
+#1338619125
+g clock.c 
+#1338620061
+cd doc/
+#1338620066
+g
+#1338620081
+svns
+#1338620244
+vi sudoku.py
+#1338620258
+ g sudoku.py
+#1338620320
+ii
+#1338620332
+t
+#1338620611
+cdb
+#1338620617
+g bw.sh 
+#1338620835
+t
+#1338620843
+ii
+#1338621017
+svns
+#1338621022
+svns
+#1338621029
+rm indent
+#1338621032
+rm indent-guides-1.6.tar.gz 
+#1338621033
+svns
+#1338621045
+svn add doc/ plugin/ autoload/
+#1338621047
+svns
+#1338621052
+svn add doc/ plugin/ autoload/ --force
+#1338621053
+svns
+#1338621060
+g README.
+#1338621064
+g README.markdown 
+#1338621090
+rm README.markdown 
+#1338621092
+svns
+#1338621099
+cdv
+#1338621100
+svs
+#1338621101
+svns
+#1338621110
+svnd _vimrc 
+#1338621113
+svnd _vimrc l
+#1338621117
+svndl _vimrc 
+#1338621134
+svns
+#1338621141
+svnd _vimrc | less
+#1338621165
+gvht
+#1338621175
+svns
+#1338621258
+p www.hao123.com
+#1338621195
+svn commit -m "vim(gvim)支持对齐线" _vimrc vimfiles/
+#1338621309
+svns
+#1338621316
+cdvf
+#1338621317
+svns
+#1338621736
+py sudoku.py
+#1338621788
+cdv
+#1338621790
+ii
+#1338621958
+g backup_ver4.py 
+#1338621984
+py backup_ver4.py 
+#1338622029
+cdrt
+#1338622032
+cd l
+#1338622036
+cd lang/
+#1338622039
+touch *
+#1338622048
+find . | grep python
+#1338622184
+cd linux/
+#1338622187
+cd computor/
+#1338622190
+cd lang/
+#1338622192
+cd python/
+#1338622199
+ex .
+#1338622476
+cd
+#1338622478
+g yum_list.txt 
+#1338622500
+gvht
+#1338622728
+cdx
+#1338622736
+mkdir python
+#1338622739
+mv Pythius-1.4.tar.bz2 python/
+#1338622740
+cd python/
+#1338622748
+tar xvjf Pythius-1.4.tar.bz2 
+#1338622751
+cd Pythius-1.4
+#1338622772
+python setup.py build
+#1338622782
+g setup.py 
+#1338622812
+python setup.py build
+#1338622908
+python setup.py install
+#1338622912
+su
+#1338622930
+pydent 
+#1338622804
+vi break.py 
+#1338622960
+pydent sudoku.py
+#1338622974
+py sudoku.py
+#1338622977
+g sudoku.py
+#1338622987
+pydent sudoku.py
+#1338623004
+pydent help
+#1338623012
+pydent --help
+#1338623018
+pydent -c sudoku.py
+#1338623032
+rm sudoku.py.bak 
+#1338623036
+pydent -c sudoku.py
+#1338623058
+pydent -q -c sudoku.py
+#1338623075
+py sudoku.py
+#1338623684
+cp sudoku.py.bk sudoku.py
+#1338623688
+py sudoku.py
+#1338623696
+pydent sudoku.py
+#1338623722
+py sudoku.py
+#1338623805
+rm sudoku.py.bk sudoku.bak 
+#1338623808
+rm reindent.py 
+#1338623818
+git add simple/
+#1338623819
+svns
+#1338623822
+gits.
+#1338623835
+git commit -m  '数据之py片断'
+#1338623842
+git commit -m  '数据之python实现'
+#1338623844
+svns
+#1338623866
+cdvcrtbot
+#1338623879
+find . | grep indent
+#1338623881
+cd devel/
+#1338623889
+mkdir pydent
+#1338623897
+mv pydent/ pyindent
+#1338623909
+mv pyindent/ pydent
+#1338623925
+,y
+#1338623935
+mv2,y Pythius-1.4.tar.bz2 
+#1338623942
+rm -fr Pythius-1.4/
+#1338623949
+mv Pythius-1.4.tar.bz2  Pythius-1.4.tar.bz2  pydent/
+#1338623954
+cd pydent/
+#1338623959
+g README 
+#1338624064
+gvht
+#1338624067
+gvnt
+#1338624074
+gvlc
+#1338624156
+svns
+#1338624157
+gits.
+#1338624167
+git add pydent/
+#1338624169
+gits.
+#1338624188
+git commit -m  ' Python的程序代码美化工具'
+#1338624201
+git commit --amend
+#1338624205
+gitlo.
+#1338624214
+ii
+#1338624214
+t
+#1338624216
+ii
+#1338624217
+t
+#1338624492
+cd
+#1338624493
+cd .f
+#1338624495
+cd .fcitx/
+#1338624498
+ll bk
+#1338626604
+cdx
+#1338626611
+cd div
+#1338626614
+cd diveintopython
+#1338626619
+cd diveintopythonzh-cn-5.4b/
+#1338626622
+cd html/
+#1338626624
+ll ../py/
+#1338626631
+ff diveintopythonzh-cn.html 
+#1338633597
+cdx
+#1338633610
+mv 100723123155c9dc09d3d6a644.pdf python/
+#1338633611
+cd yindonggsjjz.zip 
+#1338633613
+cd python/
+#1338633623
+mv 100723123155c9dc09d3d6a644.pdf  01Python核心编程第二版.pdf
+#1338633626
+ex .
+#1338635175
+mv ../10103000071a9ef73b1a5402cc.pdf .
+#1338635242
+mv ../1007231231* .
+#1338635253
+unzip 10072312313dd9e587f710e9b0.zip 
+#1338635265
+ff book.html 
+#1338635344
+rar x 1007231231cd7c786ec4b932b5.rar 
+#1338635551
+mv ../1007231231094d40533b6c3b78.rar .
+#1338635561
+rar x 1007231231094d40533b6c3b78.rar 
+#1338635570
+vi pygame贪食蛇代码示例SnakeBite.py 
+#1338635583
+py pygame贪食蛇代码示例SnakeBite.py 
+#1338635593
+ g sudoku.py
+#1338635599
+vi pygame贪食蛇代码示例SnakeBite.py 
+#1338635628
+py pygame贪食蛇代码示例SnakeBite.py 
+#1338635716
+touch *
+#1338635836
+rm ../100723123155c9dc09d3d6a644.pdf 
+#1338635910
+mv ../15831436.pdf .
+#1338636339
+mv ../10103000070825bceb13afaf6a.pdf .
+#1338636414
+mv ../Beginning.Python.From.Novice.to.Professional,2nd.Edition* .
+#1338636453
+cd 05Python基础教程\:第2版/
+#1338636458
+unzip Beginning.Python.From.Novice.to.Professional,2nd.Edition*
+#1338636467
+unzip Beginning.Python.From.Novice.to.Professional,2nd.Edition_chs.zip 
+#1338636524
+unzip Beginning.Python.From.Novice.to.Professional\,2nd.Edition\[www.TopSage.com\].zip 
+#1338636624
+mv ../1007231306d1b9f7b7aae6f746.gz .
+#1338636630
+file 1007231306d1b9f7b7aae6f746.gz 
+#1338636640
+unzip 1007231306d1b9f7b7aae6f746.gz 
+#1338636645
+ungzip 1007231306d1b9f7b7aae6f746.gz 
+#1338636657
+gunzip 1007231306d1b9f7b7aae6f746.gz 
+#1338636664
+file 1007231306d1b9f7b7aae6f746 
+#1338636671
+tar xvf 1007231306d1b9f7b7aae6f746 
+#1338636676
+rm 1007231306d1b9f7b7aae6f746 
+#1338636681
+ll pymssql-1.0.2/
+#1338636683
+ds pymssql-1.0.2/
+#1338636848
+mv ../10072313058dac5cab97dc10c6.pdf .
+#1338637296
+mv ../1007231259cda91d2529a2db5d.pdf .
+#1338637301
+ex .
+#1338637455
+mv 1007231259cda91d2529a2db5d.pdf C常用算法程序集.pdf
+#1338637576
+mv ../1007231259330d82549a9de487.rar .
+#1338637579
+rar x 1007231259330d82549a9de487.rar 
+#1338637907
+mv ../100723125920725f50a3ee654f.pdf .
+#1338637927
+mv 100723125920725f50a3ee654f.pdf 22C语言深度解剖.pdf
+#1338637945
+touch *
+#1338638039
+cdx
+#1338638047
+rm 10*
+#1338638069
+cd
+#1338638074
+cd tmp/wget2
+#1338638079
+2d691bbb4.pdf
+#1338638082
+cd
+#1338638088
+cd tmp/wget2
+#1338638095
+wget -r -c -p http://glzj.chinagosun.com/rte/attachments/py201010/1010300007cc930822d691bbb4.pdf
+#1338638111
+ex .
+#1338638122
+rm -rf glzj.chinagosun.com/
+#1338640671
+cdx
+#1338640681
+mkdir exo
+#1338640686
+mv exopc-06-22-2000.tar.gz exo
+#1338640689
+cd exo
+#1338640696
+tar xvzf exopc-06-22-2000.tar.gz 
+#1338640700
+cd exopc
+#1338640702
+ma
+#1338640713
+make hlep
+#1338640716
+make help
+#1338640718
+mc
+#1338640725
+ma
+#1338648054
+mkdir -p ~/.ccache
+#1338648057
+ma
+#1338648063
+vi GNUmakefile
+#1338648087
+g GNUmakefile.global
+#1338648123
+v README 
+#1338648496
+ma
+#1338648501
+cd exopc
+#1338648503
+ma
+#1338648508
+ll doc/
+#1338648523
+cat VERSION 
+#1338648526
+cat TODO 
+#1338648555
+make 
+#1338648602
+g README 
+#1338648712
+ma
+#1338648715
+ll tree/
+#1338648718
+ds tree/
+#1338648730
+ll tree/etc/
+#1338648745
+ll ebin/
+#1338648748
+ll ebin/init/
+#1338648894
+vmware&
+#1338648904
+,y
+#1338648907
+cd,y
+#1338648914
+ds exopc
+#1338648925
+rm exopc -rf
+#1338648930
+tar xvzf exopc-06-22-2000.tar.gz 
+#1338648934
+cd exopc
+#1338648936
+git init
+#1338648941
+git add .
+#1338648955
+git commit 'init'
+#1338648967
+git commit -m 'init'
+#1338648972
+gitlo.
+#1338648974
+ma
+#1338648976
+gits.
+#1338648978
+ma
+#1338650638
+jll
+#1338650641
+ll sys
+#1338650645
+ll sys/
+#1338650646
+cd sys/
+#1338650654
+ll i386/
+#1338650657
+ll i386/isa/
+#1338650663
+ll kern/
+#1338650672
+ma
+#1338650694
+g
+#1338650766
+cat ARCH 
+#1338650836
+ma
+#1338651000
+make -f GNUmakefile.global.dyn 
+#1338651062
+make -f GNUmakefile.global
+#1338651068
+lla
+#1338651075
+ma
+#1338651090
+make -f GNUmakefile.global
+#1338651095
+make -f GNUmakefile
+#1338651110
+ll sys/conf/
+#1338651115
+ll sys/conf/src/
+#1338651119
+ll sys/conf/
+#1338651120
+ll sys/conf/obj/
+#1338651128
+cd sys/conf/
+#1338651130
+g syscall.conf 
+#1338651218
+...
+#1338651224
+ds sys/
+#1338651229
+ds logo/
+#1338651230
+ll logo/
+#1338651232
+ex logo/
+#1338651249
+;;
+#1338651258
+ll benchmarks/
+#1338651266
+ll tree/
+#1338651273
+ds tree/
+#1338651276
+ds include/
+#1338651277
+ds doc/
+#1338651279
+ds ebin/
+#1338651283
+ds CVS/
+#1338651287
+ds bin/
+#1338651291
+ds floppy_boot/
+#1338651293
+ds *
+#1338651302
+ll lib/
+#1338651310
+ll tools/
+#1338651320
+ll tools/gdb/
+#1338651331
+c tools/gdb/README 
+#1338651394
+ll BUGS 
+#1338651396
+cat BUGS 
+#1338651499
+fif -name "*.c"
+#1338651504
+find . -name "*.c"
+#1338651508
+find . -name "*.c" | wc
+#1338651512
+find . -name "*.c" | xargs wc
+#1338651525
+ll test/
+#1338651528
+ds test/
+#1338651545
+find benchmarks/ lib/ sys/  . -name "*.c" | xargs wc
+#1338651557
+find . -name "*.c" | xargs wc
+#1338651569
+find benchmarks/ lib/ sys/  . -name "*.c" | xargs wc
+#1338651580
+find benchmarks/ lib/ sys/  -name "*.c" | xargs wc
+#1338651590
+find  sys/  -name "*.c" | xargs wc
+#1338651616
+ma
+#1338651618
+make
+#1338651621
+ma
+#1338651706
+fif 'failed to create'
+#1338651745
+find . | grep ccache
+#1338651749
+ccache
+#1338651813
+fifw ccache
+#1338651819
+ma
+#1338651859
+find . | grep gensyms
+#1338651877
+cd sys/conf/src/
+#1338651889
+gcc -c gensyms-exopc.c 
+#1338651894
+...
+#1338651897
+ma
+#1338651913
+find . | grep makefiles
+#1338651928
+ll /tmp/
+#1338651931
+ds /tmp/
+#1338651939
+ma
+#1338652271
+fif GNUmakefile.global.dyn 
+#1338652331
+ll README 
+#1338652333
+cat README 
+#1338652366
+ll logo/
+#1338652370
+ll include/
+#1338652378
+ma
+#1338652382
+make
+#1338652386
+make help
+#1338652392
+ll ebin/
+#1338652397
+ll ebin/init/
+#1338652404
+g ebin/init/init.c 
+#1338652445
+cd
+#1338652446
+i
+#1338652452
+cdlc
+#1338652456
+cd minix/
+#1338652458
+cd printf/
+#1338652461
+g watch2.c 
+#1338652472
+cd key-value/
+#1338652474
+g key_value.c 
+#1338652506
+ma
+#1338652511
+./key_value 
+#1338652513
+rm key_value
+#1338652614
+ma
+#1338652617
+rm key_value
+#1338652618
+ma
+#1338652697
+cd sys/
+#1338652701
+cd conf/
+#1338652705
+make
+#1338652712
+cd src/
+#1338652715
+make
+#1338652716
+ma
+#1338652721
+ll obj/
+#1338652725
+rmdir obj/
+#1338652726
+ma
+#1338652734
+cat trap.conf 
+#1338652776
+ma
+#1338652788
+cd obj/
+#1338652803
+cc  -pipe -I/home/scr/xiazai/exo/exopc/sys/conf/../../include -I/home/scr/xiazai/exo/exopc/sys/conf/../../sys -I/home/scr/xiazai/exo/exopc/sys/conf/../../lib/libexos -MD -c -g -O -Wall -Wno-comments -Wno-parentheses -Werror -Wno-char-subscripts   -DEXOPC ../src/gensyms-exopc.c
+#1338652841
+cdvcl
+#1338652849
+cd lang/
+#1338652856
+locate orange
+#1338652880
+cdvcl
+#1338652886
+cd book-src/
+#1338652894
+cd orange\'s/orange-src/chapter6/e
+#1338652939
+,y
+#1338652943
+cd,y
+#1338652946
+cc -m elf_i386 -fno-builtin -m32 -pipe -I/home/scr/xiazai/exo/exopc/sys/conf/../../include -I/home/scr/xiazai/exo/exopc/sys/conf/../../sys -I/home/scr/xiazai/exo/exopc/sys/conf/../../lib/libexos -MD -c -g -O -Wall -Wno-comments -Wno-parentheses -Werror -Wno-char-subscripts   -DEXOPC ../src/gensyms-exopc.c
+#1338652956
+gcc -m elf_i386 -fno-builtin -m32 -pipe -I/home/scr/xiazai/exo/exopc/sys/conf/../../include -I/home/scr/xiazai/exo/exopc/sys/conf/../../sys -I/home/scr/xiazai/exo/exopc/sys/conf/../../lib/libexos -MD -c -g -O -Wall -Wno-comments -Wno-parentheses -Werror -Wno-char-subscripts   -DEXOPC ../src/gensyms-exopc.c
+#1338652968
+gcc -fno-builtin -m32 -pipe -I/home/scr/xiazai/exo/exopc/sys/conf/../../include -I/home/scr/xiazai/exo/exopc/sys/conf/../../sys -I/home/scr/xiazai/exo/exopc/sys/conf/../../lib/libexos -MD -c -g -O -Wall -Wno-comments -Wno-parentheses -Werror -Wno-char-subscripts   -DEXOPC ../src/gensyms-exopc.c
+#1338652990
+l..
+#1338652993
+ma
+#1338653007
+rm gensyms-exopc.d
+#1338653027
+rm gensyms-exopc.o 
+#1338653037
+gcc -fno-builtin -m32 -pipe -I/home/scr/xiazai/exo/exopc/sys/conf/../../include -I/home/scr/xiazai/exo/exopc/sys/conf/../../sys -I/home/scr/xiazai/exo/exopc/sys/conf/../../lib/libexos -MD -c -g -O -Wall -Wno-comments -Wno-parentheses -Werror -Wno-char-subscripts   -DEXOPC ../src/gensyms-exopc.c
+#1338653043
+g gensyms-exopc.d
+#1338653064
+rm gensyms-exopc.*
+#1338653336
+ma
+#1338653344
+fif ccache
+#1338653572
+gits.
+#1338653581
+cp ~/.gitignore .
+#1338653582
+gits.
+#1338653592
+cat .gitignore 
+#1338653611
+rm .gitignore 
+#1338653613
+gits.
+#1338653647
+ma
+#1338653780
+ma
+#1338653825
+cd obj/
+#1338653827
+gcc  -pipe -fno-builtin -m32 -I/home/scr/xiazai/exo/exopc/sys/conf/../../include -I/home/scr/xiazai/exo/exopc/sys/conf/../../sys -I/home/scr/xiazai/exo/exopc/sys/conf/../../lib/libexos -MD -c -g -O -Wall -Wno-comments -Wno-parentheses -Werror -Wno-char-subscripts   -DEXOPC ../src/gensyms-exopc.c
+#1338653920
+m ccache
+#1338653981
+wh ccache
+#1338653992
+export CCACHE_PATH="/usr/bin"
+#1338653994
+ma
+#1338654132
+ll /var/cache/ccache/
+#1338654143
+ma
+#1338654161
+ds /var/cache/ccache/
+#1338654169
+ll /var/cache/ccache/2
+#1338654171
+ll /var/cache/ccache/2/2
+#1338654175
+ma
+#1338654180
+rm *
+#1338654187
+lll
+#1338654189
+ma
+#1338654209
+find . | grep stubs
+#1338654231
+g /usr/include/gnu/stubs.h 
+#1338654262
+ma
+#1338654268
+mc
+#1338654274
+ma
+#1338654321
+exc
+#1338654350
+cd
+#1338654352
+cd-
+#1338654355
+gits.
+#1338654361
+mc
+#1338654380
+gits.
+#1338654403
+ex .
+#1338686068
+ii
+#1338686095
+fl
+#1338686119
+mount /dev/sdb1 /media/la
+#1338686193
+c VERSION 
+#1338686207
+vmware&
+#1338686227
+exc
+#1338686698
+ex .
+#1338686711
+wh ex
+#1338686717
+ex .
+#1338686721
+ex
+#1338652897
+vi Makefile 
+#1338686737
+fg
+#1338686748
+....
+#1338686753
+ex .
+#1338687104
+ping 192.168.1.49
+#1338687158
+ssh 192.168.1.49
+#1338654134
+su
+#1338687437
+g
+#1338687720
+gits.
+#1338687759
+ff&
+#1338687875
+cd
+#1338687877
+cd tmp/wget2
+#1338687885
+wget -r -c -p http://blogimg.itlong.com/blog/upfile2/09032121300gz
+#1338688685
+gvlc
+#1338688848
+vi /usr/include/stdio.h 
+#1338688894
+vi
+#1338689405
+gits.
+#1338689412
+gitd sys/
+#1338689806
+ctagsc.sh 
+#1338689835
+ll sys/xok/sys_syms.h 
+#1338690325
+find  . | grep types.h
+#1338690443
+ll sys/
+#1338690906
+gits.
+#1338691443
+git checkout sys/conf/src/linebuf.h 
+#1338691737
+m strcpy
+#1338691893
+fif ranlib
+#1338692007
+g lib/libc/../../lib/libexos/os/entry.S:155: 
+#1338692269
+fifchw UAREA
+#1338692278
+wh fif
+#1338692287
+fichw UAREA
+#1338692366
+g lib/libc/../../include/exos/process.h:55
+#1338692434
+g 
+#1338692438
+g lib/libc/../../include/exos/uwk.h:84:
+#1338692466
+g lib/libc/../../include/exos/uwk.h:255
+#1338692479
+g lib/libc/../../include/exos/locks.h:255:
+#1338692541
+m 3 exit
+#1338692576
+g lib/libc/gen/verr.c:68
+#1338692649
+gits.
+#1338692665
+gitd sys/conf/src/genvec.c
+#1338692682
+gitd  sys/conf/src/gensys.c
+#1338692979
+g lib/libc/../../include/err.h:78:
+#1338693018
+g lib/libc/gen/verr.c:68:
+#1338693069
+ln -s GNUmakefile makefile
+#1338693136
+g lib/libc/gen/verr.c:68:
+#1338693486
+g lib/libc/../../include/err.h:78:
+#1338693784
+g lib/libc/time/strptime.c:133:
+#1338694187
+g lib/libc/../../sys/xok/sys_ucall.h:22: 
+#1338694204
+g lib/libc/../../lib/libexos/os/xrt0.c:
+#1338694263
+g lib/libc/../../sys/xok/sys_ucall.h:
+#1338694267
+g lib/libc/../../sys/xok/sys_ucall.h
+#1338694399
+gits.
+#1338694613
+mc
+#1338694620
+gits.
+#1338694832
+date
+#1338696808
+sll
+#1338697016
+cd tools/
+#1338697021
+cd linux-cross/
+#1338697038
+tar tf cross-tools-libc6.tgz 
+#1338697058
+ll /usr/local/
+#1338697066
+gits.
+#1338697072
+...
+#1338697078
+cd exopc
+#1338697079
+mc
+#1338697085
+gits.
+#1338697095
+git checkout .
+#1338697097
+gits.
+#1338697132
+rm lib/libexos/os/kerncallstr.c makefile sys/kern/batch.c sys/kern/kerncallstr.c tools/setmagic/setmagic
+#1338697133
+gits.
+#1338697158
+w
+#1338697167
+cd tools/
+#1338697171
+g ..
+#1338697218
+cd linux-cross/
+#1338697239
+tar xvzf cross-tools-libc6.tgz 
+#1338697255
+vi ARCH 
+#1338697263
+set LNPROGINSTALL
+#1338697270
+set LNLIBINSTALL
+#1338697279
+mc
+#1338697285
+gits.
+#1338697288
+ma
+#1338697293
+mc
+#1338697490
+ll tools/linux-cross/
+#1338697564
+cd tools/
+#1338697565
+cd linux-cross/
+#1338697570
+rm usr/ -rf
+#1338697654
+gits.
+#1338697951
+...
+#1338697960
+find  . | grep site-conf.h
+#1338697978
+cd include/exos/
+#1338697985
+g site-conf.h-template 
+#1338698001
+ln site-conf.h-template site-conf.h
+#1338698010
+ll site-conf.h*
+#1338698411
+locate libc.so.
+#1338698519
+find . | grep errno
+#1338698525
+...
+#1338698527
+find . | grep errno
+#1338698537
+g lib/libc/gen/errno.c 
+#1338698570
+g ./include/errno.h
+#1338698645
+find . | grep errno
+#1338698653
+g ./include/vos/errno.h
+#1338702490
+f
+#1338702491
+fl
+#1338702520
+mount /dev/sda5 /media/htc/
+#1338703507
+reboot
+#1338553180
+screen 
+#1338697161
+su
+#1338687352
+su
+#1338598545
+fg
+#1338703655
+ff&
+#1338703661
+cd .getmail
+#1338703668
+mutt
+#1338705253
+s geek
+#1338705863
+vmware&
+#1338728948
+ssh 192.168.3.139
+#1338728968
+ssh 192.168.1.139
+#1338735614
+cd
+#1338735618
+cdvcl
+#1338735625
+cd book-src/orange\'s/orange-src/chapter5
+#1338735627
+cd f
+#1338735630
+vi Makefile 
+#1338735641
+cd ..
+#1338735644
+cd chapter7
+#1338735645
+cd d
+#1338735647
+vi Makefile 
+#1338736505
+cd
+#1338736507
+cd,y
+#1338736513
+...
+#1338736519
+gits.
+#1338736526
+cd doc
+#1338736543
+g
+#1338736860
+ll /lib
+#1338736866
+w
+#1338736960
+ll /lib
+#1338736963
+ll /lib/alsa/
+#1338736965
+ll /lib/alsa/init/
+#1338736970
+ll /usr/lib
+#1338737231
+cat RE
+#1338737234
+cat README 
+#1338737255
+cd te
+#1338737256
+cd tex
+#1338737264
+cat ../README 
+#1338737271
+g guide.tex 
+#1338737379
+wh make
+#1338737382
+ll /usr/bin/make
+#1338737386
+wh gmake
+#1338737396
+ll /usr/bin/gmake 
+#1338737792
+tar xvzf cross-tools-libc6.tgz 
+#1338737798
+tail -30 getmail.out.log 
+#1338737806
+tail -n 100 getmail.crontab.log 
+#1338737819
+t
+#1338737834
+cdx
+#1338737837
+cd python/
+#1338737840
+ex .
+#1338738038
+echo $PYTHONPATH
+#1338770512
+ii
+#1338728973
+su
+#1338770913
+cdx
+#1338770916
+ll python/
+#1338770925
+cdvcrt
+#1338770928
+cd linux/
+#1338770932
+cd computor/
+#1338770936
+cd lang/
+#1338770939
+cd python/
+#1338770946
+ex .
+#1338770953
+,y
+#1338770958
+cdx
+#1338770960
+cd python/
+#1338770969
+mv2,y *
+#1338770971
+lla
+#1338770984
+cd c
+#1338770986
+,y
+#1338771038
+mv2,y C常用算法程序集.pdf 21常用算法程序集\(C语言描述\)\  
+#1338771068
+pdf 04Django-Web开发指南.pdf &
+#1338771070
+ii
+#1338771081
+mv2,y 22C语言深度解剖.pdf 
+#1338771084
+cd c
+#1338779355
+wh python
+#1338779368
+ls /sbin
+#1338779379
+wh iw
+#1338779383
+wh mkfs
+#1338779889
+cdvcl
+#1338779905
+mkdir django
+#1338779907
+cd django/
+#1338779958
+mdkir root
+#1338779960
+cd root/
+#1338779961
+,y
+#1338779964
+cdx
+#1338779973
+mv2,y Django-1.0.4.tar.gz 
+#1338779978
+tar xzvf Django-1.0.4.tar.gz 
+#1338779983
+cd Django-1.0.4
+#1338779987
+ll ex
+#1338779990
+ll examples/
+#1338779997
+ll examples/hello/
+#1338780003
+cat AUTHORS 
+#1338780013
+vi README 
+#1338780068
+echo $PYTHONPATH
+#1338780070
+e echo $PYTHONPATH
+#1338780075
+e echo PYTHONPATH
+#1338780079
+,y
+#1338780083
+e echo PYTHONPATH
+#1338780085
+vbs
+#1338780109
+,y
+#1338780110
+fg
+#1338780123
+.s
+#1338780124
+e echo PYTHONPATH
+#1338780126
+e echo $PYTHONPATH
+#1338780139
+echo $PYTHONPATH
+#1338780155
+python setup.py install
+#1338780184
+ds build/
+#1338780186
+ll build/
+#1338780133
+su
+#1338780198
+py
+#1338780408
+service apach restart
+#1338780414
+service apache restart
+#1338780479
+locate httpd.conf
+#1338780494
+vi /etc/httpd/conf/httpd.conf 
+#1338780817
+vi README 
+#1338781146
+fif intro-tutorial01
+#1338781163
+fg
+#1338781331
+,y
+#1338781334
+cd,y
+#1338781341
+mkdit test
+#1338781344
+mkdir test
+#1338781346
+cd test/
+#1338781352
+mkdir exam1
+#1338781354
+cd exam1/
+#1338781371
+django-admin.py startproject mysite
+#1338781375
+ll mysite/
+#1338781377
+cd mysite/
+#1338781332
+fg
+#1338781461
+g docs/intro/tutorial01.txt 
+#1338781766
+python manage.py runserver
+#1338781773
+python manage.py runserver
+#1338782081
+python manage.py runserver 192.168.1.134:7000
+#1338770956
+screen 
+#1338790342
+date
+#1338790348
+cal
+#1338794321
+vi manage.py 
+#1338794348
+v settings.py
+#1338794365
+v
+#1338794412
+vi urls.py
+#1338794621
+python manage.py runserver 192.168.1.134:7000
+#1338794725
+./manage.py startapp blog
+#1338794728
+ll blog/
+#1338794769
+vi settings.py
+#1338794840
+,
+#1338794842
+,y
+#1338794843
+cd,y
+#1338794846
+cd blog/
+#1338794850
+vi models.py 
+#1338795130
+fg 1
+#1338795277
+ll /var
+#1338795280
+ll /var/db
+#1338795287
+ll /var/db/sudo/
+#1338795302
+ cd /var/
+#1338795304
+cd db
+#1338795309
+cat 
+#1338795315
+cd /var/db
+#1338795320
+c Makefile 
+#1338795323
+vi Makefile 
+#1338795367
+ll sudo/
+#1338795369
+ll sudo/scr/
+#1338795362
+su
+#1338795456
+fg
+#1338795460
+fg
+#1338795471
+cd
+#1338795474
+mkdir db
+#1338795477
+cd db
+#1338795583
+sqlite3 django.bd
+#1338795657
+./manage.py pyncdb
+#1338795673
+fg
+#1338795741
+./manage.py pyncdb
+#1338795761
+./manage.py help
+#1338795792
+./manage.py syncdb
+#1338795841
+zcat django.db 
+#1338795845
+c django.db 
+#1338796026
+fg
+#1338796057
+./manage.py syncdb
+#1338796082
+jj
+#1338796084
+vi urls.py
+#1338796168
+jj
+#1338796171
+fg 2
+#1338796249
+python manage.py runserver 192.168.1.134:7000
+#1338796430
+fg 3
+#1338796471
+jj
+#1338796473
+fg 1
+#1338796496
+./manage.py syncdb
+#1338796499
+fg 2
+#1338796555
+fg
+#1338796557
+jj
+#1338796564
+fg 2
+#1338796566
+fg 1
+#1338796571
+jj
+#1338796574
+fg 3
+#1338796596
+python manage.py runserver
+#1338796630
+python manage.py runserver 192.168.1.134:7000
+#1338796647
+,y
+#1338796649
+cd,y
+#1338796652
+python manage.py runserver
+#1338796658
+python manage.py runserver 192.168.1.134:7000
+#1338796661
+python manage.py runserver 
+#1338796686
+./manage.py syncdb
+#1338796715
+cd,y
+#1338796717
+./manage.py syncdb
+#1338796726
+./manage.py syncdb
+#1338796729
+python manage.py runserver 
+#1338796734
+python manage.py runserver 192.168.1.134:7000
+#1338796815
+jj
+#1338796846
+python manage.py runserver 192.168.1.134:7000&
+#1338797026
+fg 1
+#1338797057
+fg
+#1338797087
+fg 3
+#1338797111
+fg
+#1338797127
+fg 4
+#1338797130
+python manage.py runserver 192.168.1.134:7000&
+#1338797146
+fg 4
+#1338797149
+fg
+#1338797168
+python manage.py runserver 192.168.1.134:7000
+#1338797217
+fg 3
+#1338797269
+fg 1
+#1338797277
+fg 3
+#1338797290
+python manage.py runserver 192.168.1.134:7000
+#1338797307
+fg
+#1338797315
+fg 2
+#1338797340
+fg
+#1338797341
+jj
+#1338797347
+fg 3
+#1338797356
+jj
+#1338797359
+fg 1
+#1338797371
+python manage.py runserver 192.168.1.134:7000
+#1338797389
+jj
+#1338797390
+fg
+#1338797396
+fg 3
+#1338797415
+python manage.py runserver 192.168.1.134:7000
+#1338797424
+fg
+#1338797442
+python manage.py runserver 192.168.1.134:7000
+#1338797458
+fg
+#1338797469
+python manage.py runserver 192.168.1.134:7000
+#1338797531
+fg
+#1338797544
+python manage.py runserver 192.168.1.134:7000
+#1338797561
+f
+#1338797562
+fg
+#1338797571
+cd Django-1.0.4
+#1338797574
+cd docs/
+#1338797576
+cd in
+#1338797579
+cd int
+#1338797580
+cd intro/
+#1338797689
+fg 3
+#1338797698
+python manage.py runserver 192.168.1.134:7000
+#1338797709
+fg
+#1338797759
+jj
+#1338797762
+python manage.py runserver 192.168.1.134:7000
+#1338797833
+fg 3
+#1338797836
+jj
+#1338797841
+fg 1
+#1338797847
+python manage.py runserver 192.168.1.134:7000
+#1338797850
+fg
+#1338797854
+python manage.py runserver 192.168.1.134:7000
+#1338798201
+python manage.py runserver 
+#1338798216
+python manage.py runserver 192.168.1.134:7000
+#1338798257
+jj
+#1338798308
+fg 2
+#1338798453
+python manage.py runserver 192.168.1.134:7000
+#1338798495
+fg
+#1338798533
+python manage.py runserver 192.168.1.134:7000
+#1338798783
+fg 2
+#1338798876
+cd blog/
+#1338798881
+mkdir templates
+#1338798885
+cd te
+#1338798887
+cd templates/
+#1338798892
+vi archive.html
+#1338799008
+vi views.py
+#1338799308
+jj
+#1338799315
+fg 3
+#1338799370
+jj
+#1338799380
+vi urls.py
+#1338799392
+fg
+#1338799481
+jj
+#1338799485
+fg
+#1338799491
+fg 5
+#1338799545
+python manage.py runserver 192.168.1.134:7000
+#1338799597
+fg 5
+#1338799611
+python manage.py runserver 192.168.1.134:7000
+#1338799697
+cd blog/te
+#1338799703
+cd blog/templates/
+#1338799709
+vi base.html
+#1338799942
+fg 4
+#1338800043
+...
+#1338800044
+python manage.py runserver 192.168.1.134:7000
+#1338800155
+fg 2
+#1338800181
+python manage.py runserver 192.168.1.134:7000
+#1338800277
+fg 4
+#1338800286
+python manage.py runserver 192.168.1.134:7000
+#1338800317
+fg
+#1338800330
+python manage.py runserver 192.168.1.134:7000
+#1338800340
+fg
+#1338800478
+d
+#1338800482
+ll blog/
+#1338705257
+fg
+#1338800642
+jj
+#1338800645
+vmware&
+#1338801886
+ii
+#1338801939
+t
+#1338801949
+ii
+#1338809568
+i
+#1338809569
+ii
+#1338809580
+pdf&
+#1338809581
+ii
+#1338809583
+vmware&
+#1338809647
+ii
+#1338813008
+ff&
+#1338852504
+tail -30 getmail.out.log 
+#1338852510
+tail -n 100 getmail.crontab.log 
+#1338862757
+cdlc
+#1338862761
+cd test/
+#1338862767
+mkdir const
+#1338862768
+cd const/
+#1338862771
+g const.c
+#1338862859
+gcc -Wall const.c 
+#1338862864
+./a.out 
+#1338862889
+gcc -Wall -c const.c 
+#1338862895
+gcc -Wall const.c 
+#1338862897
+./a.out 
+#1338862903
+gcc -g -Wall const.c 
+#1338862904
+./a.out 
+#1338862974
+gcc -g -Wall const.c 
+#1338863004
+./a.out 
+#1338863087
+g++ -Wall const.cpp 
+#1338863103
+rm a.out 
+#1338863108
+g++ -Wall const.cpp 
+#1338863110
+./a.out 
+#1338863224
+g++ -Wall const.cpp 
+#1338863226
+./a.out 
+#1338863238
+g++ -Wall const.cpp 
+#1338863286
+g++ -g -Wall const.cpp 
+#1338863579
+./a.out 
+#1338863613
+gcc const.c
+#1338863614
+./a.out 
+#1338863629
+g++ -g -Wall const.cpp 
+#1338863631
+./a.out 
+#1338863729
+g++ const.c
+#1338863731
+./a.out 
+#1338864567
+,y
+#1338864569
+cd,y
+#1338864579
+mkdir strlen
+#1338864581
+cd strlen/
+#1338864585
+g len.c
+#1338864659
+gcc len.c 
+#1338864668
+./a.out 
+#1338867355
+wh swap
+#1338880404
+m fgets
+#1338882608
+ff&
+#1338882859
+grep SSSS /usr/include/*/*.h
+#1338882929
+grep ARG_MAX /usr/include/*/*.h
+#1338882948
+grep -w ARG_MAX /usr/include/*/*.h
+#1338882958
+bce 131072/1024
+#1338899501
+kk
+#1338899505
+ex .
+#1338899524
+ii
+#1338902677
+cdx
+#1338902685
+ff 廖才源.mht 
+#1338902785
+mv 廖才源.mht 01廖才源.html
+#1338902786
+ff 01廖才源.html 
+#1338902993
+exc
+#1338903058
+ex .
+#1338903069
+chxx wkk王可可.doc 
+#1338903164
+mv wkk王可可.doc wkk王可可.doc
+#1338903384
+vmware&
+#1338903614
+ii
+#1338902348
+mutt
+#1338903631
+ex .
+#1338907580
+gvlc
+#1338907587
+gvht
+#1338908116
+cdv
+#1338908119
+svni
+#1338909484
+exc
+#1338910978
+fcitx 
+#1338911002
+exc
+#1338911004
+fcitx 
+#1338910983
+su
+#1338914380
+exc
+#1338914892
+cdx
+#1338914893
+cd
+#1338914897
+cd .fcitx/
+#1338914898
+lla
+#1338914901
+ll bk
+#1338942563
+cd
+#1338945812
+cd
+#1338945817
+fg
+#1338780398
+su
+#1338945836
+cd
+#1338945837
+cd 
+#1338945840
+vi .procmailrc 
+#1338942569
+mutt
+#1338946021
+mutt
+#1338947015
+vi .procmailrc 
+#1338950392
+ii
+#1338950419
+pg fire
+#1338950425
+kill 28534
+#1338950430
+kill 28594
+#1338950432
+ii
+#1338950442
+ff&
+#1338950644
+s ONSITE 
+#1338703663
+screen 
+#1338903638
+fg
+#1338889539
+mutt
+#1338959687
+cd .getmail
+#1338959693
+ff&
+#1338966345
+ii
+#1338966373
+vmware&
+#1338966453
+uu
+#1338966454
+ii
+#1338966728
+i
+#1338966729
+ii
+#1338985982
+java
+#1338985988
+java --version
+#1338985992
+java -version
+#1338986196
+ii
+#1338986482
+cd
+#1338986484
+ll workspace/
+#1338986488
+lla workspace/
+#1338986496
+cd workspace/
+#1338986515
+mkdir android-sdk
+#1338986517
+cd android-sdk/
+#1338986518
+,y
+#1338986521
+cdx
+#1338986527
+mv2,y android-sdk_r12-linux_x86.tgz 
+#1338986532
+tar xvzf android-sdk_r12-linux_x86.tgz 
+#1338986536
+cd android-sdk
+#1338986540
+cd android-sdk-linux_x86/
+#1338986552
+ll tools/
+#1338986567
+./tools/android 
+#1338988500
+t
+#1338988502
+ii
+#1338988504
+t
+#1338988763
+cd
+#1338988765
+cd workspace/
+#1338988779
+s eclipse
+#1338988783
+mkdir eclipse
+#1338988785
+cd eclipse/
+#1338988786
+,y
+#1338988852
+mv2,y eclipse-SDK-3.7.2-linux-gtk-x86_64.tar.gz 
+#1338988859
+tar xzvf eclipse-SDK-3.7.2-linux-gtk-x86_64.tar.gz 
+#1338988867
+cd eclipse
+#1338988871
+./eclipse &
+#1338989006
+ll about
+#1338989009
+ll about_files/
+#1338990759
+,y
+#1338990870
+mv2,y ADT-18.0.0.zip 
+#1338991903
+ifconfig eth1 down
+#1338991908
+ifconfig eth0 down
+#1338991910
+ping 192.168.1.49
+#1338991916
+ping 192.168.1.134
+#1338991919
+ping 192.168.1.1
+#1338992101
+ifconfig eth1 up
+#1338992103
+ping 192.168.1.1
+#1338992107
+rn
+#1338992113
+service network restart
+#1338992119
+ping 192.168.1.1
+#1338992127
+p www.hao123.com
+#1338993473
+ce eclipse/
+#1338993475
+cd eclipse/
+#1338993481
+mkdir eclipse-jee
+#1338993482
+cd eclipse
+#1338993485
+cd eclipse-
+#1338993488
+cd eclipse-jee/
+#1338993490
+,y
+#1338993500
+mv2,y eclipse-jee-indigo-SR2-linux-gtk-x86_64.tar.gz 
+#1338993505
+tar xvzf eclipse-jee-indigo-SR2-linux-gtk-x86_64.tar.gz 
+#1338993526
+ce eclipse
+#1338993528
+cd eclipse
+#1338993606
+ifconfig eth1 down
+#1338993612
+ifconfig eth0 down
+#1338993640
+p www.hao123.com
+#1338993644
+p 8.8.8.8
+#1338994129
+service network restart
+#1338994136
+p 8.8.8.8
+#1338994234
+cd android-sdk
+#1338994238
+cd android-sdk-linux_x86/
+#1338994242
+ll tools/
+#1338993532
+./eclipse 
+#1338994266
+cd
+#1338994267
+cd workspace/
+#1338994268
+lla
+#1338994271
+rm -rf .metadata/
+#1338994273
+lla
+#1338994280
+./eclipse &
+#1338994355
+ll add-ons/
+#1338994361
+ll platform-tools/
+#1338994381
+./platform-tools/adb 
+#1338994409
+file ./platform-tools/adb 
+#1338994420
+llto
+#1338994421
+cd tools/
+#1338994424
+file an
+#1338994426
+file android 
+#1338994433
+file ddms 
+#1338994437
+file zipalign 
+#1338994447
+file sqlite3 
+#1338994616
+cd
+#1338994617
+g yum_list.txt 
+#1338994748
+./platform-tools/adb 
+#1338994820
+gvlc
+#1338994797
+yum whatprovides ld-linux.so.2  
+#1338994922
+yum -y install glibc-2.12.90-17.i6
+#1338994928
+yum -y install glibc-2.12.90-17.i686
+#1338995713
+cd
+#1338995716
+cd workspace/android-sdk/
+#1338995925
+./platform-tools/adb 
+#1338995945
+yum whatprovides libncurses.so.5
+#1338995979
+yum -y install ncurses-libs-5.7-20100703.fc14.i6
+#1338995989
+yum -y install ncurses-libs-5.7-20100703.fc14.i686
+#1338996004
+yum -y install ncurses-libs-5.7-20100703.fc14
+#1338996017
+yum whatprovides libncurses.so.5
+#1338996033
+yum -y install ncurses-libs
+#1338996104
+fg
+#1338996125
+kill 14020
+#1338996128
+kill -9 14020
+#1338996130
+fg
+#1338996134
+yum whatprovides libncurses.so.5
+#1338996158
+yum -y install ncurses-libs-5.7-20100703.fc14.i686
+#1338996185
+./platform-tools/adb 
+#1338996213
+,y
+#1338996225
+tar tf android-sdk_r12-linux_x86.tgz 
+#1338996242
+mv2,y android-sdk_r18-linux.tgz 
+#1338996251
+tar tf android-sdk_r18-linux.tgz 
+#1338996264
+tar xvzf android-sdk_r18-linux.tgz 
+#1338996270
+cd android-sdk-linux
+#1338996277
+./platforms/
+#1338996280
+ll platforms/
+#1338996288
+ll tools/
+#1338994749
+su
+#1338996314
+cd android-sdk-linux
+#1338996325
+chown -R scr:scr .
+#1338996315
+su
+#1338996336
+cd android-sdk-linux
+#1338996340
+./tools/android 
+#1338996620
+ll ncurses-libs-5.7-8.20100703.fc14.i686.rpm 
+#1338996627
+rpm -ivh ncurses-libs-5.7-8.20100703.fc14.i686.rpm 
+#1338963276
+mutt
+#1338996646
+cd
+#1338996650
+cd workspace/android-sdk/
+#1338996656
+cd android-sdk-linux_x86/
+#1338996663
+./platform-tools/adb 
+#1338996683
+yum whatprovides libstdc++.so.6
+#1338994321
+./eclipse 
+#1338996709
+yum -y install libstdc++-4.5.1-4.fc14.i686
+#1338996997
+./platform-tools/adb 
+#1338997006
+]ll
+#1338997143
+cd platform-tools/
+#1338997146
+./aapt 
+#1338997150
+./aidl 
+#1338997154
+./dexdump 
+#1338997158
+./dx
+#1338997161
+./fastboot 
+#1338997166
+./llvm-rs-cc 
+#1338997172
+./aapt 
+#1338997183
+yum whatprovides libz.so.1
+#1338997199
+yum -y install zlib-1.2.5-2.fc14.i686
+#1338997269
+./aapt 
+#1338997275
+ll add-ons/
+#1338997277
+ll platform
+#1338997278
+ll platforms
+#1338997282
+ll platforms/android-7
+#1338997287
+ll tools/
+#1338997288
+cd tools/
+#1338997292
+file *
+#1338997297
+./emulator
+#1338997303
+file *
+#1338997305
+./zipalign 
+#1338997009
+./eclipse 
+#1338997639
+cd workspace/
+#1338997642
+cd eclipse/
+#1338997646
+cd eclipse-jee/
+#1338997648
+cd eclipse
+#1338997655
+./eclipse &
+#1338997785
+ff&
+#1338997876
+yum -y install ia322stdc++6b32
+#1338997927
+yum install glibc.i6 ncurses-libs.i6 libstdc libstdc++.i6 \
+#1338997937
+yum install glibc.i686 ncurses-libs.i686 libstdc libstdc++.i686     libzip.i686 libX11.i686 libXrandr.i686 SDL.i686 -y
+#1338997983
+cd
+#1338998033
+cd .fcitx/
+#1338998035
+lla
+#1338998040
+chmod 777 .cache/
+#1338997984
+su
+#1338998047
+cd .fcitx/.cache/
+#1338998050
+ex .
+#1338998843
+ll new/
+#1338998846
+lla new/
+#1338998850
+cd music/
+#1338998853
+cd new/
+#1338998856
+rm Rin.mp4 
+#1338998880
+ds angela/
+#1338998883
+ds E/
+#1338998885
+ds *
+#1338998890
+cd 6级/
+#1338998897
+rm 0*
+#1338997970
+fg
+#1338999273
+kill -9 3586
+#1338999287
+yum install  SDL.i686 -y
+#1339000163
+cd .cache/
+#1339000171
+mplayer -help
+#1339000181
+m mplayer
+#1339000501
+cd
+#1339000503
+g yum_list.txt 
+#1338999668
+yum install SDL.i686 glibc.i686 ncurses-libs.i686 libstdc libstdc++.i686 libzip.i686 libX11.i686 libXrandr.i686 -y
+#1339001615
+yum -y install mencoder
+#1339001733
+mencoder NASS028.avi.avi -o dst.avi -vf scale=320:240 -oac copy -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=500
+#1339001753
+cd
+#1339001759
+cd .fcitx/.cache/
+#1339001781
+lls
+#1339001742
+mencoder NASS028.avi -o dst.avi -vf scale=320:240 -oac copy -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=500
+#1339001798
+mencoder gc.avi -o dst-gc.avi -vf scale=320:240 -oac copy -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=500
+#1339002154
+rm NASS028.avi 
+#1339002504
+mencoder gc.avi -o dst-gc.avi -vf scale=320:240 -oac copy -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=500  -ss 01:58:22 -endpos 02:21:09
+#1339002537
+k
+#1339002538
+kk
+#1339002541
+rm dst*
+#1339002549
+mencoder NASS028.avi -o dst-gc.avi -vf scale=320:240 -oac copy -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=500  -ss 01:58:22 -endpos 02:21:09
+#1339003106
+mencoder NASS028.avi -o dst-gc2.avi -vf scale=320:240 -oac copy -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=500  -ss 01:58:22 -endpos 25:09
+#1339003268
+bce 0.5/4
+#1339003215
+fg
+#1338997934
+su
+#1339003479
+lla
+#1339003483
+chmod 000 .cache/
+#1339003484
+lla
+#1339033382
+gvht
+#1339033466
+ii
+#1339003476
+su
+#1338997870
+su
+#1339038537
+jj
+#1339039830
+cd /etc/rc5.d/
+#1339051370
+ii
+#1339051442
+reboot
+#1338997650
+screen 
+#1339036455
+mutt
+#1339038538
+mutt
+#1339051650
+ii
+#1339052477
+ff&
+#1339133799
+pg alsa
+#1339133835
+reboot
+#1339073936
+screen 
+#1339078807
+mutt
+#1339078201
+mutt
+#1339133955
+ff&
+#1339154770
+cd .getmail
+#1339154775
+mutt
+#1339155064
+s canonical
+#1339157455
+vmware&
+#1339155069
+fg
+#1339155223
+mutt
+#1339154772
+screen 
+#1339175322
+p www.hao123.com
+#1339175326
+ii
+#1339227462
+cd .getmail
+#1339227472
+vmware&
+#1339235665
+ll /tmp/df.tmp.log *
+#1339235672
+ll /tmp/df.tmp.log 
+#1339235683
+head /tmp/df.tmp.log 
+#1339227465
+screen 
+#1339227469
+mutt
+#1339292755
+cd .getmail
+#1339292758
+mutt
+#1339292769
+ff&
+#1339292784
+cdvcrt
+#1339293891
+cdx
+#1339293897
+mkdir ios
+#1339293905
+mv iPhone* ios
+#1339293913
+cd ios
+#1339293969
+mv iPhone%e5%bc%80%e5%8f%91%e7%a7%98%e7%b1%8d\(%e7%ac%ac2%e7%89%88\).pdf iPhone开发秘籍.pdf
+#1339293977
+file iPhone开发秘籍.pdf
+#1339293986
+pdf iPhone开发秘籍.pdf
+#1339294017
+pdf iPhone开发秘籍.pdf&
+#1339294021
+cdx
+#1339294024
+ls IP*
+#1339294030
+mv IPHONE%E5%BC%80%E5%8F%91%E7%A7%98%E7%B1%8D%2B%2B%E7%AC%AC2%E7%89%88.part09.rar ios
+#1339294035
+rar x IPHONE%E5%BC%80%E5%8F%91%E7%A7%98%E7%B1%8D%2B%2B%E7%AC%AC2%E7%89%88.part09.rar 
+#1339294040
+rm IPHONE%E5%BC%80%E5%8F%91%E7%A7%98%E7%B1%8D%2B%2B%E7%AC%AC2%E7%89%88.part09.rar 
+#1339294119
+rm iPhone开发秘籍.pdf&
+#1339300787
+mv 07-InitWithAndIvarScope.zip ios
+#1339300796
+rar x 51CTO下载-i*
+#1339300814
+rar 51CTO下载-iPhone开发基础教程.part*
+#1339300819
+rar x 51CTO下载-iPhone开发基础教程.part*
+#1339300825
+rar e 51CTO下载-iPhone开发基础教程.part*
+#1339300836
+ex .
+#1339300948
+cdvcrt
+#1339300952
+cd linux/computor/
+#1339300955
+cd OS
+#1339300959
+mkdir ios
+#1339300961
+pwdp
+#1339300968
+cd ios
+#1339300969
+,y
+#1339300974
+mv2,y *
+#1339300979
+ex .
+#1339300988
+cd 01iPhone开发基础教程/
+#1339300995
+touch *
+#1339301005
+pdf iPhone开发基础教程.pdf &
+#1339301250
+ii
+#1339301256
+vmware&
+#1339301340
+i
+#1339301341
+ii
+#1339301345
+ex .
+#1339301583
+ii
+#1339302105
+ex .
+#1339302166
+ll iphone-src-开发基础教程（源代码）/
+#1339302168
+ll iphone-src-开发基础教程（源代码）/Beginning\ iPhone\ Dev\ Aug\ 2\ 2009/
+#1339302170
+ll iphone-src-开发基础教程（源代码）/Beginning\ iPhone\ Dev\ Aug\ 2\ 2009/02\ Hello\ World/
+#1339302805
+ii
+#1339303237
+ff&
+#1339310353
+ii
+#1339319370
+ff&
+#1339324895
+cal 2012
+#1339326429
+ff&
+#1339330753
+ii
+#1339334378
+pg firefo~
+#1339334448
+pg firefo
+#1339334466
+kill -9 14150
+#1339334475
+pg firefo
+#1339334481
+ii
+#1339334596
+exc
+#1339334614
+iiii
+#1339334614
+ii
+#1339334647
+vmware&
+#1339334648
+jj
+#1339334679
+pdf iPhone开发基础教程.pdf &
+#1339335840
+exc
+#1339335843
+ii
+#1339335873
+cd
+#1339335875
+fl
+#1339335894
+ii
+#1339335897
+fl
+#1339336656
+ii
+#1339336659
+fl
+#1339335871
+su
+#1339336677
+fl
+#1339336716
+vmware&
+#1339338737
+s resign
+#1339339293
+ii
+#1339339306
+exc
+#1339339315
+ff&
+#1339339327
+ii
+#1339339329
+fl
+#1339339346
+exc
+#1339342058
+halt
+#1339292764
+screen 
+#1339415440
+cdvcrt
+#1339415447
+cdvcrc
+#1339415448
+gits.
+#1339415450
+cdvcl
+#1339415441
+gits.
+#1339415454
+gits.
+#1339415456
+cdb
+#1339415458
+cdl
+#1339415460
+svns
+#1339415620
+gitdl
+#1339415632
+gits.
+#1339415635
+cd linux/computor/
+#1339415637
+gits.
+#1339415643
+git checkout alg/
+#1339415644
+gits.
+#1339415647
+gitdl
+#1339415660
+gits.
+#1339415663
+git add bookmark/
+#1339415673
+git commit -m 'ios, android, python'
+#1339415675
+gits.
+#1339415677
+gitd
+#1339415696
+gits.
+#1339415704
+git add tools/devel/cmd/
+#1339415705
+gits.
+#1339415710
+gitdc
+#1339415728
+git commit -m '查询 ld-linux.so.2 是那个包提供的'
+#1339415729
+gits.
+#1339415759
+gitd.
+#1339415804
+gits.
+#1339415811
+git add rt/home/scr/.bashrc
+#1339415812
+gits.
+#1339415817
+git commit -m 'django'
+#1339415818
+gits.
+#1339415839
+git add rt/home/scr/.kde/share/apps/okular/
+#1339415840
+gits.
+#1339415852
+git commit -m 'bookmark'
+#1339415854
+gits.
+#1339415868
+gitbs
+#1339415870
+gitb
+#1339415871
+gits
+#1339415858
+git pull origin master
+#1339415864
+git pull origin master
+#1339415911
+cdv
+#1339415876
+git pull origin master
+#1339415913
+svns
+#1339415919
+svn u
+#1339415916
+svn up
+#1339415928
+git push origin master
+#1339415920
+svn up
+#1339415932
+git push origin master
+#1339415936
+git push origin master
+#1339415959
+exc
+#1339416122
+vmware&
+#1339416210
+ii
+#1339416217
+pdf &
+#1339416658
+ii
+#1339416668
+cd
+#1339416669
+cd .getmail
+#1339416680
+tail -n 100 getmail.crontab.log 
+#1339416684
+tail -30 getmail.out.log 
+#1339421019
+ii
+#1339423202
+cd
+#1339423206
+ds *
+#1339423662
+cd /opt/
+#1339423664
+ll vmware/
+#1339423667
+ll vmware/wkk/
+#1339423668
+ll vmware/wkk/ios-resources/
+#1339423669
+ll vmware/wkk/ios-resources/IPad/
+#1339423676
+rm -rf vmware/
+#1339423678
+su
+#1339423689
+mkdir vmware
+#1339423694
+chown -R scr:scr vmware/
+#1339423712
+ii
+#1339423707
+mv ~/vmware/xp vmware/
+#1339424848
+ll bk
+#1339424874
+mkdir scr
+#1339424868
+su
+#1339424886
+chown -R scr:scr scr
+#1339424890
+mv vmware/ scr
+#1339424895
+ll vmware/
+#1339424897
+ll vmware/xp/
+#1339424900
+cd scr/
+#1339424904
+mv ../vmware/ .
+#1339424907
+su
+#1339424920
+cd scr/
+#1339424932
+ii
+#1339424928
+mv ~/bk .
+#1339425691
+cdm
+#1339425701
+cd WA/F/GS/vmware/
+#1339425710
+cd wkk/
+#1339425715
+ds Leopard/
+#1339425717
+ds ios-resources/
+#1339425722
+ll ios-resources/IPad/*
+#1339425758
+cd wkk/
+#1339425760
+ds Leopard/
+#1339425766
+cd vmware/
+#1339425769
+mkdir mac
+#1339425771
+cd mac/
+#1339425775
+,y
+#1339425795
+ll Leopard/
+#1339425803
+ii
+#1339426759
+ff&
+#1339426761
+ii
+#1339425788
+cp -r Leopard/ ~/vmware/mac/
+#1339428307
+ii
+#1339428312
+exc
+#1339503193
+ll e
+#1339503198
+cd e
+#1339503202
+ll backup/
+#1339503208
+rm -rf e
+#1339503211
+ll db
+#1339503220
+ll android-sdks/
+#1339503224
+ll audio/
+#1339503226
+ds audio/
+#1339503231
+ds backups/
+#1339503233
+cd backups/
+#1339503255
+locate LS-var-svn
+#1339503268
+tar tf backups/LS-var-svn.tar.bz2 
+#1339503334
+ll photo/
+#1339503338
+cd xiazai/
+#1339503355
+rm wkk王可可\ \(1\).doc 
+#1339503359
+ds *
+#1339503374
+rm -rf FretsOnFire/
+#1339503384
+fg
+#1339503400
+locate 一个操作系统的实现.pdf
+#1339503416
+cdrt
+#1339503421
+ll linux/
+#1339503425
+cd linux/computor/
+#1339503428
+cd OS/
+#1339503432
+cd o
+#1339503435
+cd orange\'s/
+#1339503438
+cd bo
+#1339503439
+cd book/
+#1339503445
+ll src
+#1339503448
+lla src
+#1339503456
+cd book/
+#1339503460
+cd notes/
+#1339503463
+cd..
+#1339503465
+cd iso
+#1339503472
+cd bo
+#1339503474
+cd book/
+#1339503476
+,y
+#1339503484
+mv2,y Orange_\'s.一个操作系统的实现.pdf 
+#1339503499
+rm Orange_\'s.一个操作系统的实现.part*
+#1339503506
+ds *
+#1339503530
+cd tmp/
+#1339503533
+ds *
+#1339503538
+ll 00000000000001/
+#1339503546
+ll android
+#1339503555
+rm android.tar.bz2 
+#1339503561
+ll teee/
+#1339503565
+rm -rf teee/
+#1339503569
+ds *
+#1339503574
+rm ./-i 
+#1339503576
+ds *
+#1339503620
+ds XueChe/
+#1339503623
+ds ZCM
+#1339503626
+ll ZCM
+#1339503631
+ce ZCM
+#1339503634
+cd ZCM
+#1339503635
+ex .
+#1339503667
+rm -rf ZCM*
+#1339503674
+ll XueChe/
+#1339503677
+ds *
+#1339503689
+ll wkk/
+#1339503693
+ll wget
+#1339503697
+ll wget2
+#1339503739
+cd vmware/
+#1339503742
+cd mac/
+#1339503744
+,y
+#1339503748
+exc
+#1339503751
+cd
+#1339503753
+cdm
+#1339503764
+cd WA/F/GS/vmware/wkk/
+#1339503781
+mkdir ios-resources
+#1339503783
+cd ios-resources/
+#1339503783
+,y
+#1339503784
+cd ll
+#1339503787
+cd ios-resources/
+#1339503793
+mkdir IPad
+#1339503795
+cd IPad/
+#1339503797
+cd IPad/
+#1339503800
+,y
+#1339503815
+cp2,y Rebel+EFI.iso 
+#1339503827
+vmware&
+#1339503909
+cp2,y darwin.iso 
+#1339503957
+exc
+#1339503996
+dii
+#1339503997
+ii
+#1339504002
+pdf&
+#1339504316
+ii
+#1339504460
+t
+#1339504892
+ff&
+#1339509411
+cd
+#1339509413
+cd tmp/
+#1339509416
+cd 00000000000001/
+#1339509431
+mkdir src-me
+#1339509508
+cd src-me/
+#1339509557
+s turial
+#1339509562
+s tutur
+#1339509569
+s totur
+#1339509600
+s 教程
+#1339509620
+s tutor
+#1339509635
+mv ios-dev-1/ iphone-dev-tutor
+#1339509637
+cd iphone-dev-tutor/
+#1339509666
+lla
+#1339509679
+rm -rf helloworldß/ test10*
+#1339509684
+rm icon.png 
+#1339509690
+rm 04-ControlFun
+#1339509692
+rm 04-ControlFun -rf
+#1339509698
+cd 04-ControlFun-2/
+#1339509707
+git init
+#1339509709
+gits.
+#1339509710
+lla
+#1339509719
+cp ~/.gitignore .
+#1339509721
+vi .gitignore 
+#1339509737
+cd iphone-dev-tutor/
+#1339509740
+cd ButtonFun/
+#1339509741
+lla
+#1339509743
+lla ..
+#1339509747
+lla
+#1339509754
+ll build/
+#1339509764
+lla
+#1339509768
+gits.
+#1339509771
+git add .gitignore 
+#1339509772
+gits.
+#1339509829
+cdvcl
+#1339509833
+cd books/
+#1339509839
+mkdir objc
+#1339509840
+cd objc/
+#1339509843
+mkdir ios
+#1339509844
+cd ios/
+#1339509870
+,y
+#1339509875
+cp2,y -r iphone-dev-tutor/
+#1339509877
+lla
+#1339509882
+ll iphone-dev-tutor/
+#1339509889
+cdvcl
+#1339509891
+cd books/
+#1339509893
+gits.
+#1339509897
+git add objc/
+#1339509900
+gits.
+#1339509912
+ds objc/
+#1339509923
+ll ..
+#1339509991
+git commit -m '<<iphone开发基础教程>>之源码学习及笔记'
+#1339509993
+gits.
+#1339510008
+cd objc/ios/iphone-dev-tutor/
+#1339510012
+,y
+#1339510014
+pwdp
+#1339510040
+t
+#1339510058
+vi
+#1339510184
+gits.
+#1339510186
+gitlo.
+#1339510266
+gits.
+#1339510291
+gitd
+#1339510316
+gits.
+#1339510324
+cdvcl
+#1339510336
+g .gitignore 
+#1339510350
+head ~/.gitignore 
+#1339510356
+gits.
+#1339510369
+lla
+#1339510387
+git checkout 
+#1339510388
+gits.
+#1339510396
+git checkout .
+#1339510398
+gits.
+#1339510535
+fg
+#1339510539
+lla
+#1339510547
+lla
+#1339510372
+vi .gitignore 
+#1339510563
+pwdp
+#1339510566
+gits.
+#1339510569
+lla
+#1339510571
+rm .gitignore 
+#1339510572
+gits.
+#1339511542
+ii
+#1339511833
+cd
+#1339511833
+cd vmware/
+#1339512162
+gits.
+#1339513035
+ds 05-Autosize/
+#1339513038
+cd 05-Autosize/
+#1339513041
+ll build/
+#1339513050
+ll build/*
+#1339513054
+ds build/*
+#1339513057
+ds build/
+#1339513069
+rm build/ -rf
+#1339513094
+ll build/
+#1339513144
+cd build/
+#1339513146
+ll 05-Autosize.build/
+#1339513150
+ll 05-Autosize.build/05-Autosize.pbxindex/
+#1339513158
+ll Classes/
+#1339513164
+ll 05-Autosize.xcodeproj/
+#1339513236
+rm -rf 05-Autosize/
+#1339513289
+ll 05-Autosize/
+#1339513295
+rm -rf 05-Autosize/
+#1339513385
+kk
+#1339513386
+gits.
+#1339513389
+cd 05-Autosize
+#1339513391
+gits.
+#1339513399
+cd 05-Autosize-2/
+#1339513403
+ll build/
+#1339513411
+git add .
+#1339513417
+git add 05-Autosize-2/
+#1339513419
+gits.
+#1339513426
+rmdir 05-Autosize
+#1339513428
+gits.
+#1339513434
+cd 05-Autosize-2/
+#1339513436
+gits.
+#1339513477
+git commit -m '使用自动调整属性处理旋转'
+#1339513484
+ds build/
+#1339513487
+ll build/
+#1339513488
+cd build/
+#1339513490
+ll 05-Autosize-2.build/
+#1339513494
+cd 05-Autosize-2.build/
+#1339513497
+cd 05-Autosize-2.pbxindex/
+#1339513503
+ds *
+#1339513510
+ll strings.pbxstrings/
+#1339513542
+cd 05-Autosize-2.build/
+#1339513545
+....
+#1339513547
+cd 05-Autosize-2/
+#1339513569
+gits.
+#1339513584
+ll build/
+#1339513588
+gitb
+#1339513590
+gitlo.
+#1339513599
+gitls.
+#1339513625
+gits.
+#1339513630
+ll build/
+#1339513777
+gits.
+#1339513948
+gitdl
+#1339513991
+gits.
+#1339513997
+gitd Classes/
+#1339514001
+gits.
+#1339514009
+gitd _5_Autosize_2ViewController.xib 
+#1339514019
+gits.
+#1339514033
+git add Classes/ _5_Autosize_2ViewController.xib 
+#1339514034
+gits.
+#1339514049
+git rm Classes/.__5_Autosize_2ViewController.*
+#1339514052
+gits.
+#1339514054
+git rm Classes/.__5_Autosize_2ViewController.m
+#1339514060
+gits.
+#1339514069
+git reset Classes/.__5_Autosize_2ViewController.m
+#1339514071
+gits.
+#1339514074
+git reset Classes/.__5_Autosize_2ViewController.h
+#1339514076
+gits.
+#1339514136
+git commit -m '启动自动旋转; 增加6个按钮'
+#1339514138
+gits.
+#1339514257
+gits.
+#1339514271
+ll build/
+#1339514300
+cd
+#1339514308
+cd tmp/00000000000001/iphone-src-开发基础教程（源代码）/
+#1339514310
+cd Beginning\ iPhone\ Dev\ Aug\ 2\ 2009/
+#1339514316
+cd 11\ 
+#1339514326
+cd 11\ Core\ Data\ Persistence/
+#1339514328
+gits.
+#1339514350
+ll 07\ Pickers/
+#1339514355
+cd 06\ View\ Switcher/
+#1339514374
+gits.
+#1339514379
+git add _5_Autosize_2*
+#1339514381
+gits.
+#1339514465
+git commit -m '调整各个按钮的Autosize, 以使得旋屏后可以较好显示'
+#1339514467
+gits.
+#1339514585
+,y
+#1339514586
+cd,y
+#1339514592
+cd hollo/
+#1339514595
+ll build/
+#1339514599
+cd build/
+#1339514601
+cd hollo.build/
+#1339514604
+cd hollo.pbxindex/
+#1339514607
+...
+#1339514617
+rm build/
+#1339514620
+rm build/ -rf
+#1339514713
+ll hollo.xcodeproj/
+#1339514719
+ll View\ Switcher.xcodeproj/
+#1339514737
+rm build/ -rf
+#1339514785
+ll build/
+#1339514810
+rm build/ -rf
+#1339514813
+cd hollo.xcodeproj/
+#1339514816
+rm suichangming.*
+#1339514849
+ll hollo.xcodeproj/
+#1339514969
+cd
+#1339514972
+cd tmp/
+#1339514974
+cd 00000000000001/
+#1339514975
+cd hello/
+#1339514985
+ll hello
+#1339514989
+ll hello.xcodeproj/
+#1339514997
+ds build/
+#1339514999
+rm -rf
+#1339515003
+rm -rf build/
+#1339515008
+git init
+#1339515011
+git add .
+#1339515012
+gits.
+#1339515017
+git commit -m 'init'
+#1339515022
+ds .git/
+#1339515076
+gits.
+#1339515090
+cd hello.xcodeproj/
+#1339515093
+gits.
+#1339515110
+rm suichangming.*
+#1339515113
+lla
+#1339515118
+gits.
+#1339515131
+rm ._build build/
+#1339515134
+rm ._build build/ -rf
+#1339515135
+gits.
+#1339515212
+gitdl
+#1339515246
+git checkout .
+#1339515248
+gits.
+#1339515270
+gits
+#1339515278
+rm hello.xcodeproj/suichangming.
+#1339515279
+rm hello.xcodeproj/suichangming.mode1v3 
+#1339515280
+gits.
+#1339515285
+rm ._build build/ -rf
+#1339515287
+git.s
+#1339515288
+gits.
+#1339515652
+cd hello2
+#1339515659
+git init
+#1339515662
+lla
+#1339515664
+gits.
+#1339515676
+git add .
+#1339515677
+gits.
+#1339515682
+git commit -m 'init'
+#1339515684
+gits.
+#1339515765
+kk
+#1339515767
+gits.
+#1339515788
+rm ._build build/ -rf
+#1339515789
+gits.
+#1339515800
+git checkout .
+#1339515801
+gits.
+#1339515808
+rm Classes/._hello2ViewController.h 
+#1339515809
+gits.
+#1339516075
+cdvcrt
+#1339516076
+gits.
+#1339516101
+cdvcrc
+#1339516103
+gits.
+#1339516114
+git add rt/home/scr/.kde/
+#1339516115
+gits.
+#1339516123
+git commit -m 'bookmark'
+#1339516124
+gits.
+#1339516158
+cd linux/computor/OS/ios/
+#1339516127
+git push origin master
+#1339516166
+cd 01iPhone开发基础教程/
+#1339516177
+,y
+#1339516194
+exc
+#1339516200
+ex .
+#1339516267
+vi README 
+#1339516328
+exc
+#1339516349
+halt
+#1339503411
+screen 
+#1339584389
+cd .getmail
+#1339584396
+ff &
+#1339584390
+screen 
+#1339584392
+mutt
+#1339590592
+cd .getmail
+#1339590603
+vmware&
+#1339590605
+ii
+#1339590608
+pdf &
+#1339590611
+ii
+#1339590619
+lla
+#1339590620
+llx
+#1339590684
+cdvcl
+#1339590688
+cd books/objc/ios/iphone-dev-tutor/
+#1339590690
+gits.
+#1339590708
+cd
+#1339590719
+cd tmp/00000000000001/iphone-src-开发基础教程（源代码）/
+#1339590721
+cd Beginning\ iPhone\ Dev\ Aug\ 2\ 2009/
+#1339590725
+cd 07\ Pickers/
+#1339590728
+llr
+#1339590733
+cd 10\ AppSettings/
+#1339590740
+cd 06\ View\ Switcher/
+#1339590743
+lr
+#1339590744
+llr
+#1339590747
+find .
+#1339590763
+ll View\ Switcher.xcodeproj/
+#1339590784
+,y
+#1339590786
+cd,y
+#1339590801
+cat /tmp/pwd2vim.tmp 
+#1339590817
+wh cd,y
+#1339590825
+vbs
+#1339590843
+.s
+#1339590846
+cd,y
+#1339590849
+fg
+#1339590874
+cdvcrc
+#1339590877
+gits.
+#1339590879
+gitd
+#1339591123
+cd hello/
+#1339591124
+cd hello2
+#1339591126
+gits.
+#1339591160
+gitlo.
+#1339591162
+gits.
+#1339591193
+rm -rf build/
+#1339591195
+gits.
+#1339591201
+rm ._build 
+#1339591221
+cd hello2.xcodeproj/
+#1339591236
+rm suichangming.*
+#1339591239
+gits.
+#1339591293
+rm -rf build/
+#1339591294
+gits.
+#1339591304
+git checkout .
+#1339591305
+gits.
+#1339591312
+find .
+#1339591320
+find . | grep -v git
+#1339591335
+gits.
+#1339591379
+ll build/
+#1339591629
+gits.
+#1339591639
+git checkout .
+#1339591642
+gits.
+#1339591645
+rm -rf build/
+#1339591647
+gits.
+#1339591652
+find . | grep -v git
+#1339591864
+gits.
+#1339591865
+rm -rf build/
+#1339591867
+gits.
+#1339591871
+git checkout .
+#1339591873
+gits.
+#1339591938
+ii
+#1339592010
+gits.
+#1339592107
+lla
+#1339592115
+g .gitignore
+#1339592150
+gits.
+#1339592165
+cd hollo/
+#1339592167
+gits.
+#1339592180
+cd hollo.xcodeproj/
+#1339592182
+gits.
+#1339592196
+cd 05-Autosize-2/
+#1339592197
+gits.
+#1339592202
+git checkout .
+#1339592204
+gits.
+#1339592221
+rm -rf hollo/
+#1339592224
+gits.
+#1339592234
+git add .gitignore 
+#1339592242
+git commit -m 'add .gitignore'
+#1339592251
+gits.
+#1339592270
+cd 05-Autosize-2/
+#1339592271
+gits.
+#1339592278
+ll build/
+#1339592282
+git rm build/
+#1339592287
+git rm build
+#1339592295
+git rm build/*
+#1339592300
+git rm build/*/*
+#1339592305
+git rm build/**/*
+#1339592307
+gits.
+#1339592312
+ll build/
+#1339592315
+gits.
+#1339592320
+git help rm
+#1339592336
+gits.
+#1339592339
+git rm -r build/
+#1339592345
+git rm -rf build/
+#1339592348
+git help rm
+#1339592363
+git rm -rf build
+#1339592379
+git rm -rf ./build
+#1339592400
+find build/
+#1339592417
+rm rm build/
+#1339592419
+rm rm build/ -rf
+#1339592420
+gits.
+#1339592428
+cd 05-Autosize-2.xcodeproj/
+#1339592432
+rm suichangming.*
+#1339592433
+gits.
+#1339592442
+git rm .
+#1339592459
+git commit -a -m 'rm'
+#1339592465
+gits.
+#1339592473
+llr 05-Autosize-2.xcodeproj/
+#1339592534
+gits.
+#1339592658
+cd
+#1339592660
+cd tmp/
+#1339592666
+mkdir gittest
+#1339592667
+cd gittest/
+#1339592678
+git rem
+#1339592682
+git remote -v
+#1339592699
+git remote add origin git@github.com:nuoerlz/lang.git
+#1339592719
+git init
+#1339592721
+git remote add origin git@github.com:nuoerlz/lang.git
+#1339592727
+git remote -v
+#1339592780
+cdvcl
+#1339592789
+ll blog/
+#1339592793
+gits.
+#1339592796
+cd books/
+#1339592730
+git pull origin master
+#1339592805
+lla
+#1339592832
+lla
+#1339592834
+ds .git
+#1339592846
+gits.
+#1339592875
+gitlo.
+#1339592882
+.
+#1339592885
+cd 04-ControlFun-2/
+#1339592887
+gits.
+#1339592893
+rm build/ -rf 
+#1339592894
+lla
+#1339592898
+rm ._build 
+#1339592902
+g ../.gitignore 
+#1339592918
+lla
+#1339592921
+ll 04-ControlFun-2.xcodeproj/
+#1339592928
+g ../.gitignore 
+#1339592944
+gits.
+#1339592957
+git commit -a -m 'rm' .
+#1339592960
+git commit -a -m 'rm'
+#1339592962
+gits.
+#1339592992
+lla
+#1339592995
+gits.
+#1339592996
+lla
+#1339592998
+gits.
+#1339593003
+ds *
+#1339593013
+cat .gitignore 
+#1339593083
+cd 04-ControlFun-2/
+#1339593086
+gits.
+#1339593103
+cd 04-ControlFun-2.xcodeproj/
+#1339593108
+git rm suichangming.*
+#1339593109
+gits.
+#1339593117
+git rm suichangming.pbxuser suichangming.mode1v3 
+#1339593123
+git rm suichangming.pbxuser suichangming.mode1v3 --force
+#1339593124
+gits.
+#1339593129
+git commit -a -m 'rm'
+#1339593131
+gits.
+#1339593141
+ll 04-ControlFun-2.xcodeproj/
+#1339593176
+cdvcl
+#1339593179
+gits.
+#1339593203
+rm books/c/graph/NeHe/LESSON27/Lesson27 books/c/graph/NeHe/LESSON09/lesson9 books/c/graph/NeHe/LESSON36/lesson36 books/c/graph/NeHe/LESSON43/freetype
+#1339593205
+gits.
+#1339593215
+rm books/c/game/soduku/out books/c/game/soduku/soduku_test
+#1339593217
+gits.
+#1339593223
+cd books/
+#1339593224
+lll
+#1339593230
+find . | wc -l
+#1339593233
+cd objc/
+#1339593236
+cd ios/iphone-dev-tutor/
+#1339593246
+cdvcl
+#1339593302
+p www.hao123.com
+#1339593303
+ii
+#1339593249
+git push origin master
+#1339593406
+gits.
+#1339593407
+lla
+#1339592861
+git pull origin master
+#1339593631
+lla
+#1339593635
+rm -rf .git/
+#1339593637
+git init
+#1339593641
+git remote -v
+#1339593644
+git remote add origin git@github.com:nuoerlz/lang.git
+#1339593647
+git remote -v
+#1339594467
+g _4_ControlFun_2ViewController.xib 
+#1339594505
+gits.
+#1339594554
+s arch
+#1339596015
+s landscapde
+#1339596018
+s landscape
+#1339596031
+s portrait
+#1339596291
+cat _4_ControlFun_2_Prefix.pch 
+#1339596390
+ii
+#1339596394
+t
+#1339593650
+git pull origin master
+#1339597906
+,y
+#1339597908
+cd,y
+#1339597913
+gits.
+#1339597919
+gitdl
+#1339597926
+gits.
+#1339597936
+git checkout 05-Autosize-2/
+#1339597937
+gits.
+#1339597945
+git add 05-AutosizeWithFrame/
+#1339597947
+gits.
+#1339597994
+git commit -m '开始实现用"移动控件"的方式实现旋转'
+#1339598018
+cd 05-AutosizeWithFrame/
+#1339598400
+gits.
+#1339598873
+s portriant
+#1339599374
+gits.
+#1339599380
+gitd.
+#1339599431
+gits
+#1339599433
+gits.
+#1339599435
+git add .
+#1339599436
+gits.
+#1339599520
+git commit -m '实现用"移动控件"的方式实现旋转(要记得在"interface builder"中设置"Autosizing"属性'
+#1339599522
+gits.
+#1339599523
+gitlo.
+#1339599631
+gits.
+#1339599633
+gitdl
+#1339599637
+gits.
+#1339599685
+gita .
+#1339599686
+gits.
+#1339599697
+git commit -m '增加过程动画'
+#1339599698
+gits.
+#1339599821
+,y
+#1339599822
+cd,y
+#1339599825
+gits.
+#1339599827
+git add .
+#1339599828
+gits.
+#1339599860
+git commit -m '用"切换视图"的方式实现旋转'
+#1339599865
+cd 05-Swap/
+#1339600947
+gits.
+#1339600950
+git add .
+#1339600965
+git commit -m '"切换视图"的方式实现旋转'
+#1339600967
+gits
+#1339600985
+cd books/objc/ios/iphone-dev-tutor/
+#1339600988
+ds 04-ControlFun-2/
+#1339600991
+ds 05-Autosize-2/
+#1339601004
+git push origin master
+#1339601124
+git pull origin master
+#1339601262
+ds 05-Swap/
+#1339601325
+cd 05-Swap/
+#1339601560
+cdvcrc
+#1339601561
+gits.
+#1339601571
+git add rt/home/scr/.kde/
+#1339601573
+gits.
+#1339601577
+git commit -m 'bookmark'
+#1339601585
+git add rt/home/scr/.bashrc
+#1339601589
+gits .
+#1339601595
+git commit -m 'fix bug'
+#1339601596
+gits.
+#1339601598
+git push origin master
+#1339601709
+...
+#1339601717
+lla
+#1339601719
+ds .git
+#1339601723
+ff&
+#1339601889
+cd
+#1339601894
+ds *
+#1339601921
+ds vmware/
+#1339601925
+cd vmware/
+#1339601927
+cd mac/
+#1339601930
+ds Leopard/
+#1339601932
+ds ios-resources/
+#1339628452
+ff&
+#1339628458
+ii
+#1339628474
+halt
+#1339590596
+screen 
+#1339590597
+mutt
+#1339672788
+ff&
+#1339675343
+vmware&
+#1339677045
+pdf &
+#1339677757
+cdvcl
+#1339677762
+cd books/objc/ios/iphone-dev-tutor/
+#1339677764
+gits.
+#1339682680
+,y
+#1339682684
+cd,y
+#1339682688
+wh cd,y
+#1339682703
+cd 06-ViewSwitch/
+#1339683114
+gits.
+#1339683121
+git add .
+#1339683122
+gits.
+#1339683157
+git commit -m '多视图应用程序'
+#1339683162
+cd-
+#1339683167
+gits.
+#1339683519
+gitd.
+#1339684054
+gits
+#1339684056
+gits.
+#1339684060
+git add .
+#1339684080
+git commit -m '添加一些必要文件'
+#1339684338
+git add .
+#1339684343
+gits.
+#1339684578
+ii
+#1339688133
+v
+#1339763162
+ii
+#1339763183
+t
+#1339763185
+ii
+#1339763191
+t
+#1339763194
+ii
+#1339763259
+gvht
+#1339763302
+reboot
+#1339672863
+screen 
+#1339769943
+ff&
+#1339769951
+ii
+#1339769964
+vmware&
+#1339770012
+ll /opt/
+#1339770019
+cd /
+#1339778299
+halt
+#1339810134
+cd .getmail
+#1339810142
+vmware&
+#1339810168
+pdf&
+#1339810224
+ii
+#1339810226
+ff&
+#1339810968
+ii
+#1339810978
+i
+#1339811106
+ii
+#1339811963
+cdvcl
+#1339811968
+cd books/objc/ios/iphone-dev-tutor/
+#1339811971
+cd 06-ViewSwitch/
+#1339812308
+ii
+#1339815190
+gits.
+#1339815209
+rm gggggg.xib YellowView.xib untitled.xib sssssss.xib BlueView.xib 
+#1339815211
+gits.
+#1339815218
+cd Classes/
+#1339815222
+rm ttttt.*
+#1339815224
+gits.
+#1339818346
+ff&
+#1339818845
+cal
+#1339823178
+ii
+#1339823225
+cd
+#1339823228
+cd tmp/
+#1339823229
+cd
+#1339823231
+cd vmware/
+#1339823897
+ii
+#1339824249
+ff&
+#1339824598
+gits.
+#1339824606
+git add .
+#1339824607
+gits.
+#1339824609
+gitlo.
+#1339824631
+git commit -m '能正常运行'
+#1339824633
+gits.
+#1339824646
+git commit --amend
+#1339824684
+gitlo.
+#1339824685
+gits.
+#1339824720
+gitd
+#1339824723
+git add .
+#1339824759
+git commit -m '使程序一起动即显示蓝色视图'
+#1339824760
+gits.
+#1339824950
+gitdl
+#1339825373
+git add .
+#1339825382
+git commit -m '增加切换动画'
+#1339825383
+gits.
+#1339826797
+git add .
+#1339826799
+gits
+#1339826803
+gitdc 
+#1339826810
+git add .
+#1339826817
+git commit -m '代码重构'
+#1339835325
+cdx
+#1339835327
+ex .
+#1339835366
+ll *iso
+#1339835381
+mv 5f011c1d5d1333ba65123dab19f5c74e.iso Fedora17.iso
+#1339835391
+ll *iso
+#1339835938
+ii
+#1339835943
+pdf&
+#1339836160
+vmware&
+#1339836219
+s 
+#1339836320
+ii
+#1339836323
+ff&
+#1339836349
+gvht
+#1339836540
+ii
+#1339836554
+cdvcl
+#1339836564
+cd books/objc/ios/iphone-dev-tutor/06-ViewSwitch/
+#1339836577
+cd 06-ViewSwitch/
+#1339836593
+ll build/
+#1339836597
+gits.
+#1339836831
+ii
+#1339837615
+cdvcrc
+#1339837617
+gits.
+#1339837626
+ds rt/home/scr/.kde/share/apps/okular/
+#1339837633
+ll rt/home/scr/.kde/share/apps/okular/*
+#1339837655
+ds rt/home/scr/.kde/share/apps/okular/
+#1339837669
+ls -d rt/home/scr/.kde/share/apps/okular/
+#1339837675
+ll rt/home/scr/.kde/share/apps/okular/
+#1339840602
+p www.hao123.com
+#1339840605
+ff
+#1339841055
+ff&
+#1339855074
+lr
+#1339855075
+llr
+#1339855081
+lr
+#1339857082
+ii
+#1339861548
+halt
+#1339836569
+screen 
+#1339894543
+cdvcl
+#1339894548
+cd books/objc/ios/iphone-dev-tutor/
+#1339894553
+screen 
+#1339894556
+pdf &
+#1339894557
+vmware&
+#1339894816
+ii
+#1339894939
+gits.
+#1339894947
+git add 07-Pickers/
+#1339894948
+gits.
+#1339894983
+git commit -m '选择器的使用'
+#1339894988
+cd 07-Pickers/
+#1339895444
+gits.
+#1339895454
+cd Classes/
+#1339895465
+rm SingleComponentPickerViewController.*
+#1339895466
+gits.
+#1339895511
+rm DataPickerViewController.mDatePickerViewController.*
+#1339895512
+gits.
+#1339895758
+git add .
+#1339895760
+gits.
+#1339895777
+git commit -m '添加一些新文件'
+#1339895780
+gits.
+#1339896122
+gitd
+#1339896161
+gits.
+#1339896163
+gitd
+#1339896195
+gits.
+#1339896198
+git add .
+#1339896269
+git commit -m '使每个nib文件都指向正确的File's Owner图标, 文件所有者应该是对应的UIViewController子类'
+#1339896280
+git commit -m '使每个nib文件都指向正确的File\'s Owner图标, 文件所有者应该是对应的UIViewController子类'
+#1339896293
+git commit -m "使每个nib文件都指向正确的File's Owner图标, 文件所有者应该是对应的UIViewController子类"
+#1339896296
+gitlo.
+#1339897446
+gits.
+#1339897495
+git add 07-Pickers.xcodeproj/ Classes/
+#1339897496
+gits.
+#1339897514
+git commit -m "设置主控制类"
+#1339897519
+gits.
+#1339897569
+git add .
+#1339897578
+git commit -m "增加资源文件"
+#1339898237
+gits.
+#1339898240
+gitd.
+#1339898277
+gita.
+#1339898278
+gits.
+#1339898293
+git commit -m "添加标签控件并设计"
+#1339899030
+gits
+#1339899032
+gits.
+#1339899035
+git add .
+#1339899046
+git commit -m "实现日期选择器"
+#1339900136
+gits.
+#1339900138
+gitd
+#1339900156
+git add .
+#1339900157
+gits.
+#1339900188
+git commit -m "实现单个组件选择器"
+#1339900190
+gits.
+#1339901842
+ff&
+#1339903342
+gits.
+#1339903348
+git add .
+#1339903356
+git commit -m "实现多组件选择器"
+#1339903358
+gits.
+#1339904668
+ii
+#1339904741
+cd
+#1339904745
+cd vmware/
+#1339904747
+cdv
+#1339904753
+cdvcl
+#1339904750
+svns
+#1339904754
+gits.
+#1339905129
+gits.
+#1339905132
+ii
+#1339905136
+gits.
+#1339905139
+git add .
+#1339905140
+gitdc
+#1339905151
+gits.
+#1339905175
+git commit -m "实现独立组件选择器"
+#1339905382
+gits.
+#1339905385
+gitd
+#1339905397
+gitd.
+#1339905401
+gits.
+#1339905402
+git add .
+#1339905408
+git commit -m "some comments"
+#1339907520
+gits.
+#1339907524
+git add .
+#1339907572
+git commit -m "使用自定义选择器实现\"老虎机\"游戏"
+#1339907579
+gitlo.
+#1339907606
+fif QQQQQ
+#1339907611
+wh fif
+#1339907617
+wh fich
+#1339907921
+ii
+#1339907923
+ff&
+#1339919611
+ls CustomPickerView.xib 
+#1339931570
+ii
+#1339931579
+gits.
+#1339931591
+ii
+#1339931593
+vmware&
+#1339931596
+pdf &
+#1339933377
+s retina
+#1339939788
+ll ..
+#1339939796
+ds *
+#1339939801
+ds ../*
+#1339943705
+ii
+#1339943890
+jj
+#1339943892
+ff&
+#1339943893
+ii
+#1339944164
+fcitx 
+#1339944190
+pg fcitx
+#1339944194
+kill 14806
+#1339944198
+fcitx 
+#1339944195
+su
+#1339944339
+cd
+#1339944339
+mutt
+#1339944734
+jjcd
+#1339944737
+cd
+#1339944919
+pg fire
+#1339944925
+kill -9 14654
+#1339944930
+ii
+#1339944942
+ff&
+#1339944961
+p www.hao123.com
+#1339945221
+ii
+#1339946857
+halt
+#1339894550
+sc\reen 
+#1339944742
+mutt
+#1339977097
+cdvcl
+#1339977099
+gits.
+#1339977104
+cdvcrc
+#1339977105
+gits.
+#1339977109
+git pull origin master
+#1339977131
+git add rt/home/scr/.kde/share/apps/okular/
+#1339977133
+gits.
+#1339977116
+git push origin master
+#1339977143
+git commit -m "bookmark"
+#1339977150
+cdvcrt
+#1339977146
+git push origin master
+#1339977161
+cd books/objc/ios/iphone-dev-tutor/
+#1339977163
+gits.
+#1339977151
+gits.
+#1339977181
+git add linux/computor/bookmark/
+#1339977185
+gitdc
+#1339977194
+git commit -m "Xcode"
+#1339977205
+cdb
+#1339977197
+git push origin master
+#1339977207
+svns
+#1339977210
+cdv
+#1339977211
+svns
+#1339977219
+git pull origin master
+#1339977327
+gits.
+#1339977338
+git push origin master
+#1339977378
+halt
+#1340016579
+ff&
+#1340016631
+cd .fcitx/
+#1340016636
+rm config profile 
+#1340016640
+pg fci
+#1340016643
+kill 2834
+#1340016645
+fcitx 
+#1340018268
+cd
+#1340019993
+vmware&
+#1340019996
+pdf&
+#1340021669
+cdvcrc
+#1340021674
+cdvcl
+#1340021672
+git pull origin master
+#1340021676
+git pull origin master
+#1340021716
+cd books/c/tools/tsl/
+#1340021717
+ma
+#1340021725
+cd test/
+#1340021729
+./tsl_test > out
+#1340021731
+g out 
+#1340021780
+mc
+#1340021786
+ma
+#1340021788
+mc
+#1340021791
+cat Makefile 
+#1340021793
+ma
+#1340021795
+mc
+#1340021804
+gits.
+#1340021809
+gitd
+#1340021816
+gits.
+#1340021823
+git checkout rt/home/scr/.kde/
+#1340021824
+gits.
+#1340021827
+git pull origin master
+#1340021857
+pdf&
+#1340021866
+lla
+#1340021870
+cd rt
+#1340021874
+lla
+#1340021876
+ds .git
+#1340021906
+ii
+#1340022020
+gitlo.
+#1340022035
+ma
+#1340022036
+mc
+#1340022040
+ll test/
+#1340022042
+gits.
+#1340022044
+rm test/out 
+#1340022046
+ma
+#1340022049
+./test/tsl_test 
+#1340022056
+cd test/
+#1340022058
+./tsl_test 
+#1340022066
+time ./tsl_test 
+#1340022091
+cd..
+#1340022095
+cdvcl
+#1340022099
+cd books/objc/ios/iphone-dev-tutor/
+#1340022103
+gits.
+#1340022171
+git add 08-SimpleTable/
+#1340022172
+gits.
+#1340022188
+git commit -m "实现一个简单的表"
+#1340022191
+gits.
+#1340022409
+gitd.
+#1340023230
+gits.
+#1340023232
+gitd.
+#1340024251
+gits.
+#1340024255
+git add .
+#1340024256
+gitdc
+#1340024262
+git add .
+#1340024263
+gits.
+#1340024289
+git commit -m "能显示出简单的表视图了"
+#1340024339
+git add .
+#1340024340
+gitdc.
+#1340024354
+git commit -m "设置每行的缩进"
+#1340024414
+gits.
+#1340024415
+git add .
+#1340024429
+git commit -m "设置行高和字体大小"
+#1340024516
+gits.
+#1340024519
+git add .
+#1340024521
+gitdc
+#1340024541
+git commit -m "对每行增加图标显示"
+#1340024543
+gits.
+#1340024546
+cd 08-SimpleTable/
+#1340024806
+gits.
+#1340024809
+gitd.
+#1340024813
+git add .
+#1340024816
+gits.
+#1340024820
+gitdc.
+#1340024897
+git commit -m "iphone3以上的版本, 对表单元行增加了detailTextLabel 属性."
+#1340024898
+gits.
+#1340025187
+git add .
+#1340025188
+gits.
+#1340025207
+git commit -m "定制表视图单元"
+#1340025371
+ds *
+#1340025711
+gitlo.
+#1340026071
+gits.
+#1340026092
+git add .
+#1340026107
+gitdc
+#1340026152
+git commit -m "定制表视图单元, 主要在 tableView:cellForRowAtIndexPath: 方法中完成"
+#1340026157
+gitlo.
+#1340026250
+gits.
+#1340026253
+git add .
+#1340026254
+gits.
+#1340026312
+git commit -m "定制表视图单元, 使用UITableViewCell的自定义子类"
+#1340026315
+gitlo.
+#1340026713
+s deprecated
+#1340026777
+gits.
+#1340026794
+gitdc
+#1340026796
+gitd
+#1340026798
+gitd.
+#1340026804
+gits.
+#1340026806
+git add .
+#1340026808
+gitdc
+#1340028080
+gits.
+#1340028084
+git add .
+#1340028086
+gitdc.
+#1340028092
+wh gitdc.
+#1340028093
+fg
+#1340028110
+gits.
+#1340028112
+gitlo.
+#1340028116
+gits.
+#1340028121
+cd 08-Cells-2
+#1340028122
+gits.
+#1340028126
+gitlo.
+#1340028144
+git commit -m "定制表视图单元, 使用UITableViewCell的自定义子类"
+#1340028313
+gits.
+#1340028316
+git add .
+#1340028319
+gitd.
+#1340028321
+gits.
+#1340028326
+git add .
+#1340028328
+gits.
+#1340028330
+git add .
+#1340028331
+gits.
+#1340028373
+git commit -m '带"分组分区"和"索引分区"的表视图'
+#1340028374
+gits.
+#1340028378
+ds *
+#1340029140
+git add .
+#1340029144
+gits.
+#1340029170
+git commit -m '带"分组分区"的表视图'
+#1340029239
+git add .
+#1340029242
+gitdc.
+#1340029248
+git add .
+#1340029249
+gits.
+#1340029256
+git commit -m '带"索引分区"的表视图'
+#1340029259
+gits.
+#1340029935
+gitd.
+#1340029938
+gits.
+#1340029940
+git add .
+#1340029946
+gits.
+#1340030019
+git commit -m '开始实现搜索栏: 首先, 实现可变字典的深复制方法'
+#1340030022
+gits.
+#1340032784
+s deprecated
+#1340032898
+gits.
+#1340032902
+gitdc.
+#1340032905
+gitd.
+#1340033067
+gits.
+#1340033070
+git add .
+#1340033071
+gits.
+#1340033086
+git commit -m '添加搜索栏'
+#1340033091
+cdvcl
+#1340033092
+gits
+#1340033096
+git push origin master
+#1340033578
+ii
+#1340033587
+cdvcr
+#1340033589
+cdvcrc
+#1340033591
+gits.
+#1340033598
+git add rt/home/scr/.kde/share/apps/okular/
+#1340033600
+gits.
+#1340033604
+git commit -m 'bookmark'
+#1340033612
+gitlo.
+#1340033616
+gits.
+#1340033607
+git push origin master
+#1340033621
+git push origin master
+#1340033642
+halt
+#1340018270
+sc\reen 
+#1340104589
+ff&
+#1340109851
+ii
+#1340109853
+vmware&
+#1340109908
+cdvcrt
+#1340109910
+cdvcrc
+#1340109912
+gits.
+#1340109921
+cd
+#1340109923
+cd .getmail
+#1340109916
+git pull origin master
+#1340110043
+pdf&
+#1340110049
+pdf
+#1340110052
+ii
+#1340110181
+ff&
+#1340110420
+date
+#1340109925
+mutt
+#1340112268
+s retina
+#1340113758
+cd .getmail
+#1340113762
+tail -30 getmail.out.log 
+#1340113770
+tail -n 100 getmail.crontab.log 
+#1340113872
+ii
+#1340113885
+cdvcl
+#1340113888
+cd books/objc/ios/iphone-dev-tutor/
+#1340113894
+ds *
+#1340113930
+cd
+#1340113934
+cd .fcitx/
+#1340113939
+ii
+#1340113953
+lla
+#1340113956
+chmod 000 .cache/
+#1340113941
+su
+#1340113964
+cd .cache/
+#1340113966
+lla
+#1340113973
+chmod 777 .cache/
+#1340113966
+su
+#1340113977
+cd .cache/
+#1340113979
+ex .
+#1340114461
+kk
+#1340114548
+ds vmware/
+#1340114554
+ll po
+#1340114556
+ll photo/
+#1340114559
+ll video/
+#1340114560
+ll db
+#1340114564
+ll xiazai/
+#1340114573
+cdx
+#1340114579
+ds *
+#1340114593
+cd exo
+#1340114597
+ll exopc
+#1340114607
+cat exopc/README 
+#1340114664
+t
+#1340114675
+cd
+#1340114687
+ds .aMule/
+#1340114692
+ds android-sdks/
+#1340114708
+ds .macromedia/
+#1340114715
+cd .macromedia/
+#1340114717
+lla
+#1340114718
+lr
+#1340114727
+lla
+#1340114733
+ds .vmware/
+#1340114741
+ds .mplayer/
+#1340114744
+lla
+#1340114495
+mencoder 90MM.avi -o dst-90MM.avi -vf scale=320:240 -oac copy -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=500 
+#1340114751
+ds tmp/
+#1340114802
+cd tm
+#1340114803
+cd tmp
+#1340115603
+cd .fcitx/.cache/
+#1340115680
+mencoder HUNT489.avi -o dwt-HUNT489.avi -vf scale=320:240 -oac copy -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=500  -ss 01:50:00 -endpos 01:15:09
+#1340116662
+exc
+#1340116721
+cd..
+#1340112272
+fg
+#1340116746
+lla
+#1340116786
+halt
+#1340106866
+sc\reen 
+#1340116746
+su
+#1340191545
+file Fedora17.iso 
+#1340191589
+mount Fedora17.iso rsync/
+#1340191596
+sudo mount Fedora17.iso rsync/
+#1340191607
+su
+#1340191624
+mount Fedora17.iso rsync/
+#1340191633
+cd rsync/
+#1340191662
+cd ..
+#1340191667
+umount rsync/
+#1340191839
+mut
+#1340192743
+md5sum Fedora17.iso 
+#1340191841
+mutt
+#1340192824
+reboot
+#1340195140
+dmidecode 
+#1340195148
+su
+#1340195164
+dmidecode 
+#1340195193
+dmidecode --help
+#1340195220
+dmidecode -t processor
+#1340195269
+erl
+#1340195277
+yum install erlang
+#1340195111
+sc\reen 
+#1340195797
+time
+#1340195799
+date
+#1340199552
+cd .getmail
+#1340199557
+tail -n 100 getmail.crontab.log 
+#1340199560
+tail -30 getmail.out.log 
+#1340199567
+tail -n 100 getmail.crontab.log 
+#1340200163
+tail -30 getmail.out.log 
+#1340200178
+cdvcrc
+#1340200184
+gits.
+#1340200192
+git checkout rt/home/scr/.kde/
+#1340200193
+gits.
+#1340200196
+git pull origin master
+#1340200215
+pdf&
+#1340200293
+cdvcl
+#1340200300
+cd books/objc/ios/iphone-dev-tutor/
+#1340200352
+ii
+#1340200359
+pdf
+#1340200361
+ii
+#1340200386
+t
+#1340200406
+ii
+#1340200432
+vmware&
+#1340200465
+ii
+#1340200512
+vmware&
+#1340200536
+ii
+#1340200656
+cd-
+#1340200660
+cdvcl
+#1340200663
+cd books/objc/ios/iphone-dev-tutor/
+#1340200664
+,y
+#1340200666
+ii
+#1340201082
+pdf &
+#1340201086
+ii
+#1340201092
+iii
+#1340201093
+ii
+#1340201154
+rsync
+#1340201184
+gvlc
+#1340201213
+ii
+#1340201231
+ff&
+#1340201266
+ii
+#1340201335
+sync
+#1340201337
+ii
+#1340201391
+cat /proc/sys/vm/drop_caches 
+#1340201456
+su
+#1340201459
+ii
+#1340201461
+sync
+#1340201464
+ii
+#1340201482
+cat 3 > /proc/sys/vm/drop_caches 
+#1340201489
+cat "3" > /proc/sys/vm/drop_caches 
+#1340201494
+echo "3" > /proc/sys/vm/drop_caches 
+#1340201495
+ii
+#1340201515
+echo /proc/sys/vm/drop_caches 
+#1340201529
+c /proc/sys/vm/drop_caches 
+#1340201532
+ii
+#1340201536
+sync
+#1340201541
+c /proc/sys/vm/drop_caches 
+#1340201544
+ii
+#1340201548
+echo "3" > /proc/sys/vm/drop_caches 
+#1340201549
+c /proc/sys/vm/drop_caches 
+#1340201563
+ii
+#1340201568
+c /proc/sys/vm/drop_caches 
+#1340201571
+ii
+#1340201730
+gits.
+#1340201738
+ll 12-QuartzFun/
+#1340201750
+gits.
+#1340201752
+git add .
+#1340201753
+gits.
+#1340201767
+git commit -m '使用Quartz画图'
+#1340201986
+gits.
+#1340201988
+git add .
+#1340202000
+git commit -m '新增几个文件'
+#1340204830
+gits.
+#1340204951
+ii
+#1340208718
+halt
+#1340199549
+screen 
+#1340201453
+su
+#1340274600
+ff&
+#1340274601
+i
+#1340278392
+cd home
+#1340278400
+ls 
+#1340281547
+halt
+#1340526572
+vmware&
+#1340526604
+cal
+#1340526784
+ii
+#1340542365
+ex .
+#1340542373
+ii
+#1340542573
+p www.hao123.com
+#1340542615
+p 211.64.120.2
+#1340542619
+p 8.8.8.8
+#1340542622
+p 192.168.1.1
+#1340542631
+iwconfig 
+#1340542639
+rn
+#1340542644
+p 192.168.1.1
+#1340542672
+iwconfig 
+#1340542680
+p 192.168.1.1
+#1340542684
+rn
+#1340542686
+p www.hao123.com
+#1340542689
+iwconfig 
+#1340545067
+ff&
+#1340550095
+halt
+#1340526601
+screen 
+#1340626020
+ii
+#1340626024
+vmware&
+#1340626026
+ff&
+#1340626884
+ii
+#1340626888
+cdvcl
+#1340626890
+cd books/
+#1340626893
+cd objc/ios/iphone-dev-tutor/
+#1340626898
+gits.
+#1340626904
+pdf &
+#1340626976
+cd 12-QuartzFun/
+#1340626978
+gits.
+#1340626980
+gitlo.
+#1340627029
+gits.
+#1340627032
+git add .
+#1340627046
+git commit -m '已能画出线段'
+#1340627048
+gits.
+#1340628560
+gitdl
+#1340628567
+gits.
+#1340628569
+git add .
+#1340628597
+git commit -m '使能画出矩形和椭圆形'
+#1340628601
+gits.
+#1340628687
+gitdl
+#1340628691
+gits.
+#1340628697
+git add .
+#1340628709
+git commit -m '使能画出图片'
+#1340628711
+gitlo.
+#1340628971
+,y
+#1340628975
+cd,y
+#1340628977
+gits.
+#1340628989
+git add .
+#1340629008
+git commit -m '使用 OpenGL ES 渲染'
+#1340629012
+ds *
+#1340629018
+cd 12-GLFun/
+#1340629022
+cd,y
+#1340629024
+gits.
+#1340629130
+gits.
+#1340629133
+git add .
+#1340629154
+git commit -m '增加一些必要文件'
+#1340630024
+gits.
+#1340632469
+git add .
+#1340632470
+gits.
+#1340632481
+git commit -m '能正常渲染'
+#1340632512
+gits.
+#1340632951
+gitd.
+#1340632963
+gits.
+#1340632969
+git checkout .
+#1340632970
+gits
+#1340632972
+gits.
+#1340633128
+gitd.
+#1340633138
+git add .
+#1340633147
+git commit -m '[colorControl setHidden:YES]; // 为什么不起作用？ QQQQQ'
+#1340633149
+gits.
+#1340633151
+cdvcl
+#1340633152
+gits.
+#1340633164
+gits.
+#1340633167
+git checkout .
+#1340633168
+gits.
+#1340633173
+git push origin master
+#1340633210
+cd .getmail
+#1340633212
+tail -30 getmail.out.log 
+#1340633215
+tail -n 100 getmail.crontab.log 
+#1340633218
+tail -30 getmail.out.log 
+#1340633221
+tail -n 100 getmail.crontab.log 
+#1340633205
+mutt
+#1340640097
+halt
+#1340715527
+scf
+#1340715536
+ff&
+#1340715539
+vmware&
+#1340715883
+ii
+#1340715887
+p www.hao123.com
+#1340717334
+ii
+#1340717592
+ff&
+#1340717594
+ii
+#1340717625
+echo "3" > /proc/sys/vm/drop_caches 
+#1340717634
+ii
+#1340717642
+sync
+#1340717645
+echo "3" > /proc/sys/vm/drop_caches 
+#1340717646
+ii
+#1340717655
+echo "3" > /proc/sys/vm/drop_caches 
+#1340717660
+echo "1" > /proc/sys/vm/drop_caches 
+#1340717662
+ii
+#1340717668
+echo "3" > /proc/sys/vm/drop_caches 
+#1340717671
+sync
+#1340717672
+echo "3" > /proc/sys/vm/drop_caches 
+#1340717673
+ii
+#1340717733
+echo "3" > /proc/sys/vm/drop_caches 
+#1340717734
+ii
+#1340717744
+sync
+#1340717751
+m sync
+#1340717776
+ii
+#1340717786
+echo "3" > /proc/sys/vm/drop_caches 
+#1340717787
+ii
+#1340717795
+cat /proc/sys/vm/drop_caches 
+#1340717797
+echo "3" > /proc/sys/vm/drop_caches 
+#1340717800
+ii
+#1340717807
+echo "3" > /proc/sys/vm/drop_caches 
+#1340717809
+ii
+#1340718140
+cdvcl
+#1340718145
+cd books/objc/ios/iphone-dev-tutor/
+#1340718168
+cd OpenGL-ES-Hello/
+#1340718176
+gits.
+#1340718184
+ds OpenGL-ES-Hello/
+#1340718190
+git add OpenGL-ES-Hello/
+#1340718191
+gits.
+#1340718222
+git commit -m 'OpenGL ES 使用 (全屏)'
+#1340718226
+gits.
+#1340718232
+ds *
+#1340718435
+cat /etc/wpa_supplicant/wpa_supplicant.conf 
+#1340718441
+cat /etc/wpa_supplicant/wpa_supplicant.conf 
+#1340718528
+p www.hao123.com
+#1340720092
+ii
+#1340720104
+cdvcl
+#1340720107
+cd ..
+#1340720111
+cd wkk/
+#1340720113
+cd sudoku/
+#1340720115
+gits.
+#1340720251
+cdvcl
+#1340720404
+rmdir ios/
+#1340720406
+ll ios/
+#1340720410
+rmdir ios/iphone-dev-tutor/
+#1340720411
+rmdir ios/
+#1340721219
+cdvcl
+#1340721221
+cd books/
+#1340721223
+cd c/
+#1340721226
+cd graph/
+#1340721229
+cd glsl/
+#1340721232
+cd lighthouse3d.com/
+#1340721234
+ma
+#1340721250
+./ogl 
+#1340721262
+g ogl.cpp 
+#1340721406
+./ogl 
+#1340721611
+cdvlc
+#1340721613
+cdvcl
+#1340721619
+gits.
+#1340721644
+cd  books/c/game/
+#1340721646
+cd soduku/
+#1340721648
+ma
+#1340721651
+mc
+#1340721651
+ma
+#1340721627
+git push origin master
+#1340721654
+mc
+#1340721656
+ma
+#1340721658
+./soduku_test 
+#1340721664
+mc
+#1340721704
+mkdir 3DRace
+#1340721706
+cd 3DRace/
+#1340721751
+,y
+#1340721769
+cd books/c/graph/NeHe/
+#1340721773
+cd LESSON09
+#1340721777
+ma
+#1340721780
+./lesson9 
+#1340721784
+mc
+#1340721788
+cd LESSON11
+#1340721789
+ma
+#1340721792
+mc
+#1340721793
+ma
+#1340721803
+./lerp.exe 
+#1340721813
+./lerp3.exe 
+#1340721821
+./lerp2.exe 
+#1340721833
+touch *
+#1340721835
+mc
+#1340721850
+g fold_up.c 
+#1340722019
+g 3drace.c
+#1340722228
+vi Makefile 
+#1340722431
+ma
+#1340720118
+git pull origin master
+#1340722528
+mc
+#1340722530
+fg
+#1340722565
+mc
+#1340722565
+ma
+#1340722582
+mc
+#1340722582
+ma
+#1340722585
+./3drace 
+#1340722621
+bce 256/342
+#1340722630
+bce 480/800
+#1340722645
+./3drace 
+#1340723072
+gits.
+#1340723076
+git add 3DRace/
+#1340723077
+gits.
+#1340723093
+git commit -m '3D Race Game'
+#1340723102
+cdvcl
+#1340723114
+gits.
+#1340723127
+rm *
+#1340723129
+rm -rf 
+#1340723132
+rm -rf *
+#1340723105
+git push origin master
+#1340723133
+gits.
+#1340723135
+git checkout .
+#1340723136
+gits.
+#1340723160
+cd .getmail
+#1340723163
+tail -n 100 getmail.crontab.log 
+#1340723168
+tail -30 getmail.out.log 
+#1340723139
+git pull origin master
+#1340723173
+tail -n 100 getmail.crontab.log 
+#1340723185
+tail -30 getmail.out.log 
+#1340723199
+gits.
+#1340723205
+ex .
+#1340723434
+ii
+#1340723646
+cd books/c/graph/NeHe/
+#1340723649
+cd LESSON39
+#1340723651
+./lesson39.exe 
+#1340723657
+cd LESSON44
+#1340723659
+ma
+#1340723665
+cd LESSON43
+#1340723667
+ma
+#1340723674
+./freetype 
+#1340723690
+cd LESSON39/
+#1340723691
+LL
+#1340723696
+./lesson39.exe 
+#1340723701
+cd LESSON36
+#1340723703
+ma
+#1340723705
+./lesson36 
+#1340723715
+mc
+#1340723720
+cd LESSON32
+#1340723721
+ma
+#1340723726
+cd LESSON27
+#1340723728
+ma
+#1340723730
+.
+#1340723731
+./
+#1340723734
+./Lesson27 
+#1340723736
+mc
+#1340723740
+cd LESSON25
+#1340723741
+ma
+#1340723746
+./Lesson25 
+#1340723753
+mc
+#1340723756
+cd LESSON14
+#1340723758
+ma
+#1340723760
+./lesson14.exe 
+#1340723765
+mc
+#1340723769
+cd LESSON13
+#1340723771
+ma
+#1340723773
+./lesson13.exe 
+#1340723775
+mc
+#1340723781
+cd LESSON02
+#1340723782
+ma
+#1340723786
+./lesson02.exe 
+#1340723788
+mc
+#1340723797
+locate Nehe
+#1340723814
+cd /home/scr/.rt/linux/computor/grath/opengl/nehe/dev-src-html
+#1340723818
+ff index.htm 
+#1340723820
+ff index.htm &
+#1340726115
+halt
+#1340715533
+screen 
+#1340717626
+su
+#1340798482
+cd .getmail
+#1340798487
+cdvcl
+#1340798490
+git pull origin master
+#1340798523
+exc
+#1340798645
+ii
+#1340798659
+cdm
+#1340798661
+cd WA
+#1340798663
+cd F
+#1340798670
+cd GS/vmware/
+#1340798672
+cd wkk/
+#1340798685
+cd Leopard/
+#1340798894
+ds Leopard/
+#1340798898
+rm -rf Leopard/
+#1340798926
+cal
+#1340798985
+exc
+#1340801326
+ii
+#1340801387
+vmware&
+#1340801390
+jj
+#1340801633
+fl
+#1340801634
+lf
+#1340801636
+fdisk
+#1340801647
+fdisk -l
+#1340801649
+su
+#1340801662
+exc
+#1340798494
+mutt
+#1340801830
+pg vm
+#1340801842
+pg vmware
+#1340802050
+kill -9 7769
+#1340802052
+pg vmware
+#1340802323
+vmware&
+#1340802949
+cdvcl
+#1340802955
+cd books/c/game/3DRace/
+#1340802956
+ma
+#1340802965
+mc
+#1340802965
+ma
+#1340802972
+./3drace 
+#1340803124
+ma
+#1340803125
+mc
+#1340803126
+ma
+#1340803139
+ii
+#1340803141
+uname -a
+#1340803370
+ctagsc.sh 
+#1340803372
+ma
+#1340803373
+./3drace 
+#1340803443
+g 3drace.c
+#1340803486
+cd /home/scr/.rt/linux/computor/grath/opengl/nehe/dev-src-html
+#1340803491
+ff index.htm &
+#1340806274
+ii
+#1340807322
+cdvcl
+#1340807331
+cd books/c/game/3DRace/
+#1340807333
+ma
+#1340807334
+./3drace 
+#1340808110
+ma
+#1340808112
+./3drace 
+#1340808171
+ma
+#1340808173
+./3drace 
+#1340808291
+ma
+#1340808305
+./3drace 
+#1340808411
+gits.
+#1340808416
+mc
+#1340808417
+gitd.
+#1340808422
+git add .
+#1340808438
+git commit -m '重置 rand pos'
+#1340808442
+gits.
+#1340808445
+gitlo.
+#1340808462
+mc
+#1340808463
+ma
+#1340808707
+./3drace 
+#1340808721
+ma
+#1340808722
+./3drace 
+#1340808784
+ma
+#1340808785
+./3drace 
+#1340809022
+ma
+#1340809031
+./3drace 
+#1340809063
+ma
+#1340809068
+./3drace 
+#1340809120
+ma
+#1340809122
+./3drace 
+#1340809169
+ma
+#1340809170
+./3drace 
+#1340809214
+ma
+#1340809216
+./3drace 
+#1340809270
+ma
+#1340809271
+./3drace 
+#1340809412
+s accuracy
+#1340809451
+ma
+#1340809452
+./3drace 
+#1340809521
+ma
+#1340809523
+.
+#1340809525
+./3drace 
+#1340809619
+ma
+#1340809620
+./3drace 
+#1340809820
+ma
+#1340809835
+mc
+#1340809836
+ma
+#1340809840
+./3drace 
+#1340809947
+ma
+#1340809948
+./3drace 
+#1340810046
+./3drace \
+#1340810049
+./3drace 
+#1340810244
+ma
+#1340810245
+mc
+#1340810246
+ma
+#1340810254
+mc
+#1340810255
+ma
+#1340810256
+./3drace 
+#1340810358
+ma
+#1340810359
+./3drace 
+#1340810488
+gits.
+#1340810489
+mc
+#1340810489
+gitd.
+#1340810499
+git add .
+#1340810500
+gits.
+#1340810511
+git commit -m '增加碰撞检测'
+#1340810513
+gits.
+#1340810513
+ma
+#1340810515
+./3drace 
+#1340810552
+ma
+#1340810553
+./3drace 
+#1340810646
+gits.
+#1340810730
+ma
+#1340810731
+./3drace 
+#1340810787
+ma
+#1340810796
+cdvcl
+#1340810797
+gits.
+#1340810810
+cd books/c/graph/NeHe/LESSON43/1
+#1340810812
+cd books/c/graph/NeHe/LESSON43/
+#1340810815
+rm *.bmp
+#1340810818
+gits.
+#1340810819
+rm f
+#1340810821
+mc
+#1340810823
+gits.
+#1340810825
+cdvlc
+#1340810827
+cdvcl
+#1340810827
+gits.
+#1340810831
+git push origin master
+#1340814542
+cd .fcitx/
+#1340814547
+chmod 777 .cache/
+#1340814553
+cd .fcitx/.cache/
+#1340814555
+ex .
+#1340815667
+chmod 000 .cache/
+#1340814537
+su
+#1340815721
+cd
+#1340815722
+cd .getmail
+#1340815727
+tail -30 getmail.out.log 
+#1340815732
+tail -n 100 getmail.crontab.log 
+#1340815734
+halt
+#1340802620
+mutt
+#1340802318
+screen 
+#1340802320
+mutt
+#1340882344
+cdvcl
+#1340882349
+cdvcrt
+#1340882353
+cdvcrc
+#1340882346
+git pull origin master
+#1340882356
+git pull origin master
+#1340882351
+git pull origin master
+#1340882450
+gits.
+#1340882464
+git checkout rt/home/scr/.kde/
+#1340882466
+gits.
+#1340882468
+git pull origin master
+#1340882534
+cd .getmail
+#1340882538
+tail -n 100 getmail.crontab.log 
+#1340882543
+tail -30 getmail.out.log 
+#1340882546
+tail -n 100 getmail.crontab.log 
+#1340882553
+tail -30 getmail.out.log 
+#1340882561
+tail -n 100 getmail.crontab.log 
+#1340882562
+tail -30 getmail.out.log 
+#1340882564
+tail -n 100 getmail.crontab.log 
+#1340882685
+tail -30 getmail.out.log 
+#1340883040
+ff&
+#1340883041
+ii
+#1340883305
+cd workspace/
+#1340883317
+mkdir gae
+#1340883319
+cd gae/
+#1340883320
+,y
+#1340883323
+cdx
+#1340882367
+mutt
+#1340883386
+mv2,y google_appengine_1.7.0.zip 
+#1340883391
+unzip google_appengine_1.7.0.zip 
+#1340883398
+cd google_appengine
+#1340883410
+./dev_appserver.py 
+#1340883415
+./dev_appserver.py --help
+#1340883826
+cd books/
+#1340883828
+cd python/
+#1340883833
+mkdir GAE
+#1340883834
+cd GAE/
+#1340883874
+mkdir ProgrammingGoogleAppEngine
+#1340883876
+cd ProgrammingGoogleAppEngine/
+#1340883880
+mkdir clock
+#1340883887
+cd clock/
+#1340883895
+g app.yaml
+#1340883907
+gvht
+#1340883973
+s yam
+#1340883976
+s yaml
+#1340884028
+cdv
+#1340884029
+svn up
+#1340884147
+g main.py 
+#1340884196
+g app.yaml 
+#1340884372
+,y
+#1340884381
+6ll
+#1340884395
+./dev_appserver.py /home/scr/.vercol/git/lang/books/python/GAE/ProgrammingGoogleAppEngine/clock
+#1340885606
+mv clock/ clock-me
+#1340885615
+./dev_appserver.py /home/scr/.vercol/git/lang/books/python/GAE/ProgrammingGoogleAppEngine/clock-me/
+#1340885732
+s review
+#1340886272
+,y
+#1340886282
+mv2,y pgae_1e_examples_20100125.zip 
+#1340886287
+unzip pgae_1e_examples_20100125.zip 
+#1340886295
+ungzip pgae_1e_examples_20100125.zip 
+#1340886298
+gunzip pgae_1e_examples_20100125.zip 
+#1340886308
+file pgae_1e_examples_20100125.zip 
+#1340886319
+unzip --v
+#1340886328
+unzip pgae_1e_examples_20100125.zip 
+#1340886355
+hg
+#1340886355
+hg
+#1340886361
+wh gh
+#1340886364
+wh hg
+#1340886395
+hg clone https://code.google.com/p/pgae-examples/
+#1340886395
+hg clone https://code.google.com/p/pgae-examples/
+#1340886430
+/usr/bin/hg clone https://code.google.com/p/pgae-examples/
+#1340886445
+su
+#1340886476
+kk
+#1340886502
+cd,y
+#1340886511
+wgfet -r -c -p https://tokyo.zxproxy.com/browse.php?u=jYly76gg5bysSoeY1r2fUeM0kpR55ifdvT3TDg8jyWOxQPKuYXl7vnYx1E9n1TkN0P50mlDyecF76KrA4Lg3gzXiQ%3D%3D&b=6
+#1340886528
+wget https://tokyo.zxproxy.com/browse.php?u=jYly76gg5bysSoeY1r2fUeM0kpR55ifdvT3TDg88jyWOxQPKuYXl7vnYx1E9n1TkN0P50mlDyecF76KrA4Lg3gzXiQ%3D%3D&b=6
+#1340886616
+jj
+#1340886622
+rm index.php 
+#1340886663
+hg clone https://code.google.com/p/pgae-examples/
+#1340886663
+hg clone https://code.google.com/p/pgae-examples/
+#1340886670
+fg
+#1340886682
+kill 4489
+#1340886688
+kill 4494
+#1340886691
+fg
+#1340886700
+/usr/bin/hg clone https://code.google.com/p/pgae-examples/
+#1340886719
+/usr/bin/hg clone https://code.google.com.hk/p/pgae-examples/
+#1340886740
+/usr/bin/hg clone https://code.google.com/p/pgae-examples/
+#1340886892
+rm pgae_1e_examples_20100125.zip 
+#1340886894
+,y
+#1340886913
+mv2,y pgae_1e_examples_20100125\(3\).zip 
+#1340886918
+unzip pgae_1e_examples_20100125\(3\).zip 
+#1340886922
+touch *
+#1340886954
+mv pgae_1e_examples_20100125\(3\).zip pgae_1e_examples_201001253.zip 
+#1340886962
+mv pgae_1e_examples_201001253.zip pgae_1e_examples_20100125.zip 
+#1340886970
+ds *
+#1340886987
+gvht
+#1340887255
+lll
+#1340887258
+cdvcrt
+#1340887263
+cd linux/computor/
+#1340887272
+mkdir web
+#1340887275
+cd web/
+#1340887285
+mkdir gae
+#1340887287
+cd gae/
+#1340887304
+mkdir ProgrammingGoogleAppEngine
+#1340887307
+cd ProgrammingGoogleAppEngine/
+#1340887308
+,y
+#1340887311
+mv2,y pgae_1e_examples_20100125.zip 
+#1340887314
+mkdir src
+#1340887316
+mv pgae_1e_examples_20100125.zip  src/
+#1340887382
+111314523
+#1340887382
+    * 上架时间：2010-12-    * 出版日期：2011 年1月
+#1340887382
+    * 开本：16开
+#1340887382
+    * 页码：350
+#1340887322
+vi README 
+#1340887394
+g README 
+#1340887442
+mv clock-me/ ..
+#1340887456
+gits.
+#1340887462
+git add GAE/
+#1340887464
+gits.
+#1340887469
+git commit -m '增加碰撞检测'
+#1340887474
+git commit
+#1340887502
+gits.
+#1340887504
+gitlo.
+#1340887517
+mv clock-me/ GAE/ProgrammingGoogleAppEngine/1e/
+#1340887519
+cd GAE/ProgrammingGoogleAppEngine/1e/
+#1340887525
+mv clock-me/ ..
+#1340887526
+ll ..
+#1340887529
+cd python/
+#1340887537
+cd ch02
+#1340887541
+cd clock1
+#1340887545
+,y
+#1340887552
+,y
+#1340887561
+gvbs
+#1340887596
+.s
+#1340887602
+dev_appserver.py .
+#1340887647
+,y
+#1340887650
+cd,y
+#1340887655
+g app.yaml 
+#1340887681
+cd,y
+#1340887692
+cd clock-me/
+#1340887648
+fg
+#1340887705
+.s
+#1340887707
+dev_appserver.py 
+#1340887709
+dev_appserver.py .
+#1340887725
+g app.yaml 
+#1340887735
+dev_appserver.py .
+#1340887837
+gits.
+#1340887839
+gitd.
+#1340887841
+git add .
+#1340887843
+gits.
+#1340887857
+git commit -m '使用python2.7'
+#1340887789
+dev_appserver.py .
+#1340887878
+cd clock2
+#1340887959
+cd,y
+#1340887960
+....
+#1340887962
+...
+#1340887965
+cd a-byte-of-python/
+#1340887969
+gitlo.
+#1340888048
+gitl.
+#1340888057
+gitls.
+#1340888073
+g using_dict.py 
+#1340888081
+py using_dict.py 
+#1340888356
+c using_dict.py 
+#1340887897
+dev_appserver.py .
+#1340888435
+gits.
+#1340888437
+gitd
+#1340888440
+gitd.
+#1340888443
+git add .
+#1340888471
+git commit -m '一个简单使用了 webapp 框架的请求处理器'
+#1340888475
+gitlo.
+#1340888483
+cd clock3
+#1340888511
+dev_appserver.py .
+#1340889044
+gits.
+#1340889047
+gitd.
+#1340889049
+git add .
+#1340889080
+git commit -m '能够显示GAccount信息和相关链接'
+#1340889082
+gits.
+#1340889083
+gitlo.
+#1340889200
+cd clock4
+#1340890616
+vmware&
+#1340890968
+cd .getmail
+#1340890971
+tail -30 getmail.out.log 
+#1340890973
+tail -n 100 getmail.crontab.log 
+#1340889904
+dev_appserver.py .
+#1340891696
+gits.
+#1340891701
+git add .
+#1340891744
+git commit -m '使用Web表单 和 wepapp的数据存储区'
+#1340892053
+cd clock5
+#1340892055
+gits.
+#1340892057
+dev_appserver.py .
+#1340892388
+gits.
+#1340892390
+gitd.
+#1340892393
+git add .
+#1340892443
+git commit -m '使用memcache实现缓存; 使用日志' 
+#1340892445
+gits.
+#1340892450
+cdvcl
+#1340892453
+git push origin master
+#1340892519
+gitlo.
+#1340892602
+cd-
+#1340892748
+lla
+#1340892751
+ll de
+#1340892754
+ll demos/
+#1340892756
+ll google
+#1340892766
+ll google/storage/
+#1340892769
+ll google/storage/speckle/
+#1340892774
+ll google/storage/speckle/python/
+#1340892778
+ll google/storage/speckle/python/tool/
+#1340892985
+lla
+#1340892987
+ll lib
+#1340892997
+lla
+#1340893001
+ll new_project_template/
+#1340893006
+ll google
+#1340893014
+ll google/storage/
+#1340892604
+dev_appserver.py .
+#1340893902
+appcfg.py .
+#1340893916
+appcfg.py update .
+#1340894509
+gits.
+#1340894519
+gits.
+#1340894523
+git push origin master
+#1340894590
+gvht
+#1340895018
+cd ch10
+#1340895023
+cd async/
+#1340895026
+dev_appserver.py .
+#1340895064
+dev_appserver.py --help
+#1340895119
+dev_appserver.py --skip_sdk_update_check .
+#1340897595
+cdvcrt
+#1340897597
+gits.
+#1340897634
+git add linux/computor/bookmark/
+#1340897646
+git commit -m 'GAE'
+#1340897654
+cdvcrc
+#1340897655
+gits.
+#1340897649
+git push origin master
+#1340897682
+gitd.
+#1340897693
+gits.
+#1340897695
+halt
+#1340882059
+screen 
+#1340969803
+cd .getmail
+#1340969805
+cdg
+#1340969810
+tail -n 100 getmail.crontab.log 
+#1340969812
+tail -30 getmail.out.log 
+#1340969818
+tail -n 100 getmail.crontab.log 
+#1340969851
+vmware&
+#1340970000
+ff&
+#1340970068
+cdvcl
+#1340970078
+cd books/python/GAE/ProgrammingGoogleAppEngine/
+#1340970079
+gits.
+#1340970088
+cd 1e/
+#1340970094
+cd python/
+#1340970098
+cd ch03
+#1340970102
+cd ch02
+#1340970105
+cd clock5
+#1340970107
+dvipdf exam01.pdf
+#1340970117
+ex .
+#1340970125
+rm exam01.pdf.pdf 
+#1340970127
+gits.
+#1340970130
+gitd.
+#1340970138
+dev_appserver.py --skip_sdk_update_check .
+#1340970188
+cdvcrc
+#1340970195
+cdvcrt
+#1340970191
+git pull origin master
+#1340970200
+cdvcl
+#1340970202
+git pull origin master
+#1340970198
+git pull origin master
+#1340970721
+gvht
+#1340970787
+cd /opt/
+#1340970791
+cd scr/
+#1340970794
+ll ..
+#1340970798
+mkdir work
+#1340970804
+cd
+#1340970812
+ln -s /opt/scr/work/ work
+#1340970814
+cd work
+#1340970821
+mkdir tmp
+#1340970822
+cd tmp/
+#1340970829
+mkdir src
+#1340970830
+cd src/
+#1340970833
+mkdir sb5
+#1340970835
+cd sb5/
+#1340970856
+,y
+#1340970859
+cdm
+#1340970863
+cd 38F0-B967/
+#1340970867
+cd scr/gs/
+#1340970869
+cd ziliao/
+#1340970885
+mv2,y *
+#1340971281
+chxx *
+#1340971285
+touch *
+#1340971290
+mkdir sb5
+#1340971299
+mv SB-LinuxSrc.tar.bz2 oglsuperbible5-read-only.tar.bz2 sb5/
+#1340971303
+cd sb5/
+#1340971315
+tar xvjf oglsuperbible5-read-only.tar.bz2 
+#1340971369
+cd oglsuperbible5-read-only
+#1340971372
+cd Linux/
+#1340971375
+cd Chapter02
+#1340971377
+cd Move/
+#1340971379
+ma
+#1340971386
+./Move 
+#1340971401
+cd Chapter06/
+#1340971403
+lla
+#1340971407
+cd Triangle/
+#1340971408
+ma
+#1340971415
+./Triangle 
+#1340971421
+cd ToonShader/
+#1340971422
+ma
+#1340971427
+./ToonShader 
+#1340971433
+cd LitTexture/
+#1340971435
+ma
+#1340971441
+./LitTexture 
+#1340971447
+cat ADSTexture.fp 
+#1340971453
+cd FlatShader/
+#1340971454
+ma
+#1340971461
+./FlatShader 
+#1340971469
+lspci -vnn
+#1340971478
+lspci -vnn | grep VGA
+#1340971487
+gvlc
+#1340972587
+cd
+#1340972593
+cd work/tmp/
+#1340972610
+cd work
+#1340972612
+cd tmp/
+#1340972617
+wget http://cn.download.nvidia.com/XFree86/Linux-x86_64/295.59/NVIDIA-Linux-x86_64-295.59.run
+#1340973179
+fg
+#1340971533
+lspci -vnn | less
+#1340973606
+vi FlatShader.fp 
+#1340973631
+./FlatShader 
+#1340973655
+mc
+#1340973656
+ma
+#1340973669
+./FlatShader 
+#1340973673
+fg
+#1340973686
+ma
+#1340973689
+./FlatShader 
+#1340973710
+cdvcl
+#1340973711
+cd books/
+#1340973713
+cd c
+#1340973716
+cd graph/
+#1340973720
+cd glsl/
+#1340973722
+cd lighthouse3d.com/
+#1340973724
+mc
+#1340973730
+c toon.frag 
+#1340973742
+c toon.vert 
+#1340973750
+vi FlatShader.*
+#1340973762
+./FlatShader 
+#1340973789
+gh
+#1340973790
+fg
+#1340973814
+./FlatShader 
+#1340973823
+fg
+#1340973835
+cd LitTexture/
+#1340973837
+ma
+#1340973841
+./FlatShader 
+#1340973845
+./LitTexture 
+#1340973849
+vi ADSTexture.*
+#1340973187
+wget -c http://cn.download.nvidia.com/XFree86/Linux-x86_64/295.59/NVIDIA-Linux-x86_64-295.59.run
+#1340974084
+./LitTexture 
+#1340974094
+fg
+#1340974104
+./LitTexture 
+#1340974109
+fg
+#1340974131
+./LitTexture 
+#1340974136
+fg
+#1340974152
+./LitTexture 
+#1340974154
+fg
+#1340974159
+./LitTexture 
+#1340974177
+fg
+#1340975504
+vi ADSTexture.*
+#1340975513
+./LitTexture 
+#1340976103
+fg
+#1340976107
+fg  1
+#1340976899
+uname -a
+#1340977532
+rpm -ivh http://download1.rpmfusion.org/free/Fedora/rpmfusion-free-release-stable.noarch.rpm；
+#1340977536
+rpm -ivh http://download1.rpmfusion.org/free/Fedora/rpmfusion-free-release-stable.noarch.rpm
+#1340977607
+rpm -ivh http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm
+#1340977645
+gvht
+#1340977649
+cd
+#1340977650
+g yum_list.txt 
+#1340978949
+cp /etc/X11/xorg.conf ~/
+#1340978998
+locate xorg.conf
+#1340979056
+yum install akmod-nvidia akmods kmod-nvidia
+#1340979367
+reboot
+#1340976900
+fg
+#1340973581
+fg
+#1340979042
+su
+#1340977528
+su
+#1340969845
+mutt
+#1340979884
+cd work
+#1340979889
+cd src/sb5/sb5/
+#1340979892
+cd oglsuperbible5-read-only
+#1340979894
+cd Linux/
+#1340979897
+cd Chapter06/
+#1340979900
+cd Triangle/
+#1340979902
+./Triangle 
+#1340979915
+cd FlatShader/
+#1340979918
+./FlatShader 
+#1340979929
+cat FlatShader.fp 
+#1340979938
+cd ..
+#1340979941
+cd ShadedTriangle/
+#1340979947
+cd TexturedTriangle/
+#1340979949
+ma
+#1340979957
+cat Textured
+#1340979959
+cat TexturedIdentity.
+#1340979961
+cat TexturedIdentity.fp 
+#1340979966
+./TexturedTriangle 
+#1340979974
+cd Chapter15
+#1340979976
+cd GLXBasics/
+#1340979977
+ma
+#1340979981
+cd Block/
+#1340979982
+ma
+#1340979987
+./Block 
+#1340979994
+cd Chapter12
+#1340979996
+cd Grass/
+#1340979997
+ma
+#1340980005
+vi Makefile 
+#1340980013
+ma
+#1340980019
+./Grass 
+#1340980021
+mc
+#1340980022
+fg
+#1340980030
+cd Chapter11
+#1340980032
+cd Perspective/
+#1340980033
+ma
+#1340980037
+./Perspective 
+#1340980053
+cd Chapter10
+#1340980055
+cd oit/
+#1340980056
+ma
+#1340980061
+./oit 
+#1340980084
+8vH
+#1340980090
+cd Chapter09
+#1340980094
+cd hdr_bloom/
+#1340980098
+ds *
+#1340980104
+cd Chapter08
+#1340980107
+cd fbo_textures/
+#1340980109
+ma
+#1340980114
+./fbo_textures 
+#1340980148
+lll
+#1340980152
+cd Chapter07
+#1340980156
+cd SphereMapped/
+#1340980157
+ma
+#1340980163
+./SphereMapped 
+#1340980181
+cd CubeMapped/
+#1340980183
+ma
+#1340980188
+./Cubemap 
+#1340980196
+cd NormalMapped/
+#1340980198
+ma
+#1340980202
+./NormalMapped 
+#1340980215
+cd PointSprites/
+#1340980216
+ma
+#1340980221
+./PointSprites 
+#1340980232
+cd Chapter05
+#1340980234
+cd SphereWorld/
+#1340980235
+ma
+#1340980241
+./SphereWorld 
+#1340980246
+cd Anisotropic/
+#1340980247
+ma
+#1340980252
+./Anisotropic 
+#1340980264
+cdl
+#1340980267
+cd c-cpp/
+#1340980279
+cd c/
+#1340980285
+cd books/
+#1340980286
+cd c
+#1340980288
+cd opengl/
+#1340980291
+cd opengl-blue/
+#1340980293
+cd e4/
+#1340980295
+cd src/
+#1340980305
+cd examples/projects/linux/chapt15
+#1340980307
+cd shaders/
+#1340980309
+ma
+#1340980314
+./shaders 
+#1340980328
+cd chapt07
+#1340980334
+cd chapt08
+#1340980336
+cd sphereworld/
+#1340980337
+ma
+#1340980340
+./sphereworld 
+#1340980367
+cd ..
+#1340980371
+cd chapt21
+#1340980373
+cd fonts/
+#1340980374
+ma
+#1340980377
+./font 
+#1340980380
+cd GLXBasics/
+#1340980381
+ma
+#1340980383
+./GLXBasics 
+#1340980394
+f..
+#1340980399
+cd chapt18
+#1340980402
+cd texfloat/
+#1340980403
+ma
+#1340980410
+cd hdrbloom/
+#1340980411
+ma
+#1340980415
+./hdrbloom 
+#1340980455
+ll shaders/
+#1340980456
+cd shaders/
+#1340980459
+cat combine.
+#1340980463
+cat combine.fs 
+#1340980473
+cat show2d.vs 
+#1340980476
+lll
+#1340980479
+cd pixbufobj/
+#1340980480
+ma
+#1340980491
+cd fboenvmap/
+#1340980492
+ma
+#1340980498
+m..
+#1340980501
+cd fbodrawbuffers/
+#1340980502
+ma
+#1340980506
+./fbodrawbuffers 
+#1340980572
+cd chapt17
+#1340980574
+cd lighting/
+#1340980575
+ma
+#1340980579
+ll shaders/
+#1340980582
+./lighting 
+#1340980593
+cd fragmentshaders/
+#1340980594
+ma
+#1340980598
+./fragmentshaders 
+#1340980604
+cd proctex/
+#1340980605
+ma
+#1340980608
+ll shaders/
+#1340980616
+./proctex 
+#1340980625
+cd
+#1340980635
+cd work/src/sb5/sb5/oglsuperbible5-read-only/Linux/
+#1340980640
+cd Chapter11
+#1340980642
+cd Perspective/
+#1340980643
+ma
+#1340980646
+./Perspective 
+#1340980658
+ll ../..
+#1340980677
+mkdir ../../Data/Shaders/Chapter11/
+#1340980681
+mkdir ../../Data/Shaders/Chapter11/ -p
+#1340980691
+ln -s Perspective.vs ../../Data/Shaders/Chapter11/Perspective.vs
+#1340980693
+./Perspective 
+#1340980711
+ll ../../Data/Shaders/Chapter11/Perspective.vs
+#1340980717
+rm ../../Data/Shaders/Chapter11/Perspective.vs
+#1340980725
+ln -s  ../../Data/Shaders/Chapter11/Perspective.vs Perspective.vs 
+#1340980736
+ll ../../Data/Shaders/Chapter11/Perspective.vs
+#1340980768
+m ln
+#1340980810
+ln -s /home/scr/work/src/sb5/sb5/oglsuperbible5-read-only/Linux/Chapter11/Perspective/Perspective.vs ../../Data/Shaders/Chapter11/Perspective.vs
+#1340980813
+ll ../../Data/Shaders/Chapter11/Perspective.vs
+#1340980819
+./Perspective 
+#1340980840
+ln -s /home/scr/work/src/sb5/sb5/oglsuperbible5-read-only/Linux/Chapter11/Perspective/Perspectivf.vs ../../Data/Shaders/Chapter11/Perspective.fs
+#1340980845
+ll ../../Data/Shaders/Chapter11/*
+#1340980875
+rm ../../Data/Shaders/Chapter11/Perspective.fs 
+#1340980884
+cp Perspective.fs ../../Data/Shaders/Chapter11/ 
+#1340980886
+./Perspective 
+#1340980930
+g
+#1340980937
+gvlc
+#1340980957
+kk
+#1340980963
+ff&
+#1340981046
+cd
+#1340981068
+g
+#1340981373
+gvlc
+#1340982318
+halt
+#1340980899
+screen 
+#1341020762
+cdl
+#1341020779
+iwconfig scanning eth1
+#1341020791
+iwconfig scanning 
+#1341020803
+iwconfig scanning eth1
+#1341020815
+iwlist 
+#1341020820
+iwlist scanning
+#1341020797
+su
+#1341020883
+iwconfig scanning 
+#1341020886
+iwconfig scanning eth1
+#1341020893
+iwlist eth1 scanning
+#1341021138
+cd books/c/opengl/opengl-red/
+#1341021146
+cd opengl-blue/
+#1341021172
+cp -rf opengl-blue/ opengl-blue.git -rf
+#1341021193
+cd opengl-blue.git/
+#1341021200
+cd e4/src/examples/
+#1341021201
+,y
+#1341021209
+cd,y
+#1341021214
+cd projects/linux/
+#1341021219
+cd,y
+#1341021220
+cd ll
+#1341021224
+cd chapt16
+#1341021230
+cd vertexblend/
+#1341021232
+ma
+#1341021241
+./vertexblend 
+#1341021272
+cd vertexshaders/
+#1341021273
+ma
+#1341021284
+./vertexshaders 
+#1341021293
+cd src/
+#1341021297
+cd chapt16
+#1341021303
+cd vertex
+#1341021305
+cd vertexblend/
+#1341021309
+lr
+#1341021316
+wc vertexblend.cpp 
+#1341021666
+llr
+#1341021737
+ll shaders/
+#1341021739
+g 
+#1341021863
+./vertexshaders 
+#1341021883
+ma
+#1341021886
+./vertexshaders 
+#1341021916
+./vertexblend 
+#1341021918
+./vertexshaders 
+#1341022010
+ma
+#1341022016
+./vertexshaders 
+#1341022075
+cd,y
+#1341022078
+...
+#1341022090
+cp ~/.gitignore 
+#1341022091
+cp ~/.gitignore .
+#1341022094
+g .gitignore 
+#1341022097
+lla
+#1341022111
+mc
+#1341022113
+mc
+#1341022138
+chmodf .
+#1341022146
+wh chmodf
+#1341022156
+chmodf .
+#1341022162
+./v
+#1341022175
+ma
+#1341022179
+./vertexshaders 
+#1341022183
+lla
+#1341022195
+mc
+#1341022201
+gits.
+#1341022203
+git init
+#1341022207
+git add .
+#1341022212
+ds .git
+#1341022216
+gits.
+#1341022223
+gits.|less
+#1341022248
+ds .git
+#1341022257
+git commit -m 'init'
+#1341022266
+gits.
+#1341022269
+gitlo.
+#1341022285
+gits.
+#1341022671
+ma
+#1341022675
+./vertexshaders 
+#1341023109
+cdl
+#1341023118
+cd books/c/opengl/opengl-blue.git/
+#1341023121
+screen 
+#1341023133
+cd e4/src/examples/
+#1341023146
+cd projects/linux/
+#1341023149
+cd chapt16
+#1341023154
+cd src/chapt16
+#1341023157
+cd vertex
+#1341023159
+cd vertexshaders/
+#1341023163
+cd vertexshaders/
+#1341023167
+./vertexshaders 
+#1341023175
+g
+#1341023179
+gits.
+#1341023182
+gitd.
+#1341023267
+kl
+#1341024546
+./vertexshaders 
+#1341024647
+g vertexshaders.cpp 
+#1341025027
+ctagsc.sh 
+#1341025049
+rm tags 
+#1341025051
+cd src/
+#1341025054
+ctagsc.sh 
+#1341025564
+ma
+#1341025570
+./vertexshaders 
+#1341025748
+ma
+#1341025752
+./vertexshaders 
+#1341025805
+ma
+#1341025808
+./vertexshaders 
+#1341025924
+ma
+#1341025928
+./vertexshaders 
+#1341026881
+gits.
+#1341026883
+gitd.
+#1341027005
+./vertexshaders 
+#1341027106
+.
+#1341027108
+./vertexshaders 
+#1341028040
+ma
+#1341028043
+./vertexshaders 
+#1341028442
+ma
+#1341028445
+./vertexshaders 
+#1341028454
+./vertexshaders &
+#1341028874
+ma
+#1341028877
+./vertexshaders &
+#1341029999
+ma
+#1341030002
+./vertexshaders &
+#1341030026
+ma
+#1341030029
+./vertexshaders &
+#1341030062
+ma
+#1341030064
+./vertexshaders &
+#1341030445
+.gits.
+#1341030446
+gits.
+#1341030447
+gitd.
+#1341030466
+git add .
+#1341030467
+gits.
+#1341030479
+git commit
+#1341030518
+gitlo.
+#1341030521
+gitl
+#1341030524
+gits.
+#1341030532
+git add shaders/stretch.vs 
+#1341030533
+gitdc
+#1341030555
+gits.
+#1341030596
+git commit -m '使用一维纹理改善镜面光照'
+#1341030634
+gits.
+#1341032281
+lla
+#1341032281
+llr
+#1341032282
+lr
+#1341032284
+lla
+#1341032696
+gits.
+#1341034194
+git add shaders/diffuse.vs 
+#1341034198
+gitdc
+#1341034271
+git commit -m '模拟固定管线中的散射光照'
+#1341034274
+gits.
+#1341034279
+git add shaders/fog
+#1341034282
+git add shaders/fog.vs 
+#1341034283
+gits.
+#1341034284
+gitdc
+#1341034346
+git commit -m '模拟固定管线中的雾'
+#1341034353
+gits.
+#1341034357
+git add shaders/
+#1341034358
+gitdc
+#1341034370
+git commit -m '模拟固定管线中的'
+#1341034392
+fcitx 
+#1341034398
+cd .fcitx/
+#1341034400
+rm config 
+#1341034403
+pg fci
+#1341034409
+kill 7780
+#1341023135
+screen 
+#1341034423
+fcitx 
+#1341034437
+cd fc
+#1341034439
+cd .fcitx/
+#1341034442
+rm config 
+#1341034449
+pg fci
+#1341034453
+kill 7848
+#1341034458
+fcitx 
+#1341034467
+pg fc
+#1341034471
+kill 7859
+#1341034473
+jj
+#1341034474
+rm config p
+#1341034477
+rm config profile 
+#1341034479
+fcitx 
+#1341034509
+cat profile 
+#1341034513
+g p
+#1341034517
+g profile 
+#1341034551
+cp profile profile.bak
+#1341034555
+cd
+#1341034557
+cdl
+#1341034570
+cd books/c/opengl/opengl-blue.git/e4/src/examples/
+#1341034578
+cd projects/linux/chapt16
+#1341034580
+,y
+#1341034586
+cd vertex
+#1341034588
+cd vertexshaders/
+#1341034589
+gits.
+#1341034591
+mc
+#1341034598
+cd cd src/chapt16/
+#1341034602
+ cd src/chapt16/
+#1341034605
+cd vertexshaders/
+#1341034610
+g vertexshaders.cpp 
+#1341034918
+ma
+#1341034920
+.gits.
+#1341034923
+./vertexshaders &
+#1341034933
+rm vertexshaders 
+#1341034936
+81gits.
+#1341034937
+gits.
+#1341034939
+gitd.
+#1341034944
+ma
+#1341034946
+./vertexshaders &
+#1341034960
+ma
+#1341034981
+rm vertexshaders 
+#1341034984
+ma
+#1341034988
+./vertexshaders &
+#1341035066
+ma
+#1341035068
+./vertexshaders &
+#1341035080
+ma
+#1341035083
+./vertexshaders &
+#1341035091
+ma
+#1341035095
+./vertexshaders &
+#1341035103
+ma
+#1341035106
+./vertexshaders &
+#1341035119
+magits.
+#1341035120
+gits.
+#1341035122
+gitd
+#1341035139
+ma
+#1341035142
+./vertexshaders &
+#1341035175
+a
+#1341035176
+ma
+#1341035179
+./vertexshaders &
+#1341035191
+ma
+#1341035194
+./vertexshaders &
+#1341035229
+ma
+#1341035232
+./vertexshaders &
+#1341035422
+ma
+#1341035425
+./vertexshaders &
+#1341035503
+gitd.
+#1341035506
+gitd.
+#1341035841
+ma
+#1341035843
+ma
+#1341035845
+./vertexshaders &
+#1341035910
+ma
+#1341035914
+./vertexshaders &
+#1341035936
+ma
+#1341035939
+./vertexshaders &
+#1341036569
+ma
+#1341036572
+./vertexshaders &
+#1341036607
+ma
+#1341036609
+./vertexshaders &
+#1341036778
+ma
+#1341036781
+./vertexshaders &
+#1341037038
+ma
+#1341037042
+./vertexshaders &
+#1341037054
+ma
+#1341037058
+./vertexshaders &
+#1341037083
+gits.
+#1341037085
+gitd.
+#1341037093
+git add shaders/
+#1341037094
+gitdc
+#1341037110
+git
+#1341037118
+git commit
+#1341037131
+gitd.
+#1341037213
+ma
+#1341037216
+./vertexshaders &
+#1341037369
+gits.
+#1341037371
+gits.
+#1341037374
+gitd.
+#1341037381
+git add  .
+#1341037384
+git co
+#1341037400
+git commit -m 'fix bugs, and add some comments'
+#1341037492
+ma
+#1341037493
+ma
+#1341037496
+./vertexshaders &
+#1341037735
+ma
+#1341037738
+./vertexshaders &
+#1341037750
+ma
+#1341037753
+./vertexshaders &
+#1341037757
+ma
+#1341037759
+./vertexshaders &
+#1341037764
+ma
+#1341037766
+./vertexshaders &
+#1341037773
+ma
+#1341037775
+./vertexshaders &
+#1341037782
+ma
+#1341037785
+./vertexshaders &
+#1341037793
+ma
+#1341037795
+./vertexshaders &
+#1341037799
+ma
+#1341037804
+./vertexshaders &
+#1341037815
+gits.
+#1341037952
+ma
+#1341037956
+ma
+#1341037960
+./vertexshaders &
+#1341038054
+ma
+#1341038056
+./vertexshaders &
+#1341038064
+ma
+#1341038066
+./vertexshaders &
+#1341038091
+ma
+#1341038094
+./vertexshaders &
+#1341038100
+ma
+#1341038102
+./vertexshaders &
+#1341038113
+ma
+#1341038115
+./vertexshaders &
+#1341038119
+ma
+#1341038122
+./vertexshaders &
+#1341038125
+ma
+#1341038128
+./vertexshaders &
+#1341038135
+ma
+#1341038138
+./vertexshaders &
+#1341038139
+ma
+#1341038143
+./vertexshaders &
+#1341038149
+ma
+#1341038151
+./vertexshaders &
+#1341038211
+gits.
+#1341038213
+gits.
+#1341038289
+,y
+#1341038291
+cd,y
+#1341038294
+cd vertexblend/
+#1341038296
+ma
+#1341038300
+ll shaders/
+#1341038302
+./vertexblend 
+#1341038676
+./vertexblend &
+#1341039625
+ma
+#1341039628
+./vertexblend &
+#1341040101
+ma
+#1341040105
+./vertexblend &
+#1341040123
+./vertexblend & | less
+#1341040130
+./vertexblend | less
+#1341040150
+./vertexblend | wc
+#1341040154
+./vertexblend | less
+#1341040220
+./vertexblend > out
+#1341040224
+g out 
+#1341040397
+ma
+#1341040400
+./vertexblend > out
+#1341040450
+./vertexblend 
+#1341040458
+ma
+#1341040541
+./vertexblend 
+#1341040553
+ma
+#1341040555
+./vertexblend 
+#1341040586
+ma
+#1341040588
+./vertexblend 
+#1341040689
+ma
+#1341040691
+./vertexblend 
+#1341040717
+ma
+#1341040719
+./vertexblend 
+#1341040755
+ma
+#1341040757
+./vertexblend 
+#1341041118
+gits.
+#1341041125
+cd src/chapt16
+#1341041128
+cd vertexblend/
+#1341041129
+gits.
+#1341041130
+gitd.
+#1341041219
+cd,y
+#1341041220
+...
+#1341041223
+cd chapt17
+#1341041236
+lr
+#1341041254
+find . | grep gray
+#1341041258
+cd fragmentshaders/
+#1341041259
+ma
+#1341041263
+ll shaders/
+#1341041265
+./fragmentshaders 
+#1341041520
+find . | grep blur
+#1341041522
+cd imageproc/
+#1341041523
+ma
+#1341041617
+,y
+#1341041619
+cd,y
+#1341041622
+cd..
+#1341041624
+c.
+#1341041627
+cd chapt17
+#1341041630
+cd imageproc/
+#1341041634
+g imageproc.cpp 
+#1341041531
+./imageproc 
+#1341041894
+cd imageproc/
+#1341041896
+g 
+#1341041920
+./imageproc 
+#1341041932
+ma
+#1341041935
+./imageproc 
+#1341041949
+ma
+#1341041952
+./imageproc 
+#1341042493
+ll shaders/
+#1341042500
+cd lighting/
+#1341042501
+ll shaders/
+#1341042503
+ma
+#1341042508
+./lighting 
+#1341042542
+ll shaders/
+#1341042553
+./lighting 
+#1341042962
+cd bumpmap/
+#1341042964
+ll shaders/
+#1341042968
+ma
+#1341042971
+./bumpmap 
+#1341043028
+``
+#1341043034
+cd proctex/
+#1341043037
+ll shaders/
+#1341043038
+ma
+#1341043042
+./proctex 
+#1341043206
+cd chapt18
+#1341043209
+cd texfloat/
+#1341043211
+ma
+#1341043222
+cd pixbufobj/
+#1341043224
+ma
+#1341043239
+vi Makefile 
+#1341043258
+ma
+#1341043263
+./pixbufobj 
+#1341044623
+ex .
+#1341044630
+./pixbufobj 
+#1341046244
+halt
+#1341034571
+screen 
+#1341063153
+mutt
+#1341063178
+kill 3240
+#1341063183
+kill -9 3240
+#1341063186
+sc;2A
+#1341063198
+vmware&
+#1341063274
+ii
+#1341063303
+t
+#1341063461
+lmutt
+#1341063469
+cd .getmail
+#1341063472
+tail -n 100 getmail.crontab.log 
+#1341063476
+tail -30 getmail.out.log 
+#1341063803
+ii
+#1341063870
+f
+#1341063871
+ff&
+#1341076177
+cd
+#1341076179
+cd .f
+#1341076181
+cd .fcitx/
+#1341076182
+lla
+#1341076183
+su
+#1341076196
+chmod 777 .cache/
+#1341076199
+cd .fcitx/
+#1341076204
+cd .cache/
+#1341076206
+ex .
+#1341076899
+chmod 000 .cache/
+#1341077143
+halt
+#1341063188
+screen 
+#1341063462
+mutt
+#1341063190
+mutt
+#1341104174
+ds *
+#1341104178
+ex .
+#1341104181
+lla
+#1341104257
+vmware&
+#1341104653
+screen 
+#1341104557
+ff
+#1341106341
+bg 2
+#1341106350
+screen 
+#1341106353
+cd
+#1341106353
+screen 
+#1341106365
+jj
+#1341110889
+ef
+#1341110893
+exc
+#1341110943
+cd work
+#1341110945
+cd src/
+#1341110957
+mkdir android-ES2.0
+#1341110959
+cd android-ES2.0/
+#1341110960
+ex .
+#1341111190
+ll android-sdks/
+#1341111194
+ll workspace/
+#1341111198
+ll workspace/android-sdk/
+#1341111497
+ll /home/scr/workspace/android-sdk/android-sdk-linux_x/platform-tools/adb
+#1341111500
+ll /home/scr/workspace/android-sdk/android-sdk-linux_x/platform-tools/
+#1341111506
+cd workspace/
+#1341111508
+cd android-sdk/
+#1341111520
+cd android-sdk-linux_x86/
+#1341111534
+ll platform-tools/adb 
+#1341111536
+ platform-tools/adb 
+#1341111552
+ll /home/scr/workspace/android-sdk/android-sdk-linux_x86/platform-tools/
+#1341113815
+cd
+#1341113819
+cd work
+#1341113822
+cd src/
+#1341113824
+cd android-ES2.0/
+#1341113825
+cd 源程序/
+#1341113833
+cd 第22章\ 夜鹰行动/
+#1341113834
+cd AircraftAttack/
+#1341113837
+cd src/
+#1341113841
+cd com/bn/
+#1341113843
+cd co
+#1341113845
+cd core/
+#1341113848
+g LoadUtil.java 
+#1341113917
+rm LoadUtil.java 
+#1341113979
+iconv
+#1341113984
+m iconv
+#1341114046
+iconv -f euc-cn -t utf-8 SQLiteUtil.java 
+#1341114053
+m iconv
+#1341114080
+iconv -f euc-cn -t utf-8 SQLiteUtil.java -o SQLiteUtil.java 
+#1341114109
+ll ..
+#1341114116
+g iconv.sh
+#1341114172
+chx iconv.sh 
+#1341114188
+find . -type f | xargs ./iconv.sh 
+#1341114289
+iconv -f euc-cn -t utf-8 SQLiteUtil.java -o SQLiteUtil.java 
+#1341114293
+find . -type f | xargs ./iconv.sh 
+#1341114325
+find . -type f 
+#1341114366
+wh chmodd
+#1341114386
+find . -type f -exec  ./iconv.sh {} \;
+#1341114478
+rm -r core/
+#1341114482
+,y
+#1341114487
+cd 源程序/第22章\ 夜鹰行动/AircraftAttack/
+#1341114491
+cd src/com/bn/cor
+#1341114538
+,y
+#1341114539
+cd,y
+#1341114541
+.....
+#1341114542
+....
+#1341114549
+ex android-ES2.0/
+#1341114656
+fl
+#1341114795
+cd,y
+#1341114797
+....
+#1341114806
+find . | grep fra
+#1341115435
+pg diff
+#1341115453
+kill -9 10855
+#1341115455
+pg diff
+#1341115656
+find .ll
+#1341115666
+cp -rf android-ES2.0/ android-ES2.0.bak
+#1341106364
+fg
+#1341115797
+cd src/com/bn/
+#1341115810
+find . -type f -exec  ./iconv.sh {} \;
+#1341116057
+mv iconv.sh ../../../assets/
+#1341117027
+,y
+#1341117036
+cd,y
+#1341117040
+,y
+#1341117042
+,y
+#1341117043
+cd,y
+#1341117050
+....
+#1341117054
+ex .
+#1341117158
+cd
+#1341117162
+g iconv.sh
+#1341117221
+chx iconv.sh 
+#1341117223
+ell
+#1341117231
+find . -type f -exec  ~/iconv.sh {} \;
+#1341117263
+ex .
+#1341117299
+find . -type f -exec  ~/iconv.sh {} \;
+#1341117340
+ex .
+#1341117351
+find . -type f -exec  ~/iconv.sh {} \;
+#1341117363
+g
+#1341117377
+g iconv.sh 
+#1341117390
+ex .
+#1341117405
+find . -type f -exec  ~/iconv.sh {} \;
+#1341117411
+g ./gameView/GLGameView.java 
+#1341117477
+cd gameView/
+#1341117480
+rm *
+#1341117501
+g Constant.java 
+#1341117520
+iconv -f euc-cn -t utf-8 Constant.java 
+#1341117525
+iconv -f euc-cn -t utf-8 Constant.java -o j
+#1341117528
+g j 
+#1341117539
+rm j
+#1341117545
+iconv -f euc-cn -t utf-8 Constant.java -o Constant.java 
+#1341117549
+jj
+#1341117552
+rm C
+#1341117554
+rm Constant.java 
+#1341117557
+ex .
+#1341117577
+iconv -f euc-cn -t utf-8 Constant.java -o j
+#1341117581
+mv j Constant.java 
+#1341117582
+jj
+#1341117897
+...
+#1341117908
+cp AircraftAttack/ AircraftAttack.bak -rf
+#1341117910
+cd AircraftAttack
+#1341117919
+fif 不好意思
+#1341128046
+pdf&
+#1341128893
+bce 410*12
+#1341139373
+ll src
+#1341139376
+lla
+#1341139700
+cdvlc
+#1341139703
+cdvcl
+#1341139708
+cd books//python/
+#1341139712
+cd simple/
+#1341139722
+cd
+#1341139725
+cd workspace/
+#1341139742
+cd db
+#1341139758
+cd tmp/
+#1341139769
+cd ..
+#1341139778
+cd tmp/
+#1341139783
+ll XueChe/
+#1341139879
+locate -i django
+#1341139905
+cdrt
+#1341139919
+cdvcrt
+#1341139928
+cd django/
+#1341139931
+cd test/
+#1341139935
+cd exam1/
+#1341139938
+cd mysite/
+#1341139890
+locate -i django | less
+#1341140177
+,y
+#1341140179
+cd,y
+#1341140183
+ds mysite/
+#1341140194
+g 
+#1341140245
+e django-admin.py startproject mysite
+#1341140397
+cd mysite/
+#1341140480
+e ./manage.py syncdb
+#1341140539
+ll blog/
+#1341140590
+./manage.py runserver
+#1341140627
+./manage.py startapp blog
+#1341140645
+./manage.py startapp s
+#1341140649
+pg man
+#1341140731
+./manage.py runserver
+#1341140748
+./manage.py 
+#1341140751
+./manage.py runserver
+#1341140743
+su
+#1341140761
+./manage.py help
+#1341140833
+gits.
+#1341140867
+./manage.py 
+#1341140871
+./manage.py runserver
+#1341140941
+e ./manage.py runserver
+#1341140982
+e ./manage.py startapp blog
+#1341141014
+cd blog/
+#1341141017
+vi models.py
+#1341141041
+fg
+#1341141047
+vi models.pyc 
+#1341141052
+fg
+#1341141141
+./manage.py syncdb
+#1341141158
+cd,y
+#1341141162
+,y
+#1341141173
+cd root/Django-1.0.4
+#1341141184
+cd examples/
+#1341141190
+chx manage.py 
+#1341141199
+./manage.py runserver
+#1341141274
+./manage.py runserver
+#1341114653
+su
+#1341141334
+cdvcl
+#1341141336
+cd books/
+#1341141338
+cd python/
+#1341141341
+ll a-byte-of-python/
+#1341141345
+ll GAE/
+#1341141347
+ll simple/
+#1341141364
+mkdir django-web-dev
+#1341141365
+cd django-web-dev/
+#1341141392
+mkdir 02-first-blog
+#1341141394
+cd 02-first-blog/
+#1341141427
+django-admin.py startproject mysite
+#1341141439
+cd django-web-dev/
+#1341141448
+mv 02-first-blog/ ..
+#1341141451
+gits.
+#1341141476
+git add django-web-dev/
+#1341141477
+gits.
+#1341141494
+mv 02-first-blog/mysite/ django-web-dev/
+#1341141498
+gits.
+#1341141506
+git add django-web-dev/
+#1341141507
+gits.
+#1341141528
+ll django-web-dev/
+#1341141533
+gits.
+#1341141541
+git reset HEAD .
+#1341141543
+gits.
+#1341141550
+mv django-web-dev/mysite/ 02-first-blog/
+#1341141552
+gits.
+#1341141556
+mv 02-first-blog/ django-web-dev/
+#1341141558
+ll django-web-dev/
+#1341141561
+ll django-web-dev/02-first-blog/mysite/
+#1341141565
+gits.
+#1341141567
+git add django-web-dev/
+#1341141568
+gits.
+#1341141617
+git commit -m '<<Django Web 开发指南>> 之 快速构建一个blog'
+#1341141621
+gits.
+#1341141623
+cd django-web-dev/
+#1341141625
+gits.
+#1341141628
+cd 02-first-blog/mysite/
+#1341141638
+./manage.py runserver
+#1341141671
+----ll
+#1341141679
+git commit --amend
+#1341141729
+gitlo.
+#1341141738
+gitl
+#1341141774
+cd,y
+#1341141777
+,y
+#1341141818
+./manage.py startapp blog
+#1341141830
+gits.
+#1341141831
+git add .
+#1341141832
+gits.
+#1341141836
+./manage.py runserver
+#1341141843
+gits.
+#1341141859
+git commit 
+#1341141880
+gitlo.
+#1341141995
+ll blog/
+#1341141999
+vi settings.py
+#1341142043
+gits.
+#1341141090
+vi models.pyc 
+#1341142093
+cd,y
+#1341142096
+cd blog/
+#1341142109
+cd blog/
+#1341142100
+vi models.py 
+#1341142268
+fg
+#1341142371
+./manage.py syncdb
+#1341142518
+fg
+#1341142562
+./manage.py syncdb
+#1341142576
+cd
+#1341142578
+cd d
+#1341142580
+cd db
+#1341142625
+vi urls.py
+#1341142751
+./manage.py runserver
+#1341142840
+gits.
+#1341142851
+gitsl
+#1341142857
+gitd settings.py
+#1341142865
+gits.
+#1341142867
+fg 1
+#1341142880
+gits.
+#1341142883
+gitd settings.py
+#1341142891
+gits.
+#1341142893
+git add settings.py
+#1341142895
+gits.
+#1341142911
+gitlo.
+#1341142943
+git commit -m '把新建的App(blog)配置加入到项目中'
+#1341142944
+gitsl
+#1341142947
+gitlo.
+#1341142950
+fg
+#1341142955
+gits.
+#1341142958
+gitd settings.py
+#1341142981
+./manage.py startapp blog
+#1341142702
+fg
+#1341143109
+vi blog/models.py
+#1341143118
+gits.
+#1341143125
+fg
+#1341143127
+jj
+#1341143133
+gits.
+#1341143137
+git add blog/
+#1341143147
+git commit -m '设计Model'
+#1341143149
+fg
+#1341143154
+gits.
+#1341143166
+fg 1
+#1341143173
+gitd.
+#1341143183
+gits.
+#1341143186
+git add settings.py
+#1341143225
+git commit -m '设计数据库, 使sqlite3'
+#1341143266
+e ./manage.py syncdb
+#1341143294
+fg
+#1341143298
+gits.
+#1341143303
+gitd
+#1341143308
+gitd.
+#1341143332
+git add .
+#1341143338
+gitd.
+#1341143341
+gitdc.
+#1341143381
+git commit -m '把后台应用admin加入到项目中'
+#1341143382
+gits.
+#1341143585
+fg 3
+#1341143645
+fg
+#1341143677
+gits.
+#1341143681
+git add .
+#1341143682
+gitdc
+#1341143698
+git commit -m '修改admin的表单显示方式'
+#1341142111
+vi models.py
+#1341143839
+vi templates/archive.html 
+#1341143869
+mkdir templates
+#1341143883
+vi templates/archive.html
+#1341143969
+jj
+#1341143993
+fg
+#1341144003
+ll blog/
+#1341144009
+vi blog/templates/archive.html 
+#1341143877
+fg
+#1341144017
+vi blog/views.py 
+#1341144116
+fg 2
+#1341144025
+vi views.py
+#1341144161
+vi blog/urls.py
+#1341144207
+fg 2
+#1341144210
+jj
+#1341144211
+fg 6
+#1341144235
+jj
+#1341144237
+fg5
+#1341144239
+fg 5
+#1341144293
+gits.
+#1341144327
+git add blog/templates/
+#1341144328
+gits.
+#1341144346
+git commit -m '增加一个视图模板文件'
+#1341144347
+gits.
+#1341144378
+gitd blog/views.py
+#1341144380
+gits.
+#1341144384
+git add blog/views.py
+#1341144385
+gitdc
+#1341144407
+git commit -m '创建一个处理视图显示的函数'
+#1341144408
+gits.
+#1341144421
+gita .
+#1341144422
+gits.
+#1341144423
+gitdc
+#1341144441
+git commit -m '创建URL模式'
+#1341144171
+vi urls.py
+#1341144499
+vi blog/templates/base.html
+#1341144563
+fg
+#1341144582
+jj
+#1341144608
+fg
+#1341144505
+vi templates/base.html 
+#1341144618
+fg 4
+#1341144669
+jj
+#1341144671
+fg 7
+#1341144707
+gits.
+#1341144710
+git add .
+#1341144712
+gitdc
+#1341144740
+git add .
+#1341144742
+gits.
+#1341144756
+git commit -m '重新设计视图模板'
+#1341144625
+fg 3
+#1341144835
+fg 3
+#1341144866
+gita .
+#1341144867
+gits.
+#1341144883
+git commit -m '设置Model的默认排序方式'
+#1341144885
+gits
+#1341144887
+gitlo.
+#1341144888
+gits.
+#1341144965
+fg 7
+#1341144968
+fg 4
+#1341145061
+gitd.
+#1341145067
+gita .
+#1341145069
+wh gita.
+#1341145071
+gits.
+#1341145088
+git commit -m '修改时间日期的显示方式'
+#1341145090
+gits.
+#1341145663
+cdx
+#1341145672
+mkdir django-web-dev
+#1341145675
+mv Django+Web%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E6%BA%90%E7%A0%81.rar django-web-dev/
+#1341145677
+cd django-web-dev/
+#1341145688
+mv Django+Web%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E6%BA%90%E7%A0%81.rar django-web-dev-src.rar
+#1341145694
+rar x django-web-dev-src.rar 
+#1341145699
+cd blog/
+#1341145704
+chx ./models.py 
+#1341145711
+./models.py runserver
+#1341145723
+cat models.py 
+#1341145732
+chxx models.py 
+#1341145737
+.
+#1341145745
+mv django-web-dev-src.rar ..
+#1341145746
+ll ..
+#1341145755
+mv ../django-web-dev-src.rar .
+#1341145760
+mkdir django-web-dev-src
+#1341145769
+mv * django-web-dev-src
+#1341145773
+mv django-web-dev-src/django-web-dev-src.rar .
+#1341145775
+cd django-web-dev-src
+#1341145784
+django-admin.py startproject mysite
+#1341145789
+mv * mysite
+#1341145791
+cd mysite/
+#1341145798
+vi settings.py 
+#1341145845
+vi urls.py 
+#1341145867
+v blog/urls.py 
+#1341145881
+./manage.py runserver
+#1341142986
+./manage.py runserver
+#1341145927
+jj
+#1341145934
+jj
+#1341145931
+fg 1
+#1341145950
+./manage.py runserver
+#1341145936
+fg 1
+#1341145967
+gitlo.
+#1341145971
+gitl settings.py
+#1341145984
+8 ll
+#1341145991
+,y
+#1341145997
+cd,y
+#1341146015
+ll blog/
+#1341146018
+ll blog/templates/
+#1341146027
+ll gallery/
+#1341146029
+ll gallery/items/
+#1341146031
+ll gallery/items/templates/
+#1341146036
+ll gallery/
+#1341146056
+fg
+#1341146067
+fg 2
+#1341146076
+fg 3
+#1341146101
+lll
+#1341146103
+fg
+#1341146106
+fg 1
+#1341146114
+jj
+#1341146116
+fg 
+#1341146132
+./manage.py syncdb
+#1341146203
+jj
+#1341146212
+ll mysite-gae/
+#1341146230
+cd mysite-gae/
+#1341146234
+ll blog/
+#1341146237
+ll cms
+#1341146244
+...
+#1341146246
+ex .
+#1341146620
+cd
+#1341146621
+g yum_list.txt 
+#1341152741
+cdvcl
+#1341152744
+gits.
+#1341152769
+cdvcrt
+#1341152778
+cdvcrc
+#1341152778
+gits.
+#1341152770
+gits.
+#1341152808
+gitd linux/computor/bookmark/
+#1341152819
+gits.
+#1341152824
+git add linux/computor/bookmark/
+#1341152846
+git commit -m 'linux下安装OpenGL驱动相关'
+#1341152863
+gitd rt/home/scr/.bashrc
+#1341152851
+git push origin master
+#1341152758
+git push origin master
+#1341152971
+cd
+#1341152973
+cd work
+#1341152980
+cd src/android-ES2.0.bak/
+#1341152988
+ds android-ES2.0.bak/
+#1341152995
+t
+#1341153043
+ii
+#1341153068
+tar cvjf android-ES2.0.bak.tar.bz2 android-ES2.0.bak/
+#1341153119
+ds android-ES2.0.bak/
+#1341153125
+ex .
+#1341153289
+cd
+#1341153291
+cd .getmail
+#1341153294
+tail -30 getmail.out.log 
+#1341153298
+tail -n 100 getmail.crontab.log 
+#1341153315
+exc
+#1341153381
+cdvcrt
+#1341153388
+cd linux/computor/lang/python/
+#1341153406
+ex .
+#1341156001
+ff&
+#1341156005
+i
+#1341156006
+ii
+#1341158002
+cdvcrc
+#1341158011
+gits.
+#1341158019
+git add rt/home/scr/.kde/share/
+#1341158021
+gits.
+#1341158027
+git commit -m 'bookmark'
+#1341158033
+cdvcl
+#1341158040
+cdvcrt
+#1341158036
+gits.
+#1341158030
+git push origin master
+#1341158041
+gits.
+#1341158087
+git push origin master
+#1341158094
+git push origin master
+#1341159095
+halt
+#1341115773
+screen -r
+#1341144842
+fg 2
+#1341153304
+mutt
+#1341231437
+cdvcl
+#1341231443
+cdvcrt
+#1341231457
+cdvcrc
+#1341231445
+git pull origin master
+#1341231440
+git pull origin master
+#1341231461
+ff&
+#1341231459
+git pull origin master
+#1341231473
+cd books/python/django-web-dev/02-first-blog/mysite/
+#1341231612
+vmware&
+#1341231614
+pdf&
+#1341231623
+cdvcrtbo
+#1341231628
+cd lang/python/
+#1341231631
+,y
+#1341231687
+cdx
+#1341231701
+rm Shaderx\ 2\ -\ Introductions\ And\ Tutorials\ With\ Directx\ 9.0.pdf 
+#1341231760
+mv2,y 11-中文版django\ book.pdf 
+#1341231763
+pdf&
+#1341231897
+mv 11-中文版django\ book.pdf 10中文版django-book.pdf
+#1341231901
+pdf &
+#1341231927
+gits.
+#1341231976
+cd /home/
+#1341231977
+su
+#1341231995
+pdf 10中文版django-book.pdf &
+#1341232060
+gits.
+#1341232073
+git checkout rt/home/scr/.kde/
+#1341232078
+gits.
+#1341232081
+git pull origin master
+#1341231430
+screen 
+#1341232110
+8
+#1341231477
+./manage.py runserver
+#1341232117
+fg
+#1341232141
+,y
+#1341232143
+cd,y
+#1341232146
+g The-Django-Book-Notes.txt 
+#1341232663
+l blog/
+#1341232665
+ll blog/
+#1341232683
+ll tm
+#1341232688
+ll blog/templates/
+#1341232141
+fg
+#1341232985
+./manage.py runserver
+#1341233150
+mkdir templates
+#1341233153
+cd templates/
+#1341233160
+touch current_datetime.html 
+#1341233177
+ll templates/
+#1341233184
+lla templates/
+#1341233227
+,y
+#1341233231
+cd,y
+#1341233233
+gits.
+#1341233363
+gitd.
+#1341233416
+gits.
+#1341233418
+git add .
+#1341233421
+gitlo.
+#1341233430
+gits.
+#1341233461
+git commit -m '使用模板视图'
+#1341233705
+cd templates/
+#1341233710
+touch hours_ahead.html
+#1341233850
+gits.
+#1341233855
+gits.
+#1341233859
+gitd.
+#1341233867
+gitlo.
+#1341233876
+gitd ab64 5ecd
+#1341233995
+gits.
+#1341234004
+cdll
+#1341234005
+cd
+#1341234022
+vi .keynavrc 
+#1341234036
+fg
+#1341234076
+gitd.
+#1341234083
+git add .
+#1341234088
+git commit
+#1341234197
+vi .keynavrc 
+#1341234156
+gitlo.
+#1341234547
+gits.
+#1341234550
+git add .
+#1341234553
+git commit
+#1341234617
+gitlo.
+#1341234940
+gits.
+#1341235883
+gitadd .
+#1341235885
+gita.
+#1341235887
+gitdc
+#1341235902
+gita.
+#1341235904
+gits.
+#1341235920
+git commit -m '使用模板继承机制'
+#1341238382
+cd,y
+#1341235923
+gitlo.
+#1341239045
+python manage.py startapp books
+#1341239049
+ll books/
+#1341239087
+cd books/
+#1341239091
+cat models.py 
+#1341239094
+cat views.py 
+#1341240083
+python manage.py validate
+#1341240259
+python manage.py sqlall books
+#1341240421
+python manage.py syncdb
+#1341240497
+python manage.py dbshell 
+#1341240570
+python manage.py shell
+#1341241176
+gits.
+#1341241187
+gitd settings.py
+#1341241190
+gits.
+#1341241193
+git add .
+#1341241194
+gits.
+#1341241198
+gitdc
+#1341241204
+gitdc.
+#1341241233
+gits.
+#1341241244
+git commit 
+#1341241270
+gitlo.
+#1341241277
+gitl.
+#1341241330
+fg
+#1341241532
+python manage.py shell
+#1341241858
+jj
+#1341241859
+gits.
+#1341241860
+gitd.
+#1341241870
+git add .
+#1341241872
+git commit 
+#1341242273
+5 Telegraph Ave.',
+ city='Berkeley',
+ state_province='CA',
+ country='U.S.A.',
+ website='http://www.apress.com/')
+
+p.save()
+
+p.name = 'Apress Publishing'
+#1341242271
+fg
+#1341242931
+python manage.py shell
+#1341242970
+gits.
+#1341242972
+gitd.
+#1341242981
+gits.
+#1341242983
+git add .
+#1341242996
+git commit -m '对Model增加默认排序'
+#1341242998
+gits.
+#1341238390
+python manage.py shell
+#1341243099
+cdvcl
+#1341243134
+g settings.py
+#1341243236
+gits.
+#1341243242
+cdvcrc
+#1341243243
+gits.
+#1341243248
+git add rt/home/scr/.kde/share/
+#1341243250
+gits.
+#1341243255
+git commit -m 'bookmark'
+#1341243240
+git push origin master
+#1341243269
+cdvcrt
+#1341243262
+git push origin master
+#1341243273
+gits.
+#1341243328
+halt
+#1341232112
+fg
+#1341325023
+cdvcl
+#1341325031
+cd books/python/django-web-dev/02-first-blog/mysite/
+#1341325038
+cdvcl
+#1341325044
+cdvcrc
+#1341325045
+gits.
+#1341325040
+git pull origin master
+#1341325049
+git pull origin master
+#1341325071
+ff&
+#1341325075
+pdf &
+#1341325288
+gitlo
+#1341325292
+g The-Django-Book-Notes.txt 
+#1341325537
+vmware&
+#1341326487
+gitlo
+#1341326490
+gits.
+#1341326493
+gitl.
+#1341326496
+gits.
+#1341326498
+git add .
+#1341326501
+git commit 
+#1341326532
+fg
+#1341326560
+gitl
+#1341326561
+fg
+#1341326589
+gitlo
+#1341326591
+gitl.
+#1341326726
+gits.
+#1341326729
+gitd.
+#1341326733
+gits.
+#1341326735
+git add .
+#1341326737
+git commit 
+#1341326764
+gitl
+#1341327156
+gits.
+#1341327158
+gitd.
+#1341327216
+git add .
+#1341327218
+git commit 
+#1341327423
+cd /usr/lib/python2.7/site-packages/django/
+#1341327428
+cd forms/
+#1341327446
+vi forms.py
+#1341329317
+exc
+#1341330489
+gits.
+#1341330501
+gits.
+#1341330504
+git add rt/home/scr/.kde/share/
+#1341330506
+gits.
+#1341330507
+git commit -m 'bookmark'
+#1341330496
+git push origin master
+#1341330510
+git push origin master
+#1341330533
+halt
+#1341327478
+vi models.py
+#1341325034
+screen 
+#1341325067
+./manage.py runserver
+#1341357618
+vmware&
+#1341358791
+halt
+#1341399788
+cdvcl
+#1341399793
+cd books/python/django-web-dev/02-first-blog/mysite/
+#1341399798
+cdvcl
+#1341399803
+cdvcrc
+#1341399819
+ff&
+#1341399806
+git pull origin master
+#1341399800
+git pull origin master
+#1341401732
+vmware&
+#1341402533
+cd,y
+#1341402535
+cd,y
+#1341402542
+cdvcl
+#1341402544
+ds .git
+#1341402590
+jj
+#1341402646
+ff&
+#1341402651
+g The-Django-Book-Notes.txt 
+#1341402658
+pdf &
+#1341403097
+cdvcl
+#1341403100
+cd books/python/a-byte-of-python/
+#1341403104
+gitlo.
+#1341403148
+gitl
+#1341403680
+lll
+#1341403840
+fif @
+#1341405023
+,y
+#1341405025
+cd,y
+#1341405027
+cd books/
+#1341405052
+g poll_extras.py
+#1341402598
+./manage.py runserver
+#1341405206
+gits.
+#1341405220
+cd
+#1341405223
+cd db
+#1341405500
+cd books/
+#1341405505
+mv poll_extras.py templates/
+#1341405517
+ll templates/
+#1341405680
+gits.
+#1341405687
+cd templates/
+#1341405742
+mkdir books
+#1341405745
+mv * books
+#1341405750
+mv books/poll_extras.py .
+#1341405844
+cd templates/
+#1341405847
+rm books
+#1341405856
+ll admin/
+#1341405981
+gits.
+#1341405987
+git rm books
+#1341405990
+gits.
+#1341406009
+cd books/
+#1341406013
+git templates/
+#1341406016
+cd templates/
+#1341406018
+git add books/
+#1341406019
+gits.
+#1341406058
+git commit -a -m 'Move templates'
+#1341406062
+gits.
+#1341406179
+cd books/
+#1341406182
+cd templates/
+#1341406191
+cp ../__init__.py .
+#1341406550
+mkdir templatetags
+#1341406573
+mv templates/__init__.py templates/poll_extras.py templatetags/
+#1341406585
+ll templatetags/
+#1341406677
+...
+#1341406680
+cd mysite/
+#1341406681
+gits.
+#1341406702
+gitd.
+#1341406748
+gits.
+#1341406751
+git add .
+#1341406752
+gitdc
+#1341406764
+gits.
+#1341406770
+git commit
+#1341411037
+gits.
+#1341411044
+cdb
+#1341411047
+cdvcrc
+#1341411048
+gits.
+#1341411051
+git add rt/home/scr/.kde/share/
+#1341411052
+gits.
+#1341411055
+git commit -m 'bookmark'
+#1341411057
+gits.
+#1341411041
+git push origin master
+#1341411063
+gits.
+#1341411070
+gitd.
+#1341411059
+git push origin master
+#1341411076
+git add .
+#1341411096
+git commit -a -m '自定义模板标签'
+#1341411097
+gits.
+#1341411103
+git push origin master
+#1341415121
+halt
+#1341405327
+python manage.py dbshell 
+#1341399795
+screen 
+#1341490877
+cdvcl
+#1341490882
+cd books/python/django-web-dev/02-first-blog/mysite/
+#1341490890
+cdvcl
+#1341490896
+cdvcrt
+#1341490901
+cdvcl
+#1341490903
+cdvcrc
+#1341490908
+ff&
+#1341490893
+git pull origin master
+#1341490906
+git pull origin master
+#1341490898
+git pull origin master
+#1341491014
+gits.
+#1341491019
+g linux/computor/bookmark/html.txt 
+#1341491037
+git.
+#1341491038
+gits.
+#1341491042
+git add linux/computor/bookmark/
+#1341491043
+gits.
+#1341491044
+gitdc
+#1341491054
+git commit -a -m 'Python装饰器与面向切面编程'
+#1341491057
+git pull origin master
+#1341491182
+gits.
+#1341491209
+cd
+#1341491211
+cd work
+#1341491213
+cd src/
+#1341491217
+mkdir django
+#1341491219
+cd django/
+#1341491238
+hg
+#1341491238
+hg
+#1341491240
+vbs
+#1341491250
+.s
+#1341491251
+hg
+#1341491251
+hg
+#1341491256
+g
+#1341491259
+fg
+#1341491267
+hg
+#1341491279
+cd
+#1341491282
+cd work/src/django/
+#1341491610
+hg clone ssh://hg@bitbucket.org/chineking/chineblog
+#1341491642
+hg clone https://bitbucket.org/chineking/chineblog
+#1341491788
+cd chineblog/
+#1341491789
+lla
+#1341491793
+hg log
+#1341491802
+hg log | less
+#1341491967
+hg
+#1341492048
+hg log -v -p | less
+#1341492067
+hg log -v | less
+#1341492134
+cp -rf chineblog/ chineblog.bak
+#1341492136
+cd chineblog
+#1341492146
+ii
+#1341492201
+gitlo.
+#1341492216
+kk
+#1341492221
+./manage.py runserver
+#1341492452
+gits.
+#1341492455
+hg
+#1341492463
+hg cat
+#1341492479
+hg log | less
+#1341492495
+hg cat . -r 0 
+#1341492592
+hg cat
+#1341492630
+hg cat . -r 0 -o .
+#1341492636
+gits.
+#1341492639
+fg
+#1341492644
+hg log
+#1341492979
+hg
+#1341492984
+hg --help
+#1341492999
+hg up -r0
+#1341493011
+lla
+#1341493014
+ll ..
+#1341493020
+hg log
+#1341493027
+hg log | less
+#1341493034
+cdvcrtbot
+#1341493043
+cd vercol/
+#1341493044
+mkdir hg
+#1341493047
+ cd hg/
+#1341493052
+g hg.notes.txt
+#1341493174
+lla
+#1341493175
+ll ChineBlog/
+#1341493185
+lla
+#1341493186
+ll ..
+#1341493189
+cd ChineBlog/
+#1341493199
+py manage.py runserver
+#1341493214
+ll blog/
+#1341493222
+g settings.py
+#1341493334
+py manage.py 
+#1341493338
+py manage.py help
+#1341493348
+py manage.py --version
+#1341493381
+py manage.py runserver
+#1341493751
+ll blog/
+#1341493757
+py manage.py runserver
+#1341494173
+vi settings.py
+#1341494502
+gvht
+#1341495100
+g The-Django-Book-Notes.txt 
+#1341495180
+cdx
+#1341495183
+cd django-web-dev/
+#1341495216
+./manage.py 
+#1341495264
+cd django/
+#1341495293
+ll django/
+#1341495301
+ll tes
+#1341495304
+ll django/test/
+#1341495309
+ll django/test/exam1/mysite/
+#1341495312
+ll django/test/exam1/mysite/s
+#1341495320
+mkdir django2
+#1341495322
+cd django
+#1341495324
+..l
+#1341495327
+cd django2
+#1341495328
+,y
+#1341495344
+mv2,y Django-1.* 
+#1341495360
+tar xvzf Django-1.1.4.tar.gz 
+#1341495364
+ll Django-1.
+#1341495369
+ll Django-1.1.4
+#1341495383
+cd,y
+#1341495387
+cd django
+#1341495389
+ll root/
+#1341495408
+cd django
+#1341495411
+cd test/
+#1341495414
+ll exam1/
+#1341495417
+cd exam1/
+#1341495418
+g django-notes.txt 
+#1341495443
+g The-Django-Book-Notes.txt 
+#1341495466
+rm -rf test/
+#1341495468
+cd root/
+#1341495470
+,y
+#1341495481
+rm Django-1.1.4 -r
+#1341495487
+mv2,y Django-1.*
+#1341495492
+rmdir django2
+#1341495505
+tar xvzf Django-1.1.4.tar.gz 
+#1341495510
+touch *
+#1341495549
+,y
+#1341495553
+cd,y
+#1341495557
+cd,y
+#1341495573
+cd /usr/lib/python2.7/site-packages/
+#1341495577
+ls django/
+#1341495599
+mv django/ django-1.0.4
+#1341495602
+ ll
+#1341495659
+ii
+#1341495674
+python manage.py dbshell 
+#1341495682
+python manage.py help
+#1341495685
+python manage.py syncdb
+#1341495695
+cd
+#1341495698
+cd te
+#1341495701
+cd tmp/
+#1341495708
+mkdir djang
+#1341495710
+cd djang/
+#1341495712
+mkdir test
+#1341495714
+cd test/
+#1341495719
+g The-Django-Book-Notes.txt 
+#1341495725
+django-admin.py startproject mysite
+#1341495732
+gits.
+#1341495736
+ll mysite/
+#1341495741
+rm mysite/ -rf
+#1341495743
+gits.
+#1341495757
+django-admin.py
+#1341495760
+wh django-admin.py
+#1341495769
+django-admin.py startproject mysite
+#1341495773
+./manage.py runserver
+#1341495777
+cd mysite/
+#1341495779
+./manage.py runserver
+#1341495788
+./manage.py startapp blog
+#1341495790
+ll blog/
+#1341495839
+mv django-1.0.4/ ..
+#1341495902
+mv Django-1.0.4 Django-1.0.4.bk
+#1341495930
+ll Django-1.0.4.
+#1341495932
+ll Django-1.0.4
+#1341495936
+vbs
+#1341495958
+gvht
+#1341495975
+pdf &
+#1341496011
+pdf&
+#1341496054
+py
+#1341496313
+mv ../django-1.0.4/ .
+#1341496327
+mv django-1.0.4/ django
+#1341496346
+,y
+#1341495805
+./manage.py runserver
+#1341496429
+mv Django-1.0.4.bk/ Django-1.0.4
+#1341496334
+vbs
+#1341496474
+mv django/ ..
+#1341496495
+rm django/ -rf
+#1341496545
+wh django-admin
+#1341496548
+wh django-admin.py
+#1341496555
+ll /usr/bin/django-admin*
+#1341496565
+c /usr/bin/django-admin
+#1341496571
+c /usr/bin/django-admin.py 
+#1341496582
+vbs
+#1341496691
+cd Django-1.0.4
+#1341496705
+ll build/
+#1341496707
+ll build/scripts-2.7/
+#1341496711
+fg
+#1341496715
+bg 1
+#1341497062
+wh django-admin.py
+#1341497111
+django-admin
+#1341497113
+django-admin help
+#1341497144
+vbs
+#1341497147
+fg
+#1341497176
+.s
+#1341497178
+.s
+#1341497180
+.s
+#1341497181
+.s
+#1341497196
+,y
+#1341497203
+cd,y
+#1341497206
+./manage.py runserver
+#1341497223
+ln -s Django-1.0.4 Django
+#1341497253
+ln -s Django-1.0.4 Djangoll
+#1341497258
+rm Djangoll
+#1341497266
+tar xvjf Django-1.3.1.tar.gz 
+#1341497271
+tar xvzf Django-1.3.1.tar.gz 
+#1341497275
+touch *
+#1341497279
+rm Django
+#1341497287
+ln -s Django-1.3.1 Django
+#1341497294
+cd,y
+#1341497297
+./manage.py runserver
+#1341497347
+django-admin --version
+#1341497355
+vi README 
+#1341497374
+gits.
+#1341497404
+.s
+#1341497409
+django-admin --version
+#1341497508
+.s
+#1341497418
+py manage.py runserver
+#1341497512
+.s
+#1341497513
+fg
+#1341497515
+.s
+#1341497518
+./manage.py runserver
+#1341497713
+cd Django-1.3.1
+#1341497716
+cd django/
+#1341497723
+cd tests/
+#1341497742
+find . | grep django-ad
+#1341497756
+ll ./django/bin/
+#1341497764
+ ./django/bin/django-admin.py 
+#1341497767
+c ./django/bin/django-admin.py 
+#1341497937
+ll ./django/bin/
+#1341498090
+gvbs
+#1341497644
+py manage.py runserver
+#1341498197
+./manage.py runserver
+#1341498199
+py manage.py runserver
+#1341498254
+hg up -r1
+#1341498266
+lla
+#1341498272
+cd ChineBlog/
+#1341498275
+py manage.py runserver
+#1341498289
+ll blog/
+#1341498292
+ll static/
+#1341498298
+fg
+#1341498494
+hg up -r0
+#1341498515
+cd site-packages/
+#1341498531
+c Django-1.0.4-py2.7.egg-info 
+#1341498551
+rm Django-1.*
+#1341495585
+su
+#1341498555
+cdvcl
+#1341498556
+gits.
+#1341498559
+gitd.
+#1341498567
+gits
+#1341498570
+gits.
+#1341498576
+,y
+#1341498577
+cd,y
+#1341498580
+gits.
+#1341498583
+git add .
+#1341498584
+gits.
+#1341498602
+git commit -a -m 'Django 安装笔记'
+#1341498617
+ll blog/
+#1341498631
+rm Django
+#1341498634
+ln -s Django-1.0.4 Djangoll
+#1341498639
+rm Djangoll
+#1341498643
+ln -s Django-1.0.4 Django
+#1341498649
+./manage.py runserver
+#1341498671
+rm Django
+#1341498674
+ln -s Django-1.3.1 Django
+#1341498717
+gits.
+#1341498728
+cd books/c/game/3DRace/
+#1341498730
+./3drace 
+#1341498764
+mc
+#1341498770
+cdvcl
+#1341498771
+gits.
+#1341498779
+cd books/c/tools/tsl/test/
+#1341498785
+rm tsl_test
+#1341498788
+mc
+#1341498791
+cdvcl
+#1341498792
+gits.
+#1341498806
+cd books/python/django-web-dev/
+#1341498839
+mkdir ErlzBlog
+#1341498844
+cd ErlzBlog/
+#1341498853
+lla
+#1341498859
+ll ..
+#1341498861
+lla ..
+#1341498865
+lla
+#1341498867
+cd chineblog
+#1341498867
+lla
+#1341498869
+cd ChineBlog/
+#1341498885
+cd
+#1341498890
+cd
+#1341498911
+cdvcrc
+#1341498912
+gits.
+#1341498916
+cdvcrt
+#1341498917
+gits.
+#1341498920
+gvht
+#1341498928
+gitd linux/computor/bookmark/
+#1341498966
+g The-Django-Book-Notes.txt 
+#1341498995
+django-admin.py startproject ErlzBlog
+#1341498999
+cd ErlzBlog/
+#1341499008
+hg up -r0
+#1341499019
+ll blog/
+#1341499028
+lla .
+#1341499029
+lla ..
+#1341499032
+lla
+#1341499045
+django-admin.py --version
+#1341499055
+rm -rf ErlzBlog/
+#1341499059
+py manage.py runserver
+#1341499070
+.s
+#1341499080
+cdvcl
+#1341499086
+cd django/root/
+#1341499092
+django-admin.py --version
+#1341499104
+....
+#1341499108
+cd django-web-dev/ErlzBlog/
+#1341499116
+lla
+#1341499119
+django-admin.py --version
+#1341499123
+django-admin.py startproject ErlzBlog
+#1341499126
+cd ErlzBlog/
+#1341499126
+lla
+#1341499133
+...
+#1341499135
+gits.
+#1341499137
+git add ErlzBlog/
+#1341499141
+gits.
+#1341499177
+git commit -a -m 'ErlzBlog init. (Django-1.3.1)'
+#1341499182
+cd ErlzBlog/
+#1341499183
+lla
+#1341499184
+lla ..
+#1341499197
+,y
+#1341499200
+cd,y
+#1341499215
+cd ErlzBlog/
+#1341499218
+g settings.py 
+#1341499236
+ex .
+#1341499272
+lla
+#1341499273
+./manage.py startapp blog
+#1341499284
+ll blog/
+#1341499289
+gits.
+#1341499291
+git add blog/
+#1341499293
+gits.
+#1341499308
+git commit -m 'App: blog'
+#1341499313
+ex .
+#1341499336
+py manage.py runserver
+#1341499348
+python manage.py dbshell 
+#1341499379
+python manage.py runserver
+#1341499389
+django-admin.py version
+#1341499393
+django-admin.py --version
+#1341499394
+.s
+#1341499396
+django-admin.py --version
+#1341499402
+python manage.py runserver
+#1341499413
+gits.
+#1341499435
+gitd
+#1341499472
+vi urls.py
+#1341499489
+gvlc
+#1341499531
+unix2dos 
+#1341499537
+m unix2dos 
+#1341499617
+hg up -r0
+#1341499618
+gits.
+#1341499627
+lla
+#1341499629
+cd ChineBlog/
+#1341499633
+git init
+#1341499635
+lla
+#1341499640
+git add .
+#1341499641
+gits.
+#1341499660
+git rm *
+#1341499665
+git rm -r *
+#1341499667
+gits.
+#1341499674
+git rm -r -f *
+#1341499675
+gits.
+#1341499680
+hg up -r0
+#1341499682
+gits.
+#1341499684
+lla
+#1341499695
+gits.
+#1341499699
+gitlo
+#1341499707
+rm -rf .git/
+#1341499708
+lla
+#1341499714
+hg up -r0
+#1341499718
+ll ChineBlog/
+#1341499721
+hg up -r1
+#1341499752
+ll ChineBlog/
+#1341499760
+hg up -r0
+#1341499763
+cd ChineBlog/
+#1341499766
+lla
+#1341499775
+ll blog/
+#1341499791
+8ll
+#1341499794
+gits.
+#1341499808
+git init
+#1341499816
+cp ~/.gitignore .
+#1341499819
+git add .
+#1341499820
+gits.
+#1341499842
+git commit -m 'r0'
+#1341499852
+lla
+#1341499854
+gits.
+#1341499857
+git checkout .
+#1341499858
+gits.
+#1341499865
+django-admin.py --version
+#1341499867
+py manage.py runserver
+#1341499879
+py manage.py runserver
+#1341499894
+lla
+#1341499897
+hg up -r0
+#1341499901
+hg up -r1
+#1341499905
+ll c
+#1341499908
+ll ChineBlog/
+#1341499919
+hg up -r2
+#1341499922
+ll ChineBlog/
+#1341499931
+fg
+#1341499934
+jj
+#1341499941
+rm chineblog -rf
+#1341499949
+cp -rf chineblog.bak/ chineblog
+#1341499951
+cd chineblog
+#1341499958
+hg log | less
+#1341499965
+.s
+#1341499966
+hg
+#1341499966
+hg
+#1341499970
+.s
+#1341499974
+vbs
+#1341499978
+hg
+#1341499978
+hg
+#1341499984
+fg
+#1341499998
+cd
+#1341499999
+cd work
+#1341500002
+cd src
+#1341500009
+cd django/
+#1341500013
+cd chineblog
+#1341500016
+hg
+#1341500021
+hg log | less
+#1341500023
+jj
+#1341500026
+ll ChineBlog/
+#1341500031
+lla
+#1341500038
+hg up -r0
+#1341500044
+ll ChineBlog/
+#1341500049
+cd ChineBlog/
+#1341500053
+hg log
+#1341500056
+hg log .
+#1341500063
+lla .
+#1341500064
+lla ..
+#1341500069
+lla
+#1341500110
+git init
+#1341500117
+cp ~/.gitignore .
+#1341500119
+git add .
+#1341500120
+gits.
+#1341500127
+git commit -m 'r0'
+#1341500128
+gits.
+#1341500130
+lla
+#1341500140
+gits.
+#1341500142
+gits.
+#1341500160
+vi urls.py 
+#1341500169
+hg st
+#1341500188
+hg revert --all
+#1341500191
+lla
+#1341500196
+hg st
+#1341500205
+fg
+#1341500230
+gitl
+#1341500232
+gitls
+#1341500240
+gits.
+#1341500243
+rm urls.py.orig 
+#1341500253
+cdb
+#1341500265
+g unix2dos.sh
+#1341500271
+wh unix2dos.sh
+#1341500275
+wh unix2dos
+#1341500290
+ll blog/
+#1341500317
+find . -type f 
+#1341500328
+find . -type f | grep -v '.git/'
+#1341500344
+find . -type f | grep -v '.git/' -v '.gitignore'
+#1341500352
+find . -type f | grep -v '.git/' | grep -v '.gitignore'
+#1341500482
+chx unix2dos.sh 
+#1341500498
+unix2dos.sh 
+#1341500633
+m unix2dos 
+#1341500713
+unix2dos.sh 
+#1341500721
+gits.
+#1341500739
+m dos2unix
+#1341500790
+ll dos2unix.sh 
+#1341500794
+cat dos2unix.sh 
+#1341500826
+gits.
+#1341500833
+chx dos2unix2.sh 
+#1341500837
+dos2unix2.sh 
+#1341500840
+gits.
+#1341500841
+gitd
+#1341500856
+gits.
+#1341500870
+gitlo.
+#1341500877
+rm -rf 
+#1341500879
+rm -rf *
+#1341500880
+lla
+#1341500883
+git checkout .
+#1341500884
+gits.
+#1341500887
+lla
+#1341500893
+ex .
+#1341500910
+gits.
+#1341500912
+gits.
+#1341500913
+gitd
+#1341500931
+fg
+#1341501017
+py manage.py runserver
+#1341501029
+git checkout .
+#1341501030
+gits.
+#1341501034
+py manage.py runserver
+#1341501041
+git checkout .
+#1341501042
+gits.
+#1341501048
+svns
+#1341501063
+svn add unix2dos.sh dos2unix2.sh 
+#1341501069
+svns
+#1341501116
+svn commit -m "line END tag convert: unix <==> dos" .
+#1341501144
+ds django/
+#1341501150
+cd django/
+#1341501160
+mkdir 1
+#1341501162
+rm 1
+#1341501164
+rmdir 1
+#1341501166
+mkdir 01
+#1341501170
+mv chineblog* 01/
+#1341501183
+mv 01/chineblog.bak/ .
+#1341501191
+ll 01/
+#1341501197
+mkdir chineblog
+#1341501203
+mv 01/ chineblog.bak/ chineblog
+#1341501207
+ll chineblog/
+#1341501219
+tar cvjf chineblog.tar.bz2 chineblog
+#1341501246
+cdvcl
+#1341501251
+gits.
+#1341501253
+gits.
+#1341501260
+lla
+#1341501262
+ex .
+#1341501256
+git push origin master
+#1341501314
+cdvcrc
+#1341501319
+gits.
+#1341501324
+git add rt/home/scr/.kde/share/
+#1341501325
+gits.
+#1341501331
+git commit -m 'bookmark'
+#1341501336
+cdvcrt
+#1341501337
+gits.
+#1341501338
+gitd
+#1341501349
+git add linux/computor/bookmark/
+#1341501333
+git push origin master
+#1341501357
+git commit -m '各种CSS模板'
+#1341501358
+gits.
+#1341501372
+gits.
+#1341501379
+gits.
+#1341501362
+git push origin master
+#1341501384
+cdvcrt
+#1341501388
+gits.
+#1341501406
+git add hg
+#1341501407
+gits.
+#1341501413
+git co
+#1341501423
+git commit -m 'hg notes'
+#1341501430
+vmware&
+#1341501425
+git push origin master
+#1341503283
+halt
+#1341490884
+screen 
+#1341573982
+cdvcl
+#1341573993
+cd books/python/django-web-dev/ErlzBlog/
+#1341573995
+cd e
+#1341573997
+cd ErlzBlog/
+#1341574004
+cdvcl
+#1341574009
+cdvcrt
+#1341574013
+cdvcrc
+#1341574024
+ff&
+#1341574016
+git pull origin master
+#1341574006
+git pull origin master
+#1341574051
+gits.
+#1341574011
+git pull origin master
+#1341574066
+py manage.py runserver
+#1341574073
+ll db
+#1341574076
+py manage.py runserver
+#1341577500
+s lion
+#1341578970
+vmware&
+#1341578972
+vmll
+#1341578981
+cdvcrtbo
+#1341578987
+cd lang/python/
+#1341578990
+cd django/
+#1341578992
+g django.notes.txt 
+#1341579100
+cd
+#1341579103
+cd work
+#1341579106
+cd tmp/
+#1341579110
+rm NVIDIA-Linux-x86_64-295.59.run 
+#1341579113
+mkdir django
+#1341579115
+cd django/
+#1341579119
+wget  http://python-distribute.org/distribute_setup.py
+#1341579131
+sudo python distribute_setup.py
+#1341579178
+wget  https://github.com/pypa/pip/raw/master/contrib/get-pip.py
+#1341579185
+sudo python get-pip.py
+#1341579125
+su
+#1341579204
+pip
+#1341579213
+pip install django-grappelli
+#1341579238
+pip install django-filebrowser
+#1341579299
+py manage.py runserver
+#1341579657
+,y
+#1341579660
+cd,y
+#1341579665
+cd
+#1341579673
+cd work/src/django/chineblog
+#1341579675
+cd 01/
+#1341579677
+cd chineblog/
+#1341579680
+lla
+#1341579681
+cd ChineBlog/
+#1341579686
+hg
+#1341579691
+hg st
+#1341579701
+gits.
+#1341579707
+hg up -r1
+#1341579710
+gits.
+#1341579722
+gitd.
+#1341579732
+cd blog/
+#1341579735
+,y
+#1341579738
+gits.
+#1341579743
+ll ..
+#1341579767
+hg up -r0
+#1341579768
+gits.
+#1341579772
+hg up -r1
+#1341579775
+gits.
+#1341579778
+py manage.py runserver
+#1341579805
+vi settings.py
+#1341579816
+mkdir db
+#1341579820
+py manage.py runserver
+#1341579833
+py manage.py syncdb
+#1341579861
+py manage.py runserver
+#1341580312
+fg
+#1341580336
+gits.
+#1341580349
+gitlo.
+#1341580357
+gits.
+#1341580366
+fg
+#1341580372
+hg log | less
+#1341580380
+gits.
+#1341580385
+git add .
+#1341580388
+gitlo.
+#1341580396
+git commit -m 'r1'
+#1341580398
+gits.
+#1341580406
+hg up -r2
+#1341580409
+gits.
+#1341580455
+qll
+#1341580462
+g utils.py
+#1341580414
+gitd
+#1341580544
+ll blog/
+#1341580546
+fg
+#1341580648
+fg 1
+#1341580683
+fg 2
+#1341580757
+gits.
+#1341580761
+gitlo.
+#1341580773
+cp2,y blog/models.py 
+#1341580775
+gits.
+#1341580779
+fg
+#1341580797
+gits.
+#1341580800
+py manage.py syncdb
+#1341580807
+fg 1
+#1341580818
+fg 2
+#1341580859
+ll static/
+#1341580861
+fg
+#1341580877
+vi settings.py
+#1341580924
+fg
+#1341580980
+cd static/grappelli/tinymce_setup/
+#1341580982
+,y
+#1341580993
+cp2,y static/grappelli/tinymce_setup/tinymce_setup.js 
+#1341580995
+gits.
+#1341580997
+...
+#1341580999
+gits.
+#1341581005
+gits.
+#1341581046
+vi static/grappelli/tinymce/jscripts/tiny_mce/langs/ii.js 
+#1341581053
+gits.
+#1341581060
+,y
+#1341581063
+cd blog/
+#1341581064
+,y
+#1341581069
+cp2,y blog/admin.py 
+#1341581071
+gits.
+#1341581075
+vi admin.py 
+#1341581101
+gits.
+#1341581123
+cd ../static/grappelli/tinymce/jscripts/tiny_mce/langs/
+#1341581124
+,y
+#1341581149
+cp2,y static/grappelli/tinymce/jscripts/tiny_mce/langs/ii.js 
+#1341581151
+gits.
+#1341581152
+....
+#1341581154
+...
+#1341581156
+gits.
+#1341581170
+py manage.py syncdb
+#1341581192
+py manage.py syncdb
+#1341581203
+gits.
+#1341581207
+gits.
+#1341581212
+fg
+#1341581216
+fg 1
+#1341581230
+git add .
+#1341581231
+gits.
+#1341581235
+git commit -m 'r2'
+#1341581236
+gits.
+#1341581242
+git add .
+#1341581257
+git commit -m '添加admin支持。完成一部分Model'
+#1341581250
+fg 1
+#1341581276
+hg up -r3
+#1341581278
+gits.
+#1341581309
+ll db
+#1341581311
+py manage.py syncdb
+#1341581317
+gitd.
+#1341581329
+fg 1
+#1341581343
+fg 3
+#1341581396
+gits.
+#1341581403
+hg up -r4
+#1341581406
+gits.
+#1341581412
+ll social/
+#1341581416
+ll social/weibo/
+#1341581423
+hg up -r2
+#1341581426
+gits.
+#1341581431
+fg 1
+#1341581439
+hg up -r5
+#1341581441
+gits.
+#1341581444
+py manage.py syncdb
+#1341581454
+fg
+#1341581799
+jj
+#1341581800
+gits.
+#1341581806
+hg up -r44
+#1341581810
+gits.
+#1341581820
+ll templates/
+#1341581822
+ll social/
+#1341581826
+ll social/weibo/
+#1341581833
+ll blog/
+#1341581836
+ll blog/static/
+#1341581839
+ll blog/static/uploads/
+#1341581843
+ll blog/static/blog/
+#1341581845
+ll blog/static/blog/coolblue/
+#1341581847
+ll blog/static/blog/coolblue/css/
+#1341581853
+ll db
+#1341581867
+py manage.py syncdb
+#1341581875
+vi settings.py
+#1341581911
+hg up -r2
+#1341581914
+gits.
+#1341581921
+hg up -r3
+#1341581923
+gits.
+#1341581953
+g\j
+#1341581955
+fg
+#1341581962
+hg log | less
+#1341581966
+gitd.
+#1341581983
+vi settings.py
+#1341581992
+gits.
+#1341582002
+hg up -r2
+#1341582004
+gits.
+#1341582005
+jj
+#1341582008
+fg 2
+#1341582014
+vi settings.py
+#1341582044
+pip search south
+#1341582065
+s migration
+#1341582537
+s hassle
+#1341582559
+s intuitive
+#1341582940
+pip search south
+#1341582968
+pip install South
+#1341582194
+fg 1
+#1341583175
+py manage.py shell
+#1341583182
+py manage.py shell
+#1341583330
+pip search mptt
+#1341586723
+pip install django-mptt
+#1341586875
+py manage.py syncdb
+#1341586887
+py manage.py runserver
+#1341586949
+gits.
+#1341586957
+gits.
+#1341586964
+gitlo.
+#1341586967
+fg 1
+#1341586982
+py manage.py shell
+#1341586986
+py manage.py syncdb
+#1341587020
+vi settings.py
+#1341587031
+gits.
+#1341587038
+fg 2
+#1341587084
+py manage.py runserver
+#1341587088
+py manage.py syncdb
+#1341587095
+py manage.py syncdb
+#1341587103
+py manage.py migrate
+#1341587107
+py manage.py syncdb
+#1341587116
+py 
+#1341587123
+py manage.py runserver
+#1341587231
+gits.
+#1341587236
+fg
+#1341587243
+fg 1
+#1341587251
+gitlo.
+#1341587253
+fg 
+#1341587260
+gits
+#1341587262
+git s.
+#1341587263
+gits.
+#1341587270
+hg up -r3
+#1341587273
+gits.
+#1341587276
+py manage.py syncdb
+#1341587282
+py manage.py runserver
+#1341589529
+p www.hao123.com
+#1341589784
+ii
+#1341589789
+p www.hao123.com
+#1341623152
+cdvcl
+#1341623159
+cd books/python/django-web-dev/ErlzBlog/ErlzBlog/
+#1341623203
+ll db
+#1341623206
+ff&
+#1341623212
+cd
+#1341623226
+cd work/src/django/chineblog/01/chineblog/ChineBlog/
+#1341624214
+gits.
+#1341624226
+gits.
+#1341624220
+gitd.
+#1341624234
+gitlo.
+#1341624244
+fg
+#1341624249
+hg log | less
+#1341624281
+gits.
+#1341624285
+g settings.py
+#1341624261
+gitd.
+#1341624319
+g settings.py
+#1341624338
+cdvcrtbo
+#1341624346
+cd lang/python/django/
+#1341624348
+g django.notes.txt 
+#1341624449
+ ll
+#1341624468
+fg
+#1341624479
+cd blog/
+#1341624479
+,y
+#1341624536
+cd blog/
+#1341624542
+cp2,y admin.py models.py
+#1341624545
+gits.
+#1341624549
+fg
+#1341624575
+py manage.py syncdb
+#1341624583
+py manage.py runserver
+#1341624688
+cd static/
+#1341624692
+mkdir uploads
+#1341624703
+py manage.py runserver
+#1341624763
+ll static/uploads/
+#1341624765
+ll static/uploads/me/
+#1341624771
+ex static/uploads/
+#1341625135
+s slug
+#1341625211
+vi urls.py
+#1341625259
+fg 1
+#1341624820
+fg
+#1341625264
+gis.
+#1341625266
+gits.
+#1341625277
+cd static/uploads/
+#1341625290
+ex .
+#1341625335
+chxx Reflection.jpg 
+#1341625348
+...
+#1341625352
+py manage.py runserver
+#1341625376
+ll static/uploads/
+#1341625385
+fg
+#1341625411
+gits.
+#1341625423
+ll static/uploads/
+#1341625439
+cd static/uploads/
+#1341625441
+ex .
+#1341625451
+s thumbnail
+#1341625480
+touch *
+#1341625485
+gits.
+#1341625492
+gitd.
+#1341625519
+ll db
+#1341625540
+gits.
+#1341625542
+gitlo.
+#1341625545
+git add .
+#1341625546
+gits.
+#1341625552
+git commit -m '完成blog/models和admin'
+#1341625563
+ll social/
+#1341625565
+ll blog/
+#1341625570
+gits.
+#1341625582
+ll social/
+#1341625585
+vi settings.py
+#1341625614
+gits.
+#1341625616
+gitlo.
+#1341625621
+git add .
+#1341625622
+gits.
+#1341625645
+git commit -a -m 'r3'
+#1341625648
+gits.
+#1341625650
+gitlo.
+#1341625659
+hg up -r4
+#1341625661
+gits.
+#1341625675
+gitd.
+#1341625791
+gits.
+#1341625797
+ll social/
+#1341625802
+ll social/models.py 
+#1341625804
+c social/models.py 
+#1341625813
+fg
+#1341626202
+fg 1
+#1341626313
+fg
+#1341626317
+fg 2
+#1341626319
+fg 3
+#1341626322
+gitd.
+#1341626338
+jj
+#1341626348
+vi social/weibo/__init__.py 
+#1341626352
+ll social/
+#1341626354
+ll social/weibo/
+#1341626358
+ll social/
+#1341626368
+ll social/google/__init__.py 
+#1341626498
+s nerd
+#1341627868
+cd
+#1341628230
+fg 1
+#1341628237
+gits.
+#1341628240
+gitd.
+#1341628401
+git.s
+#1341628402
+gits.
+#1341628408
+ex .
+#1341628414
+ex .
+#1341628421
+gits.
+#1341628425
+git add .
+#1341628427
+gitd.
+#1341628429
+gitdc.
+#1341628455
+gits.
+#1341628480
+git commit -m '完成多帐号登录结构。先支持Google和Weibo帐号登录'
+#1341628460
+fg
+#1341628493
+gits.
+#1341628495
+gitlo.
+#1341628497
+git add .
+#1341628498
+gits.
+#1341628507
+git rm local_settings.py
+#1341628508
+gits.
+#1341628512
+git commit -a -m 'r4'
+#1341628517
+hg up -r5
+#1341628520
+gits.
+#1341628542
+ll blog/static/
+#1341628544
+ll blog/static/blog/
+#1341628545
+ll blog/static/blog/coolblue/
+#1341628547
+gits.
+#1341628548
+fg 2
+#1341628550
+gitd.
+#1341628785
+gits.
+#1341628786
+gits.
+#1341628811
+py manage.py syncdb
+#1341628815
+py manage.py runserver
+#1341628865
+ll db
+#1341628868
+rm db/chine.db 
+#1341628871
+py manage.py syncdb
+#1341628901
+py manage.py runserver
+#1341628971
+fg 1
+#1341628981
+fg 3
+#1341628984
+fg 2
+#1341628990
+vi urls.py
+#1341629001
+ll blog/urls.py
+#1341629003
+v blog/urls.py
+#1341629010
+py manage.py runserver
+#1341629046
+fg 2
+#1341629058
+fg 3
+#1341629063
+fg 2
+#1341629071
+py manage.py runserver
+#1341629197
+fg 3
+#1341629221
+py manage.py runserver
+#1341629226
+fg
+#1341629229
+fg 4
+#1341629340
+fg
+#1341629394
+gits.
+#1341629397
+fg
+#1341629423
+gits.
+#1341629430
+hg up -r6
+#1341629432
+gits.
+#1341629435
+py manage.py syncdb
+#1341629438
+py manage.py runserver
+#1341629512
+fg
+#1341629527
+hg up -r7
+#1341629529
+gits.
+#1341629535
+ll blog/static/
+#1341629537
+ll blog/static/blog/
+#1341629538
+ll blog/static/blog/coolblue/
+#1341629540
+gits.
+#1341629549
+kk blog/templates/
+#1341629550
+kk blog/templates/blog/
+#1341629551
+kk blog/templates/blog/coolblue/
+#1341629562
+py manage.py runserver
+#1341629648
+fg
+#1341629722
+hg up -r10
+#1341629725
+py manage.py syncdb
+#1341629729
+rm db/chine.db 
+#1341629730
+py manage.py syncdb
+#1341629754
+py manage.py runserver
+#1341629920
+jj
+#1341629922
+vi settings.py
+#1341629938
+mkdir -p static/uploads
+#1341629939
+fg
+#1341630029
+cd static/uploads/
+#1341630033
+...
+#1341630034
+fg
+#1341630121
+rm -rf static/
+#1341630123
+,y
+#1341630129
+cp2,y -rf static/
+#1341630136
+py manage.py syncdb
+#1341630858
+whois
+#1341630873
+whois nuoerlz.com
+#1341630886
+whois hug8.us
+#1341630917
+whois www.hug8.us
+#1341630933
+whois lujingbao.us
+#1341630942
+whois baidu.com
+#1341630970
+whois hug8.us
+#1341630139
+fg
+#1341632821
+gits.
+#1341632823
+gitlo.
+#1341632828
+gitd.
+#1341632877
+py manage.py runserver
+#1341632972
+jj
+#1341632975
+cd blog/
+#1341632978
+ll static/
+#1341633249
+cd templates/
+#1341633253
+gvht
+#1341633734
+cdx
+#1341633743
+unzip CoolBlue11.zip 
+#1341633745
+cd CoolBlue11
+#1341633750
+ff index.html 
+#1341633796
+vi index.html 
+#1341633817
+vi blog.html 
+#1341633823
+ll templates/
+#1341633824
+ll templates/blog/
+#1341633825
+ll templates/blog/coolblue/
+#1341633846
+v templates/blog/coolblue/sidebar.html 
+#1341633873
+ll templates/blog/coolblue/
+#1341633882
+ll static/blog/coolblue/
+#1341633886
+ll static/blog/coolblue/css/
+#1341633897
+ll ll
+#1341634046
+ll templates/
+#1341634047
+ll templates/blog/
+#1341634048
+ll templates/blog/coolblue/
+#1341634053
+v templates/blog/coolblue/about.html 
+#1341634069
+ll static/blog/coolblue/
+#1341634075
+ll static/blog/coolblue/js
+#1341634086
+ll static/blog/coolblue/js/scrollToTop.js 
+#1341634088
+ static/blog/coolblue/js/scrollToTop.js 
+#1341634091
+v static/blog/coolblue/js/scrollToTop.js 
+#1341634834
+hg
+#1341634835
+fg
+#1341634838
+fg 2
+#1341634842
+fg 1
+#1341634855
+jj
+#1341634857
+fg
+#1341634859
+fg 3
+#1341634877
+fg 1
+#1341634897
+hg up -r13
+#1341634901
+py manage.py syncdb
+#1341634925
+ll social/
+#1341634927
+ll social/weibo/
+#1341634934
+fg
+#1341634949
+hg up -r12
+#1341634951
+py manage.py syncdb
+#1341634955
+py manage.py runserver
+#1341642947
+pdf &
+#1341642826
+vi blog/models.py
+#1341643899
+s decouple
+#1341643902
+fg
+#1341644766
+s langue
+#1341644771
+s langua
+#1341644774
+s language
+#1341646160
+gits
+#1341644734
+fg 3
+#1341646166
+,y
+#1341646169
+cd,y
+#1341646172
+fg
+#1341646179
+gits.
+#1341646189
+gits.
+#1341646191
+gitlo.
+#1341646203
+cd db
+#1341646207
+cp chine.db chine.db.bk
+#1341647372
+gits.
+#1341647383
+gitd.
+#1341647386
+gits.
+#1341647401
+gitd.
+#1341647422
+gits.
+#1341647424
+cd blog/
+#1341647425
+,y
+#1341647431
+cd blog/
+#1341647442
+cp2,y admin.py models.py views.py 
+#1341647445
+gits.
+#1341647630
+fg
+#1341647632
+fg 1
+#1341647756
+fg 2
+#1341647758
+gitd.
+#1341647809
+lll
+#1341647809
+fg
+#1341647972
+gits.
+#1341648108
+fg 4
+#1341648178
+fg
+#1341648337
+gitlo.
+#1341648344
+hg
+#1341648348
+fg
+#1341648356
+hg up -r5
+#1341648358
+gits.
+#1341648364
+hg up -r4
+#1341648365
+gits.
+#1341648378
+mv db/chine.db.bk ~
+#1341648381
+gits.
+#1341648382
+gitlo.
+#1341648387
+ll static/
+#1341648391
+ll static/filebrowser/
+#1341648401
+ll static/grappelli/
+#1341648405
+gits.
+#1341648420
+hg up -r4
+#1341648422
+gits.
+#1341648426
+rm -rf static/
+#1341648428
+gits.
+#1341648434
+hg up -r5
+#1341648436
+gitlo.
+#1341648438
+gits.
+#1341648471
+git add .
+#1341648472
+gits.
+#1341648482
+git commit -a -m 'r5'
+#1341648487
+hg up -r6
+#1341648489
+gits.
+#1341648491
+git add .
+#1341648495
+gits.
+#1341648501
+git commit -a -m 'r6'
+#1341648502
+gits.
+#1341648507
+hg up -r7
+#1341648512
+gits.
+#1341648521
+git commit -a -m 'r8'
+#1341648524
+gits.
+#1341648526
+gitlo.
+#1341648534
+hg up -r7
+#1341648536
+gits.
+#1341648538
+git add .
+#1341648540
+gits.
+#1341648548
+git commit -a -m 'r7'
+#1341648550
+gits.
+#1341648555
+hg up -r8
+#1341648557
+gits.
+#1341648562
+git commit -a -m 'r8'
+#1341648563
+gits.
+#1341648567
+hg up -r9
+#1341648569
+gits.
+#1341648571
+git add .
+#1341648572
+gits.
+#1341648577
+git commit -a -m 'r9'
+#1341648578
+gits.
+#1341648583
+hg up -r10
+#1341648585
+gits.
+#1341648587
+git add 
+#1341648589
+git add .
+#1341648590
+gits.
+#1341648600
+git commit -a -m 'r10'
+#1341648602
+gits.
+#1341648610
+hg up -r11
+#1341648613
+gits.
+#1341648615
+git add .
+#1341648618
+git commit -a -m 'r11'
+#1341648620
+gits.
+#1341648624
+hg up -r12
+#1341648627
+gits.
+#1341648630
+git add .
+#1341648634
+git commit -a -m 'r12'
+#1341648635
+gits.
+#1341648638
+fg
+#1341646176
+py manage.py runserver
+#1341648652
+py manage.py runserver
+#1341648922
+gitlo.
+#1341647447
+gitd.
+#1341648943
+gits.
+#1341648949
+gitlo
+#1341648963
+git checkout cead .
+#1341648965
+gits.
+#1341648970
+hg st
+#1341648996
+hg up -r12
+#1341648998
+gits.
+#1341649026
+fg
+#1341649032
+gitb
+#1341649040
+git checkout HEAD .
+#1341649041
+gits.
+#1341649048
+fg
+#1341649072
+gitlo.
+#1341649093
+git checkout e5be
+#1341649095
+gits
+#1341649096
+gitb
+#1341649098
+gitlo.
+#1341649154
+gits
+#1341649155
+gitb
+#1341649157
+gitlo
+#1341649166
+gitd 4ff7 e5be
+#1341649212
+gits
+#1341649214
+gitbcm
+#1341649216
+gits
+#1341649218
+gitb
+#1341649220
+gitlo.
+#1341649320
+ds db
+#1341649322
+ll db
+#1341649341
+git
+#1341649346
+gitlo.
+#1341649354
+gitd 4906 f447
+#1341649364
+gitd 4906 4ff7
+#1341649382
+g 
+#1341649395
+fg
+#1341649410
+gits.
+#1341649415
+fg
+#1341649926
+gitlo.
+#1341649933
+fg
+#1341649945
+gitd 4ff7 4906
+#1341650803
+fif manage
+#1341650827
+py blog/tests.py test
+#1341650867
+fifw manage
+#1341650942
+py manage.py 
+#1341651665
+s collapsible
+#1341627869
+mutt
+#1341653898
+,y
+#1341653900
+cd,y
+#1341653902
+...
+#1341653904
+cd 02-first-blog/mysite/
+#1341653915
+vi books/models.py
+#1341670352
+vmware&
+#1341672684
+fif Manager
+#1341672688
+CompletedArticleManager
+#1341672692
+fif CompletedArticleManager
+#1341672806
+fif CompletedArticleManager
+#1341673015
+fif click_once
+#1341678539
+fif reply_to_comment
+#1341716960
+vmll
+#1341716966
+vmware&
+#1341718832
+ii
+#1341719405
+gvht
+#1341742879
+ff&
+#1341742986
+ll /bin
+#1341761068
+ii
+#1341761754
+ff&
+#1341761763
+cdvcl
+#1341761766
+gits.
+#1341648936
+fg
+#1341761786
+fg
+#1341761795
+ii
+#1341761798
+i
+#1341761799
+ii
+#1341761818
+cdvcrc
+#1341761819
+gits.
+#1341761825
+git add rt/home/scr/.kde/share/
+#1341761813
+git push origin master
+#1341761827
+gits.
