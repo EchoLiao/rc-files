@@ -20,7 +20,8 @@ export SVN_EDITOR=vim #set for svn
 export XMODIFIERS="@im=fcitx"
 export GTK_IM_MODULE=xim
 export VIM=/usr/local/share/vim
-export PYTHONPATH=/home/scr/.vercol/git/django/root/Django-1.0.4
+export PYTHONPATH=/home/scr/.vercol/git/django/root/Django
+
 export  LANG=zh_CN.UTF-8;
 export  LC_CTYPE="zh_CN.UTF-8";
 export  LC_NUMERIC="zh_CN.UTF-8";
@@ -359,7 +360,7 @@ alias wh='type -all'
 alias ,y='p2v.sh'
 
 
-hg(){ history | grep $* | sort -k 2 | uniq -s 7 | sort -g | less; } #过虑命令历史
+#hg(){ history | grep $* | sort -k 2 | uniq -s 7 | sort -g | less; } #过虑命令历史
 
 # Find a file with a pattern in name:
 function fif() { find . -type f -iname '*'$*'*' -ls  | column -t; }
