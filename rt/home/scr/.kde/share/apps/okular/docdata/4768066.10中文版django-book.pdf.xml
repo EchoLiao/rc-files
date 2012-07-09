@@ -23602,20 +23602,42 @@
     </annotation>
    </annotationList>
   </page>
+  <page number="270">
+   <annotationList>
+    <annotation type="2">
+     <base creationDate="2012-07-07T14:40:47" uniqueName="okular-270-1" author="scr.Li" modifyDate="2012-07-07T14:40:47" color="#007eee">
+      <boundary l="0.0839223" r="0.840106" b="0.737201" t="0.736519"/>
+     </base>
+     <line closed="1">
+      <point x="0.0839223" y="0.737201"/>
+      <point x="0.840106" y="0.736519"/>
+     </line>
+    </annotation>
+    <annotation type="2">
+     <base creationDate="2012-07-07T14:40:54" uniqueName="okular-270-2" author="scr.Li" modifyDate="2012-07-07T14:40:54" color="#007eee">
+      <boundary l="0.0839223" r="0.237633" b="0.757679" t="0.757679"/>
+     </base>
+     <line closed="1">
+      <point x="0.0839223" y="0.757679"/>
+      <point x="0.237633" y="0.757679"/>
+     </line>
+    </annotation>
+   </annotationList>
+  </page>
  </pageList>
  <generalInfo>
   <history>
-   <oldPage viewport="390;C2:0.300795:0.59215:1"/>
-   <oldPage viewport="3;C2:0.44788:0.779863:1"/>
-   <oldPage viewport="4;C2:0.44788:0.779863:1"/>
-   <oldPage viewport="5;C2:0.44788:0.779863:1"/>
-   <oldPage viewport="6;C2:0.44788:0.219454:1"/>
-   <oldPage viewport="5;C2:0.44788:1:1"/>
-   <oldPage viewport="6;C2:0.44788:0.301365:1"/>
-   <oldPage viewport="70;C2:0.499558:-0.000341297:1"/>
-   <oldPage viewport="15;C2:0.473498:0.982594:1"/>
-   <oldPage viewport="16;C2:0.473498:0.0153584:1"/>
-   <current viewport="15;C2:0.473498:0.982594:1"/>
+   <oldPage viewport="77;C2:0.473498:0.215358:1"/>
+   <oldPage viewport="188;C2:0.381734:0.690331:1"/>
+   <oldPage viewport="63;C2:0.346787:0.647036:1"/>
+   <oldPage viewport="77;C2:0.369359:0.0934471:1"/>
+   <oldPage viewport="188;C2:0.473498:0.981911:1"/>
+   <oldPage viewport="189;C2:0.473498:0.997611:1"/>
+   <oldPage viewport="190;C2:0.473498:0.972355:1"/>
+   <oldPage viewport="191;C2:0.473498:0.906143:1"/>
+   <oldPage viewport="188;C2:0.473498:0.689761:1"/>
+   <oldPage viewport="5;C2:0.585907:0.710014:1"/>
+   <current viewport="68;C2:0.525618:0.635154:1"/>
   </history>
   <views>
    <view name="PageView">

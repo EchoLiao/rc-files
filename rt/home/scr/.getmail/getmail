@@ -49,9 +49,9 @@ echo "==============================[`date "+%Y-%m-%d %H:%M:%S %w"`]============
 /usr/bin/getmail -v -n \
         -r ~/.getmail/getmailrc.tge3636.126 \
         -r ~/.getmail/getmailrc.lcy3636.126 \
+        -r ~/.getmail/getmailrc.thunder \
         -r ~/.getmail/getmailrc.nuoerlz.gmail \
         >> $logoutf 2>&1
-        #-r ~/.getmail/getmailrc.thunder \
 
 [[ $? == 0 ]] && echo "[`date "+%Y-%m-%d %H:%M:%S %w"`]  current getmail session is terminal." | tee -a $logf
 [[ $? != 0 ]] && echo "[`date "+%Y-%m-%d %H:%M:%S %w"`]  current getmail session is abort!" | tee -a $logf

@@ -12,7 +12,7 @@ fi
 #export CLASSPATH=$CLASSPATH:/media/N/l2this/.rt/book/lang/java/JSP/JSP_wlkfrmysj/src/chap07/mysql/mysql_gjt.jar
 
 ## 对所有用户都有效的环境变量保存在 /etc/profile 中.
-export PATH=$HOME/bin/rox-filer/ROX-Filer:$HOME/bin:$PATH:$HOME/bin/nb
+export PATH=$HOME/bin/rox-filer/ROX-Filer:$HOME/bin:$PATH:$HOME/bin/nb:/home/scr/workspace/gae/google_appengine
 export CATALINA_HOME=/usr/share/tomcat6/
 export EDITOR=vim #set for svn
 export SVN_EDITOR=vim #set for svn
