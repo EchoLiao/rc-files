@@ -18,7 +18,6 @@
  </pageList>
  <generalInfo>
   <history>
-   <oldPage viewport="198;C2:0.499318:0.307432:1"/>
    <oldPage viewport="197;C2:0.499318:0.307432:1"/>
    <oldPage viewport="196;C2:0.499318:0.307432:1"/>
    <oldPage viewport="195;C2:0.499318:0.307432:1"/>
@@ -28,11 +27,12 @@
    <oldPage viewport="191;C2:0.499318:0.691602:1"/>
    <oldPage viewport="192;C2:0.499318:0.691602:1"/>
    <oldPage viewport="193;C2:0.499318:0.691602:1"/>
-   <current viewport="194;C2:0.498984:0.538849:1"/>
+   <oldPage viewport="194;C2:0.498984:0.538849:1"/>
+   <current viewport="10;C2:0.499507:0.563763:1"/>
   </history>
   <views>
    <view name="PageView">
-    <zoom mode="1" value="0.826585"/>
+    <zoom mode="1" value="1.70525"/>
    </view>
   </views>
  </generalInfo>
