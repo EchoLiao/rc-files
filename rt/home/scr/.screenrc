@@ -12,7 +12,7 @@
 # literal command character to y (when typed after the command character)
 escape 88
 
-deflogin on
+#deflogin on
 #autodetach off
 
 # Sets the visual bell setting for this window
@@ -99,8 +99,8 @@ bind ^\
 # make them better
 bind \\ quit
 bind K quit
-bind I login on
-bind O login off
+#bind I login on
+#bind O login off
 bind } history
 
 # copy and paste
