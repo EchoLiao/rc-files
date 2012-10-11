@@ -126,8 +126,14 @@ bind " " other
 
 # Start window numbering at 1, keep window 
 # number 0 from ever being used.
-bind c screen 1
-bind 0 select 10
+bind w screen 1
+bind g select 8
+bind a select 10
+bind b select 11
+bind c select 12
+bind d select 13
+bind e select 14
+bind f select 15
 screen 1
 select 1
 
