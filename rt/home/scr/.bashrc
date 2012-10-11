@@ -9,6 +9,10 @@ if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
 
+source ~/bin/.git-completion.bash
+source ~/bin/.git-prompt.sh
+
+
 #export CLASSPATH=$CLASSPATH:/media/N/l2this/.rt/book/lang/java/JSP/JSP_wlkfrmysj/src/chap07/mysql/mysql_gjt.jar
 
 ## 对所有用户都有效的环境变量保存在 /etc/profile 中.
@@ -48,7 +52,6 @@ export  MY_VCL="/home/scr/.vercol/git/lang"
 ## 命令提示符
 #export PS1='[\!\#\u\$\\\d\h\n\nnn\s\t\W\w]$'
 if [ `whoami` == "root" ]; then
-    # export PS1='\[\033[31m\][\u \W]# \[\033[m\]'
     # "\033k...\033\134" is SET for screen
     export PS1='\[\033[31m\][\u \W\033k:\W\033\134]# \[\033[m\]'
 else
@@ -111,6 +114,7 @@ alias cdbotvm='cd /media/N/l2this/.rt/book/tools/vm'
 alias cdbotvmn='cd /media/N/l2this/.rt/book/tools/vm/note/'
 alias cdbs='cd /home/scr/bin/stsc'
 alias cdbst='cd /media/N/l2this/.rt/book/lang/java/strust'
+alias cdff='cd /Volumes/Macintosh-HD-2/RT/home/scr/.rt/ffDownLoad/'
 alias cdif='cd /etc/sysconfig/network-scripts/'
 alias cdjs='cd /usr/share/tomcat6/webapps/ROOT/sy/'
 alias cdl='cd /home/scr/.rt/lang/'
@@ -142,6 +146,8 @@ alias cdn='cd /media/N/l2this/.rt/notes/note'
 alias cdnvim='cd /media/N/l2this/.rt/notes/note/vim'
 alias cdrk='cd /media/N/l2this/.rt/book/html/man.lupaworld.com/content/manage/ringkee'
 alias cdrt='cd /home/scr/.rt/'
+alias cdrtbo='cd /home/scr/.rt/linux/computor'
+alias cdrtmv='cd /Volumes/Macintosh-HD-2/RT/home/scr/movies'
 alias cds='cd /media/N/l2this/.rt/notes/soft'
 alias cdse='cd ~/bin/stsc'
 alias cdsls='cd /home/sre/work/ls'
@@ -187,14 +193,14 @@ alias fg.='find . | egrep --color=always'
 alias fgd='find . -type d | egrep --color=always'
 alias fgf='find . -type f | egrep --color=always'
 alias fgx='find . -type f | egrep -v svn | xargs egrep --color=always'
-alias fich='find .   -type f -a \( -name "*\.c" -o -name "*\.h" -o -name "*\.cpp" -o -name "*\.asm" -o -name "*\.inc" \) | xargs egrep -n --color=ALWAYS '
-alias fichi='find .  -type f -a \( -name "*\.c" -o -name "*\.h" -o -name "*\.cpp" -o -name "*\.asm" -o -name "*\.inc" \) | xargs egrep -n --color=ALWAYS -i'
-alias fichiw='find . -type f -a \( -name "*\.c" -o -name "*\.h" -o -name "*\.cpp" -o -name "*\.asm" -o -name "*\.inc" \) | xargs egrep -n --color=ALWAYS -i -w '
-alias fichw='find .  -type f -a \( -name "*\.c" -o -name "*\.h" -o -name "*\.cpp" -o -name "*\.asm" -o -name "*\.inc" \) | xargs egrep -n --color=ALWAYS -w '
-alias fif='find . -type f | grep -v ".svn" | xargs egrep -n --color=ALWAYS'
-alias fifi='find . -type f | grep -v ".svn" | xargs egrep -n --color=ALWAYS -i'
-alias fifiw='find . -type f | grep -v ".svn" | xargs egrep -n --color=ALWAYS -i -w'
-alias fifw='find . -type f | grep -v ".svn" | xargs egrep -n --color=ALWAYS -w'
+alias fich='find .   -type f -a \( -name "*\.m" -o -name "*\.c" -o -name "*\.h" -o -name "*\.cpp" -o -name "*\.asm" -o -name "*\.inc" \) | xargs egrep -n --color=ALWAYS '
+alias fichi='find .  -type f -a \( -name "*\.m" -o -name "*\.c" -o -name "*\.h" -o -name "*\.cpp" -o -name "*\.asm" -o -name "*\.inc" \) | xargs egrep -n --color=ALWAYS -i'
+alias fichiw='find . -type f -a \( -name "*\.m" -o -name "*\.c" -o -name "*\.h" -o -name "*\.cpp" -o -name "*\.asm" -o -name "*\.inc" \) | xargs egrep -n --color=ALWAYS -i -w '
+alias fichw='find .  -type f -a \( -name "*\.m" -o -name "*\.c" -o -name "*\.h" -o -name "*\.cpp" -o -name "*\.asm" -o -name "*\.inc" \) | xargs egrep -n --color=ALWAYS -w '
+alias fif='find . -type f | grep -v ".svn" | grep -v "\.git" | xargs egrep -n --color=ALWAYS'
+alias fifi='find . -type f | grep -v ".svn" | grep -v "\.git" | xargs egrep -n --color=ALWAYS -i'
+alias fifiw='find . -type f | grep -v ".svn" | grep -v "\.git" | xargs egrep -n --color=ALWAYS -i -w'
+alias fifw='find . -type f | grep -v ".svn" | grep -v "\.git" | xargs egrep -n --color=ALWAYS -w'
 alias fiq='find . -type f | xargs egrep --color=always '?????''
 alias fl='fdisk -l'
 alias g='gvim 2>/dev/null'
@@ -307,10 +313,13 @@ alias mod='mount /dev/sda3 /media/D'
 alias moe='mount /dev/sda5 /media/E'
 alias mon='mount /dev/sda8 /media/N'
 alias ms='cd /home/scr/bin/stsc/'
+alias p....='cd -P ../../../'
+alias p...='cd -P ../../'
+alias p..='cd -P ..'
 alias p6='ping6'
 alias p='ping'
 alias path='echo -e ${PATH//:/\\n} | sort'
-alias pdf='okular --icon okular -caption Okular 2>/dev/null'
+alias pdf='open' #alias pdf='okular --icon okular -caption Okular 2>/dev/null'
 alias pdfs='okular --icon okular -caption Okular /media/E/liaocaiyuan/Documents/0电子书/0现修课程/第3学期/操作系统设计与实现/2上册\(解密\).pdf&'
 alias pkau='pkill pulseaudio*'
 alias pl='pdflatex'
@@ -465,6 +474,12 @@ function bch2b()
     echo "ibase=16; obase=2; $hex" | bc
 }
 
+tac () 
+{
+    #awk '1 { last = NR; line[last] = $0; } END { for (i = last; i > 0; i--) { print line[i]; } }'
+    awk '{print NR,$0}' $@ | sort -nr | sed 's/^[0-9]* //'
+}
+
 function mv2,y()
 {
     dst=`head -1 /tmp/pwd2vim.tmp`
@@ -487,6 +502,29 @@ function chmodd()
 function chmodf()
 {
     find "$1" -type f -exec chmod 644 {} \;
+}
+
+function efich()
+{
+    tfile=/tmp/find_tmep_1324_efich.tmp
+    # find . -maxdepth 1 -type d -name '[^.]*' | sed '1d' > $tfile
+    find . -maxdepth 1 -type d | sed '1d' | grep -v '.git' | grep -v '.svn' > $tfile
+
+    cat $tfile |
+    while read line
+    do
+        echo ================================ "$line" ================================
+        find "$line" -type f -a \( \
+                -name "*\.m" -o -name "*\.c" -o -name "*\.h" -o \
+                -name "*\.cpp" -o -name "*\.asm" -o -name "*\.inc" \) \
+            -exec egrep -n --color=ALWAYS $@ {} \;
+    done
+}
+
+function efichi()
+{
+    arg=`echo "-i " "$1"`
+    efich $arg
 }
 
 function swap()         # swap 2 filenames around
@@ -653,6 +691,11 @@ if [ "${BASH_VERSION%.*}" \< "2.05" ]; then
 fi
 
 
+if [ -f /opt/local/etc/profile.d/bash_completion.sh ]; then
+    . /opt/local/etc/profile.d/bash_completion.sh
+fi
+
+
 
 
 
@@ -683,3 +726,7 @@ fi
 #PS1="[\[\033[32m\]\w]\[\033[0m\]\n\[\033[1;36m\]\u\[\033[1;33m\]-> \[\033[0m\]" #显示完整路径
 #PS1='\[\e[1;32m\]\u@\H:\[\e[m\] \[\e[1;37m\]\w\[\e[m\]\n\[\e[1;33m\]hist:\! \[\e[0;33m\] \[\e[1;31m\]jobs:\j \$\[\e[m\] ' #显示后台任务数量
 #PS1='$ '
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
