@@ -2,6 +2,7 @@
 # 以下两行的作用见: ~/.bashrc
 "\e[A": history-search-backward
 "\e[B": history-search-forward
+"TAB": complete
 
 
 # 关闭可视和声音提示
